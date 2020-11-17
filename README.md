@@ -19,17 +19,17 @@ The MHMI aims to collect and standardise the dissemination of mouse-phenotype ma
 
 Current active/prospective participants include:
 
-| Name | Institution | Role |
-| ---- | ----------- | ----- |
-| David Osumi-Sutherland | EMBL-EBI, Monarch Initiative | coordinator, semantics specialist |
-| Susan Bello | JAX, MGI, Alliance of Genome Resources | coordinator, ontology engineer, bio-curator |
-| Nicolas Matentzoglu | EMBL-EBI, Monarch Initiative | coordinator, semantic engineer |
-| Ben Stear | Department of Biomedical and Health Informatics, Children's Hospital of Philadelphia | Bioinformatics Scientist I |
-| Deanne Taylor | Department of Biomedical and Health Informatics, Children's Hospital of Philadelphia | Director of Bioinformatics |
-| Francisco Requena | Institut Imagine (Paris) | Ph.D. Student at the Clinical Bioinformatics lab |
-| Justin Reese | Lawrence Berkeley Lab | Computational Biologist |
-| Li Xiaoxu | Laboratoire de Physiologie Intégrative et Systémique (EPFL) | |
-| Violeta Munoz Fuentes | EMBL-EBI, IMPC | |
+| Name | Github | Institution | Role |
+| ---- | ------- | ----------- | ----- |
+| David Osumi-Sutherland | @dosumis | EMBL-EBI, Monarch Initiative | coordinator, semantics specialist |
+| Susan Bello | @sbello| JAX, MGI, Alliance of Genome Resources | coordinator, ontology engineer, bio-curator |
+| Nicolas Matentzoglu | @matentzn | EMBL-EBI, Monarch Initiative | coordinator, semantic engineer |
+| Ben Stear | @benstear | Department of Biomedical and Health Informatics, Children's Hospital of Philadelphia | Bioinformatics Scientist I |
+| Deanne Taylor | | Department of Biomedical and Health Informatics, Children's Hospital of Philadelphia | Director of Bioinformatics |
+| Francisco Requena | @frequena | Institut Imagine (Paris) | Ph.D. Student at the Clinical Bioinformatics lab |
+| Justin Reese | @justaddcoffee | Lawrence Berkeley Lab | Computational Biologist |
+| Li Xiaoxu | @xianshu-li | Laboratoire de Physiologie Intégrative et Systémique (EPFL) | |
+| Violeta Munoz Fuentes | | EMBL-EBI, IMPC | |
 
 
 ## Specific goals
