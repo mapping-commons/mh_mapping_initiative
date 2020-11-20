@@ -21,15 +21,17 @@ Current active/prospective participants include:
 
 | Name | Github | Institution | Role |
 | ---- | ------- | ----------- | ----- |
-| David Osumi-Sutherland | @dosumis | EMBL-EBI, Monarch Initiative | coordinator, semantics specialist |
-| Susan Bello | @sbello| JAX, MGI, Alliance of Genome Resources | coordinator, ontology engineer, bio-curator |
-| Nicolas Matentzoglu | @matentzn | EMBL-EBI, Monarch Initiative | coordinator, semantic engineer |
+| David Osumi-Sutherland | @dosumis | EMBL-EBI, Monarch Initiative | Coordinator, semantics specialist |
+| Susan Bello | @sbello| JAX, MGI, Alliance of Genome Resources | Coordinator, ontology engineer, bio-curator |
+| Nicolas Matentzoglu | @matentzn | EMBL-EBI, Monarch Initiative | Coordinator, semantic engineer |
+| Anna Anagnostopoulos | @anna-anagnostop| JAX, MGI, Alliance of Genome Resources | ontology engineer, bio-curator |
 | Ben Stear | @benstear | Department of Biomedical and Health Informatics, Children's Hospital of Philadelphia | Bioinformatics Scientist I |
 | Deanne Taylor | | Department of Biomedical and Health Informatics, Children's Hospital of Philadelphia | Director of Bioinformatics |
 | Francisco Requena | @frequena | Institut Imagine (Paris) | Ph.D. Student at the Clinical Bioinformatics lab |
 | Justin Reese | @justaddcoffee | Lawrence Berkeley Lab | Computational Biologist |
 | Li Xiaoxu | @xianshu-li | Laboratoire de Physiologie Intégrative et Systémique (EPFL) | |
 | Violeta Munoz Fuentes | | EMBL-EBI, IMPC | |
+
 
 
 ## Specific goals
