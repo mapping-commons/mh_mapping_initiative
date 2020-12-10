@@ -28,6 +28,7 @@ Current active/prospective participants include:
 | Nicole Vasilevsky | @nicolevasilevsky| OHSU, Monarch Initiative | ontology engineer, bio-curator |
 | Leigh Carmody | @LCCarmody| JAX, Monarch Initiative | ontology engineer, bio-curator |
 | Anna Anagnostopoulos | @anna-anagnostop| JAX, MGI, Alliance of Genome Resources | ontology engineer, bio-curator |
+| Thomas Liener | @LLTommy | Pistoia Alliance | semantic engineer |
 | Ben Stear | @benstear | Department of Biomedical and Health Informatics, Children's Hospital of Philadelphia | Bioinformatics Scientist I |
 | Deanne Taylor | | Department of Biomedical and Health Informatics, Children's Hospital of Philadelphia | Director of Bioinformatics |
 | Francisco Requena | @frequena | Institut Imagine (Paris) | Ph.D. Student at the Clinical Bioinformatics lab |
