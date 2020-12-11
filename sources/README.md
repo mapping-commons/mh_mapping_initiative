@@ -1,4 +1,4 @@
-# Manual mapping sources
+# Mouse-human mapping sources
 
 - [The IMPC Mouse Morphology Mappings](#the-impc-mouse-morphology-mappings)
 - [The MMHCdb Mappings](#the-MMHCdb-mappings)
