@@ -17,7 +17,7 @@ Furthermore, analysts may expect mappings to different degrees of fuzziness - fr
 
 The MHMI aims to collect and standardise the dissemination of mouse-phenotype mappings and develop a set of best practices for their use. If you are interested in taking part in the Initiative or have use cases that you feel would benefit from these mappings, feel free to join the [Monarch Initiative \& Friends Mailing list](https://groups.google.com/g/monarch-friends) and drop us a message. 
 
-Current active/prospective participants include:
+Current active/prospective participants and contributors include:
 
 | Name | Github | Institution | Role |
 | ---- | ------- | ----------- | ----- |
@@ -28,13 +28,14 @@ Current active/prospective participants include:
 | Nicole Vasilevsky | @nicolevasilevsky| OHSU, Monarch Initiative | ontology engineer, bio-curator |
 | Leigh Carmody | @LCCarmody| JAX, Monarch Initiative | ontology engineer, bio-curator |
 | Anna Anagnostopoulos | @anna-anagnostop| JAX, MGI, Alliance of Genome Resources | ontology engineer, bio-curator |
+| Thomas Liener | @LLTommy | Pistoia Alliance | semantic engineer |
 | Ben Stear | @benstear | Department of Biomedical and Health Informatics, Children's Hospital of Philadelphia | Bioinformatics Scientist I |
 | Deanne Taylor | | Department of Biomedical and Health Informatics, Children's Hospital of Philadelphia | Director of Bioinformatics |
 | Francisco Requena | @frequena | Institut Imagine (Paris) | Ph.D. Student at the Clinical Bioinformatics lab |
 | Justin Reese | @justaddcoffee | Lawrence Berkeley Lab | Computational Biologist |
 | Li Xiaoxu | @xianshu-li | Laboratoire de Physiologie Intégrative et Systémique (EPFL) | |
 | Violeta Munoz Fuentes | | EMBL-EBI, IMPC | |
-
+| Colin McKerlie |  | IMPC |  |
 
 
 ## Specific goals
