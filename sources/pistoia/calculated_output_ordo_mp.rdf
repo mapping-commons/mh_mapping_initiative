@@ -1,0 +1,1116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns="http://knowledgeweb.semanticweb.org/heterogeneity/alignment" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+<Alignment>
+<xml>yes</xml>
+<level>0</level>
+<type>??</type>
+<onto1>ordo</onto1>
+<onto2>mp</onto2>
+<uri1>http://purl.obolibrary.org/ordo.owl</uri1>
+<uri2>http://purl.obolibrary.org/mp.owl</uri2>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.orpha.net/ORDO/Orphanet_98613"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/MP_0006193"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.orpha.net/ORDO/Orphanet_156207"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/MP_0009906"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.orpha.net/ORDO/Orphanet_79364"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/MP_0000414"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.orpha.net/ORDO/Orphanet_98575"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/MP_0030166"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.orpha.net/ORDO/Orphanet_91495"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/MP_0010711"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.orpha.net/ORDO/Orphanet_90025"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/MP_0000564"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.orpha.net/ORDO/Orphanet_79389"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/MP_0003786"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.orpha.net/ORDO/Orphanet_209"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/MP_0005421"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.orpha.net/ORDO/Orphanet_69"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/MP_0000604"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.orpha.net/ORDO/Orphanet_2130"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/MP_0008985"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.orpha.net/ORDO/Orphanet_93338"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/MP_0004083"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.orpha.net/ORDO/Orphanet_2781"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/MP_0000067"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.orpha.net/ORDO/Orphanet_411709"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/MP_0000520"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.orpha.net/ORDO/Orphanet_2882"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/MP_0010077"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.orpha.net/ORDO/Orphanet_521"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/MP_0005481"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.orpha.net/ORDO/Orphanet_79225"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/MP_0009589"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.orpha.net/ORDO/Orphanet_214"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/MP_0020400"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.orpha.net/ORDO/Orphanet_155878"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/MP_0011615"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.orpha.net/ORDO/Orphanet_101023"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/MP_0013545"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.orpha.net/ORDO/Orphanet_98282"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/MP_0009440"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.orpha.net/ORDO/Orphanet_79383"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/MP_0003390"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.orpha.net/ORDO/Orphanet_79365"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/MP_0000412"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.orpha.net/ORDO/Orphanet_1531"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/MP_0000081"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.orpha.net/ORDO/Orphanet_167848"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/MP_0005330"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.orpha.net/ORDO/Orphanet_738"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/MP_0005654"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.orpha.net/ORDO/Orphanet_1457"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/MP_0003387"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.orpha.net/ORDO/Orphanet_1463"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/MP_0010409"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.orpha.net/ORDO/Orphanet_1464"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/MP_0010432"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.orpha.net/ORDO/Orphanet_77"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/MP_0005261"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.orpha.net/ORDO/Orphanet_450"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/MP_0004133"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.orpha.net/ORDO/Orphanet_2695"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/MP_0030117"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.orpha.net/ORDO/Orphanet_963"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/MP_0003506"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.orpha.net/ORDO/Orphanet_98427"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/MP_0002872"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.orpha.net/ORDO/Orphanet_95708"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/MP_0003378"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.orpha.net/ORDO/Orphanet_755"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/MP_0005536"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.orpha.net/ORDO/Orphanet_1671"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/MP_0012710"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.orpha.net/ORDO/Orphanet_780"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/MP_0002036"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.orpha.net/ORDO/Orphanet_439167"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/MP_0006372"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.orpha.net/ORDO/Orphanet_675"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/MP_0006261"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.orpha.net/ORDO/Orphanet_674"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/MP_0013291"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.orpha.net/ORDO/Orphanet_46724"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/MP_0010530"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.orpha.net/ORDO/Orphanet_101043"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/MP_0002747"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.orpha.net/ORDO/Orphanet_2014"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/MP_0000111"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.orpha.net/ORDO/Orphanet_157769"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/MP_0002767"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.orpha.net/ORDO/Orphanet_101063"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/MP_0011252"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.orpha.net/ORDO/Orphanet_95720"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/MP_0003499"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.orpha.net/ORDO/Orphanet_660"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/MP_0003052"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.orpha.net/ORDO/Orphanet_284804"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/MP_0006159"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.orpha.net/ORDO/Orphanet_93108"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/MP_0002135"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.orpha.net/ORDO/Orphanet_1666"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/MP_0000644"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.orpha.net/ORDO/Orphanet_93101"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/MP_0003446"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.orpha.net/ORDO/Orphanet_199323"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/MP_0003665"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.orpha.net/ORDO/Orphanet_2913"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/MP_0000562"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.orpha.net/ORDO/Orphanet_93"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/MP_0011516"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.orpha.net/ORDO/Orphanet_180139"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/MP_0001121"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.orpha.net/ORDO/Orphanet_1041"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/MP_0002192"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.orpha.net/ORDO/Orphanet_263413"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/MP_0003667"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.orpha.net/ORDO/Orphanet_99867"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/MP_0014127"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.orpha.net/ORDO/Orphanet_52759"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/MP_0001864"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.orpha.net/ORDO/Orphanet_480501"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/MP_0003266"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.orpha.net/ORDO/Orphanet_91414"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/MP_0002013"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.orpha.net/ORDO/Orphanet_141253"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/MP_0008799"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.orpha.net/ORDO/Orphanet_141269"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/MP_0008798"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.orpha.net/ORDO/Orphanet_141229"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/MP_0008797"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.orpha.net/ORDO/Orphanet_93968"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/MP_0012259"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.orpha.net/ORDO/Orphanet_93962"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/MP_0030126"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.orpha.net/ORDO/Orphanet_93969"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/MP_0009929"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.orpha.net/ORDO/Orphanet_268744"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/MP_0012547"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.orpha.net/ORDO/Orphanet_93976"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/MP_0003142"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.orpha.net/ORDO/Orphanet_2162"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/MP_0005157"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.orpha.net/ORDO/Orphanet_93928"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/MP_0003598"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.orpha.net/ORDO/Orphanet_141163"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/MP_0030328"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.orpha.net/ORDO/Orphanet_166415"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/MP_0001496"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.orpha.net/ORDO/Orphanet_431341"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/MP_0011852"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.orpha.net/ORDO/Orphanet_97275"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/MP_0001847"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.orpha.net/ORDO/Orphanet_123411"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/MP_0005638"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.orpha.net/ORDO/Orphanet_83463"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/MP_0000018"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.orpha.net/ORDO/Orphanet_3280"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/MP_0012545"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.orpha.net/ORDO/Orphanet_268369"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/MP_0012547"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.orpha.net/ORDO/Orphanet_99107"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/MP_0010450"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.orpha.net/ORDO/Orphanet_65681"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/MP_0001144"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.orpha.net/ORDO/Orphanet_99083"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/MP_0010460"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.orpha.net/ORDO/Orphanet_3426"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/MP_0000284"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.orpha.net/ORDO/Orphanet_99079"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/MP_0004161"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.orpha.net/ORDO/Orphanet_99081"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/MP_0004158"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.orpha.net/ORDO/Orphanet_363483"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/MP_0004478"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.orpha.net/ORDO/Orphanet_64720"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/MP_0002035"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.orpha.net/ORDO/Orphanet_98715"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/MP_0005515"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.orpha.net/ORDO/Orphanet_63260"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/MP_0008784"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.orpha.net/ORDO/Orphanet_217604"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/MP_0002795"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.orpha.net/ORDO/Orphanet_3193"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/MP_0010471"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.orpha.net/ORDO/Orphanet_1077"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/MP_0030449"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.orpha.net/ORDO/Orphanet_2368"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/MP_0000757"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.orpha.net/ORDO/Orphanet_306773"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/MP_0005604"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.orpha.net/ORDO/Orphanet_2287"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/MP_0030475"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.orpha.net/ORDO/Orphanet_1203"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/MP_0003272"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.orpha.net/ORDO/Orphanet_95443"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/MP_0000650"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.orpha.net/ORDO/Orphanet_95448"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/MP_0006115"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.orpha.net/ORDO/Orphanet_95458"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/MP_0006125"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.orpha.net/ORDO/Orphanet_1199"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/MP_0003276"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.orpha.net/ORDO/Orphanet_1160"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/MP_0012080"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.orpha.net/ORDO/Orphanet_3289"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/MP_0030496"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.orpha.net/ORDO/Orphanet_448270"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/MP_0011660"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.orpha.net/ORDO/Orphanet_3169"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/MP_0003445"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.orpha.net/ORDO/Orphanet_3190"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/MP_0010449"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.orpha.net/ORDO/Orphanet_3427"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/MP_0010427"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.orpha.net/ORDO/Orphanet_137914"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/MP_0008970"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.orpha.net/ORDO/Orphanet_96321"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/MP_0004025"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.orpha.net/ORDO/Orphanet_2038"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/MP_0010480"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.orpha.net/ORDO/Orphanet_3148"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/MP_0002030"/>
+		<measure rdf:datatype="xsd:float">0.246835</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.orpha.net/ORDO/Orphanet_98722"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/MP_0010412"/>
+		<measure rdf:datatype="xsd:float">0.2457625</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.orpha.net/ORDO/Orphanet_93100"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/MP_0003604"/>
+		<measure rdf:datatype="xsd:float">0.2450975</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.orpha.net/ORDO/Orphanet_1848"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/MP_0000520"/>
+		<measure rdf:datatype="xsd:float">0.2448975</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.orpha.net/ORDO/Orphanet_98691"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/MP_0001389"/>
+		<measure rdf:datatype="xsd:float">0.244185</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.orpha.net/ORDO/Orphanet_99054"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/MP_0006128"/>
+		<measure rdf:datatype="xsd:float">0.240385</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.orpha.net/ORDO/Orphanet_99047"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/MP_0011669"/>
+		<measure rdf:datatype="xsd:float">0.24</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.orpha.net/ORDO/Orphanet_99098"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/MP_0010411"/>
+		<measure rdf:datatype="xsd:float">0.2386375</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.orpha.net/ORDO/Orphanet_118246"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/MP_0001326"/>
+		<measure rdf:datatype="xsd:float">0.238095</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.orpha.net/ORDO/Orphanet_99097"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/MP_0010419"/>
+		<measure rdf:datatype="xsd:float">0.238095</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.orpha.net/ORDO/Orphanet_99071"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/MP_0010481"/>
+		<measure rdf:datatype="xsd:float">0.2372875</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.orpha.net/ORDO/Orphanet_1054"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/MP_0010483"/>
+		<measure rdf:datatype="xsd:float">0.2363625</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.orpha.net/ORDO/Orphanet_3384"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/MP_0002633"/>
+		<measure rdf:datatype="xsd:float">0.23611</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.orpha.net/ORDO/Orphanet_216675"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/MP_0004110"/>
+		<measure rdf:datatype="xsd:float">0.2348475</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.orpha.net/ORDO/Orphanet_99099"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/MP_0010410"/>
+		<measure rdf:datatype="xsd:float">0.234695</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.orpha.net/ORDO/Orphanet_98823"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/MP_0005481"/>
+		<measure rdf:datatype="xsd:float">0.2327575</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.orpha.net/ORDO/Orphanet_98653"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/MP_0020486"/>
+		<measure rdf:datatype="xsd:float">0.2325575</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.orpha.net/ORDO/Orphanet_98947"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/MP_0010716"/>
+		<measure rdf:datatype="xsd:float">0.2317075</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.orpha.net/ORDO/Orphanet_99103"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/MP_0010405"/>
+		<measure rdf:datatype="xsd:float">0.23077</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.orpha.net/ORDO/Orphanet_329931"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/MP_0002743"/>
+		<measure rdf:datatype="xsd:float">0.23077</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.orpha.net/ORDO/Orphanet_99104"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/MP_0010407"/>
+		<measure rdf:datatype="xsd:float">0.2302625</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.orpha.net/ORDO/Orphanet_99106"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/MP_0010404"/>
+		<measure rdf:datatype="xsd:float">0.22973</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.orpha.net/ORDO/Orphanet_99105"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/MP_0010408"/>
+		<measure rdf:datatype="xsd:float">0.22973</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.orpha.net/ORDO/Orphanet_99044"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/MP_0011667"/>
+		<measure rdf:datatype="xsd:float">0.22963</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.orpha.net/ORDO/Orphanet_211266"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/MP_0006093"/>
+		<measure rdf:datatype="xsd:float">0.22807</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.orpha.net/ORDO/Orphanet_105"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/MP_0003591"/>
+		<measure rdf:datatype="xsd:float">0.2272725</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.orpha.net/ORDO/Orphanet_263746"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/MP_0004023"/>
+		<measure rdf:datatype="xsd:float">0.226415</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.orpha.net/ORDO/Orphanet_263714"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/MP_0004023"/>
+		<measure rdf:datatype="xsd:float">0.226415</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.orpha.net/ORDO/Orphanet_1138"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/MP_0013980"/>
+		<measure rdf:datatype="xsd:float">0.2253525</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+</Alignment>
+</rdf:RDF>
