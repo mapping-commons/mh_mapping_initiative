@@ -35,7 +35,7 @@ Current active/prospective participants and contributors include:
 | Justin Reese | @justaddcoffee | Lawrence Berkeley Lab | Computational Biologist |
 | Li Xiaoxu | @xianshu-li | Laboratoire de Physiologie Intégrative et Systémique (EPFL) | |
 | Violeta Munoz Fuentes | @viomunoz | EMBL-EBI, IMPC | |
-| Colin McKerlie |  | IMPC |  |
+| Colin McKerlie |  | The Hospital for Sick Children | PI, Comparative Pathologist |
 
 
 ## Specific goals
