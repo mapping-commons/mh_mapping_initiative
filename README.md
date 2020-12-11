@@ -17,7 +17,7 @@ Furthermore, analysts may expect mappings to different degrees of fuzziness - fr
 
 The MHMI aims to collect and standardise the dissemination of mouse-phenotype mappings and develop a set of best practices for their use. If you are interested in taking part in the Initiative or have use cases that you feel would benefit from these mappings, feel free to join the [Monarch Initiative \& Friends Mailing list](https://groups.google.com/g/monarch-friends) and drop us a message. 
 
-Current active/prospective participants include:
+Current active/prospective participants and contributors include:
 
 | Name | Github | Institution | Role |
 | ---- | ------- | ----------- | ----- |
@@ -35,7 +35,7 @@ Current active/prospective participants include:
 | Justin Reese | @justaddcoffee | Lawrence Berkeley Lab | Computational Biologist |
 | Li Xiaoxu | @xianshu-li | Laboratoire de Physiologie Intégrative et Systémique (EPFL) | |
 | Violeta Munoz Fuentes | | EMBL-EBI, IMPC | |
-
+| Colin McKerlie |  | IMPC |  |
 
 
 ## Specific goals
