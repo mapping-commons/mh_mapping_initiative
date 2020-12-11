@@ -30,11 +30,11 @@ Current active/prospective participants and contributors include:
 | Anna Anagnostopoulos | @anna-anagnostop| JAX, MGI, Alliance of Genome Resources | ontology engineer, bio-curator |
 | Thomas Liener | @LLTommy | Pistoia Alliance | semantic engineer |
 | Ben Stear | @benstear | Department of Biomedical and Health Informatics, Children's Hospital of Philadelphia | Bioinformatics Scientist I |
-| Deanne Taylor | | Department of Biomedical and Health Informatics, Children's Hospital of Philadelphia | Director of Bioinformatics |
+| Deanne Taylor | @taylordm | Department of Biomedical and Health Informatics, Children's Hospital of Philadelphia | Director of Bioinformatics |
 | Francisco Requena | @frequena | Institut Imagine (Paris) | Ph.D. Student at the Clinical Bioinformatics lab |
 | Justin Reese | @justaddcoffee | Lawrence Berkeley Lab | Computational Biologist |
 | Li Xiaoxu | @xianshu-li | Laboratoire de Physiologie Intégrative et Systémique (EPFL) | |
-| Violeta Munoz Fuentes | | EMBL-EBI, IMPC | |
+| Violeta Munoz Fuentes | @viomunoz | EMBL-EBI, IMPC | |
 | Colin McKerlie |  | IMPC |  |
 
 
