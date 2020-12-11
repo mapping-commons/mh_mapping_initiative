@@ -1,4 +1,4 @@
-# Mouse-Human Phenotype Mapping Initiative (MHMI)
+# Mouse-Human Ontology Mapping Initiative (MHMI)
 
 Studying the phenotypic effects of genes is critical to understanding disease. The phenotypic effects of variants and lesions in large numbers of mouse genes are known due to the accumulated small-scale efforts of the mouse genetics community combined with a large amount of data from genome-wide gene targeting combined with systematic phenotyping. This data can be leveraged to help understand phenotypes not only in mice, but also in humans. A key component required for the integration of human and mouse phenotype data is meaningfully linking the dominant controlled vocabularies (ontologies) used for describing phenotype. For human data the Human Phenotype Ontology is widely used, while for mouse (and rat) data, the Mammalian Phenotype ontology is typically used. 
 
