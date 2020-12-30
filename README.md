@@ -32,7 +32,7 @@ Current active/prospective participants and contributors include:
 | Ben Stear | @benstear | Department of Biomedical and Health Informatics, Children's Hospital of Philadelphia | Bioinformatics Scientist I |
 | Deanne Taylor | @taylordm | Department of Biomedical and Health Informatics, Children's Hospital of Philadelphia | Director of Bioinformatics |
 | Francisco Requena | @frequena | Institut Imagine (Paris) | Ph.D. Student at the Clinical Bioinformatics lab |
-| Justin Reese | @justaddcoffee | Lawrence Berkeley Lab | Computational Biologist |
+| Justin Reese | @justaddcoffee | Lawrence Berkeley Lab | computational biologist |
 | Li Xiaoxu | @xianshu-li | Laboratoire de Physiologie Intégrative et Systémique (EPFL) | |
 | Violeta Munoz Fuentes | @viomunoz | EMBL-EBI, IMPC | |
 | Colin McKerlie |  | The Hospital for Sick Children | PI, Comparative Pathologist |
