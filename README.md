@@ -34,8 +34,8 @@ Current active/prospective participants and contributors include:
 | Francisco Requena | @frequena | Institut Imagine (Paris) | Ph.D. Student at the Clinical Bioinformatics lab |
 | Justin Reese | @justaddcoffee | Lawrence Berkeley Lab | computational biologist |
 | Li Xiaoxu | @xianshu-li | Laboratoire de Physiologie Intégrative et Systémique (EPFL) | |
-| Violeta Munoz Fuentes | @viomunoz | EMBL-EBI, IMPC | biologist, product owner |
-| Colin McKerlie |  | IMPC |  |
+| Violeta Munoz Fuentes | @viomunoz | EMBL-EBI, IMPC | |
+| Colin McKerlie |  | The Hospital for Sick Children | PI, Comparative Pathologist |
 
 
 ## Specific goals
