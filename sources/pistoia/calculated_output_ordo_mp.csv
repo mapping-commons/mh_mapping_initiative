@@ -1,0 +1,139 @@
+sourceIRI,mappedIRI,score,sourceLabel,mappedLabel,NormalizedScore
+http://www.orpha.net/ORDO/Orphanet_98613,http://purl.obolibrary.org/obo/MP_0006193,3.0,Conjunctival telangiectasia,conjunctival telangiectasia,0.75
+http://www.orpha.net/ORDO/Orphanet_156207,http://purl.obolibrary.org/obo/MP_0009906,3.0,Macroglossia,increased tongue size,0.75
+http://www.orpha.net/ORDO/Orphanet_79364,http://purl.obolibrary.org/obo/MP_0000414,3.0,Alopecia,alopecia,0.75
+http://www.orpha.net/ORDO/Orphanet_98575,http://purl.obolibrary.org/obo/MP_0030166,3.0,Telecanthus,increased inner canthal distance,0.75
+http://www.orpha.net/ORDO/Orphanet_91495,http://purl.obolibrary.org/obo/MP_0010711,3.0,Persistent hyperplastic primary vitreous,persistent hyperplastic primary vitreous,0.75
+http://www.orpha.net/ORDO/Orphanet_90025,http://purl.obolibrary.org/obo/MP_0000564,3.0,Syndactyly,syndactyly,0.75
+http://www.orpha.net/ORDO/Orphanet_79389,http://purl.obolibrary.org/obo/MP_0003786,3.0,Premature aging,premature aging,0.75
+http://www.orpha.net/ORDO/Orphanet_209,http://purl.obolibrary.org/obo/MP_0005421,3.0,Cutis laxa,loose skin,0.75
+http://www.orpha.net/ORDO/Orphanet_69,http://purl.obolibrary.org/obo/MP_0000604,3.0,Amyloidosis,amyloidosis,0.75
+http://www.orpha.net/ORDO/Orphanet_2130,http://purl.obolibrary.org/obo/MP_0008985,3.0,Hemimelia,hemimelia,0.75
+http://www.orpha.net/ORDO/Orphanet_93338,http://purl.obolibrary.org/obo/MP_0004083,3.0,Polysyndactyly,polysyndactyly,0.75
+http://www.orpha.net/ORDO/Orphanet_2781,http://purl.obolibrary.org/obo/MP_0000067,3.0,Osteopetrosis,osteopetrosis,0.75
+http://www.orpha.net/ORDO/Orphanet_411709,http://purl.obolibrary.org/obo/MP_0000520,3.0,Renal agenesis,absent kidney,0.75
+http://www.orpha.net/ORDO/Orphanet_2882,http://purl.obolibrary.org/obo/MP_0010077,3.0,Sitosterolemia,increased phytosterol level,0.75
+http://www.orpha.net/ORDO/Orphanet_521,http://purl.obolibrary.org/obo/MP_0005481,3.0,Chronic myeloid leukemia,increased chronic myelocytic leukemia incidence,0.75
+http://www.orpha.net/ORDO/Orphanet_79225,http://purl.obolibrary.org/obo/MP_0009589,3.0,Sphingolipidosis,sphingomyelinosis,0.75
+http://www.orpha.net/ORDO/Orphanet_214,http://purl.obolibrary.org/obo/MP_0020400,3.0,Cystinuria,cystinuria,0.75
+http://www.orpha.net/ORDO/Orphanet_155878,http://purl.obolibrary.org/obo/MP_0011615,3.0,Submucosal cleft palate,submucous cleft palate,0.75
+http://www.orpha.net/ORDO/Orphanet_101023,http://purl.obolibrary.org/obo/MP_0013545,3.0,Cleft hard palate,cleft hard palate,0.75
+http://www.orpha.net/ORDO/Orphanet_98282,http://purl.obolibrary.org/obo/MP_0009440,3.0,Plasma cell tumor,increased myeloma incidence,0.75
+http://www.orpha.net/ORDO/Orphanet_79383,http://purl.obolibrary.org/obo/MP_0003390,3.0,Lymphedema,lymphedema,0.75
+http://www.orpha.net/ORDO/Orphanet_79365,http://purl.obolibrary.org/obo/MP_0000412,3.0,Hypertrichosis,excessive hair,0.75
+http://www.orpha.net/ORDO/Orphanet_1531,http://purl.obolibrary.org/obo/MP_0000081,3.0,Craniosynostosis,premature cranial suture closure,0.75
+http://www.orpha.net/ORDO/Orphanet_167848,http://purl.obolibrary.org/obo/MP_0005330,3.0,Cardiomyopathy,cardiomyopathy,0.75
+http://www.orpha.net/ORDO/Orphanet_738,http://purl.obolibrary.org/obo/MP_0005654,3.0,Porphyria,porphyria,0.75
+http://www.orpha.net/ORDO/Orphanet_1457,http://purl.obolibrary.org/obo/MP_0003387,3.0,Aorta coarctation,aorta coarctation,0.75
+http://www.orpha.net/ORDO/Orphanet_1463,http://purl.obolibrary.org/obo/MP_0010409,3.0,Triatrial heart,cor triatriatum,0.75
+http://www.orpha.net/ORDO/Orphanet_1464,http://purl.obolibrary.org/obo/MP_0010432,3.0,Univentricular heart,common ventricle,0.75
+http://www.orpha.net/ORDO/Orphanet_77,http://purl.obolibrary.org/obo/MP_0005261,3.0,Aniridia,aniridia,0.75
+http://www.orpha.net/ORDO/Orphanet_450,http://purl.obolibrary.org/obo/MP_0004133,3.0,Heterotaxia,heterotaxia,0.75
+http://www.orpha.net/ORDO/Orphanet_2695,http://purl.obolibrary.org/obo/MP_0030117,3.0,Bifid nose,bifid nose,0.75
+http://www.orpha.net/ORDO/Orphanet_963,http://purl.obolibrary.org/obo/MP_0003506,3.0,Acromegaly,acromegaly,0.75
+http://www.orpha.net/ORDO/Orphanet_98427,http://purl.obolibrary.org/obo/MP_0002872,3.0,Polycythemia,polycythemia,0.75
+http://www.orpha.net/ORDO/Orphanet_95708,http://purl.obolibrary.org/obo/MP_0003378,3.0,Precocious puberty,early sexual maturation,0.75
+http://www.orpha.net/ORDO/Orphanet_755,http://purl.obolibrary.org/obo/MP_0005536,3.0,Leydig cell hypoplasia,Leydig cell hypoplasia,0.75
+http://www.orpha.net/ORDO/Orphanet_1671,http://purl.obolibrary.org/obo/MP_0012710,3.0,Diastematomyelia,diastematomyelia,0.75
+http://www.orpha.net/ORDO/Orphanet_780,http://purl.obolibrary.org/obo/MP_0002036,3.0,Rhabdomyosarcoma,increased rhabdomyosarcoma incidence,0.75
+http://www.orpha.net/ORDO/Orphanet_439167,http://purl.obolibrary.org/obo/MP_0006372,3.0,Placental insufficiency,impaired placental function,0.75
+http://www.orpha.net/ORDO/Orphanet_675,http://purl.obolibrary.org/obo/MP_0006261,3.0,Annular pancreas,annular pancreas,0.75
+http://www.orpha.net/ORDO/Orphanet_674,http://purl.obolibrary.org/obo/MP_0013291,3.0,Accessory pancreas,ectopic pancreas,0.75
+http://www.orpha.net/ORDO/Orphanet_46724,http://purl.obolibrary.org/obo/MP_0010530,3.0,Cerebral arteriovenous malformation,cerebral arteriovenous malformation,0.75
+http://www.orpha.net/ORDO/Orphanet_101043,http://purl.obolibrary.org/obo/MP_0002747,3.0,Aortic valve dysplasia,abnormal aortic valve morphology,0.75
+http://www.orpha.net/ORDO/Orphanet_2014,http://purl.obolibrary.org/obo/MP_0000111,3.0,Cleft palate,cleft palate,0.75
+http://www.orpha.net/ORDO/Orphanet_157769,http://purl.obolibrary.org/obo/MP_0002767,3.0,Situs ambiguus,situs ambiguus,0.75
+http://www.orpha.net/ORDO/Orphanet_101063,http://purl.obolibrary.org/obo/MP_0011252,3.0,Situs inversus totalis,situs inversus totalis,0.75
+http://www.orpha.net/ORDO/Orphanet_95720,http://purl.obolibrary.org/obo/MP_0003499,3.0,Thyroid hypoplasia,thyroid hypoplasia,0.75
+http://www.orpha.net/ORDO/Orphanet_660,http://purl.obolibrary.org/obo/MP_0003052,3.0,Omphalocele,omphalocele,0.75
+http://www.orpha.net/ORDO/Orphanet_284804,http://purl.obolibrary.org/obo/MP_0006159,3.0,Ocular albinism,ocular albinism,0.75
+http://www.orpha.net/ORDO/Orphanet_93108,http://purl.obolibrary.org/obo/MP_0002135,3.0,Renal dysplasia,abnormal kidney morphology,0.75
+http://www.orpha.net/ORDO/Orphanet_1666,http://purl.obolibrary.org/obo/MP_0000644,3.0,Dextrocardia,dextrocardia,0.75
+http://www.orpha.net/ORDO/Orphanet_93101,http://purl.obolibrary.org/obo/MP_0003446,3.0,Renal hypoplasia,renal hypoplasia,0.75
+http://www.orpha.net/ORDO/Orphanet_199323,http://purl.obolibrary.org/obo/MP_0003665,3.0,Endophthalmitis,endophthalmitis,0.75
+http://www.orpha.net/ORDO/Orphanet_2913,http://purl.obolibrary.org/obo/MP_0000562,3.0,Polydactyly,polydactyly,0.75
+http://www.orpha.net/ORDO/Orphanet_93,http://purl.obolibrary.org/obo/MP_0011516,3.0,Aspartylglucosaminuria,aspartylglucosaminuria,0.75
+http://www.orpha.net/ORDO/Orphanet_180139,http://purl.obolibrary.org/obo/MP_0001121,3.0,Uterine hypoplasia,uterus hypoplasia,0.75
+http://www.orpha.net/ORDO/Orphanet_1041,http://purl.obolibrary.org/obo/MP_0002192,3.0,Hydrops fetalis,hydrops fetalis,0.75
+http://www.orpha.net/ORDO/Orphanet_263413,http://purl.obolibrary.org/obo/MP_0003667,3.0,Angiosarcoma,increased hemangiosarcoma incidence,0.75
+http://www.orpha.net/ORDO/Orphanet_99867,http://purl.obolibrary.org/obo/MP_0014127,3.0,Thymoma,increased thymoma incidence,0.75
+http://www.orpha.net/ORDO/Orphanet_52759,http://purl.obolibrary.org/obo/MP_0001864,3.0,Vasculitis,vasculitis,0.75
+http://www.orpha.net/ORDO/Orphanet_480501,http://purl.obolibrary.org/obo/MP_0003266,3.0,Choledochal cyst,biliary cyst,0.75
+http://www.orpha.net/ORDO/Orphanet_91414,http://purl.obolibrary.org/obo/MP_0002013,3.0,Pilomatrixoma,increased pilomatricoma incidence,0.75
+http://www.orpha.net/ORDO/Orphanet_141253,http://purl.obolibrary.org/obo/MP_0008799,3.0,Oblique facial cleft,oblique facial cleft,0.75
+http://www.orpha.net/ORDO/Orphanet_141269,http://purl.obolibrary.org/obo/MP_0008798,3.0,Lateral facial cleft,lateral facial cleft,0.75
+http://www.orpha.net/ORDO/Orphanet_141229,http://purl.obolibrary.org/obo/MP_0008797,3.0,Facial cleft,facial cleft,0.75
+http://www.orpha.net/ORDO/Orphanet_93968,http://purl.obolibrary.org/obo/MP_0012259,3.0,Meningocele,meningocele,0.75
+http://www.orpha.net/ORDO/Orphanet_93962,http://purl.obolibrary.org/obo/MP_0030126,3.0,Cervical dystonia,torticollis,0.75
+http://www.orpha.net/ORDO/Orphanet_93969,http://purl.obolibrary.org/obo/MP_0009929,3.0,Myelomeningocele,meningomyelocele,0.75
+http://www.orpha.net/ORDO/Orphanet_268744,http://purl.obolibrary.org/obo/MP_0012547,3.0,Spina bifida cystica,spina bifida cystica,0.75
+http://www.orpha.net/ORDO/Orphanet_93976,http://purl.obolibrary.org/obo/MP_0003142,3.0,Anotia,anotia,0.75
+http://www.orpha.net/ORDO/Orphanet_2162,http://purl.obolibrary.org/obo/MP_0005157,3.0,Holoprosencephaly,holoprosencephaly,0.75
+http://www.orpha.net/ORDO/Orphanet_93928,http://purl.obolibrary.org/obo/MP_0003598,3.0,Epispadias,epispadia,0.75
+http://www.orpha.net/ORDO/Orphanet_141163,http://purl.obolibrary.org/obo/MP_0030328,3.0,Glossopalatine ankylosis,glossopalatal ankylosis,0.75
+http://www.orpha.net/ORDO/Orphanet_166415,http://purl.obolibrary.org/obo/MP_0001496,3.0,Audiogenic seizures,audiogenic seizures,0.75
+http://www.orpha.net/ORDO/Orphanet_431341,http://purl.obolibrary.org/obo/MP_0011852,3.0,Patent urachus,patent urachus,0.75
+http://www.orpha.net/ORDO/Orphanet_97275,http://purl.obolibrary.org/obo/MP_0001847,3.0,Encephalitis,brain inflammation,0.75
+http://www.orpha.net/ORDO/Orphanet_123411,http://purl.obolibrary.org/obo/MP_0005638,3.0,hemochromatosis,hemochromatosis,0.75
+http://www.orpha.net/ORDO/Orphanet_83463,http://purl.obolibrary.org/obo/MP_0000018,3.0,Microtia,small ears,0.75
+http://www.orpha.net/ORDO/Orphanet_3280,http://purl.obolibrary.org/obo/MP_0012545,3.0,Syringomyelia,syringomyelia,0.75
+http://www.orpha.net/ORDO/Orphanet_268369,http://purl.obolibrary.org/obo/MP_0012547,3.0,Spina bifida aperta,spina bifida cystica,0.75
+http://www.orpha.net/ORDO/Orphanet_99107,http://purl.obolibrary.org/obo/MP_0010450,3.0,Atrial septal aneurysm,atrial septal aneurysm,0.75
+http://www.orpha.net/ORDO/Orphanet_65681,http://purl.obolibrary.org/obo/MP_0001144,3.0,Vaginal atresia,vagina atresia,0.75
+http://www.orpha.net/ORDO/Orphanet_99083,http://purl.obolibrary.org/obo/MP_0010460,3.0,Pulmonary artery hypoplasia,pulmonary artery hypoplasia,0.75
+http://www.orpha.net/ORDO/Orphanet_3426,http://purl.obolibrary.org/obo/MP_0000284,3.0,Double outlet right ventricle,double outlet right ventricle,0.75
+http://www.orpha.net/ORDO/Orphanet_99079,http://purl.obolibrary.org/obo/MP_0004161,3.0,Cervical aortic arch,cervical aortic arch,0.75
+http://www.orpha.net/ORDO/Orphanet_99081,http://purl.obolibrary.org/obo/MP_0004158,3.0,Right aortic arch,right aortic arch,0.75
+http://www.orpha.net/ORDO/Orphanet_363483,http://purl.obolibrary.org/obo/MP_0004478,3.0,Testicular teratoma,increased testicular teratoma incidence,0.75
+http://www.orpha.net/ORDO/Orphanet_64720,http://purl.obolibrary.org/obo/MP_0002035,3.0,Leiomyosarcoma,increased leiomyosarcoma incidence,0.75
+http://www.orpha.net/ORDO/Orphanet_98715,http://purl.obolibrary.org/obo/MP_0005515,3.0,Uveitis,uveitis,0.75
+http://www.orpha.net/ORDO/Orphanet_63260,http://purl.obolibrary.org/obo/MP_0008784,3.0,Craniorachischisis,craniorachischisis,0.75
+http://www.orpha.net/ORDO/Orphanet_217604,http://purl.obolibrary.org/obo/MP_0002795,3.0,Dilated cardiomyopathy,dilated cardiomyopathy,0.75
+http://www.orpha.net/ORDO/Orphanet_3193,http://purl.obolibrary.org/obo/MP_0010471,3.0,Supravalvular aortic stenosis,supravalvar aortic stenosis,0.75
+http://www.orpha.net/ORDO/Orphanet_1077,http://purl.obolibrary.org/obo/MP_0030449,3.0,Dental ankylosis,tooth ankylosis,0.75
+http://www.orpha.net/ORDO/Orphanet_2368,http://purl.obolibrary.org/obo/MP_0000757,3.0,Gastroschisis,herniated abdominal wall,0.75
+http://www.orpha.net/ORDO/Orphanet_306773,http://purl.obolibrary.org/obo/MP_0005604,3.0,Hyperekplexia,hyperekplexia,0.75
+http://www.orpha.net/ORDO/Orphanet_2287,http://purl.obolibrary.org/obo/MP_0030475,3.0,Fused mandibular incisors,fused lower incisors,0.75
+http://www.orpha.net/ORDO/Orphanet_1203,http://purl.obolibrary.org/obo/MP_0003272,3.0,Duodenal atresia,duodenal atresia,0.75
+http://www.orpha.net/ORDO/Orphanet_95443,http://purl.obolibrary.org/obo/MP_0000650,3.0,Mesocardia,mesocardia,0.75
+http://www.orpha.net/ORDO/Orphanet_95448,http://purl.obolibrary.org/obo/MP_0006115,3.0,Aortic valve atresia,aortic valve atresia,0.75
+http://www.orpha.net/ORDO/Orphanet_95458,http://purl.obolibrary.org/obo/MP_0006125,3.0,Tricuspid valve prolapse,tricuspid valve prolapse,0.75
+http://www.orpha.net/ORDO/Orphanet_1199,http://purl.obolibrary.org/obo/MP_0003276,3.0,Esophageal atresia,esophageal atresia,0.75
+http://www.orpha.net/ORDO/Orphanet_1160,http://purl.obolibrary.org/obo/MP_0012080,3.0,Chylous ascites,chylous ascites,0.75
+http://www.orpha.net/ORDO/Orphanet_3289,http://purl.obolibrary.org/obo/MP_0030496,3.0,Taurodontism,taurodontia,0.75
+http://www.orpha.net/ORDO/Orphanet_448270,http://purl.obolibrary.org/obo/MP_0011660,3.0,Ectopia cordis,ectopia cordis,0.75
+http://www.orpha.net/ORDO/Orphanet_3169,http://purl.obolibrary.org/obo/MP_0003445,3.0,Sirenomelia,sirenomelia,0.75
+http://www.orpha.net/ORDO/Orphanet_3190,http://purl.obolibrary.org/obo/MP_0010449,3.0,Subpulmonary stenosis,heart right ventricle outflow tract stenosis,0.75
+http://www.orpha.net/ORDO/Orphanet_3427,http://purl.obolibrary.org/obo/MP_0010427,3.0,Double outlet left ventricle,double outlet left ventricle,0.75
+http://www.orpha.net/ORDO/Orphanet_137914,http://purl.obolibrary.org/obo/MP_0008970,3.0,Choanal atresia,choanal atresia,0.75
+http://www.orpha.net/ORDO/Orphanet_96321,http://purl.obolibrary.org/obo/MP_0004025,3.0,Polyploidy,polyploidy,0.75
+http://www.orpha.net/ORDO/Orphanet_2038,http://purl.obolibrary.org/obo/MP_0010480,3.0,Pulmonary arteriovenous malformation,pulmonary arteriovenous malformation,0.75
+http://www.orpha.net/ORDO/Orphanet_3148,http://purl.obolibrary.org/obo/MP_0002030,0.98734,Malignant peripheral nerve sheath tumor,increased neurofibrosarcoma incidence,0.246835
+http://www.orpha.net/ORDO/Orphanet_98722,http://purl.obolibrary.org/obo/MP_0010412,0.98305,Atrioventricular canal defect,atrioventricular septal defect,0.2457625
+http://www.orpha.net/ORDO/Orphanet_93100,http://purl.obolibrary.org/obo/MP_0003604,0.98039,"Renal agenesis, unilateral",single kidney,0.2450975
+http://www.orpha.net/ORDO/Orphanet_1848,http://purl.obolibrary.org/obo/MP_0000520,0.97959,"Renal agenesis, bilateral",absent kidney,0.2448975
+http://www.orpha.net/ORDO/Orphanet_98691,http://purl.obolibrary.org/obo/MP_0001389,0.97674,Abnormal eye movements,abnormal eye movement,0.244185
+http://www.orpha.net/ORDO/Orphanet_99054,http://purl.obolibrary.org/obo/MP_0006128,0.96154,Valvular pulmonary stenosis,pulmonary valve stenosis,0.240385
+http://www.orpha.net/ORDO/Orphanet_99047,http://purl.obolibrary.org/obo/MP_0011669,0.96,Double outlet right ventricle with doubly committed ventricular septal defect,"double outlet right ventricle, doubly committed ventricular septal defect",0.24
+http://www.orpha.net/ORDO/Orphanet_99098,http://purl.obolibrary.org/obo/MP_0010411,0.95455,Cor triatriatum dexter,cor triatriatum dextrum,0.2386375
+http://www.orpha.net/ORDO/Orphanet_118246,http://purl.obolibrary.org/obo/MP_0001326,0.95238,retinal degeneration 3,retinal degeneration,0.238095
+http://www.orpha.net/ORDO/Orphanet_99097,http://purl.obolibrary.org/obo/MP_0010419,0.95238,Single ventricular septal defect,inlet ventricular septal defect,0.238095
+http://www.orpha.net/ORDO/Orphanet_99071,http://purl.obolibrary.org/obo/MP_0010481,0.94915,Aorto-left ventricular tunnel,left ventricle to aorta tunnel,0.2372875
+http://www.orpha.net/ORDO/Orphanet_1054,http://purl.obolibrary.org/obo/MP_0010483,0.94545,Aneurysm of sinus of Valsalva,aortic sinus aneurysm,0.2363625
+http://www.orpha.net/ORDO/Orphanet_3384,http://purl.obolibrary.org/obo/MP_0002633,0.94444,Truncus arteriosus,persistent truncus arteriosis,0.23611
+http://www.orpha.net/ORDO/Orphanet_216675,http://purl.obolibrary.org/obo/MP_0004110,0.93939,Transposition of the great arteries,transposition of great arteries,0.2348475
+http://www.orpha.net/ORDO/Orphanet_99099,http://purl.obolibrary.org/obo/MP_0010410,0.93878,Cor triatriatum sinister,cor triatriatum sinistrum,0.234695
+http://www.orpha.net/ORDO/Orphanet_98823,http://purl.obolibrary.org/obo/MP_0005481,0.93103,Chronic myelomonocytic leukemia,increased chronic myelocytic leukemia incidence,0.2327575
+http://www.orpha.net/ORDO/Orphanet_98653,http://purl.obolibrary.org/obo/MP_0020486,0.93023,Lens position anomaly,abnormal lens topology,0.2325575
+http://www.orpha.net/ORDO/Orphanet_98947,http://purl.obolibrary.org/obo/MP_0010716,0.92683,Coloboma of optic disc,optic disc coloboma,0.2317075
+http://www.orpha.net/ORDO/Orphanet_99103,http://purl.obolibrary.org/obo/MP_0010405,0.92308,"Atrial septal defect, ostium secundum type",ostium secundum atrial septal defect,0.23077
+http://www.orpha.net/ORDO/Orphanet_329931,http://purl.obolibrary.org/obo/MP_0002743,0.92308,C3 glomerulonephritis,glomerulonephritis,0.23077
+http://www.orpha.net/ORDO/Orphanet_99104,http://purl.obolibrary.org/obo/MP_0010407,0.92105,"Atrial septal defect, coronary sinus type",coronary sinus atrial septal defect,0.2302625
+http://www.orpha.net/ORDO/Orphanet_99106,http://purl.obolibrary.org/obo/MP_0010404,0.91892,"Atrial septal defect, ostium primum type",ostium primum atrial septal defect,0.22973
+http://www.orpha.net/ORDO/Orphanet_99105,http://purl.obolibrary.org/obo/MP_0010408,0.91892,"Atrial septal defect, sinus venosus type",sinus venosus atrial septal defect,0.22973
+http://www.orpha.net/ORDO/Orphanet_99044,http://purl.obolibrary.org/obo/MP_0011667,0.91852,Double outlet right ventricle with subaortic ventricular septal defect,double outlet right ventricle with atrioventricular septal defect,0.22963
+http://www.orpha.net/ORDO/Orphanet_211266,http://purl.obolibrary.org/obo/MP_0006093,0.91228,Rare arteriovenous malformation,arteriovenous malformation,0.22807
+http://www.orpha.net/ORDO/Orphanet_105,http://purl.obolibrary.org/obo/MP_0003591,0.90909,Atresia of urethra,urethra atresia,0.2272725
+http://www.orpha.net/ORDO/Orphanet_263746,http://purl.obolibrary.org/obo/MP_0004023,0.90566,Y chromosome number anomaly,abnormal chromosome number,0.226415
+http://www.orpha.net/ORDO/Orphanet_263714,http://purl.obolibrary.org/obo/MP_0004023,0.90566,X chromosome number anomaly,abnormal chromosome number,0.226415
+http://www.orpha.net/ORDO/Orphanet_1138,http://purl.obolibrary.org/obo/MP_0013980,0.90141,Abnormal origin of the pulmonary artery,abnormal pulmonary artery origin,0.2253525

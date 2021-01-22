@@ -1,0 +1,1292 @@
+sourceIRI,mappedIRI,score,sourceLabel,mappedLabel,NormalizedScore
+http://purl.obolibrary.org/obo/HP_0002650,http://purl.obolibrary.org/obo/DOID_0060249,4.0,Scoliosis,scoliosis,1.0
+http://purl.obolibrary.org/obo/HP_0100026,http://purl.obolibrary.org/obo/DOID_11294,4.0,Arteriovenous malformation,arteriovenous malformation,1.0
+http://purl.obolibrary.org/obo/HP_0004818,http://purl.obolibrary.org/obo/DOID_0060284,4.0,Paroxysmal nocturnal hemoglobinuria,paroxysmal nocturnal hemoglobinuria,1.0
+http://purl.obolibrary.org/obo/HP_0004840,http://purl.obolibrary.org/obo/DOID_0050642,4.0,Hypochromic microcytic anemia,hypochromic microcytic anemia,1.0
+http://purl.obolibrary.org/obo/HP_0000508,http://purl.obolibrary.org/obo/DOID_0060260,4.0,Ptosis,ptosis,1.0
+http://purl.obolibrary.org/obo/HP_0002014,http://purl.obolibrary.org/obo/DOID_13250,4.0,Diarrhea,diarrhea,1.0
+http://purl.obolibrary.org/obo/HP_0002619,http://purl.obolibrary.org/obo/DOID_799,4.0,Varicose veins,varicose veins,1.0
+http://purl.obolibrary.org/obo/HP_0002576,http://purl.obolibrary.org/obo/DOID_8446,4.0,Intussusception,intussusception,1.0
+http://purl.obolibrary.org/obo/HP_0100753,http://purl.obolibrary.org/obo/DOID_5419,4.0,Schizophrenia,schizophrenia,1.0
+http://purl.obolibrary.org/obo/HP_0100727,http://purl.obolibrary.org/obo/DOID_3405,4.0,Histiocytosis,histiocytosis,1.0
+http://purl.obolibrary.org/obo/HP_0002035,http://purl.obolibrary.org/obo/DOID_9307,4.0,Rectal prolapse,rectal prolapse,1.0
+http://purl.obolibrary.org/obo/HP_0100825,http://purl.obolibrary.org/obo/DOID_1762,4.0,Cheilitis,cheilitis,1.0
+http://purl.obolibrary.org/obo/HP_0002475,http://purl.obolibrary.org/obo/DOID_0060326,4.0,Myelomeningocele,myelomeningocele,1.0
+http://purl.obolibrary.org/obo/HP_0002840,http://purl.obolibrary.org/obo/DOID_1602,4.0,Lymphadenitis,lymphadenitis,1.0
+http://purl.obolibrary.org/obo/HP_0000175,http://purl.obolibrary.org/obo/DOID_674,4.0,Cleft palate,cleft palate,1.0
+http://purl.obolibrary.org/obo/HP_0000131,http://purl.obolibrary.org/obo/DOID_13223,4.0,Uterine leiomyoma,uterine fibroid,1.0
+http://purl.obolibrary.org/obo/HP_0012115,http://purl.obolibrary.org/obo/DOID_2237,4.0,Hepatitis,hepatitis,1.0
+http://purl.obolibrary.org/obo/HP_0002779,http://purl.obolibrary.org/obo/DOID_0060313,4.0,Tracheomalacia,tracheomalacia,1.0
+http://purl.obolibrary.org/obo/HP_0000011,http://purl.obolibrary.org/obo/DOID_12143,4.0,Neurogenic bladder,neurogenic bladder,1.0
+http://purl.obolibrary.org/obo/HP_0002671,http://purl.obolibrary.org/obo/DOID_2513,4.0,Basal cell carcinoma,basal cell carcinoma,1.0
+http://purl.obolibrary.org/obo/HP_0000023,http://purl.obolibrary.org/obo/DOID_0060320,4.0,Inguinal hernia,inguinal hernia,1.0
+http://purl.obolibrary.org/obo/HP_0002697,http://purl.obolibrary.org/obo/DOID_0060285,4.0,Parietal foramina,parietal foramina,1.0
+http://purl.obolibrary.org/obo/HP_0004418,http://purl.obolibrary.org/obo/DOID_3875,4.0,Thrombophlebitis,thrombophlebitis,1.0
+http://purl.obolibrary.org/obo/HP_0001943,http://purl.obolibrary.org/obo/DOID_9993,4.0,Hypoglycemia,hypoglycemia,1.0
+http://purl.obolibrary.org/obo/HP_0012396,http://purl.obolibrary.org/obo/DOID_4140,4.0,Biliary dyskinesia,biliary dyskinesia,1.0
+http://purl.obolibrary.org/obo/HP_0002900,http://purl.obolibrary.org/obo/DOID_4500,4.0,Hypokalemia,hypokalemia,1.0
+http://purl.obolibrary.org/obo/HP_0012234,http://purl.obolibrary.org/obo/DOID_12987,4.0,Agranulocytosis,agranulocytosis,1.0
+http://purl.obolibrary.org/obo/HP_0000265,http://purl.obolibrary.org/obo/DOID_0060322,4.0,Mastoiditis,mastoiditis,1.0
+http://purl.obolibrary.org/obo/HP_0000647,http://purl.obolibrary.org/obo/DOID_0060252,4.0,Sclerocornea,sclerocornea,1.0
+http://purl.obolibrary.org/obo/HP_0001636,http://purl.obolibrary.org/obo/DOID_6419,4.0,Tetralogy of Fallot,tetralogy of Fallot,1.0
+http://purl.obolibrary.org/obo/HP_0000545,http://purl.obolibrary.org/obo/DOID_11830,4.0,Myopia,myopia,1.0
+http://purl.obolibrary.org/obo/HP_0002019,http://purl.obolibrary.org/obo/DOID_2089,4.0,Constipation,constipation,1.0
+http://purl.obolibrary.org/obo/HP_0000483,http://purl.obolibrary.org/obo/DOID_11782,4.0,Astigmatism,astigmatism,1.0
+http://purl.obolibrary.org/obo/HP_0012461,http://purl.obolibrary.org/obo/DOID_1412,4.0,Bacteriuria,bacteriuria,1.0
+http://purl.obolibrary.org/obo/HP_0000833,http://purl.obolibrary.org/obo/DOID_10603,4.0,Glucose intolerance,glucose intolerance,1.0
+http://purl.obolibrary.org/obo/HP_0000863,http://purl.obolibrary.org/obo/DOID_12388,4.0,Central diabetes insipidus,neurohypophyseal diabetes insipidus,1.0
+http://purl.obolibrary.org/obo/HP_0010447,http://purl.obolibrary.org/obo/DOID_0060328,4.0,Anal fistula,anal fistula,1.0
+http://purl.obolibrary.org/obo/HP_0000934,http://purl.obolibrary.org/obo/DOID_1156,4.0,Chondrocalcinosis,chondrocalcinosis,1.0
+http://purl.obolibrary.org/obo/HP_0000979,http://purl.obolibrary.org/obo/DOID_3326,4.0,Purpura,purpura,1.0
+http://purl.obolibrary.org/obo/HP_0000999,http://purl.obolibrary.org/obo/DOID_4223,4.0,Pyoderma,pyoderma,1.0
+http://purl.obolibrary.org/obo/HP_0010934,http://purl.obolibrary.org/obo/DOID_0060236,4.0,Xanthinuria,xanthinuria,1.0
+http://purl.obolibrary.org/obo/HP_0007313,http://purl.obolibrary.org/obo/DOID_1443,4.0,Cerebral degeneration,cerebral degeneration,1.0
+http://purl.obolibrary.org/obo/HP_0005110,http://purl.obolibrary.org/obo/DOID_0060224,4.0,Atrial fibrillation,atrial fibrillation,1.0
+http://purl.obolibrary.org/obo/HP_0030159,http://purl.obolibrary.org/obo/DOID_0060325,4.0,Cervical polyp,cervical polyp,1.0
+http://purl.obolibrary.org/obo/HP_0030151,http://purl.obolibrary.org/obo/DOID_9446,4.0,Cholangitis,cholangitis,1.0
+http://purl.obolibrary.org/obo/HP_0007720,http://purl.obolibrary.org/obo/DOID_0060287,4.0,Flat cornea,cornea plana,1.0
+http://purl.obolibrary.org/obo/HP_0030419,http://purl.obolibrary.org/obo/DOID_3999,4.0,Bartholin gland carcinoma,Bartholin's gland carcinoma,1.0
+http://purl.obolibrary.org/obo/HP_0007970,http://purl.obolibrary.org/obo/DOID_0060261,4.0,Congenital ptosis,congenital ptosis,1.0
+http://purl.obolibrary.org/obo/HP_0003072,http://purl.obolibrary.org/obo/DOID_12678,4.0,Hypercalcemia,hypercalcemia,1.0
+http://purl.obolibrary.org/obo/HP_0003074,http://purl.obolibrary.org/obo/DOID_4195,4.0,Hyperglycemia,hyperglycemia,1.0
+http://purl.obolibrary.org/obo/HP_0005506,http://purl.obolibrary.org/obo/DOID_8552,4.0,Chronic myelogenous leukemia,chronic myeloid leukemia,1.0
+http://purl.obolibrary.org/obo/HP_0005521,http://purl.obolibrary.org/obo/DOID_11247,4.0,Disseminated intravascular coagulation,disseminated intravascular coagulation,1.0
+http://purl.obolibrary.org/obo/HP_0006536,http://purl.obolibrary.org/obo/DOID_2320,4.0,Obstructive lung disease,obstructive lung disease,1.0
+http://purl.obolibrary.org/obo/HP_0001537,http://purl.obolibrary.org/obo/DOID_0060321,4.0,Umbilical hernia,umbilical hernia,1.0
+http://purl.obolibrary.org/obo/HP_0001539,http://purl.obolibrary.org/obo/DOID_0060327,4.0,Omphalocele,omphalocele,1.0
+http://purl.obolibrary.org/obo/HP_0001915,http://purl.obolibrary.org/obo/DOID_12449,4.0,Aplastic anemia,aplastic anemia,1.0
+http://purl.obolibrary.org/obo/HP_0001891,http://purl.obolibrary.org/obo/DOID_11758,4.0,Iron deficiency anemia,iron deficiency anemia,1.0
+http://purl.obolibrary.org/obo/HP_0002110,http://purl.obolibrary.org/obo/DOID_9563,4.0,Bronchiectasis,bronchiectasis,1.0
+http://purl.obolibrary.org/obo/HP_0002135,http://purl.obolibrary.org/obo/DOID_0060230,4.0,Basal ganglia calcification,basal ganglia calcification,1.0
+http://purl.obolibrary.org/obo/HP_0100881,http://purl.obolibrary.org/obo/DOID_4773,3.5,Congenital mesoblastic nephroma,congenital mesoblastic nephroma,0.875
+http://purl.obolibrary.org/obo/HP_0000822,http://purl.obolibrary.org/obo/DOID_10763,3.5,Hypertension,hypertension,0.875
+http://purl.obolibrary.org/obo/HP_0012727,http://purl.obolibrary.org/obo/DOID_14004,3.5,Thoracic aortic aneurysm,thoracic aortic aneurysm,0.875
+http://purl.obolibrary.org/obo/HP_0002324,http://purl.obolibrary.org/obo/DOID_4626,3.5,Hydranencephaly,hydranencephaly,0.875
+http://purl.obolibrary.org/obo/HP_0002326,http://purl.obolibrary.org/obo/DOID_224,3.5,Transient ischemic attack,transient cerebral ischemia,0.875
+http://purl.obolibrary.org/obo/HP_0001297,http://purl.obolibrary.org/obo/DOID_6713,3.5,Stroke,cerebrovascular disease,0.875
+http://purl.obolibrary.org/obo/HP_0002343,http://purl.obolibrary.org/obo/DOID_1572,3.5,Normal pressure hydrocephalus,normal pressure hydrocephalus,0.875
+http://purl.obolibrary.org/obo/HP_0000238,http://purl.obolibrary.org/obo/DOID_10908,3.5,Hydrocephalus,hydrocephalus,0.875
+http://purl.obolibrary.org/obo/HP_0001249,http://purl.obolibrary.org/obo/DOID_1059,3.5,Intellectual disability,intellectual disability,0.875
+http://purl.obolibrary.org/obo/HP_0002634,http://purl.obolibrary.org/obo/DOID_2349,3.5,Arteriosclerosis,arteriosclerosis,0.875
+http://purl.obolibrary.org/obo/HP_0004942,http://purl.obolibrary.org/obo/DOID_3627,3.5,Aortic aneurysm,aortic aneurysm,0.875
+http://purl.obolibrary.org/obo/HP_0002621,http://purl.obolibrary.org/obo/DOID_1936,3.5,Atherosclerosis,atherosclerosis,0.875
+http://purl.obolibrary.org/obo/HP_0001409,http://purl.obolibrary.org/obo/DOID_10762,3.5,Portal hypertension,portal hypertension,0.875
+http://purl.obolibrary.org/obo/HP_0002301,http://purl.obolibrary.org/obo/DOID_10969,3.5,Hemiplegia,hemiplegia,0.875
+http://purl.obolibrary.org/obo/HP_0002300,http://purl.obolibrary.org/obo/DOID_4189,3.5,Mutism,mutism,0.875
+http://purl.obolibrary.org/obo/HP_0000763,http://purl.obolibrary.org/obo/DOID_2491,3.5,Sensory neuropathy,sensory peripheral neuropathy,0.875
+http://purl.obolibrary.org/obo/HP_0002383,http://purl.obolibrary.org/obo/DOID_9588,3.5,Encephalitis,encephalitis,0.875
+http://purl.obolibrary.org/obo/HP_0003128,http://purl.obolibrary.org/obo/DOID_3650,3.5,Lactic acidosis,lactic acidosis,0.875
+http://purl.obolibrary.org/obo/HP_0000819,http://purl.obolibrary.org/obo/DOID_9351,3.5,Diabetes mellitus,diabetes mellitus,0.875
+http://purl.obolibrary.org/obo/HP_0002748,http://purl.obolibrary.org/obo/DOID_10609,3.5,Rickets,rickets,0.875
+http://purl.obolibrary.org/obo/HP_0001947,http://purl.obolibrary.org/obo/DOID_14219,3.5,Renal tubular acidosis,renal tubular acidosis,0.875
+http://purl.obolibrary.org/obo/HP_0004919,http://purl.obolibrary.org/obo/DOID_9870,3.5,Galactose intolerance,galactosemia,0.875
+http://purl.obolibrary.org/obo/HP_0001935,http://purl.obolibrary.org/obo/DOID_11252,3.5,Microcytic anemia,microcytic anemia,0.875
+http://purl.obolibrary.org/obo/HP_0001972,http://purl.obolibrary.org/obo/DOID_2361,3.5,Macrocytic anemia,macrocytic anemia,0.875
+http://purl.obolibrary.org/obo/HP_0001873,http://purl.obolibrary.org/obo/DOID_1588,3.5,Thrombocytopenia,thrombocytopenia,0.875
+http://purl.obolibrary.org/obo/HP_0001889,http://purl.obolibrary.org/obo/DOID_13382,3.5,Megaloblastic anemia,megaloblastic anemia,0.875
+http://purl.obolibrary.org/obo/HP_0002204,http://purl.obolibrary.org/obo/DOID_9477,3.5,Pulmonary embolism,pulmonary embolism,0.875
+http://purl.obolibrary.org/obo/HP_0002206,http://purl.obolibrary.org/obo/DOID_3770,3.5,Pulmonary fibrosis,pulmonary fibrosis,0.875
+http://purl.obolibrary.org/obo/HP_0001878,http://purl.obolibrary.org/obo/DOID_583,3.5,Hemolytic anemia,hemolytic anemia,0.875
+http://purl.obolibrary.org/obo/HP_0001924,http://purl.obolibrary.org/obo/DOID_8955,3.5,Sideroblastic anemia,sideroblastic anemia,0.875
+http://purl.obolibrary.org/obo/HP_0000998,http://purl.obolibrary.org/obo/DOID_420,3.5,Hypertrichosis,hypertrichosis,0.875
+http://purl.obolibrary.org/obo/HP_0002229,http://purl.obolibrary.org/obo/DOID_986,3.5,Alopecia areata,alopecia areata,0.875
+http://purl.obolibrary.org/obo/HP_0001596,http://purl.obolibrary.org/obo/DOID_987,3.5,Alopecia,alopecia,0.875
+http://purl.obolibrary.org/obo/HP_0006721,http://purl.obolibrary.org/obo/DOID_9952,3.5,Acute lymphoblastic leukemia,acute lymphocytic leukemia,0.875
+http://purl.obolibrary.org/obo/HP_0004810,http://purl.obolibrary.org/obo/DOID_1342,3.5,Congenital hypoplastic anemia,congenital hypoplastic anemia,0.875
+http://purl.obolibrary.org/obo/HP_0003641,http://purl.obolibrary.org/obo/DOID_582,3.5,Hemoglobinuria,hemoglobinuria,0.875
+http://purl.obolibrary.org/obo/HP_0002488,http://purl.obolibrary.org/obo/DOID_12603,3.5,Acute leukemia,acute leukemia,0.875
+http://purl.obolibrary.org/obo/HP_0012324,http://purl.obolibrary.org/obo/DOID_8692,3.5,Myeloid leukemia,myeloid leukemia,0.875
+http://purl.obolibrary.org/obo/HP_0004836,http://purl.obolibrary.org/obo/DOID_0060318,3.5,Acute promyelocytic leukemia,acute promyelocytic leukemia,0.875
+http://purl.obolibrary.org/obo/HP_0004845,http://purl.obolibrary.org/obo/DOID_8864,3.5,Acute monocytic leukemia,acute monocytic leukemia,0.875
+http://purl.obolibrary.org/obo/HP_0001931,http://purl.obolibrary.org/obo/DOID_11759,3.5,Hypochromic anemia,hypochromic anemia,0.875
+http://purl.obolibrary.org/obo/HP_0002277,http://purl.obolibrary.org/obo/DOID_11486,3.5,Horner syndrome,Horner's syndrome,0.875
+http://purl.obolibrary.org/obo/HP_0001006,http://purl.obolibrary.org/obo/DOID_4535,3.5,Hypotrichosis,hypotrichosis,0.875
+http://purl.obolibrary.org/obo/HP_0002777,http://purl.obolibrary.org/obo/DOID_3227,3.5,Tracheal stenosis,tracheal stenosis,0.875
+http://purl.obolibrary.org/obo/HP_0011100,http://purl.obolibrary.org/obo/DOID_10486,3.5,Intestinal atresia,intestinal atresia,0.875
+http://purl.obolibrary.org/obo/HP_0002243,http://purl.obolibrary.org/obo/DOID_10611,3.5,Protein-losing enteropathy,protein-losing enteropathy,0.875
+http://purl.obolibrary.org/obo/HP_0002245,http://purl.obolibrary.org/obo/DOID_9487,3.5,Meckel diverticulum,Meckel's diverticulum,0.875
+http://purl.obolibrary.org/obo/HP_0002257,http://purl.obolibrary.org/obo/DOID_8252,3.5,Chronic rhinitis,chronic rhinitis,0.875
+http://purl.obolibrary.org/obo/HP_0012384,http://purl.obolibrary.org/obo/DOID_4483,3.5,Rhinitis,rhinitis,0.875
+http://purl.obolibrary.org/obo/HP_0002251,http://purl.obolibrary.org/obo/DOID_10487,3.5,Aganglionic megacolon,Hirschsprung's disease,0.875
+http://purl.obolibrary.org/obo/HP_0001332,http://purl.obolibrary.org/obo/DOID_543,3.5,Dystonia,dystonia,0.875
+http://purl.obolibrary.org/obo/HP_0100661,http://purl.obolibrary.org/obo/DOID_12098,3.5,Trigeminal neuralgia,trigeminal neuralgia,0.875
+http://purl.obolibrary.org/obo/HP_0100665,http://purl.obolibrary.org/obo/DOID_1558,3.5,Angioedema,angioedema,0.875
+http://purl.obolibrary.org/obo/HP_0100647,http://purl.obolibrary.org/obo/DOID_12361,3.5,Graves disease,Graves' disease,0.875
+http://purl.obolibrary.org/obo/HP_0100646,http://purl.obolibrary.org/obo/DOID_7166,3.5,Thyroiditis,thyroiditis,0.875
+http://purl.obolibrary.org/obo/HP_0100651,http://purl.obolibrary.org/obo/DOID_9744,3.5,Type I diabetes mellitus,type 1 diabetes mellitus,0.875
+http://purl.obolibrary.org/obo/HP_0100653,http://purl.obolibrary.org/obo/DOID_1210,3.5,Optic neuritis,optic neuritis,0.875
+http://purl.obolibrary.org/obo/HP_0100658,http://purl.obolibrary.org/obo/DOID_3488,3.5,Cellulitis,cellulitis,0.875
+http://purl.obolibrary.org/obo/HP_0100697,http://purl.obolibrary.org/obo/DOID_3512,3.5,Neurofibrosarcoma,neurofibrosarcoma,0.875
+http://purl.obolibrary.org/obo/HP_0002608,http://purl.obolibrary.org/obo/DOID_10608,3.5,Celiac disease,celiac disease,0.875
+http://purl.obolibrary.org/obo/HP_0001396,http://purl.obolibrary.org/obo/DOID_13580,3.5,Cholestasis,cholestasis,0.875
+http://purl.obolibrary.org/obo/HP_0005293,http://purl.obolibrary.org/obo/DOID_10128,3.5,Venous insufficiency,venous insufficiency,0.875
+http://purl.obolibrary.org/obo/HP_0002563,http://purl.obolibrary.org/obo/DOID_11481,3.5,Constrictive pericarditis,constrictive pericarditis,0.875
+http://purl.obolibrary.org/obo/HP_0001701,http://purl.obolibrary.org/obo/DOID_1787,3.5,Pericarditis,pericarditis,0.875
+http://purl.obolibrary.org/obo/HP_0002578,http://purl.obolibrary.org/obo/DOID_11914,3.5,Gastroparesis,gastroparesis,0.875
+http://purl.obolibrary.org/obo/HP_0002570,http://purl.obolibrary.org/obo/DOID_10602,3.5,Steatorrhea,steatorrhea,0.875
+http://purl.obolibrary.org/obo/HP_0002571,http://purl.obolibrary.org/obo/DOID_9164,3.5,Achalasia,achalasia,0.875
+http://purl.obolibrary.org/obo/HP_0002588,http://purl.obolibrary.org/obo/DOID_1724,3.5,Duodenal ulcer,duodenal ulcer,0.875
+http://purl.obolibrary.org/obo/HP_0002580,http://purl.obolibrary.org/obo/DOID_8445,3.5,Volvulus,intestinal volvulus,0.875
+http://purl.obolibrary.org/obo/HP_0002583,http://purl.obolibrary.org/obo/DOID_0060180,3.5,Colitis,colitis,0.875
+http://purl.obolibrary.org/obo/HP_0002511,http://purl.obolibrary.org/obo/DOID_10652,3.5,Alzheimer disease,Alzheimer's disease,0.875
+http://purl.obolibrary.org/obo/HP_0002542,http://purl.obolibrary.org/obo/DOID_14784,3.5,Olivopontocerebellar atrophy,olivopontocerebellar atrophy,0.875
+http://purl.obolibrary.org/obo/HP_0000589,http://purl.obolibrary.org/obo/DOID_12270,3.5,Coloboma,coloboma,0.875
+http://purl.obolibrary.org/obo/HP_0002595,http://purl.obolibrary.org/obo/DOID_8440,3.5,Ileus,ileus,0.875
+http://purl.obolibrary.org/obo/HP_0005214,http://purl.obolibrary.org/obo/DOID_8437,3.5,Intestinal obstruction,intestinal obstruction,0.875
+http://purl.obolibrary.org/obo/HP_0002592,http://purl.obolibrary.org/obo/DOID_10808,3.5,Gastric ulcer,gastric ulcer,0.875
+http://purl.obolibrary.org/obo/HP_0002590,http://purl.obolibrary.org/obo/DOID_8442,3.5,Paralytic ileus,paralytic ileus,0.875
+http://purl.obolibrary.org/obo/HP_0100757,http://purl.obolibrary.org/obo/DOID_6823,3.5,Pancreatoblastoma,pancreatoblastoma,0.875
+http://purl.obolibrary.org/obo/HP_0100726,http://purl.obolibrary.org/obo/DOID_8632,3.5,Kaposi's sarcoma,Kaposi's sarcoma,0.875
+http://purl.obolibrary.org/obo/HP_0100787,http://purl.obolibrary.org/obo/DOID_10283,3.5,Prostate neoplasm,prostate cancer,0.875
+http://purl.obolibrary.org/obo/HP_0100796,http://purl.obolibrary.org/obo/DOID_2518,3.5,Orchitis,orchitis,0.875
+http://purl.obolibrary.org/obo/HP_0100764,http://purl.obolibrary.org/obo/DOID_1475,3.5,Lymphangioma,lymphangioma,0.875
+http://purl.obolibrary.org/obo/HP_0100768,http://purl.obolibrary.org/obo/DOID_3594,3.5,Choriocarcinoma,choriocarcinoma,0.875
+http://purl.obolibrary.org/obo/HP_0100769,http://purl.obolibrary.org/obo/DOID_2703,3.5,Synovitis,synovitis,0.875
+http://purl.obolibrary.org/obo/HP_0100774,http://purl.obolibrary.org/obo/DOID_205,3.5,Hyperostosis,hyperostosis,0.875
+http://purl.obolibrary.org/obo/HP_0100778,http://purl.obolibrary.org/obo/DOID_2917,3.5,Cryoglobulinemia,cryoglobulinemia,0.875
+http://purl.obolibrary.org/obo/HP_0001360,http://purl.obolibrary.org/obo/DOID_4621,3.5,Holoprosencephaly,holoprosencephaly,0.875
+http://purl.obolibrary.org/obo/HP_0002435,http://purl.obolibrary.org/obo/DOID_1088,3.5,Meningocele,meningocele,0.875
+http://purl.obolibrary.org/obo/HP_0002445,http://purl.obolibrary.org/obo/DOID_12835,3.5,Tetraplegia,quadriplegia,0.875
+http://purl.obolibrary.org/obo/HP_0001298,http://purl.obolibrary.org/obo/DOID_936,3.5,Encephalopathy,brain disease,0.875
+http://purl.obolibrary.org/obo/HP_0002408,http://purl.obolibrary.org/obo/DOID_0060688,3.5,Cerebral arteriovenous malformation,arteriovenous malformations of the brain,0.875
+http://purl.obolibrary.org/obo/HP_0002415,http://purl.obolibrary.org/obo/DOID_10579,3.5,Leukodystrophy,leukodystrophy,0.875
+http://purl.obolibrary.org/obo/HP_0100821,http://purl.obolibrary.org/obo/DOID_12369,3.5,Urethrocele,prolapse of urethra,0.875
+http://purl.obolibrary.org/obo/HP_0100813,http://purl.obolibrary.org/obo/DOID_11996,3.5,Testicular torsion,spermatic cord torsion,0.875
+http://purl.obolibrary.org/obo/HP_0100817,http://purl.obolibrary.org/obo/DOID_1591,3.5,Renovascular hypertension,renovascular hypertension,0.875
+http://purl.obolibrary.org/obo/HP_0001909,http://purl.obolibrary.org/obo/DOID_1240,3.5,Leukemia,leukemia,0.875
+http://purl.obolibrary.org/obo/HP_0002480,http://purl.obolibrary.org/obo/DOID_13413,3.5,Hepatic encephalopathy,hepatic encephalopathy,0.875
+http://purl.obolibrary.org/obo/HP_0000107,http://purl.obolibrary.org/obo/DOID_2975,3.5,Renal cyst,cystic kidney disease,0.875
+http://purl.obolibrary.org/obo/HP_0100842,http://purl.obolibrary.org/obo/DOID_0060857,3.5,Septo-optic dysplasia,septooptic dysplasia,0.875
+http://purl.obolibrary.org/obo/HP_0100847,http://purl.obolibrary.org/obo/DOID_4398,3.5,Palmoplantar pustulosis,pustulosis of palm and sole,0.875
+http://purl.obolibrary.org/obo/HP_0012387,http://purl.obolibrary.org/obo/DOID_6132,3.5,Bronchitis,bronchitis,0.875
+http://purl.obolibrary.org/obo/HP_0002859,http://purl.obolibrary.org/obo/DOID_3247,3.5,Rhabdomyosarcoma,rhabdomyosarcoma,0.875
+http://purl.obolibrary.org/obo/HP_0002858,http://purl.obolibrary.org/obo/DOID_3565,3.5,Meningioma,meningioma,0.875
+http://purl.obolibrary.org/obo/HP_0002668,http://purl.obolibrary.org/obo/DOID_0050773,3.5,Paraganglioma,paraganglioma,0.875
+http://purl.obolibrary.org/obo/HP_0002865,http://purl.obolibrary.org/obo/DOID_3973,3.5,Medullary thyroid carcinoma,thyroid medullary carcinoma,0.875
+http://purl.obolibrary.org/obo/HP_0002890,http://purl.obolibrary.org/obo/DOID_3963,3.5,Thyroid carcinoma,thyroid carcinoma,0.875
+http://purl.obolibrary.org/obo/HP_0002860,http://purl.obolibrary.org/obo/DOID_1749,3.5,Squamous cell carcinoma,squamous cell carcinoma,0.875
+http://purl.obolibrary.org/obo/HP_0002862,http://purl.obolibrary.org/obo/DOID_4007,3.5,Bladder carcinoma,bladder carcinoma,0.875
+http://purl.obolibrary.org/obo/HP_0002861,http://purl.obolibrary.org/obo/DOID_1909,3.5,Melanoma,melanoma,0.875
+http://purl.obolibrary.org/obo/HP_0000206,http://purl.obolibrary.org/obo/DOID_1456,3.5,Glossitis,glossitis,0.875
+http://purl.obolibrary.org/obo/HP_0003040,http://purl.obolibrary.org/obo/DOID_381,3.5,Arthropathy,arthropathy,0.875
+http://purl.obolibrary.org/obo/HP_0000135,http://purl.obolibrary.org/obo/DOID_1924,3.5,Hypogonadism,hypogonadism,0.875
+http://purl.obolibrary.org/obo/HP_0000133,http://purl.obolibrary.org/obo/DOID_14447,3.5,Gonadal dysgenesis,gonadal dysgenesis,0.875
+http://purl.obolibrary.org/obo/HP_0012119,http://purl.obolibrary.org/obo/DOID_10783,3.5,Methemoglobinemia,methemoglobinemia,0.875
+http://purl.obolibrary.org/obo/HP_0012118,http://purl.obolibrary.org/obo/DOID_2600,3.5,Laryngeal carcinoma,laryngeal carcinoma,0.875
+http://purl.obolibrary.org/obo/HP_0012114,http://purl.obolibrary.org/obo/DOID_2871,3.5,Endometrial carcinoma,endometrial carcinoma,0.875
+http://purl.obolibrary.org/obo/HP_0000147,http://purl.obolibrary.org/obo/DOID_11612,3.5,Polycystic ovaries,polycystic ovary syndrome,0.875
+http://purl.obolibrary.org/obo/HP_0000149,http://purl.obolibrary.org/obo/DOID_3578,3.5,Ovarian gonadoblastoma,ovarian gonadoblastoma,0.875
+http://purl.obolibrary.org/obo/HP_0100615,http://purl.obolibrary.org/obo/DOID_2394,3.5,Ovarian neoplasm,ovarian cancer,0.875
+http://purl.obolibrary.org/obo/HP_0000150,http://purl.obolibrary.org/obo/DOID_3301,3.5,Gonadoblastoma,gonadoblastoma,0.875
+http://purl.obolibrary.org/obo/HP_0000141,http://purl.obolibrary.org/obo/DOID_13938,3.5,Amenorrhea,amenorrhea,0.875
+http://purl.obolibrary.org/obo/HP_0012124,http://purl.obolibrary.org/obo/DOID_12732,3.5,Intermediate uveitis,intermediate uveitis,0.875
+http://purl.obolibrary.org/obo/HP_0000554,http://purl.obolibrary.org/obo/DOID_13141,3.5,Uveitis,uveitis,0.875
+http://purl.obolibrary.org/obo/HP_0012123,http://purl.obolibrary.org/obo/DOID_12574,3.5,Posterior uveitis,posterior uveitis,0.875
+http://purl.obolibrary.org/obo/HP_0012121,http://purl.obolibrary.org/obo/DOID_12030,3.5,Panuveitis,panuveitis,0.875
+http://purl.obolibrary.org/obo/HP_0012125,http://purl.obolibrary.org/obo/DOID_10283,3.5,Prostate cancer,prostate cancer,0.875
+http://purl.obolibrary.org/obo/HP_0000169,http://purl.obolibrary.org/obo/DOID_0060466,3.5,Gingival fibromatosis,gingival fibromatosis,0.875
+http://purl.obolibrary.org/obo/HP_0000704,http://purl.obolibrary.org/obo/DOID_824,3.5,Periodontitis,periodontitis,0.875
+http://purl.obolibrary.org/obo/HP_0002758,http://purl.obolibrary.org/obo/DOID_8398,3.5,Osteoarthritis,osteoarthritis,0.875
+http://purl.obolibrary.org/obo/HP_0000100,http://purl.obolibrary.org/obo/DOID_1184,3.5,Nephrotic syndrome,nephrotic syndrome,0.875
+http://purl.obolibrary.org/obo/HP_0000112,http://purl.obolibrary.org/obo/DOID_557,3.5,Nephropathy,kidney disease,0.875
+http://purl.obolibrary.org/obo/HP_0002787,http://purl.obolibrary.org/obo/DOID_14224,3.5,Tracheal calcification,tracheal calcification,0.875
+http://purl.obolibrary.org/obo/HP_0000126,http://purl.obolibrary.org/obo/DOID_11111,3.5,Hydronephrosis,hydronephrosis,0.875
+http://purl.obolibrary.org/obo/HP_0000121,http://purl.obolibrary.org/obo/DOID_12679,3.5,Nephrocalcinosis,nephrocalcinosis,0.875
+http://purl.obolibrary.org/obo/HP_0000123,http://purl.obolibrary.org/obo/DOID_10952,3.5,Nephritis,nephritis,0.875
+http://purl.obolibrary.org/obo/HP_0000501,http://purl.obolibrary.org/obo/DOID_1686,3.5,Glaucoma,glaucoma,0.875
+http://purl.obolibrary.org/obo/HP_0012192,http://purl.obolibrary.org/obo/DOID_0060061,3.5,Cutaneous T-cell lymphoma,cutaneous T cell lymphoma,0.875
+http://purl.obolibrary.org/obo/HP_0012191,http://purl.obolibrary.org/obo/DOID_707,3.5,B-cell lymphoma,B-cell lymphoma,0.875
+http://purl.obolibrary.org/obo/HP_0012197,http://purl.obolibrary.org/obo/DOID_3892,3.5,Insulinoma,insulinoma,0.875
+http://purl.obolibrary.org/obo/HP_0012158,http://purl.obolibrary.org/obo/DOID_9348,3.5,Carotid artery dissection,carotid artery dissection,0.875
+http://purl.obolibrary.org/obo/HP_0030502,http://purl.obolibrary.org/obo/DOID_8465,3.5,Retinoschisis,retinoschisis,0.875
+http://purl.obolibrary.org/obo/HP_0012174,http://purl.obolibrary.org/obo/DOID_3068,3.5,Glioblastoma multiforme,glioblastoma multiforme,0.875
+http://purl.obolibrary.org/obo/HP_0012189,http://purl.obolibrary.org/obo/DOID_8567,3.5,Hodgkin lymphoma,Hodgkin's lymphoma,0.875
+http://purl.obolibrary.org/obo/HP_0002665,http://purl.obolibrary.org/obo/DOID_0060058,3.5,Lymphoma,lymphoma,0.875
+http://purl.obolibrary.org/obo/HP_0012181,http://purl.obolibrary.org/obo/DOID_573,3.5,Entrapment neuropathy,nerve compression syndrome,0.875
+http://purl.obolibrary.org/obo/HP_0009830,http://purl.obolibrary.org/obo/DOID_870,3.5,Peripheral neuropathy,neuropathy,0.875
+http://purl.obolibrary.org/obo/HP_0000221,http://purl.obolibrary.org/obo/DOID_11514,3.5,Furrowed tongue,fissured tongue,0.875
+http://purl.obolibrary.org/obo/HP_0002720,http://purl.obolibrary.org/obo/DOID_0060025,3.5,IgA deficiency,immunoglobulin alpha deficiency,0.875
+http://purl.obolibrary.org/obo/HP_0002728,http://purl.obolibrary.org/obo/DOID_2058,3.5,Chronic mucocutaneous candidiasis,chronic mucocutaneous candidiasis,0.875
+http://purl.obolibrary.org/obo/HP_0002725,http://purl.obolibrary.org/obo/DOID_9074,3.5,Systemic lupus erythematosus,systemic lupus erythematosus,0.875
+http://purl.obolibrary.org/obo/HP_0002749,http://purl.obolibrary.org/obo/DOID_10573,3.5,Osteomalacia,osteomalacia,0.875
+http://purl.obolibrary.org/obo/HP_0000015,http://purl.obolibrary.org/obo/DOID_11353,3.5,Bladder diverticulum,bladder diverticulum,0.875
+http://purl.obolibrary.org/obo/HP_0000027,http://purl.obolibrary.org/obo/DOID_14227,3.5,Azoospermia,azoospermia,0.875
+http://purl.obolibrary.org/obo/HP_0000028,http://purl.obolibrary.org/obo/DOID_11383,3.5,Cryptorchidism,cryptorchidism,0.875
+http://purl.obolibrary.org/obo/HP_0000024,http://purl.obolibrary.org/obo/DOID_14654,3.5,Prostatitis,prostatitis,0.875
+http://purl.obolibrary.org/obo/HP_0000030,http://purl.obolibrary.org/obo/DOID_3579,3.5,Testicular gonadoblastoma,testicular gonadoblastoma,0.875
+http://purl.obolibrary.org/obo/HP_0000031,http://purl.obolibrary.org/obo/DOID_9402,3.5,Epididymitis,epididymitis,0.875
+http://purl.obolibrary.org/obo/HP_0000047,http://purl.obolibrary.org/obo/DOID_10892,3.5,Hypospadias,hypospadias,0.875
+http://purl.obolibrary.org/obo/HP_0002633,http://purl.obolibrary.org/obo/DOID_865,3.5,Vasculitis,vasculitis,0.875
+http://purl.obolibrary.org/obo/HP_0002639,http://purl.obolibrary.org/obo/DOID_11512,3.5,Budd-Chiari syndrome,Budd-Chiari syndrome,0.875
+http://purl.obolibrary.org/obo/HP_0002654,http://purl.obolibrary.org/obo/DOID_12721,3.5,Multiple epiphyseal dysplasia,multiple epiphyseal dysplasia,0.875
+http://purl.obolibrary.org/obo/HP_0100634,http://purl.obolibrary.org/obo/DOID_169,3.5,Neuroendocrine neoplasm,neuroendocrine tumor,0.875
+http://purl.obolibrary.org/obo/HP_0002667,http://purl.obolibrary.org/obo/DOID_2154,3.5,Nephroblastoma,nephroblastoma,0.875
+http://purl.obolibrary.org/obo/HP_0002669,http://purl.obolibrary.org/obo/DOID_3347,3.5,Osteosarcoma,osteosarcoma,0.875
+http://purl.obolibrary.org/obo/HP_0000099,http://purl.obolibrary.org/obo/DOID_2921,3.5,Glomerulonephritis,glomerulonephritis,0.875
+http://purl.obolibrary.org/obo/HP_0000097,http://purl.obolibrary.org/obo/DOID_1312,3.5,Focal segmental glomerulosclerosis,focal segmental glomerulosclerosis,0.875
+http://purl.obolibrary.org/obo/HP_0000090,http://purl.obolibrary.org/obo/DOID_12712,3.5,Nephronophthisis,nephronophthisis,0.875
+http://purl.obolibrary.org/obo/HP_0000093,http://purl.obolibrary.org/obo/DOID_576,3.5,Proteinuria,proteinuria,0.875
+http://purl.obolibrary.org/obo/HP_0012077,http://purl.obolibrary.org/obo/DOID_334,3.5,Histrionic personality disorder,histrionic personality disorder,0.875
+http://purl.obolibrary.org/obo/HP_0012076,http://purl.obolibrary.org/obo/DOID_10930,3.5,Borderline personality disorder,borderline personality disorder,0.875
+http://purl.obolibrary.org/obo/HP_0012085,http://purl.obolibrary.org/obo/DOID_1439,3.5,Pyuria,pyuria,0.875
+http://purl.obolibrary.org/obo/HP_0012034,http://purl.obolibrary.org/obo/DOID_3382,3.5,Liposarcoma,liposarcoma,0.875
+http://purl.obolibrary.org/obo/HP_0012031,http://purl.obolibrary.org/obo/DOID_3315,3.5,Lipomatous tumor,lipoma,0.875
+http://purl.obolibrary.org/obo/HP_0012032,http://purl.obolibrary.org/obo/DOID_3315,3.5,Lipoma,lipoma,0.875
+http://purl.obolibrary.org/obo/HP_0002099,http://purl.obolibrary.org/obo/DOID_2841,3.5,Asthma,asthma,0.875
+http://purl.obolibrary.org/obo/HP_0000076,http://purl.obolibrary.org/obo/DOID_9620,3.5,Vesicoureteral reflux,vesicoureteral reflux,0.875
+http://purl.obolibrary.org/obo/HP_0000070,http://purl.obolibrary.org/obo/DOID_4022,3.5,Ureterocele,ureterocele,0.875
+http://purl.obolibrary.org/obo/HP_0012068,http://purl.obolibrary.org/obo/DOID_0050461,3.5,Aspartylglucosaminuria,aspartylglucosaminuria,0.875
+http://purl.obolibrary.org/obo/HP_0012410,http://purl.obolibrary.org/obo/DOID_1340,3.5,Pure red cell aplasia,pure red-cell aplasia,0.875
+http://purl.obolibrary.org/obo/HP_0012424,http://purl.obolibrary.org/obo/DOID_8886,3.5,Chorioretinitis,chorioretinitis,0.875
+http://purl.obolibrary.org/obo/HP_0000388,http://purl.obolibrary.org/obo/DOID_10754,3.5,Otitis media,otitis media,0.875
+http://purl.obolibrary.org/obo/HP_0012388,http://purl.obolibrary.org/obo/DOID_6132,3.5,Acute bronchitis,bronchitis,0.875
+http://purl.obolibrary.org/obo/HP_0012316,http://purl.obolibrary.org/obo/DOID_3355,3.5,Fibrous tissue neoplasm,fibrosarcoma,0.875
+http://purl.obolibrary.org/obo/HP_0012315,http://purl.obolibrary.org/obo/DOID_4231,3.5,Histiocytoma,histiocytoma,0.875
+http://purl.obolibrary.org/obo/HP_0001028,http://purl.obolibrary.org/obo/DOID_255,3.5,Hemangioma,hemangioma,0.875
+http://purl.obolibrary.org/obo/HP_0012330,http://purl.obolibrary.org/obo/DOID_11400,3.5,Pyelonephritis,pyelonephritis,0.875
+http://purl.obolibrary.org/obo/HP_0012334,http://purl.obolibrary.org/obo/DOID_13619,3.5,Extrahepatic cholestasis,extrahepatic cholestasis,0.875
+http://purl.obolibrary.org/obo/HP_0012344,http://purl.obolibrary.org/obo/DOID_8472,3.5,Morphea,localized scleroderma,0.875
+http://purl.obolibrary.org/obo/HP_0012399,http://purl.obolibrary.org/obo/DOID_8717,3.5,Pressure ulcer,decubitus ulcer,0.875
+http://purl.obolibrary.org/obo/HP_0012397,http://purl.obolibrary.org/obo/DOID_10230,3.5,Aortic atherosclerosis,aortic atherosclerosis,0.875
+http://purl.obolibrary.org/obo/HP_0002905,http://purl.obolibrary.org/obo/DOID_0050459,3.5,Hyperphosphatemia,hyperphosphatemia,0.875
+http://purl.obolibrary.org/obo/HP_0002961,http://purl.obolibrary.org/obo/DOID_11702,3.5,Dysgammaglobulinemia,dysgammaglobulinemia,0.875
+http://purl.obolibrary.org/obo/HP_0002974,http://purl.obolibrary.org/obo/DOID_9827,3.5,Radioulnar synostosis,radioulnar synostosis,0.875
+http://purl.obolibrary.org/obo/HP_0004431,http://purl.obolibrary.org/obo/DOID_626,3.5,Complement deficiency,complement deficiency,0.875
+http://purl.obolibrary.org/obo/HP_0011034,http://purl.obolibrary.org/obo/DOID_9120,3.5,Amyloidosis,amyloidosis,0.875
+http://purl.obolibrary.org/obo/HP_0000252,http://purl.obolibrary.org/obo/DOID_10907,3.5,Microcephaly,microcephaly,0.875
+http://purl.obolibrary.org/obo/HP_0001913,http://purl.obolibrary.org/obo/DOID_12987,3.5,Granulocytopenia,agranulocytosis,0.875
+http://purl.obolibrary.org/obo/HP_0000541,http://purl.obolibrary.org/obo/DOID_5327,3.5,Retinal detachment,retinal detachment,0.875
+http://purl.obolibrary.org/obo/HP_0012268,http://purl.obolibrary.org/obo/DOID_5363,3.5,Myxoid liposarcoma,myxoid liposarcoma,0.875
+http://purl.obolibrary.org/obo/HP_0000212,http://purl.obolibrary.org/obo/DOID_3086,3.5,Gingival overgrowth,gingival overgrowth,0.875
+http://purl.obolibrary.org/obo/HP_0002885,http://purl.obolibrary.org/obo/DOID_0050902,3.5,Medulloblastoma,medulloblastoma,0.875
+http://purl.obolibrary.org/obo/HP_0002884,http://purl.obolibrary.org/obo/DOID_687,3.5,Hepatoblastoma,hepatoblastoma,0.875
+http://purl.obolibrary.org/obo/HP_0002898,http://purl.obolibrary.org/obo/DOID_688,3.5,Embryonal neoplasm,embryonal cancer,0.875
+http://purl.obolibrary.org/obo/HP_0012209,http://purl.obolibrary.org/obo/DOID_0050458,3.5,Juvenile myelomonocytic leukemia,juvenile myelomonocytic leukemia,0.875
+http://purl.obolibrary.org/obo/HP_0002897,http://purl.obolibrary.org/obo/DOID_7608,3.5,Parathyroid adenoma,parathyroid adenoma,0.875
+http://purl.obolibrary.org/obo/HP_0000230,http://purl.obolibrary.org/obo/DOID_3087,3.5,Gingivitis,gingivitis,0.875
+http://purl.obolibrary.org/obo/HP_0010280,http://purl.obolibrary.org/obo/DOID_9637,3.5,Stomatitis,stomatitis,0.875
+http://purl.obolibrary.org/obo/HP_0002893,http://purl.obolibrary.org/obo/DOID_3829,3.5,Pituitary adenoma,pituitary adenoma,0.875
+http://purl.obolibrary.org/obo/HP_0002895,http://purl.obolibrary.org/obo/DOID_3969,3.5,Papillary thyroid carcinoma,papillary thyroid carcinoma,0.875
+http://purl.obolibrary.org/obo/HP_0100243,http://purl.obolibrary.org/obo/DOID_1967,3.5,Leiomyosarcoma,leiomyosarcoma,0.875
+http://purl.obolibrary.org/obo/HP_0012218,http://purl.obolibrary.org/obo/DOID_4239,3.5,Alveolar soft part sarcoma,alveolar soft part sarcoma,0.875
+http://purl.obolibrary.org/obo/HP_0009792,http://purl.obolibrary.org/obo/DOID_3307,3.5,Teratoma,teratoma,0.875
+http://purl.obolibrary.org/obo/HP_0000608,http://purl.obolibrary.org/obo/DOID_4448,3.5,Macular degeneration,macular degeneration,0.875
+http://purl.obolibrary.org/obo/HP_0000546,http://purl.obolibrary.org/obo/DOID_8466,3.5,Retinal degeneration,retinal degeneration,0.875
+http://purl.obolibrary.org/obo/HP_0000602,http://purl.obolibrary.org/obo/DOID_539,3.5,Ophthalmoplegia,ophthalmoplegia,0.875
+http://purl.obolibrary.org/obo/HP_0012636,http://purl.obolibrary.org/obo/DOID_1727,3.5,Retinal vein occlusion,retinal vein occlusion,0.875
+http://purl.obolibrary.org/obo/HP_0000656,http://purl.obolibrary.org/obo/DOID_1570,3.5,Ectropion,ectropion,0.875
+http://purl.obolibrary.org/obo/HP_0000659,http://purl.obolibrary.org/obo/DOID_0060673,3.5,Peters anomaly,Peters anomaly,0.875
+http://purl.obolibrary.org/obo/HP_0000581,http://purl.obolibrary.org/obo/DOID_10348,3.5,Blepharophimosis,blepharophimosis,0.875
+http://purl.obolibrary.org/obo/HP_0000668,http://purl.obolibrary.org/obo/DOID_0050591,3.5,Hypodontia,tooth agenesis,0.875
+http://purl.obolibrary.org/obo/HP_0000674,http://purl.obolibrary.org/obo/DOID_13714,3.5,Anodontia,anodontia,0.875
+http://purl.obolibrary.org/obo/HP_0012653,http://purl.obolibrary.org/obo/DOID_9362,3.5,Status asthmaticus,status asthmaticus,0.875
+http://purl.obolibrary.org/obo/HP_0000620,http://purl.obolibrary.org/obo/DOID_9938,3.5,Dacryocystitis,dacryocystitis,0.875
+http://purl.obolibrary.org/obo/HP_0000621,http://purl.obolibrary.org/obo/DOID_12397,3.5,Entropion,entropion,0.875
+http://purl.obolibrary.org/obo/HP_0000643,http://purl.obolibrary.org/obo/DOID_529,3.5,Blepharospasm,blepharospasm,0.875
+http://purl.obolibrary.org/obo/HP_0000646,http://purl.obolibrary.org/obo/DOID_10376,3.5,Amblyopia,amblyopia,0.875
+http://purl.obolibrary.org/obo/HP_0000648,http://purl.obolibrary.org/obo/DOID_5723,3.5,Optic atrophy,optic atrophy,0.875
+http://purl.obolibrary.org/obo/HP_0000577,http://purl.obolibrary.org/obo/DOID_1143,3.5,Exotropia,exotropia,0.875
+http://purl.obolibrary.org/obo/HP_0000520,http://purl.obolibrary.org/obo/DOID_9370,3.5,Proptosis,exophthalmos,0.875
+http://purl.obolibrary.org/obo/HP_0000585,http://purl.obolibrary.org/obo/DOID_11164,3.5,Band keratopathy,band keratopathy,0.875
+http://purl.obolibrary.org/obo/HP_0000590,http://purl.obolibrary.org/obo/DOID_12558,3.5,Progressive external ophthalmoplegia,chronic progressive external ophthalmoplegia,0.875
+http://purl.obolibrary.org/obo/HP_0012579,http://purl.obolibrary.org/obo/DOID_10966,3.5,Minimal change glomerulonephritis,lipoid nephrosis,0.875
+http://purl.obolibrary.org/obo/HP_0012578,http://purl.obolibrary.org/obo/DOID_10976,3.5,Membranous nephropathy,membranous glomerulonephritis,0.875
+http://purl.obolibrary.org/obo/HP_0012570,http://purl.obolibrary.org/obo/DOID_5485,3.5,Synovial sarcoma,synovial sarcoma,0.875
+http://purl.obolibrary.org/obo/HP_0000538,http://purl.obolibrary.org/obo/DOID_1392,3.5,Pseudopapilledema,pseudopapilledema,0.875
+http://purl.obolibrary.org/obo/HP_0000540,http://purl.obolibrary.org/obo/DOID_9834,3.5,Hypermetropia,hyperopia,0.875
+http://purl.obolibrary.org/obo/HP_0000556,http://purl.obolibrary.org/obo/DOID_8501,3.5,Retinal dystrophy,fundus dystrophy,0.875
+http://purl.obolibrary.org/obo/HP_0000555,http://purl.obolibrary.org/obo/DOID_11772,3.5,Leukocoria,leukocoria,0.875
+http://purl.obolibrary.org/obo/HP_0000565,http://purl.obolibrary.org/obo/DOID_9840,3.5,Esotropia,esotropia,0.875
+http://purl.obolibrary.org/obo/HP_0000563,http://purl.obolibrary.org/obo/DOID_10126,3.5,Keratoconus,keratoconus,0.875
+http://purl.obolibrary.org/obo/HP_0000568,http://purl.obolibrary.org/obo/DOID_10629,3.5,Microphthalmia,microphthalmia,0.875
+http://purl.obolibrary.org/obo/HP_0000509,http://purl.obolibrary.org/obo/DOID_6195,3.5,Conjunctivitis,conjunctivitis,0.875
+http://purl.obolibrary.org/obo/HP_0000518,http://purl.obolibrary.org/obo/DOID_83,3.5,Cataract,cataract,0.875
+http://purl.obolibrary.org/obo/HP_0000526,http://purl.obolibrary.org/obo/DOID_12271,3.5,Aniridia,aniridia,0.875
+http://purl.obolibrary.org/obo/HP_0000498,http://purl.obolibrary.org/obo/DOID_9423,3.5,Blepharitis,blepharitis,0.875
+http://purl.obolibrary.org/obo/HP_0000491,http://purl.obolibrary.org/obo/DOID_4677,3.5,Keratitis,keratitis,0.875
+http://purl.obolibrary.org/obo/HP_0012486,http://purl.obolibrary.org/obo/DOID_322,3.5,Myelitis,myelitis,0.875
+http://purl.obolibrary.org/obo/HP_0012490,http://purl.obolibrary.org/obo/DOID_1526,3.5,Panniculitis,panniculitis,0.875
+http://purl.obolibrary.org/obo/HP_0000453,http://purl.obolibrary.org/obo/DOID_9574,3.5,Choanal atresia,choanal atresia,0.875
+http://purl.obolibrary.org/obo/HP_0000476,http://purl.obolibrary.org/obo/DOID_3081,3.5,Cystic hygroma,cystic lymphangioma,0.875
+http://purl.obolibrary.org/obo/HP_0000485,http://purl.obolibrary.org/obo/DOID_0060305,3.5,Megalocornea,megalocornea,0.875
+http://purl.obolibrary.org/obo/HP_0012803,http://purl.obolibrary.org/obo/DOID_12273,3.5,Anisometropia,anisometropia,0.875
+http://purl.obolibrary.org/obo/HP_0000829,http://purl.obolibrary.org/obo/DOID_11199,3.5,Hypoparathyroidism,hypoparathyroidism,0.875
+http://purl.obolibrary.org/obo/HP_0000842,http://purl.obolibrary.org/obo/DOID_2018,3.5,Hyperinsulinemia,hyperinsulinism,0.875
+http://purl.obolibrary.org/obo/HP_0000821,http://purl.obolibrary.org/obo/DOID_1459,3.5,Hypothyroidism,hypothyroidism,0.875
+http://purl.obolibrary.org/obo/HP_0040075,http://purl.obolibrary.org/obo/DOID_9406,3.5,Hypopituitarism,hypopituitarism,0.875
+http://purl.obolibrary.org/obo/HP_0012819,http://purl.obolibrary.org/obo/DOID_820,3.5,Myocarditis,myocarditis,0.875
+http://purl.obolibrary.org/obo/HP_0001638,http://purl.obolibrary.org/obo/DOID_0050700,3.5,Cardiomyopathy,cardiomyopathy,0.875
+http://purl.obolibrary.org/obo/HP_0000836,http://purl.obolibrary.org/obo/DOID_7998,3.5,Hyperthyroidism,hyperthyroidism,0.875
+http://purl.obolibrary.org/obo/HP_0010514,http://purl.obolibrary.org/obo/DOID_2444,3.5,Hyperpituitarism,hyperpituitarism,0.875
+http://purl.obolibrary.org/obo/HP_0000843,http://purl.obolibrary.org/obo/DOID_13543,3.5,Hyperparathyroidism,hyperparathyroidism,0.875
+http://purl.obolibrary.org/obo/HP_0012871,http://purl.obolibrary.org/obo/DOID_12337,3.5,Varicocele,varicocele,0.875
+http://purl.obolibrary.org/obo/HP_0012876,http://purl.obolibrary.org/obo/DOID_13709,3.5,Premature ejaculation,premature ejaculation,0.875
+http://purl.obolibrary.org/obo/HP_0012889,http://purl.obolibrary.org/obo/DOID_361,3.5,Cervical endometriosis,cervix endometriosis,0.875
+http://purl.obolibrary.org/obo/HP_0030127,http://purl.obolibrary.org/obo/DOID_289,3.5,Endometriosis,endometriosis,0.875
+http://purl.obolibrary.org/obo/HP_0000851,http://purl.obolibrary.org/obo/DOID_0050328,3.5,Congenital hypothyroidism,congenital hypothyroidism,0.875
+http://purl.obolibrary.org/obo/HP_0000852,http://purl.obolibrary.org/obo/DOID_4184,3.5,Pseudohypoparathyroidism,pseudohypoparathyroidism,0.875
+http://purl.obolibrary.org/obo/HP_0000853,http://purl.obolibrary.org/obo/DOID_12176,3.5,Goiter,goiter,0.875
+http://purl.obolibrary.org/obo/HP_0000859,http://purl.obolibrary.org/obo/DOID_446,3.5,Hyperaldosteronism,primary hyperaldosteronism,0.875
+http://purl.obolibrary.org/obo/HP_0000854,http://purl.obolibrary.org/obo/DOID_2891,3.5,Thyroid adenoma,thyroid adenoma,0.875
+http://purl.obolibrary.org/obo/HP_0000873,http://purl.obolibrary.org/obo/DOID_9409,3.5,Diabetes insipidus,diabetes insipidus,0.875
+http://purl.obolibrary.org/obo/HP_0002133,http://purl.obolibrary.org/obo/DOID_1824,3.5,Status epilepticus,status epilepticus,0.875
+http://purl.obolibrary.org/obo/HP_0012843,http://purl.obolibrary.org/obo/DOID_5375,3.5,Hair follicle neoplasm,hair follicle neoplasm,0.875
+http://purl.obolibrary.org/obo/HP_0000867,http://purl.obolibrary.org/obo/DOID_12466,3.5,Secondary hyperparathyroidism,secondary hyperparathyroidism,0.875
+http://purl.obolibrary.org/obo/HP_0000872,http://purl.obolibrary.org/obo/DOID_7188,3.5,Hashimoto thyroiditis,autoimmune thyroiditis,0.875
+http://purl.obolibrary.org/obo/HP_0000871,http://purl.obolibrary.org/obo/DOID_9410,3.5,Panhypopituitarism,panhypopituitarism,0.875
+http://purl.obolibrary.org/obo/HP_0012859,http://purl.obolibrary.org/obo/DOID_9021,3.5,Esophageal leukoplakia,esophageal leukoplakia,0.875
+http://purl.obolibrary.org/obo/HP_0010628,http://purl.obolibrary.org/obo/DOID_13934,3.5,Facial palsy,facial paralysis,0.875
+http://purl.obolibrary.org/obo/HP_0000705,http://purl.obolibrary.org/obo/DOID_2187,3.5,Amelogenesis imperfecta,amelogenesis imperfecta,0.875
+http://purl.obolibrary.org/obo/HP_0000703,http://purl.obolibrary.org/obo/DOID_4154,3.5,Dentinogenesis imperfecta,dentinogenesis imperfecta,0.875
+http://purl.obolibrary.org/obo/HP_0000717,http://purl.obolibrary.org/obo/DOID_12849,3.5,Autism,autistic disorder,0.875
+http://purl.obolibrary.org/obo/HP_0000771,http://purl.obolibrary.org/obo/DOID_12698,3.5,Gynecomastia,gynecomastia,0.875
+http://purl.obolibrary.org/obo/HP_0009110,http://purl.obolibrary.org/obo/DOID_10480,3.5,Diaphragmatic eventration,diaphragmatic eventration,0.875
+http://purl.obolibrary.org/obo/HP_0000789,http://purl.obolibrary.org/obo/DOID_5223,3.5,Infertility,infertility,0.875
+http://purl.obolibrary.org/obo/HP_0000796,http://purl.obolibrary.org/obo/DOID_12577,3.5,Urethral obstruction,urethral obstruction,0.875
+http://purl.obolibrary.org/obo/HP_0000798,http://purl.obolibrary.org/obo/DOID_14228,3.5,Oligospermia,oligospermia,0.875
+http://purl.obolibrary.org/obo/HP_0000791,http://purl.obolibrary.org/obo/DOID_580,3.5,Uric acid nephrolithiasis,acute urate nephropathy,0.875
+http://purl.obolibrary.org/obo/HP_0000793,http://purl.obolibrary.org/obo/DOID_2920,3.5,Membranoproliferative glomerulonephritis,membranoproliferative glomerulonephritis,0.875
+http://purl.obolibrary.org/obo/HP_0009125,http://purl.obolibrary.org/obo/DOID_811,3.5,Lipodystrophy,lipodystrophy,0.875
+http://purl.obolibrary.org/obo/HP_0012784,http://purl.obolibrary.org/obo/DOID_2982,3.5,Perinephritis,perinephritis,0.875
+http://purl.obolibrary.org/obo/HP_0001159,http://purl.obolibrary.org/obo/DOID_11193,3.5,Syndactyly,syndactyly,0.875
+http://purl.obolibrary.org/obo/HP_0000756,http://purl.obolibrary.org/obo/DOID_593,3.5,Agoraphobia,agoraphobia,0.875
+http://purl.obolibrary.org/obo/HP_0012740,http://purl.obolibrary.org/obo/DOID_2615,3.5,Papilloma,papilloma,0.875
+http://purl.obolibrary.org/obo/HP_0001513,http://purl.obolibrary.org/obo/DOID_9970,3.5,Obesity,obesity,0.875
+http://purl.obolibrary.org/obo/HP_0003198,http://purl.obolibrary.org/obo/DOID_423,3.5,Myopathy,myopathy,0.875
+http://purl.obolibrary.org/obo/HP_0007269,http://purl.obolibrary.org/obo/DOID_12377,3.5,Spinal muscular atrophy,spinal muscular atrophy,0.875
+http://purl.obolibrary.org/obo/HP_0003737,http://purl.obolibrary.org/obo/DOID_699,3.5,Mitochondrial myopathy,mitochondrial myopathy,0.875
+http://purl.obolibrary.org/obo/HP_0012672,http://purl.obolibrary.org/obo/DOID_4267,3.5,Akinetic mutism,akinetic mutism,0.875
+http://purl.obolibrary.org/obo/HP_0010446,http://purl.obolibrary.org/obo/DOID_4078,3.5,Tricuspid stenosis,tricuspid valve stenosis,0.875
+http://purl.obolibrary.org/obo/HP_0001631,http://purl.obolibrary.org/obo/DOID_1882,3.5,Atrial septal defect,atrial heart septal defect,0.875
+http://purl.obolibrary.org/obo/HP_0006695,http://purl.obolibrary.org/obo/DOID_0050651,3.5,Atrioventricular canal defect,atrioventricular septal defect,0.875
+http://purl.obolibrary.org/obo/HP_0010442,http://purl.obolibrary.org/obo/DOID_1148,3.5,Polydactyly,polydactyly,0.875
+http://purl.obolibrary.org/obo/HP_0000939,http://purl.obolibrary.org/obo/DOID_11476,3.5,Osteoporosis,osteoporosis,0.875
+http://purl.obolibrary.org/obo/HP_0000956,http://purl.obolibrary.org/obo/DOID_3138,3.5,Acanthosis nigricans,acanthosis nigricans,0.875
+http://purl.obolibrary.org/obo/HP_0000964,http://purl.obolibrary.org/obo/DOID_2723,3.5,Eczema,dermatitis,0.875
+http://purl.obolibrary.org/obo/HP_0000966,http://purl.obolibrary.org/obo/DOID_11155,3.5,Hypohidrosis,hypohidrosis,0.875
+http://purl.obolibrary.org/obo/HP_0000973,http://purl.obolibrary.org/obo/DOID_3144,3.5,Cutis laxa,cutis laxa,0.875
+http://purl.obolibrary.org/obo/HP_0000970,http://purl.obolibrary.org/obo/DOID_11156,3.5,Anhidrosis,anhidrosis,0.875
+http://purl.obolibrary.org/obo/HP_0000982,http://purl.obolibrary.org/obo/DOID_3390,3.5,Palmoplantar keratoderma,palmoplantar keratosis,0.875
+http://purl.obolibrary.org/obo/HP_0000991,http://purl.obolibrary.org/obo/DOID_3345,3.5,Xanthomatosis,xanthomatosis,0.875
+http://purl.obolibrary.org/obo/HP_0006824,http://purl.obolibrary.org/obo/DOID_3817,3.5,Cranial nerve paralysis,cranial nerve palsy,0.875
+http://purl.obolibrary.org/obo/HP_0010606,http://purl.obolibrary.org/obo/DOID_9909,3.5,Hordeolum,hordeolum,0.875
+http://purl.obolibrary.org/obo/HP_0010607,http://purl.obolibrary.org/obo/DOID_13134,3.5,Hordeolum externum,hordeolum externum,0.875
+http://purl.obolibrary.org/obo/HP_0010605,http://purl.obolibrary.org/obo/DOID_9903,3.5,Chalazion,meibomian cyst,0.875
+http://purl.obolibrary.org/obo/HP_0003560,http://purl.obolibrary.org/obo/DOID_9884,3.5,Muscular dystrophy,muscular dystrophy,0.875
+http://purl.obolibrary.org/obo/HP_0007018,http://purl.obolibrary.org/obo/DOID_1094,3.5,Attention deficit hyperactivity disorder,attention deficit hyperactivity disorder,0.875
+http://purl.obolibrary.org/obo/HP_0007024,http://purl.obolibrary.org/obo/DOID_12680,3.5,Pseudobulbar paralysis,pseudobulbar palsy,0.875
+http://purl.obolibrary.org/obo/HP_0001287,http://purl.obolibrary.org/obo/DOID_9471,3.5,Meningitis,meningitis,0.875
+http://purl.obolibrary.org/obo/HP_0010524,http://purl.obolibrary.org/obo/DOID_4090,3.5,Agnosia,agnosia,0.875
+http://purl.obolibrary.org/obo/HP_0010526,http://purl.obolibrary.org/obo/DOID_4540,3.5,Dysgraphia,dysgraphia,0.875
+http://purl.obolibrary.org/obo/HP_0010523,http://purl.obolibrary.org/obo/DOID_13417,3.5,Alexia,alexia,0.875
+http://purl.obolibrary.org/obo/HP_0010529,http://purl.obolibrary.org/obo/DOID_4188,3.5,Echolalia,echolalia,0.875
+http://purl.obolibrary.org/obo/HP_0010528,http://purl.obolibrary.org/obo/DOID_4970,3.5,Prosopagnosia,prosopagnosia,0.875
+http://purl.obolibrary.org/obo/HP_0010521,http://purl.obolibrary.org/obo/DOID_4260,3.5,Gait apraxia,gait apraxia,0.875
+http://purl.obolibrary.org/obo/HP_0010522,http://purl.obolibrary.org/obo/DOID_4428,3.5,Dyslexia,dyslexia,0.875
+http://purl.obolibrary.org/obo/HP_0009588,http://purl.obolibrary.org/obo/DOID_12689,3.5,Vestibular Schwannoma,acoustic neuroma,0.875
+http://purl.obolibrary.org/obo/HP_0009592,http://purl.obolibrary.org/obo/DOID_3069,3.5,Astrocytoma,astrocytoma,0.875
+http://purl.obolibrary.org/obo/HP_0100008,http://purl.obolibrary.org/obo/DOID_3192,3.5,Schwannoma,neurilemmoma,0.875
+http://purl.obolibrary.org/obo/HP_0010536,http://purl.obolibrary.org/obo/DOID_9220,3.5,Central sleep apnea,central sleep apnea,0.875
+http://purl.obolibrary.org/obo/HP_0010534,http://purl.obolibrary.org/obo/DOID_13027,3.5,Transient global amnesia,transient global amnesia,0.875
+http://purl.obolibrary.org/obo/HP_0010542,http://purl.obolibrary.org/obo/DOID_14070,3.5,Vestibular nystagmus,vestibular nystagmus,0.875
+http://purl.obolibrary.org/obo/HP_0010550,http://purl.obolibrary.org/obo/DOID_607,3.5,Paraplegia,paraplegia,0.875
+http://purl.obolibrary.org/obo/HP_0007209,http://purl.obolibrary.org/obo/DOID_13934,3.5,Facial paralysis,facial paralysis,0.875
+http://purl.obolibrary.org/obo/HP_0007215,http://purl.obolibrary.org/obo/DOID_14451,3.5,Periodic hyperkalemic paralysis,hyperkalemic periodic paralysis,0.875
+http://purl.obolibrary.org/obo/HP_0010886,http://purl.obolibrary.org/obo/DOID_84,3.5,Osteochondritis Dissecans,osteochondritis dissecans,0.875
+http://purl.obolibrary.org/obo/HP_0040188,http://purl.obolibrary.org/obo/DOID_8125,3.5,Osteochondrosis,osteochondrosis,0.875
+http://purl.obolibrary.org/obo/HP_0009831,http://purl.obolibrary.org/obo/DOID_1188,3.5,Mononeuropathy,mononeuropathy,0.875
+http://purl.obolibrary.org/obo/HP_0001339,http://purl.obolibrary.org/obo/DOID_0050453,3.5,Lissencephaly,lissencephaly,0.875
+http://purl.obolibrary.org/obo/HP_0001635,http://purl.obolibrary.org/obo/DOID_6000,3.5,Congestive heart failure,congestive heart failure,0.875
+http://purl.obolibrary.org/obo/HP_0009806,http://purl.obolibrary.org/obo/DOID_12387,3.5,Nephrogenic diabetes insipidus,nephrogenic diabetes insipidus,0.875
+http://purl.obolibrary.org/obo/HP_0010735,http://purl.obolibrary.org/obo/DOID_1858,3.5,Polyostotic fibrous dysplasia,McCune Albright syndrome,0.875
+http://purl.obolibrary.org/obo/HP_0010739,http://purl.obolibrary.org/obo/DOID_11991,3.5,Osteopoikilosis,osteopoikilosis,0.875
+http://purl.obolibrary.org/obo/HP_0009741,http://purl.obolibrary.org/obo/DOID_11664,3.5,Nephrosclerosis,nephrosclerosis,0.875
+http://purl.obolibrary.org/obo/HP_0010749,http://purl.obolibrary.org/obo/DOID_348,3.5,Blepharochalasis,blepharochalasis,0.875
+http://purl.obolibrary.org/obo/HP_0001059,http://purl.obolibrary.org/obo/DOID_0002116,3.5,Pterygium,pterygium,0.875
+http://purl.obolibrary.org/obo/HP_0010762,http://purl.obolibrary.org/obo/DOID_3302,3.5,Chordoma,chordoma,0.875
+http://purl.obolibrary.org/obo/HP_0010797,http://purl.obolibrary.org/obo/DOID_5241,3.5,Hemangioblastoma,hemangioblastoma,0.875
+http://purl.obolibrary.org/obo/HP_0030421,http://purl.obolibrary.org/obo/DOID_512,3.5,Epididymal neoplasm,epididymal neoplasm,0.875
+http://purl.obolibrary.org/obo/HP_0010786,http://purl.obolibrary.org/obo/DOID_731,3.5,Urinary tract neoplasm,urinary system benign neoplasm,0.875
+http://purl.obolibrary.org/obo/HP_0009732,http://purl.obolibrary.org/obo/DOID_5151,3.5,Plexiform neurofibroma,plexiform neurofibroma,0.875
+http://purl.obolibrary.org/obo/HP_0009734,http://purl.obolibrary.org/obo/DOID_4992,3.5,Optic nerve glioma,optic nerve glioma,0.875
+http://purl.obolibrary.org/obo/HP_0009797,http://purl.obolibrary.org/obo/DOID_869,3.5,Cholesteatoma,cholesteatoma,0.875
+http://purl.obolibrary.org/obo/HP_0010799,http://purl.obolibrary.org/obo/DOID_5032,3.5,Pinealoma,pineal gland cancer,0.875
+http://purl.obolibrary.org/obo/HP_0007479,http://purl.obolibrary.org/obo/DOID_1699,3.5,Congenital nonbullous ichthyosiform erythroderma,congenital ichthyosiform erythroderma,0.875
+http://purl.obolibrary.org/obo/HP_0007431,http://purl.obolibrary.org/obo/DOID_1699,3.5,Congenital ichthyosiform erythroderma,congenital ichthyosiform erythroderma,0.875
+http://purl.obolibrary.org/obo/HP_0007475,http://purl.obolibrary.org/obo/DOID_4603,3.5,Congenital bullous ichthyosiform erythroderma,epidermolytic hyperkeratosis,0.875
+http://purl.obolibrary.org/obo/HP_0008064,http://purl.obolibrary.org/obo/DOID_1697,3.5,Ichthyosis,ichthyosis,0.875
+http://purl.obolibrary.org/obo/HP_0001009,http://purl.obolibrary.org/obo/DOID_1272,3.5,Telangiectasia,telangiectasis,0.875
+http://purl.obolibrary.org/obo/HP_0001048,http://purl.obolibrary.org/obo/DOID_483,3.5,Cavernous hemangioma,cavernous hemangioma,0.875
+http://purl.obolibrary.org/obo/HP_0001888,http://purl.obolibrary.org/obo/DOID_614,3.5,Lymphopenia,lymphopenia,0.875
+http://purl.obolibrary.org/obo/HP_0001903,http://purl.obolibrary.org/obo/DOID_2355,3.5,Anemia,anemia,0.875
+http://purl.obolibrary.org/obo/HP_0010981,http://purl.obolibrary.org/obo/DOID_1387,3.5,Hypolipoproteinemia,hypolipoproteinemia,0.875
+http://purl.obolibrary.org/obo/HP_0007354,http://purl.obolibrary.org/obo/DOID_332,3.5,Amyotrophic lateral sclerosis,amyotrophic lateral sclerosis,0.875
+http://purl.obolibrary.org/obo/HP_0009919,http://purl.obolibrary.org/obo/DOID_768,3.5,Retinoblastoma,retinoblastoma,0.875
+http://purl.obolibrary.org/obo/HP_0009926,http://purl.obolibrary.org/obo/DOID_13757,3.5,Epiphora,excessive tearing,0.875
+http://purl.obolibrary.org/obo/HP_0030004,http://purl.obolibrary.org/obo/DOID_13038,3.5,Cicatricial lagophthalmos,cicatricial lagophthalmos,0.875
+http://purl.obolibrary.org/obo/HP_0030003,http://purl.obolibrary.org/obo/DOID_12958,3.5,Paralytic lagophthalmos,paralytic lagophthalmos,0.875
+http://purl.obolibrary.org/obo/HP_0001369,http://purl.obolibrary.org/obo/DOID_848,3.5,Arthritis,arthritis,0.875
+http://purl.obolibrary.org/obo/HP_0007642,http://purl.obolibrary.org/obo/DOID_0050534,3.5,Congenital stationary night blindness,congenital stationary night blindness,0.875
+http://purl.obolibrary.org/obo/HP_0007769,http://purl.obolibrary.org/obo/DOID_12161,3.5,Peripheral retinal degeneration,peripheral retinal degeneration,0.875
+http://purl.obolibrary.org/obo/HP_0030068,http://purl.obolibrary.org/obo/DOID_369,3.5,Olfactory esthesioneuroblastoma,olfactory neuroblastoma,0.875
+http://purl.obolibrary.org/obo/HP_0003006,http://purl.obolibrary.org/obo/DOID_769,3.5,Neuroblastoma,neuroblastoma,0.875
+http://purl.obolibrary.org/obo/HP_0030066,http://purl.obolibrary.org/obo/DOID_4794,3.5,Ependymoblastoma,ependymoblastoma,0.875
+http://purl.obolibrary.org/obo/HP_0030062,http://purl.obolibrary.org/obo/DOID_3840,3.5,Craniopharyngioma,craniopharyngioma,0.875
+http://purl.obolibrary.org/obo/HP_0030050,http://purl.obolibrary.org/obo/DOID_8986,3.5,Narcolepsy,narcolepsy,0.875
+http://purl.obolibrary.org/obo/HP_0030080,http://purl.obolibrary.org/obo/DOID_8584,3.5,Burkitt lymphoma,Burkitt lymphoma,0.875
+http://purl.obolibrary.org/obo/HP_0030071,http://purl.obolibrary.org/obo/DOID_4790,3.5,Medulloepithelioma,medulloepithelioma,0.875
+http://purl.obolibrary.org/obo/HP_0030072,http://purl.obolibrary.org/obo/DOID_1350,3.5,Paranasal sinus neoplasm,paranasal sinus neoplasm,0.875
+http://purl.obolibrary.org/obo/HP_0030079,http://purl.obolibrary.org/obo/DOID_4362,3.5,Cervix cancer,cervical cancer,0.875
+http://purl.obolibrary.org/obo/HP_0030077,http://purl.obolibrary.org/obo/DOID_3906,3.5,Bronchial neoplasm,bronchial neoplasm,0.875
+http://purl.obolibrary.org/obo/HP_0030078,http://purl.obolibrary.org/obo/DOID_3910,3.5,Lung adenocarcinoma,lung adenocarcinoma,0.875
+http://purl.obolibrary.org/obo/HP_0030358,http://purl.obolibrary.org/obo/DOID_3908,3.5,Non-small cell lung carcinoma,non-small cell lung carcinoma,0.875
+http://purl.obolibrary.org/obo/HP_0007607,http://purl.obolibrary.org/obo/DOID_14793,3.5,Hypohidrotic ectodermal dysplasia,hypohidrotic ectodermal dysplasia,0.875
+http://purl.obolibrary.org/obo/HP_0001138,http://purl.obolibrary.org/obo/DOID_1891,3.5,Optic neuropathy,optic nerve disease,0.875
+http://purl.obolibrary.org/obo/HP_0001051,http://purl.obolibrary.org/obo/DOID_8741,3.5,Seborrheic dermatitis,seborrheic dermatitis,0.875
+http://purl.obolibrary.org/obo/HP_0001047,http://purl.obolibrary.org/obo/DOID_3310,3.5,Atopic dermatitis,atopic dermatitis,0.875
+http://purl.obolibrary.org/obo/HP_0007529,http://purl.obolibrary.org/obo/DOID_14693,3.5,Hidrotic ectodermal dysplasia,Clouston syndrome,0.875
+http://purl.obolibrary.org/obo/HP_0007544,http://purl.obolibrary.org/obo/DOID_3263,3.5,Piebaldism,piebaldism,0.875
+http://purl.obolibrary.org/obo/HP_0005263,http://purl.obolibrary.org/obo/DOID_4029,3.5,Gastritis,gastritis,0.875
+http://purl.obolibrary.org/obo/HP_0030242,http://purl.obolibrary.org/obo/DOID_11695,3.5,Portal vein thrombosis,portal vein thrombosis,0.875
+http://purl.obolibrary.org/obo/HP_0030243,http://purl.obolibrary.org/obo/DOID_11512,3.5,Hepatic vein thrombosis,Budd-Chiari syndrome,0.875
+http://purl.obolibrary.org/obo/HP_0001131,http://purl.obolibrary.org/obo/DOID_2566,3.5,Corneal dystrophy,corneal dystrophy,0.875
+http://purl.obolibrary.org/obo/HP_0007898,http://purl.obolibrary.org/obo/DOID_7765,3.5,Exudative retinopathy,Coats disease,0.875
+http://purl.obolibrary.org/obo/HP_0001733,http://purl.obolibrary.org/obo/DOID_4989,3.5,Pancreatitis,pancreatitis,0.875
+http://purl.obolibrary.org/obo/HP_0005912,http://purl.obolibrary.org/obo/DOID_13608,3.5,Biliary atresia,biliary atresia,0.875
+http://purl.obolibrary.org/obo/HP_0006934,http://purl.obolibrary.org/obo/DOID_9649,3.5,Congenital nystagmus,congenital nystagmus,0.875
+http://purl.obolibrary.org/obo/HP_0007868,http://purl.obolibrary.org/obo/DOID_10871,3.5,Age-related macular degeneration,age related macular degeneration,0.875
+http://purl.obolibrary.org/obo/HP_0007879,http://purl.obolibrary.org/obo/DOID_11204,3.5,Allergic conjunctivitis,allergic conjunctivitis,0.875
+http://purl.obolibrary.org/obo/HP_0007802,http://purl.obolibrary.org/obo/DOID_12318,3.5,Granular corneal dystrophy,corneal granular dystrophy,0.875
+http://purl.obolibrary.org/obo/HP_0007824,http://purl.obolibrary.org/obo/DOID_539,3.5,Total ophthalmoplegia,ophthalmoplegia,0.875
+http://purl.obolibrary.org/obo/HP_0001639,http://purl.obolibrary.org/obo/DOID_11984,3.5,Hypertrophic cardiomyopathy,hypertrophic cardiomyopathy,0.875
+http://purl.obolibrary.org/obo/HP_0005160,http://purl.obolibrary.org/obo/DOID_4297,3.5,Total anomalous pulmonary venous return,scimitar syndrome,0.875
+http://purl.obolibrary.org/obo/HP_0001682,http://purl.obolibrary.org/obo/DOID_5805,3.5,Subvalvular aortic stenosis,subvalvular aortic stenosis,0.875
+http://purl.obolibrary.org/obo/HP_0005180,http://purl.obolibrary.org/obo/DOID_4080,3.5,Tricuspid regurgitation,tricuspid valve insufficiency,0.875
+http://purl.obolibrary.org/obo/HP_0007763,http://purl.obolibrary.org/obo/DOID_7736,3.5,Retinal telangiectasia,retinal telangiectasia,0.875
+http://purl.obolibrary.org/obo/HP_0007777,http://purl.obolibrary.org/obo/DOID_11086,3.5,Chorioretinal scar,chorioretinal scar,0.875
+http://purl.obolibrary.org/obo/HP_0030160,http://purl.obolibrary.org/obo/DOID_2568,3.5,Cervicitis,cervicitis,0.875
+http://purl.obolibrary.org/obo/HP_0030153,http://purl.obolibrary.org/obo/DOID_4947,3.5,Cholangiocarcinoma,cholangiocarcinoma,0.875
+http://purl.obolibrary.org/obo/HP_0007705,http://purl.obolibrary.org/obo/DOID_1237,3.5,Corneal degeneration,corneal degeneration,0.875
+http://purl.obolibrary.org/obo/HP_0030426,http://purl.obolibrary.org/obo/DOID_180,3.5,Ossifying fibroma,ossifying fibroma,0.875
+http://purl.obolibrary.org/obo/HP_0030416,http://purl.obolibrary.org/obo/DOID_1245,3.5,Vulvar neoplasm,vulva cancer,0.875
+http://purl.obolibrary.org/obo/HP_0030418,http://purl.obolibrary.org/obo/DOID_2093,3.5,Vulvar melanoma,vulvar melanoma,0.875
+http://purl.obolibrary.org/obo/HP_0001363,http://purl.obolibrary.org/obo/DOID_2340,3.5,Craniosynostosis,craniosynostosis,0.875
+http://purl.obolibrary.org/obo/HP_0030442,http://purl.obolibrary.org/obo/DOID_12239,3.5,Anal margin squamous cell carcinoma,anal margin squamous cell carcinoma,0.875
+http://purl.obolibrary.org/obo/HP_0030443,http://purl.obolibrary.org/obo/DOID_4283,3.5,Anal margin basal cell carcinoma,anal margin basal cell carcinoma,0.875
+http://purl.obolibrary.org/obo/HP_0030439,http://purl.obolibrary.org/obo/DOID_3692,3.5,Anal canal adenocarcinoma,anal canal adenocarcinoma,0.875
+http://purl.obolibrary.org/obo/HP_0030438,http://purl.obolibrary.org/obo/DOID_7177,3.5,Anal canal squamous cell carcinoma,anal canal squamous cell carcinoma,0.875
+http://purl.obolibrary.org/obo/HP_0030434,http://purl.obolibrary.org/obo/DOID_5374,3.5,Pilomatrixoma,pilomatrixoma,0.875
+http://purl.obolibrary.org/obo/HP_0030432,http://purl.obolibrary.org/obo/DOID_2649,3.5,Chondroblastoma,chondroblastoma,0.875
+http://purl.obolibrary.org/obo/HP_0030430,http://purl.obolibrary.org/obo/DOID_2001,3.5,Neuroma,neuroma,0.875
+http://purl.obolibrary.org/obo/HP_0005432,http://purl.obolibrary.org/obo/DOID_624,3.5,Transient hypogammaglobulinemia of infancy,transient hypogammaglobulinemia of infancy,0.875
+http://purl.obolibrary.org/obo/HP_0030406,http://purl.obolibrary.org/obo/DOID_1791,3.5,Primary peritoneal carcinoma,peritoneal carcinoma,0.875
+http://purl.obolibrary.org/obo/HP_0030408,http://purl.obolibrary.org/obo/DOID_1664,3.5,Pineoblastoma,pineoblastoma,0.875
+http://purl.obolibrary.org/obo/HP_0005387,http://purl.obolibrary.org/obo/DOID_628,3.5,Combined immunodeficiency,combined T cell and B cell immunodeficiency,0.875
+http://purl.obolibrary.org/obo/HP_0030360,http://purl.obolibrary.org/obo/DOID_4556,3.5,Large cell lung carcinoma,lung large cell carcinoma,0.875
+http://purl.obolibrary.org/obo/HP_0030359,http://purl.obolibrary.org/obo/DOID_3907,3.5,Squamous cell lung carcinoma,lung squamous cell carcinoma,0.875
+http://purl.obolibrary.org/obo/HP_0030357,http://purl.obolibrary.org/obo/DOID_5409,3.5,Small cell lung carcinoma,lung small cell carcinoma,0.875
+http://purl.obolibrary.org/obo/HP_0030394,http://purl.obolibrary.org/obo/DOID_1963,3.5,Fallopian tube carcinoma,fallopian tube carcinoma,0.875
+http://purl.obolibrary.org/obo/HP_0030392,http://purl.obolibrary.org/obo/DOID_5648,3.5,Choroid plexus carcinoma,choroid plexus carcinoma,0.875
+http://purl.obolibrary.org/obo/HP_0007915,http://purl.obolibrary.org/obo/DOID_0060457,3.5,Polymorphous posterior corneal dystrophy,posterior polymorphous corneal dystrophy,0.875
+http://purl.obolibrary.org/obo/HP_0005321,http://purl.obolibrary.org/obo/DOID_2908,3.5,Mandibulofacial dysostosis,Treacher Collins syndrome,0.875
+http://purl.obolibrary.org/obo/HP_0004439,http://purl.obolibrary.org/obo/DOID_2339,3.5,Craniofacial dysostosis,Crouzon syndrome,0.875
+http://purl.obolibrary.org/obo/HP_0007992,http://purl.obolibrary.org/obo/DOID_12165,3.5,Lattice retinal degeneration,retinal lattice degeneration,0.875
+http://purl.obolibrary.org/obo/HP_0003095,http://purl.obolibrary.org/obo/DOID_813,3.5,Septic arthritis,septic arthritis,0.875
+http://purl.obolibrary.org/obo/HP_0040049,http://purl.obolibrary.org/obo/DOID_4449,3.5,Macular edema,macular retinal edema,0.875
+http://purl.obolibrary.org/obo/HP_0030692,http://purl.obolibrary.org/obo/DOID_1319,3.5,Brain neoplasm,brain cancer,0.875
+http://purl.obolibrary.org/obo/HP_0001144,http://purl.obolibrary.org/obo/DOID_14233,3.5,Orbital cyst,orbital cyst,0.875
+http://purl.obolibrary.org/obo/HP_0030683,http://purl.obolibrary.org/obo/DOID_2170,3.5,Vaginitis,vaginitis,0.875
+http://purl.obolibrary.org/obo/HP_0001045,http://purl.obolibrary.org/obo/DOID_12306,3.5,Vitiligo,vitiligo,0.875
+http://purl.obolibrary.org/obo/HP_0003003,http://purl.obolibrary.org/obo/DOID_219,3.5,Colon cancer,colon cancer,0.875
+http://purl.obolibrary.org/obo/HP_0003002,http://purl.obolibrary.org/obo/DOID_3459,3.5,Breast carcinoma,breast carcinoma,0.875
+http://purl.obolibrary.org/obo/HP_0030642,http://purl.obolibrary.org/obo/DOID_11105,3.5,Fundus albipunctatus,fundus albipunctatus,0.875
+http://purl.obolibrary.org/obo/HP_0001370,http://purl.obolibrary.org/obo/DOID_7148,3.5,Rheumatoid arthritis,rheumatoid arthritis,0.875
+http://purl.obolibrary.org/obo/HP_0005584,http://purl.obolibrary.org/obo/DOID_4450,3.5,Renal cell carcinoma,renal cell carcinoma,0.875
+http://purl.obolibrary.org/obo/HP_0005550,http://purl.obolibrary.org/obo/DOID_1040,3.5,Chronic lymphatic leukemia,chronic lymphocytic leukemia,0.875
+http://purl.obolibrary.org/obo/HP_0030511,http://purl.obolibrary.org/obo/DOID_0050335,3.5,Bradyopsia,bradyopsia,0.875
+http://purl.obolibrary.org/obo/HP_0005575,http://purl.obolibrary.org/obo/DOID_12554,3.5,Hemolytic-uremic syndrome,hemolytic-uremic syndrome,0.875
+http://purl.obolibrary.org/obo/HP_0030854,http://purl.obolibrary.org/obo/DOID_11595,3.5,Scleral staphyloma,scleral staphyloma,0.875
+http://purl.obolibrary.org/obo/HP_0003251,http://purl.obolibrary.org/obo/DOID_12336,3.5,Male infertility,male infertility,0.875
+http://purl.obolibrary.org/obo/HP_0030816,http://purl.obolibrary.org/obo/DOID_1134,3.5,Gingival recession,gingival recession,0.875
+http://purl.obolibrary.org/obo/HP_0001061,http://purl.obolibrary.org/obo/DOID_6543,3.5,Acne,acne,0.875
+http://purl.obolibrary.org/obo/HP_0040165,http://purl.obolibrary.org/obo/DOID_9957,3.5,Periostitis,periostitis,0.875
+http://purl.obolibrary.org/obo/HP_0030784,http://purl.obolibrary.org/obo/DOID_4541,3.5,Anomia,nominal aphasia,0.875
+http://purl.obolibrary.org/obo/HP_0030773,http://purl.obolibrary.org/obo/DOID_538,3.5,Internuclear ophthalmoplegia,internuclear ophthalmoplegia,0.875
+http://purl.obolibrary.org/obo/HP_0003193,http://purl.obolibrary.org/obo/DOID_4481,3.5,Allergic rhinitis,allergic rhinitis,0.875
+http://purl.obolibrary.org/obo/HP_0040197,http://purl.obolibrary.org/obo/DOID_2034,3.5,Encephalomalacia,encephalomalacia,0.875
+http://purl.obolibrary.org/obo/HP_0030731,http://purl.obolibrary.org/obo/DOID_305,3.5,Carcinoma,carcinoma,0.875
+http://purl.obolibrary.org/obo/HP_0003131,http://purl.obolibrary.org/obo/DOID_9266,3.5,Cystinuria,cystinuria,0.875
+http://purl.obolibrary.org/obo/HP_0030764,http://purl.obolibrary.org/obo/DOID_14223,3.5,Ochronosis,ochronosis,0.875
+http://purl.obolibrary.org/obo/HP_0030752,http://purl.obolibrary.org/obo/DOID_9939,3.5,Dacryocystocele,dacryocystocele,0.875
+http://purl.obolibrary.org/obo/HP_0003304,http://purl.obolibrary.org/obo/DOID_2300,3.5,Spondylolysis,spondylolysis,0.875
+http://purl.obolibrary.org/obo/HP_0003302,http://purl.obolibrary.org/obo/DOID_6682,3.5,Spondylolisthesis,spondylolisthesis,0.875
+http://purl.obolibrary.org/obo/HP_0005978,http://purl.obolibrary.org/obo/DOID_9352,3.5,Type II diabetes mellitus,type 2 diabetes mellitus,0.875
+http://purl.obolibrary.org/obo/HP_0003396,http://purl.obolibrary.org/obo/DOID_327,3.5,Syringomyelia,syringomyelia,0.875
+http://purl.obolibrary.org/obo/HP_0005994,http://purl.obolibrary.org/obo/DOID_13197,3.5,Nodular goiter,nodular goiter,0.875
+http://purl.obolibrary.org/obo/HP_0003535,http://purl.obolibrary.org/obo/DOID_0060336,3.5,3-Methylglutaconic aciduria,3-methylglutaconic aciduria,0.875
+http://purl.obolibrary.org/obo/HP_0003353,http://purl.obolibrary.org/obo/DOID_14701,3.5,Propionyl-CoA carboxylase deficiency,propionic acidemia,0.875
+http://purl.obolibrary.org/obo/HP_0001004,http://purl.obolibrary.org/obo/DOID_4977,3.5,Lymphedema,lymphedema,0.875
+http://purl.obolibrary.org/obo/HP_0001014,http://purl.obolibrary.org/obo/DOID_479,3.5,Angiokeratoma,angiokeratoma,0.875
+http://purl.obolibrary.org/obo/HP_0001071,http://purl.obolibrary.org/obo/DOID_14499,3.5,Angiokeratoma corporis diffusum,Fabry disease,0.875
+http://purl.obolibrary.org/obo/HP_0001084,http://purl.obolibrary.org/obo/DOID_11342,3.5,Corneal arcus,arcus senilis,0.875
+http://purl.obolibrary.org/obo/HP_0001085,http://purl.obolibrary.org/obo/DOID_146,3.5,Papilledema,papilledema,0.875
+http://purl.obolibrary.org/obo/HP_0001082,http://purl.obolibrary.org/obo/DOID_1949,3.5,Cholecystitis,cholecystitis,0.875
+http://purl.obolibrary.org/obo/HP_0001095,http://purl.obolibrary.org/obo/DOID_11561,3.5,Hypertensive retinopathy,hypertensive retinopathy,0.875
+http://purl.obolibrary.org/obo/HP_0001096,http://purl.obolibrary.org/obo/DOID_9368,3.5,Keratoconjunctivitis,keratoconjunctivitis,0.875
+http://purl.obolibrary.org/obo/HP_0001097,http://purl.obolibrary.org/obo/DOID_12895,3.5,Keratoconjunctivitis sicca,keratoconjunctivitis sicca,0.875
+http://purl.obolibrary.org/obo/HP_0001055,http://purl.obolibrary.org/obo/DOID_11330,3.5,Erysipelas,erysipelas,0.875
+http://purl.obolibrary.org/obo/HP_0001264,http://purl.obolibrary.org/obo/DOID_10965,3.5,Spastic diplegia,spastic diplegia,0.875
+http://purl.obolibrary.org/obo/HP_0001271,http://purl.obolibrary.org/obo/DOID_1389,3.5,Polyneuropathy,polyneuropathy,0.875
+http://purl.obolibrary.org/obo/HP_0003761,http://purl.obolibrary.org/obo/DOID_182,3.5,Calcinosis,calcinosis,0.875
+http://purl.obolibrary.org/obo/HP_0001101,http://purl.obolibrary.org/obo/DOID_1406,3.5,Iritis,iritis,0.875
+http://purl.obolibrary.org/obo/HP_0003763,http://purl.obolibrary.org/obo/DOID_2846,3.5,Bruxism,bruxism,0.875
+http://purl.obolibrary.org/obo/HP_0001137,http://purl.obolibrary.org/obo/DOID_9888,3.5,Alternating esotropia,alternating esotropia,0.875
+http://purl.obolibrary.org/obo/HP_0001139,http://purl.obolibrary.org/obo/DOID_9821,3.5,Choroideremia,choroideremia,0.875
+http://purl.obolibrary.org/obo/HP_0001132,http://purl.obolibrary.org/obo/DOID_11364,3.5,Lens subluxation,lens subluxation,0.875
+http://purl.obolibrary.org/obo/HP_0100259,http://purl.obolibrary.org/obo/DOID_1148,3.5,Postaxial polydactyly,polydactyly,0.875
+http://purl.obolibrary.org/obo/HP_0001402,http://purl.obolibrary.org/obo/DOID_684,3.5,Hepatocellular carcinoma,hepatocellular carcinoma,0.875
+http://purl.obolibrary.org/obo/HP_0001406,http://purl.obolibrary.org/obo/DOID_1852,3.5,Intrahepatic cholestasis,intrahepatic cholestasis,0.875
+http://purl.obolibrary.org/obo/HP_0001394,http://purl.obolibrary.org/obo/DOID_5082,3.5,Cirrhosis,liver cirrhosis,0.875
+http://purl.obolibrary.org/obo/HP_0001343,http://purl.obolibrary.org/obo/DOID_2382,3.5,Kernicterus,kernicterus,0.875
+http://purl.obolibrary.org/obo/HP_0025318,http://purl.obolibrary.org/obo/DOID_4001,3.5,Ovarian carcinoma,ovarian carcinoma,0.875
+http://purl.obolibrary.org/obo/HP_0001325,http://purl.obolibrary.org/obo/DOID_1607,3.5,Hypoglycemic coma,hypoglycemic coma,0.875
+http://purl.obolibrary.org/obo/HP_0001334,http://purl.obolibrary.org/obo/DOID_1573,3.5,Communicating hydrocephalus,communicating hydrocephalus,0.875
+http://purl.obolibrary.org/obo/HP_0001678,http://purl.obolibrary.org/obo/DOID_0050820,3.5,Atrioventricular block,atrioventricular block,0.875
+http://purl.obolibrary.org/obo/HP_0001706,http://purl.obolibrary.org/obo/DOID_12929,3.5,Endocardial fibroelastosis,endocardial fibroelastosis,0.875
+http://purl.obolibrary.org/obo/HP_0001704,http://purl.obolibrary.org/obo/DOID_5644,3.5,Tricuspid valve prolapse,tricuspid valve prolapse,0.875
+http://purl.obolibrary.org/obo/HP_0001716,http://purl.obolibrary.org/obo/DOID_384,3.5,Wolff-Parkinson-White syndrome,Wolff-Parkinson-White syndrome,0.875
+http://purl.obolibrary.org/obo/HP_0001718,http://purl.obolibrary.org/obo/DOID_1754,3.5,Mitral stenosis,mitral valve stenosis,0.875
+http://purl.obolibrary.org/obo/HP_0001719,http://purl.obolibrary.org/obo/DOID_6406,3.5,Double outlet right ventricle,double outlet right ventricle,0.875
+http://purl.obolibrary.org/obo/HP_0001723,http://purl.obolibrary.org/obo/DOID_397,3.5,Restrictive cardiomyopathy,restrictive cardiomyopathy,0.875
+http://purl.obolibrary.org/obo/HP_0001738,http://purl.obolibrary.org/obo/DOID_13316,3.5,Exocrine pancreatic insufficiency,exocrine pancreatic insufficiency,0.875
+http://purl.obolibrary.org/obo/HP_0001734,http://purl.obolibrary.org/obo/DOID_0060850,3.5,Annular pancreas,annular pancreas,0.875
+http://purl.obolibrary.org/obo/HP_0001735,http://purl.obolibrary.org/obo/DOID_2913,3.5,Acute pancreatitis,acute pancreatitis,0.875
+http://purl.obolibrary.org/obo/HP_0011002,http://purl.obolibrary.org/obo/DOID_13533,3.5,Osteopetrosis,osteopetrosis,0.875
+http://purl.obolibrary.org/obo/HP_0001698,http://purl.obolibrary.org/obo/DOID_118,3.5,Pericardial effusion,pericardial effusion,0.875
+http://purl.obolibrary.org/obo/HP_0001695,http://purl.obolibrary.org/obo/DOID_0060319,3.5,Cardiac arrest,cardiac arrest,0.875
+http://purl.obolibrary.org/obo/HP_0001651,http://purl.obolibrary.org/obo/DOID_9565,3.5,Dextrocardia,dextrocardia,0.875
+http://purl.obolibrary.org/obo/HP_0001629,http://purl.obolibrary.org/obo/DOID_1657,3.5,Ventricular septal defect,ventricular septal defect,0.875
+http://purl.obolibrary.org/obo/HP_0001634,http://purl.obolibrary.org/obo/DOID_988,3.5,Mitral valve prolapse,mitral valve prolapse,0.875
+http://purl.obolibrary.org/obo/HP_0001643,http://purl.obolibrary.org/obo/DOID_13832,3.5,Patent ductus arteriosus,patent ductus arteriosus,0.875
+http://purl.obolibrary.org/obo/HP_0001644,http://purl.obolibrary.org/obo/DOID_12930,3.5,Dilated cardiomyopathy,dilated cardiomyopathy,0.875
+http://purl.obolibrary.org/obo/HP_0001648,http://purl.obolibrary.org/obo/DOID_8515,3.5,Cor pulmonale,Cor pulmonale,0.875
+http://purl.obolibrary.org/obo/HP_0001653,http://purl.obolibrary.org/obo/DOID_11502,3.5,Mitral regurgitation,mitral valve insufficiency,0.875
+http://purl.obolibrary.org/obo/HP_0001655,http://purl.obolibrary.org/obo/DOID_13620,3.5,Patent foramen ovale,patent foramen ovale,0.875
+http://purl.obolibrary.org/obo/HP_0001650,http://purl.obolibrary.org/obo/DOID_1712,3.5,Aortic valve stenosis,aortic valve stenosis,0.875
+http://purl.obolibrary.org/obo/HP_0001658,http://purl.obolibrary.org/obo/DOID_5844,3.5,Myocardial infarction,myocardial infarction,0.875
+http://purl.obolibrary.org/obo/HP_0001659,http://purl.obolibrary.org/obo/DOID_57,3.5,Aortic regurgitation,aortic valve insufficiency,0.875
+http://purl.obolibrary.org/obo/HP_0001543,http://purl.obolibrary.org/obo/DOID_11044,3.5,Gastroschisis,gastroschisis,0.875
+http://purl.obolibrary.org/obo/HP_0001561,http://purl.obolibrary.org/obo/DOID_8488,3.5,Polyhydramnios,polyhydramnios,0.875
+http://purl.obolibrary.org/obo/HP_0001562,http://purl.obolibrary.org/obo/DOID_12215,3.5,Oligohydramnios,oligohydramnios,0.875
+http://purl.obolibrary.org/obo/HP_0001901,http://purl.obolibrary.org/obo/DOID_8432,3.5,Polycythemia,polycythemia,0.875
+http://purl.obolibrary.org/obo/HP_0001876,http://purl.obolibrary.org/obo/DOID_12450,3.5,Pancytopenia,pancytopenia,0.875
+http://purl.obolibrary.org/obo/HP_0001882,http://purl.obolibrary.org/obo/DOID_615,3.5,Leukopenia,leukopenia,0.875
+http://purl.obolibrary.org/obo/HP_0001997,http://purl.obolibrary.org/obo/DOID_13189,3.5,Gout,gout,0.875
+http://purl.obolibrary.org/obo/HP_0002149,http://purl.obolibrary.org/obo/DOID_1920,3.5,Hyperuricemia,hyperuricemia,0.875
+http://purl.obolibrary.org/obo/HP_0001953,http://purl.obolibrary.org/obo/DOID_1837,3.5,Diabetic ketoacidosis,diabetic ketoacidosis,0.875
+http://purl.obolibrary.org/obo/HP_0001971,http://purl.obolibrary.org/obo/DOID_6376,3.5,Hypersplenism,hypersplenism,0.875
+http://purl.obolibrary.org/obo/HP_0001818,http://purl.obolibrary.org/obo/DOID_13117,3.5,Paronychia,paronychia,0.875
+http://purl.obolibrary.org/obo/HP_0001880,http://purl.obolibrary.org/obo/DOID_999,3.5,Eosinophilia,hypereosinophilic syndrome,0.875
+http://purl.obolibrary.org/obo/HP_0001897,http://purl.obolibrary.org/obo/DOID_720,3.5,Normocytic anemia,normocytic anemia,0.875
+http://purl.obolibrary.org/obo/HP_0001894,http://purl.obolibrary.org/obo/DOID_2228,3.5,Thrombocytosis,thrombocytosis,0.875
+http://purl.obolibrary.org/obo/HP_0001890,http://purl.obolibrary.org/obo/DOID_718,3.5,Autoimmune hemolytic anemia,autoimmune hemolytic anemia,0.875
+http://purl.obolibrary.org/obo/HP_0011110,http://purl.obolibrary.org/obo/DOID_10456,3.5,Tonsillitis,tonsillitis,0.875
+http://purl.obolibrary.org/obo/HP_0011505,http://purl.obolibrary.org/obo/DOID_4447,3.5,Cystoid macular edema,cystoid macular edema,0.875
+http://purl.obolibrary.org/obo/HP_0011508,http://purl.obolibrary.org/obo/DOID_7633,3.5,Macular hole,macular holes,0.875
+http://purl.obolibrary.org/obo/HP_0011958,http://purl.obolibrary.org/obo/DOID_12514,3.5,Retinal perforation,retinal perforation,0.875
+http://purl.obolibrary.org/obo/HP_0011522,http://purl.obolibrary.org/obo/DOID_13910,3.5,Protanopia,red color blindness,0.875
+http://purl.obolibrary.org/obo/HP_0011521,http://purl.obolibrary.org/obo/DOID_13909,3.5,Deuteranopia,red-green color blindness,0.875
+http://purl.obolibrary.org/obo/HP_0011496,http://purl.obolibrary.org/obo/DOID_11382,3.5,Corneal neovascularization,corneal neovascularization,0.875
+http://purl.obolibrary.org/obo/HP_0100021,http://purl.obolibrary.org/obo/DOID_1969,3.5,Cerebral palsy,cerebral palsy,0.875
+http://purl.obolibrary.org/obo/HP_0011459,http://purl.obolibrary.org/obo/DOID_1107,3.5,Esophageal carcinoma,esophageal carcinoma,0.875
+http://purl.obolibrary.org/obo/HP_0011708,http://purl.obolibrary.org/obo/DOID_11312,3.5,Mobitz II atrioventricular block,Mobitz type II atrioventricular block,0.875
+http://purl.obolibrary.org/obo/HP_0011704,http://purl.obolibrary.org/obo/DOID_13884,3.5,Sick sinus syndrome,sick sinus syndrome,0.875
+http://purl.obolibrary.org/obo/HP_0100584,http://purl.obolibrary.org/obo/DOID_10314,3.5,Endocarditis,endocarditis,0.875
+http://purl.obolibrary.org/obo/HP_0011726,http://purl.obolibrary.org/obo/DOID_13042,3.5,Persistent fetal circulation,persistent fetal circulation syndrome,0.875
+http://purl.obolibrary.org/obo/HP_0011736,http://purl.obolibrary.org/obo/DOID_446,3.5,Primary hyperaldosteronism,primary hyperaldosteronism,0.875
+http://purl.obolibrary.org/obo/HP_0011782,http://purl.obolibrary.org/obo/DOID_12837,3.5,Thyroid crisis,thyroid crisis,0.875
+http://purl.obolibrary.org/obo/HP_0006766,http://purl.obolibrary.org/obo/DOID_4465,3.5,Papillary renal cell carcinoma,papillary renal cell carcinoma,0.875
+http://purl.obolibrary.org/obo/HP_0011798,http://purl.obolibrary.org/obo/DOID_6245,3.5,Renal oncocytoma,renal oncocytoma,0.875
+http://purl.obolibrary.org/obo/HP_0011763,http://purl.obolibrary.org/obo/DOID_4916,3.5,Pituitary carcinoma,pituitary carcinoma,0.875
+http://purl.obolibrary.org/obo/HP_0045054,http://purl.obolibrary.org/obo/DOID_3690,3.5,Brachial plexus neuropathy,brachial plexus neuropathy,0.875
+http://purl.obolibrary.org/obo/HP_0100537,http://purl.obolibrary.org/obo/DOID_9598,3.5,Fasciitis,fasciitis,0.875
+http://purl.obolibrary.org/obo/HP_0045038,http://purl.obolibrary.org/obo/DOID_10540,3.5,Gastric lymphoma,gastric lymphoma,0.875
+http://purl.obolibrary.org/obo/HP_0011945,http://purl.obolibrary.org/obo/DOID_0050157,3.5,Bronchiolitis obliterans organizing pneumonia,cryptogenic organizing pneumonia,0.875
+http://purl.obolibrary.org/obo/HP_0011946,http://purl.obolibrary.org/obo/DOID_2799,3.5,Bronchiolitis obliterans,bronchiolitis obliterans,0.875
+http://purl.obolibrary.org/obo/HP_0011953,http://purl.obolibrary.org/obo/DOID_6760,3.5,Pulmonary lymphoma,lung lymphoma,0.875
+http://purl.obolibrary.org/obo/HP_0011951,http://purl.obolibrary.org/obo/DOID_0050152,3.5,Aspiration pneumonia,aspiration pneumonia,0.875
+http://purl.obolibrary.org/obo/HP_0002090,http://purl.obolibrary.org/obo/DOID_552,3.5,Pneumonia,pneumonia,0.875
+http://purl.obolibrary.org/obo/HP_0011950,http://purl.obolibrary.org/obo/DOID_2942,3.5,Bronchiolitis,bronchiolitis,0.875
+http://purl.obolibrary.org/obo/HP_0011974,http://purl.obolibrary.org/obo/DOID_4971,3.5,Myelofibrosis,myelofibrosis,0.875
+http://purl.obolibrary.org/obo/HP_0011971,http://purl.obolibrary.org/obo/DOID_743,3.5,Dermatographic urticaria,dermatographia,0.875
+http://purl.obolibrary.org/obo/HP_0011919,http://purl.obolibrary.org/obo/DOID_3798,3.5,Pleural empyema,pleural empyema,0.875
+http://purl.obolibrary.org/obo/HP_0011857,http://purl.obolibrary.org/obo/DOID_3721,3.5,Plasmacytoma,plasmacytoma,0.875
+http://purl.obolibrary.org/obo/HP_0008200,http://purl.obolibrary.org/obo/DOID_11202,3.5,Primary hyperparathyroidism,primary hyperparathyroidism,0.875
+http://purl.obolibrary.org/obo/HP_0011850,http://purl.obolibrary.org/obo/DOID_10301,3.5,Parotitis,parotitis,0.875
+http://purl.obolibrary.org/obo/HP_0011851,http://purl.obolibrary.org/obo/DOID_11482,3.5,Hemopericardium,hemopericardium,0.875
+http://purl.obolibrary.org/obo/HP_0008288,http://purl.obolibrary.org/obo/DOID_9268,3.5,Nonketotic hyperglycinemia,glycine encephalopathy,0.875
+http://purl.obolibrary.org/obo/HP_0008242,http://purl.obolibrary.org/obo/DOID_4479,3.5,Pseudohypoaldosteronism,pseudohypoaldosteronism,0.875
+http://purl.obolibrary.org/obo/HP_0011892,http://purl.obolibrary.org/obo/DOID_11249,3.5,Vitamin K deficiency,vitamin K deficiency hemorrhagic disease,0.875
+http://purl.obolibrary.org/obo/HP_0008181,http://purl.obolibrary.org/obo/DOID_1386,3.5,Abetalipoproteinemia,abetalipoproteinemia,0.875
+http://purl.obolibrary.org/obo/HP_0200022,http://purl.obolibrary.org/obo/DOID_2626,3.5,Choroid plexus papilloma,choroid plexus papilloma,0.875
+http://purl.obolibrary.org/obo/HP_0200023,http://purl.obolibrary.org/obo/DOID_9286,3.5,Priapism,priapism,0.875
+http://purl.obolibrary.org/obo/HP_0008722,http://purl.obolibrary.org/obo/DOID_9341,3.5,Urethral diverticulum,urethral diverticulum,0.875
+http://purl.obolibrary.org/obo/HP_0200058,http://purl.obolibrary.org/obo/DOID_0001816,3.5,Angiosarcoma,angiosarcoma,0.875
+http://purl.obolibrary.org/obo/HP_0200044,http://purl.obolibrary.org/obo/DOID_3805,3.5,Porokeratosis,porokeratosis,0.875
+http://purl.obolibrary.org/obo/HP_0008653,http://purl.obolibrary.org/obo/DOID_13139,3.5,Crescentic glomerulonephritis,crescentic glomerulonephritis,0.875
+http://purl.obolibrary.org/obo/HP_0008663,http://purl.obolibrary.org/obo/DOID_4242,3.5,Renal sarcoma,kidney sarcoma,0.875
+http://purl.obolibrary.org/obo/HP_0008677,http://purl.obolibrary.org/obo/DOID_2590,3.5,Congenital nephrotic syndrome,familial nephrotic syndrome,0.875
+http://purl.obolibrary.org/obo/HP_0200123,http://purl.obolibrary.org/obo/DOID_2237,3.5,Chronic hepatitis,hepatitis,0.875
+http://purl.obolibrary.org/obo/HP_0008682,http://purl.obolibrary.org/obo/DOID_12556,3.5,Acute tubular necrosis,acute kidney tubular necrosis,0.875
+http://purl.obolibrary.org/obo/HP_0100324,http://purl.obolibrary.org/obo/DOID_419,3.5,Scleroderma,scleroderma,0.875
+http://purl.obolibrary.org/obo/HP_0200151,http://purl.obolibrary.org/obo/DOID_3663,3.5,Cutaneous mastocytosis,cutaneous mastocytosis,0.875
+http://purl.obolibrary.org/obo/HP_0100495,http://purl.obolibrary.org/obo/DOID_350,3.5,Mastocytosis,mastocytosis,0.875
+http://purl.obolibrary.org/obo/HP_0006510,http://purl.obolibrary.org/obo/DOID_3083,3.5,Chronic obstructive pulmonary disease,chronic obstructive pulmonary disease,0.875
+http://purl.obolibrary.org/obo/HP_0100001,http://purl.obolibrary.org/obo/DOID_1790,3.5,Malignant mesothelioma,malignant mesothelioma,0.875
+http://purl.obolibrary.org/obo/HP_0100003,http://purl.obolibrary.org/obo/DOID_1788,3.5,Peritoneal mesothelioma,peritoneal mesothelioma,0.875
+http://purl.obolibrary.org/obo/HP_0100004,http://purl.obolibrary.org/obo/DOID_6201,3.5,Pericardial mesothelioma,pericardial mesothelioma,0.875
+http://purl.obolibrary.org/obo/HP_0100009,http://purl.obolibrary.org/obo/DOID_3565,3.5,Intracranial meningioma,meningioma,0.875
+http://purl.obolibrary.org/obo/HP_0100010,http://purl.obolibrary.org/obo/DOID_1138,3.5,Spinal meningioma,spinal meningioma,0.875
+http://purl.obolibrary.org/obo/HP_0006755,http://purl.obolibrary.org/obo/DOID_5273,3.5,Cutaneous leiomyosarcoma,cutaneous leiomyosarcoma,0.875
+http://purl.obolibrary.org/obo/HP_0006765,http://purl.obolibrary.org/obo/DOID_3371,3.5,Chondrosarcoma,chondrosarcoma,0.875
+http://purl.obolibrary.org/obo/HP_0006779,http://purl.obolibrary.org/obo/DOID_4051,3.5,Alveolar rhabdomyosarcoma,alveolar rhabdomyosarcoma,0.875
+http://purl.obolibrary.org/obo/HP_0006775,http://purl.obolibrary.org/obo/DOID_9538,3.5,Multiple myeloma,multiple myeloma,0.875
+http://purl.obolibrary.org/obo/HP_0006771,http://purl.obolibrary.org/obo/DOID_10816,3.5,Duodenal adenocarcinoma,duodenum adenocarcinoma,0.875
+http://purl.obolibrary.org/obo/HP_0006772,http://purl.obolibrary.org/obo/DOID_8411,3.5,Renal angiomyolipoma,kidney angiomyolipoma,0.875
+http://purl.obolibrary.org/obo/HP_0006770,http://purl.obolibrary.org/obo/DOID_4467,3.5,Clear cell renal cell carcinoma,clear cell renal cell carcinoma,0.875
+http://purl.obolibrary.org/obo/HP_0006785,http://purl.obolibrary.org/obo/DOID_11724,3.5,Limb-girdle muscular dystrophy,limb-girdle muscular dystrophy,0.875
+http://purl.obolibrary.org/obo/HP_0006780,http://purl.obolibrary.org/obo/DOID_1540,3.5,Parathyroid carcinoma,parathyroid carcinoma,0.875
+http://purl.obolibrary.org/obo/HP_0006781,http://purl.obolibrary.org/obo/DOID_8162,3.5,Hurthle cell thyroid adenoma,thyroid Hurthle cell adenoma,0.875
+http://purl.obolibrary.org/obo/HP_0006725,http://purl.obolibrary.org/obo/DOID_4074,3.5,Pancreatic adenocarcinoma,pancreatic adenocarcinoma,0.875
+http://purl.obolibrary.org/obo/HP_0006731,http://purl.obolibrary.org/obo/DOID_3962,3.5,Follicular thyroid carcinoma,follicular thyroid carcinoma,0.875
+http://purl.obolibrary.org/obo/HP_0006747,http://purl.obolibrary.org/obo/DOID_4163,3.5,Ganglioneuroblastoma,ganglioneuroblastoma,0.875
+http://purl.obolibrary.org/obo/HP_0006744,http://purl.obolibrary.org/obo/DOID_3948,3.5,Adrenocortical carcinoma,adrenocortical carcinoma,0.875
+http://purl.obolibrary.org/obo/HP_0006743,http://purl.obolibrary.org/obo/DOID_3246,3.5,Embryonal rhabdomyosarcoma,embryonal rhabdomyosarcoma,0.875
+http://purl.obolibrary.org/obo/HP_0004389,http://purl.obolibrary.org/obo/DOID_3878,3.5,Intestinal pseudo-obstruction,intestinal pseudo-obstruction,0.875
+http://purl.obolibrary.org/obo/HP_0004381,http://purl.obolibrary.org/obo/DOID_1929,3.5,Supravalvular aortic stenosis,supravalvular aortic stenosis,0.875
+http://purl.obolibrary.org/obo/HP_0006970,http://purl.obolibrary.org/obo/DOID_13088,3.5,Periventricular leukomalacia,periventricular leukomalacia,0.875
+http://purl.obolibrary.org/obo/HP_0100504,http://purl.obolibrary.org/obo/DOID_8454,3.5,Vitamin B2 deficiency,ariboflavinosis,0.875
+http://purl.obolibrary.org/obo/HP_0100519,http://purl.obolibrary.org/obo/DOID_2983,3.5,Anuria,anuria,0.875
+http://purl.obolibrary.org/obo/HP_0100522,http://purl.obolibrary.org/obo/DOID_3275,3.5,Thymoma,thymoma,0.875
+http://purl.obolibrary.org/obo/HP_0100528,http://purl.obolibrary.org/obo/DOID_4769,3.5,Pleuropulmonary blastoma,pleuropulmonary blastoma,0.875
+http://purl.obolibrary.org/obo/HP_0100532,http://purl.obolibrary.org/obo/DOID_13452,3.5,Scleritis,scleritis,0.875
+http://purl.obolibrary.org/obo/HP_0100580,http://purl.obolibrary.org/obo/DOID_9206,3.5,Barrett esophagus,Barrett's esophagus,0.875
+http://purl.obolibrary.org/obo/HP_0004496,http://purl.obolibrary.org/obo/DOID_9574,3.5,Posterior choanal atresia,choanal atresia,0.875
+http://purl.obolibrary.org/obo/HP_0100588,http://purl.obolibrary.org/obo/DOID_5334,3.5,Paraphimosis,paraphimosis,0.875
+http://purl.obolibrary.org/obo/HP_0100598,http://purl.obolibrary.org/obo/DOID_11396,3.5,Pulmonary edema,pulmonary edema,0.875
+http://purl.obolibrary.org/obo/HP_0002032,http://purl.obolibrary.org/obo/DOID_10485,3.5,Esophageal atresia,esophageal atresia,0.875
+http://purl.obolibrary.org/obo/HP_0004469,http://purl.obolibrary.org/obo/DOID_6132,3.5,Chronic bronchitis,bronchitis,0.875
+http://purl.obolibrary.org/obo/HP_0004417,http://purl.obolibrary.org/obo/DOID_3669,3.5,Intermittent claudication,intermittent claudication,0.875
+http://purl.obolibrary.org/obo/HP_0100620,http://purl.obolibrary.org/obo/DOID_3304,3.5,Germinoma,germinoma,0.875
+http://purl.obolibrary.org/obo/HP_0100621,http://purl.obolibrary.org/obo/DOID_4441,3.5,Dysgerminoma,dysgerminoma,0.875
+http://purl.obolibrary.org/obo/HP_0100633,http://purl.obolibrary.org/obo/DOID_11963,3.5,Esophagitis,esophagitis,0.875
+http://purl.obolibrary.org/obo/HP_0004432,http://purl.obolibrary.org/obo/DOID_2583,3.5,Agammaglobulinemia,agammaglobulinemia,0.875
+http://purl.obolibrary.org/obo/HP_0004430,http://purl.obolibrary.org/obo/DOID_627,3.5,Severe combined immunodeficiency,severe combined immunodeficiency,0.875
+http://purl.obolibrary.org/obo/HP_0100601,http://purl.obolibrary.org/obo/DOID_13593,3.5,Eclampsia,eclampsia,0.875
+http://purl.obolibrary.org/obo/HP_0100602,http://purl.obolibrary.org/obo/DOID_10591,3.5,Preeclampsia,pre-eclampsia,0.875
+http://purl.obolibrary.org/obo/HP_0100614,http://purl.obolibrary.org/obo/DOID_633,3.5,Myositis,myositis,0.875
+http://purl.obolibrary.org/obo/HP_0100279,http://purl.obolibrary.org/obo/DOID_8577,3.5,Ulcerative colitis,ulcerative colitis,0.875
+http://purl.obolibrary.org/obo/HP_0100244,http://purl.obolibrary.org/obo/DOID_3355,3.5,Fibrosarcoma,fibrosarcoma,0.875
+http://purl.obolibrary.org/obo/HP_0100252,http://purl.obolibrary.org/obo/DOID_4997,3.5,Diaphyseal dysplasia,Camurati-Engelmann disease,0.875
+http://purl.obolibrary.org/obo/HP_0004808,http://purl.obolibrary.org/obo/DOID_9119,3.5,Acute myeloid leukemia,acute myeloid leukemia,0.875
+http://purl.obolibrary.org/obo/HP_0004804,http://purl.obolibrary.org/obo/DOID_589,3.5,Congenital hemolytic anemia,congenital hemolytic anemia,0.875
+http://purl.obolibrary.org/obo/HP_0100280,http://purl.obolibrary.org/obo/DOID_8778,3.5,Crohn's disease,Crohn's disease,0.875
+http://purl.obolibrary.org/obo/HP_0002156,http://purl.obolibrary.org/obo/DOID_9263,3.5,Homocystinuria,homocystinuria,0.875
+http://purl.obolibrary.org/obo/HP_0002161,http://purl.obolibrary.org/obo/DOID_9274,3.5,Hyperlysinemia,hyperlysinemia,0.875
+http://purl.obolibrary.org/obo/HP_0002131,http://purl.obolibrary.org/obo/DOID_963,3.5,Episodic ataxia,episodic ataxia,0.875
+http://purl.obolibrary.org/obo/HP_0002076,http://purl.obolibrary.org/obo/DOID_6364,3.5,Migraine,migraine,0.875
+http://purl.obolibrary.org/obo/HP_0002077,http://purl.obolibrary.org/obo/DOID_10024,3.5,Migraine with aura,migraine with aura,0.875
+http://purl.obolibrary.org/obo/HP_0002083,http://purl.obolibrary.org/obo/DOID_12783,3.5,Migraine without aura,migraine without aura,0.875
+http://purl.obolibrary.org/obo/HP_0002036,http://purl.obolibrary.org/obo/DOID_12642,3.5,Hiatus hernia,hiatus hernia,0.875
+http://purl.obolibrary.org/obo/HP_0002047,http://purl.obolibrary.org/obo/DOID_8545,3.5,Malignant hyperthermia,malignant hyperthermia,0.875
+http://purl.obolibrary.org/obo/HP_0002044,http://purl.obolibrary.org/obo/DOID_0050782,3.5,Zollinger-Ellison syndrome,Zollinger-Ellison syndrome,0.875
+http://purl.obolibrary.org/obo/HP_0002023,http://purl.obolibrary.org/obo/DOID_10488,3.5,Anal atresia,imperforate anus,0.875
+http://purl.obolibrary.org/obo/HP_0002020,http://purl.obolibrary.org/obo/DOID_8534,3.5,Gastroesophageal reflux,gastroesophageal reflux disease,0.875
+http://purl.obolibrary.org/obo/HP_0002021,http://purl.obolibrary.org/obo/DOID_12639,3.5,Pyloric stenosis,pyloric stenosis,0.875
+http://purl.obolibrary.org/obo/HP_0000726,http://purl.obolibrary.org/obo/DOID_1307,3.2,Dementia,dementia,0.8
+http://purl.obolibrary.org/obo/HP_0002836,http://purl.obolibrary.org/obo/DOID_0080174,3.2,Bladder exstrophy,bladder exstrophy,0.8
+http://purl.obolibrary.org/obo/HP_0012126,http://purl.obolibrary.org/obo/DOID_10534,3.2,Stomach cancer,stomach cancer,0.8
+http://purl.obolibrary.org/obo/HP_0002754,http://purl.obolibrary.org/obo/DOID_1019,3.2,Osteomyelitis,osteomyelitis,0.8
+http://purl.obolibrary.org/obo/HP_0012109,http://purl.obolibrary.org/obo/DOID_13550,3.2,Angle closure glaucoma,angle-closure glaucoma,0.8
+http://purl.obolibrary.org/obo/HP_0100242,http://purl.obolibrary.org/obo/DOID_1115,3.2,Sarcoma,sarcoma,0.8
+http://purl.obolibrary.org/obo/HP_0000362,http://purl.obolibrary.org/obo/DOID_12185,3.2,Otosclerosis,otosclerosis,0.8
+http://purl.obolibrary.org/obo/HP_0000246,http://purl.obolibrary.org/obo/DOID_0050127,3.2,Sinusitis,sinusitis,0.8
+http://purl.obolibrary.org/obo/HP_0002870,http://purl.obolibrary.org/obo/DOID_0050848,3.2,Obstructive sleep apnea,obstructive sleep apnea,0.8
+http://purl.obolibrary.org/obo/HP_0012622,http://purl.obolibrary.org/obo/DOID_784,3.2,Chronic kidney disease,chronic kidney disease,0.8
+http://purl.obolibrary.org/obo/HP_0000557,http://purl.obolibrary.org/obo/DOID_11211,3.2,Buphthalmos,buphthalmos,0.8
+http://purl.obolibrary.org/obo/HP_0000787,http://purl.obolibrary.org/obo/DOID_585,3.2,Nephrolithiasis,nephrolithiasis,0.8
+http://purl.obolibrary.org/obo/HP_0000802,http://purl.obolibrary.org/obo/DOID_1875,3.2,Impotence,impotence,0.8
+http://purl.obolibrary.org/obo/HP_0000776,http://purl.obolibrary.org/obo/DOID_3827,3.2,Congenital diaphragmatic hernia,congenital diaphragmatic hernia,0.8
+http://purl.obolibrary.org/obo/HP_0001156,http://purl.obolibrary.org/obo/DOID_0050581,3.2,Brachydactyly,brachydactyly,0.8
+http://purl.obolibrary.org/obo/HP_0010296,http://purl.obolibrary.org/obo/DOID_0060604,3.2,Ankyloglossia,ankyloglossia,0.8
+http://purl.obolibrary.org/obo/HP_0002145,http://purl.obolibrary.org/obo/DOID_9255,3.2,Frontotemporal dementia,frontotemporal dementia,0.8
+http://purl.obolibrary.org/obo/HP_0100574,http://purl.obolibrary.org/obo/DOID_0050625,3.2,Biliary tract neoplasm,biliary tract neoplasm,0.8
+http://purl.obolibrary.org/obo/HP_0030318,http://purl.obolibrary.org/obo/DOID_0060312,3.2,Angular cheilitis,angular cheilitis,0.8
+http://purl.obolibrary.org/obo/HP_0030682,http://purl.obolibrary.org/obo/DOID_0060480,3.2,Left ventricular noncompaction,left ventricular noncompaction,0.8
+http://purl.obolibrary.org/obo/HP_0005684,http://purl.obolibrary.org/obo/DOID_0050646,3.2,Distal arthrogryposis,distal arthrogryposis,0.8
+http://purl.obolibrary.org/obo/HP_0003005,http://purl.obolibrary.org/obo/DOID_4817,3.2,Ganglioneuroma,ganglioneuroma,0.8
+http://purl.obolibrary.org/obo/HP_0005681,http://purl.obolibrary.org/obo/DOID_676,3.2,Juvenile rheumatoid arthritis,juvenile rheumatoid arthritis,0.8
+http://purl.obolibrary.org/obo/HP_0005526,http://purl.obolibrary.org/obo/DOID_10747,3.2,Lymphoid leukemia,lymphoid leukemia,0.8
+http://purl.obolibrary.org/obo/HP_0003239,http://purl.obolibrary.org/obo/DOID_0110914,3.2,Phosphoethanolaminuria,infantile hypophosphatasia,0.8
+http://purl.obolibrary.org/obo/HP_0030706,http://purl.obolibrary.org/obo/DOID_12904,3.2,Ranula,mucocele of salivary gland,0.8
+http://purl.obolibrary.org/obo/HP_0001025,http://purl.obolibrary.org/obo/DOID_1555,3.2,Urticaria,urticaria,0.8
+http://purl.obolibrary.org/obo/HP_0001081,http://purl.obolibrary.org/obo/DOID_10211,3.2,Cholelithiasis,cholelithiasis,0.8
+http://purl.obolibrary.org/obo/HP_0003741,http://purl.obolibrary.org/obo/DOID_0050557,3.2,Congenital muscular dystrophy,congenital muscular dystrophy,0.8
+http://purl.obolibrary.org/obo/HP_0011419,http://purl.obolibrary.org/obo/DOID_9667,3.2,Placental abruption,placental abruption,0.8
+http://purl.obolibrary.org/obo/HP_0011970,http://purl.obolibrary.org/obo/DOID_9246,3.2,Cerebral amyloid angiopathy,cerebral amyloid angiopathy,0.8
+http://purl.obolibrary.org/obo/HP_0008258,http://purl.obolibrary.org/obo/DOID_0050811,3.2,Congenital adrenal hyperplasia,congenital adrenal hyperplasia,0.8
+http://purl.obolibrary.org/obo/HP_0002040,http://purl.obolibrary.org/obo/DOID_112,3.2,Esophageal varix,esophageal varix,0.8
+http://purl.obolibrary.org/obo/HP_0002323,http://purl.obolibrary.org/obo/DOID_0060668,3.0,Anencephaly,anencephaly,0.75
+http://purl.obolibrary.org/obo/HP_0004373,http://purl.obolibrary.org/obo/DOID_0050836,3.0,Focal dystonia,focal dystonia,0.75
+http://purl.obolibrary.org/obo/HP_0002381,http://purl.obolibrary.org/obo/DOID_0060046,3.0,Aphasia,aphasia,0.75
+http://purl.obolibrary.org/obo/HP_0004904,http://purl.obolibrary.org/obo/DOID_0050524,3.0,Maturity-onset diabetes of the young,maturity-onset diabetes of the young,0.75
+http://purl.obolibrary.org/obo/HP_0001942,http://purl.obolibrary.org/obo/DOID_0050758,3.0,Metabolic acidosis,metabolic acidosis,0.75
+http://purl.obolibrary.org/obo/HP_0002148,http://purl.obolibrary.org/obo/DOID_0050336,3.0,Hypophosphatemia,hypophosphatemia,0.75
+http://purl.obolibrary.org/obo/HP_0002289,http://purl.obolibrary.org/obo/DOID_0050634,3.0,Alopecia universalis,alopecia universalis,0.75
+http://purl.obolibrary.org/obo/HP_0002586,http://purl.obolibrary.org/obo/DOID_8283,3.0,Peritonitis,peritonitis,0.75
+http://purl.obolibrary.org/obo/HP_0031502,http://purl.obolibrary.org/obo/DOID_4085,3.0,Trophoblastic tumor,trophoblastic neoplasm,0.75
+http://purl.obolibrary.org/obo/HP_0025439,http://purl.obolibrary.org/obo/DOID_2275,3.0,Pharyngitis,pharyngitis,0.75
+http://purl.obolibrary.org/obo/HP_0002414,http://purl.obolibrary.org/obo/DOID_0080016,3.0,Spina bifida,spina bifida,0.75
+http://purl.obolibrary.org/obo/HP_0002442,http://purl.obolibrary.org/obo/DOID_12568,3.0,Dyscalculia,dyscalculia,0.75
+http://purl.obolibrary.org/obo/HP_0010301,http://purl.obolibrary.org/obo/DOID_1089,3.0,Spinal dysraphism,tethered spinal cord syndrome,0.75
+http://purl.obolibrary.org/obo/HP_0010614,http://purl.obolibrary.org/obo/DOID_0050871,3.0,Fibroma,fibroma,0.75
+http://purl.obolibrary.org/obo/HP_0002497,http://purl.obolibrary.org/obo/DOID_0050952,3.0,Spastic ataxia,spastic ataxia,0.75
+http://purl.obolibrary.org/obo/HP_0410030,http://purl.obolibrary.org/obo/DOID_9296,3.0,Cleft lip,cleft lip,0.75
+http://purl.obolibrary.org/obo/HP_0002804,http://purl.obolibrary.org/obo/DOID_0050646,3.0,Arthrogryposis multiplex congenita,distal arthrogryposis,0.75
+http://purl.obolibrary.org/obo/HP_0000138,http://purl.obolibrary.org/obo/DOID_5119,3.0,Ovarian cyst,ovarian cyst,0.75
+http://purl.obolibrary.org/obo/HP_0012122,http://purl.obolibrary.org/obo/DOID_1407,3.0,Anterior uveitis,anterior uveitis,0.75
+http://purl.obolibrary.org/obo/HP_0012120,http://purl.obolibrary.org/obo/DOID_14749,3.0,Methylmalonic aciduria,methylmalonic acidemia,0.75
+http://purl.obolibrary.org/obo/HP_0000155,http://purl.obolibrary.org/obo/DOID_9663,3.0,Oral ulcer,aphthous stomatitis,0.75
+http://purl.obolibrary.org/obo/HP_0000104,http://purl.obolibrary.org/obo/DOID_14766,3.0,Renal agenesis,renal agenesis,0.75
+http://purl.obolibrary.org/obo/HP_0012108,http://purl.obolibrary.org/obo/DOID_1067,3.0,Open angle glaucoma,open-angle glaucoma,0.75
+http://purl.obolibrary.org/obo/HP_0012539,http://purl.obolibrary.org/obo/DOID_0060060,3.0,Non-Hodgkin lymphoma,non-Hodgkin lymphoma,0.75
+http://purl.obolibrary.org/obo/HP_0000185,http://purl.obolibrary.org/obo/DOID_0110214,3.0,Cleft soft palate,cleft soft palate,0.75
+http://purl.obolibrary.org/obo/HP_0002672,http://purl.obolibrary.org/obo/DOID_0050922,3.0,Gastrointestinal carcinoma,gastrointestinal carcinoma,0.75
+http://purl.obolibrary.org/obo/HP_0012028,http://purl.obolibrary.org/obo/DOID_0050868,3.0,Hepatocellular adenoma,hepatocellular adenoma,0.75
+http://purl.obolibrary.org/obo/HP_0002655,http://purl.obolibrary.org/obo/DOID_0050813,3.0,Spondyloepiphyseal dysplasia,spondyloepiphyseal dysplasia with congenital joint dislocations,0.75
+http://purl.obolibrary.org/obo/HP_0002651,http://purl.obolibrary.org/obo/DOID_0080027,3.0,Spondyloepimetaphyseal dysplasia,spondyloepimetaphyseal dysplasia,0.75
+http://purl.obolibrary.org/obo/HP_0002664,http://purl.obolibrary.org/obo/DOID_14566,3.0,Neoplasm,disease of cellular proliferation,0.75
+http://purl.obolibrary.org/obo/HP_0000096,http://purl.obolibrary.org/obo/DOID_0050851,3.0,Glomerulosclerosis,glomerulosclerosis,0.75
+http://purl.obolibrary.org/obo/HP_0012075,http://purl.obolibrary.org/obo/DOID_1510,3.0,Personality disorder,personality disorder,0.75
+http://purl.obolibrary.org/obo/HP_0007686,http://purl.obolibrary.org/obo/DOID_11518,3.0,Abnormal pupillary function,abnormal pupillary function,0.75
+http://purl.obolibrary.org/obo/HP_0012049,http://purl.obolibrary.org/obo/DOID_0050844,3.0,Laryngeal dystonia,spasmodic dystonia,0.75
+http://purl.obolibrary.org/obo/HP_0012048,http://purl.obolibrary.org/obo/DOID_0050843,3.0,Oromandibular dystonia,oromandibular dystonia,0.75
+http://purl.obolibrary.org/obo/HP_0000074,http://purl.obolibrary.org/obo/DOID_0111145,3.0,Ureteropelvic junction obstruction,ureteropelvic junction obstruction,0.75
+http://purl.obolibrary.org/obo/HP_0006000,http://purl.obolibrary.org/obo/DOID_5199,3.0,Ureteral obstruction,ureteral obstruction,0.75
+http://purl.obolibrary.org/obo/HP_0012056,http://purl.obolibrary.org/obo/DOID_8923,3.0,Cutaneous melanoma,skin melanoma,0.75
+http://purl.obolibrary.org/obo/HP_0007716,http://purl.obolibrary.org/obo/DOID_1752,3.0,Intraocular melanoma,ocular melanoma,0.75
+http://purl.obolibrary.org/obo/HP_0000089,http://purl.obolibrary.org/obo/DOID_0080204,3.0,Renal hypoplasia,renal hypoplasia,0.75
+http://purl.obolibrary.org/obo/HP_0012060,http://purl.obolibrary.org/obo/DOID_6367,3.0,Acral lentiginous melanoma,acral lentiginous melanoma,0.75
+http://purl.obolibrary.org/obo/HP_0012321,http://purl.obolibrary.org/obo/DOID_0050575,3.0,D-2-hydroxyglutaric aciduria,D-2-hydroxyglutaric aciduria,0.75
+http://purl.obolibrary.org/obo/HP_0012325,http://purl.obolibrary.org/obo/DOID_0080188,3.0,Chronic myelomonocytic leukemia,chronic myelomonocytic leukemia,0.75
+http://purl.obolibrary.org/obo/HP_0012390,http://purl.obolibrary.org/obo/DOID_3128,3.0,Anal fissure,anus disease,0.75
+http://purl.obolibrary.org/obo/HP_0002904,http://purl.obolibrary.org/obo/DOID_2741,3.0,Hyperbilirubinemia,bilirubin metabolic disorder,0.75
+http://purl.obolibrary.org/obo/HP_0002912,http://purl.obolibrary.org/obo/DOID_14749,3.0,Methylmalonic acidemia,methylmalonic acidemia,0.75
+http://purl.obolibrary.org/obo/HP_0002913,http://purl.obolibrary.org/obo/DOID_0080108,3.0,Myoglobinuria,myoglobinuria,0.75
+http://purl.obolibrary.org/obo/HP_0002927,http://purl.obolibrary.org/obo/DOID_0060168,3.0,Histidinuria,histidinemia,0.75
+http://purl.obolibrary.org/obo/HP_0012239,http://purl.obolibrary.org/obo/DOID_0050649,3.0,Atransferrinemia,atransferrinemia,0.75
+http://purl.obolibrary.org/obo/HP_0010535,http://purl.obolibrary.org/obo/DOID_0050847,3.0,Sleep apnea,sleep apnea,0.75
+http://purl.obolibrary.org/obo/HP_0002878,http://purl.obolibrary.org/obo/DOID_11162,3.0,Respiratory failure,respiratory failure,0.75
+http://purl.obolibrary.org/obo/HP_0012205,http://purl.obolibrary.org/obo/DOID_0111156,3.0,Globozoospermia,globozoospermia,0.75
+http://purl.obolibrary.org/obo/HP_0012227,http://purl.obolibrary.org/obo/DOID_1829,3.0,Urethral stricture,urethral stricture,0.75
+http://purl.obolibrary.org/obo/HP_0000677,http://purl.obolibrary.org/obo/DOID_0050591,3.0,Oligodontia,tooth agenesis,0.75
+http://purl.obolibrary.org/obo/HP_0000575,http://purl.obolibrary.org/obo/DOID_9335,3.0,Scotoma,scotoma,0.75
+http://purl.obolibrary.org/obo/HP_0002186,http://purl.obolibrary.org/obo/DOID_0060135,3.0,Apraxia,apraxia,0.75
+http://purl.obolibrary.org/obo/HP_0012652,http://purl.obolibrary.org/obo/DOID_2841,3.0,Exercise-induced asthma,asthma,0.75
+http://purl.obolibrary.org/obo/HP_0000618,http://purl.obolibrary.org/obo/DOID_1432,3.0,Blindness,blindness,0.75
+http://purl.obolibrary.org/obo/HP_0012474,http://purl.obolibrary.org/obo/DOID_807,3.0,Carotid artery occlusion,carotid artery occlusion,0.75
+http://purl.obolibrary.org/obo/HP_0000486,http://purl.obolibrary.org/obo/DOID_540,3.0,Strabismus,strabismus,0.75
+http://purl.obolibrary.org/obo/HP_0000815,http://purl.obolibrary.org/obo/DOID_5426,3.0,Hypergonadotropic hypogonadism,premature ovarian failure,0.75
+http://purl.obolibrary.org/obo/HP_0000825,http://purl.obolibrary.org/obo/DOID_13317,3.0,Hyperinsulinemic hypoglycemia,hyperinsulinemic hypoglycemia,0.75
+http://purl.obolibrary.org/obo/HP_0000739,http://purl.obolibrary.org/obo/DOID_2030,3.0,Anxiety,anxiety disorder,0.75
+http://purl.obolibrary.org/obo/HP_0001592,http://purl.obolibrary.org/obo/DOID_0050591,3.0,Selective tooth agenesis,tooth agenesis,0.75
+http://purl.obolibrary.org/obo/HP_0009067,http://purl.obolibrary.org/obo/DOID_318,3.0,Progressive spinal muscular atrophy,progressive muscular atrophy,0.75
+http://purl.obolibrary.org/obo/HP_0009054,http://purl.obolibrary.org/obo/DOID_0060253,3.0,Scapuloperoneal myopathy,scapuloperoneal myopathy,0.75
+http://purl.obolibrary.org/obo/HP_0009059,http://purl.obolibrary.org/obo/DOID_0050585,3.0,Congenital generalized lipodystrophy,congenital generalized lipodystrophy,0.75
+http://purl.obolibrary.org/obo/HP_0010475,http://purl.obolibrary.org/obo/DOID_0080175,3.0,Cloacal exstrophy,cloacal exstrophy,0.75
+http://purl.obolibrary.org/obo/HP_0009371,http://purl.obolibrary.org/obo/DOID_0110964,3.0,Type A1 brachydactyly,brachydactyly type A1,0.75
+http://purl.obolibrary.org/obo/HP_0009372,http://purl.obolibrary.org/obo/DOID_0110965,3.0,Type A2 brachydactyly,brachydactyly type A2,0.75
+http://purl.obolibrary.org/obo/HP_0009373,http://purl.obolibrary.org/obo/DOID_0110970,3.0,Type C brachydactyly,brachydactyly type C,0.75
+http://purl.obolibrary.org/obo/HP_0045005,http://purl.obolibrary.org/obo/DOID_0080074,3.0,Neural tube defect,neural tube defect,0.75
+http://purl.obolibrary.org/obo/HP_0020046,http://purl.obolibrary.org/obo/DOID_9839,3.0,Accommodative esotropia,accommodative esotropia,0.75
+http://purl.obolibrary.org/obo/HP_0007011,http://purl.obolibrary.org/obo/DOID_10869,3.0,Fourth cranial nerve palsy,fourth cranial nerve palsy,0.75
+http://purl.obolibrary.org/obo/HP_0010525,http://purl.obolibrary.org/obo/DOID_0060141,3.0,Finger agnosia,finger agnosia,0.75
+http://purl.obolibrary.org/obo/HP_0010527,http://purl.obolibrary.org/obo/DOID_0060150,3.0,Astereognosia,astereognosia,0.75
+http://purl.obolibrary.org/obo/HP_0010553,http://purl.obolibrary.org/obo/DOID_0050842,3.0,Oculogyric crisis,oculogyric crisis,0.75
+http://purl.obolibrary.org/obo/HP_0010865,http://purl.obolibrary.org/obo/DOID_0050856,3.0,Oppositional defiant disorder,oppositional defiant disorder,0.75
+http://purl.obolibrary.org/obo/HP_0010816,http://purl.obolibrary.org/obo/DOID_0111162,3.0,Epidermal nevus,epidermal nevus,0.75
+http://purl.obolibrary.org/obo/HP_0500049,http://purl.obolibrary.org/obo/DOID_13025,3.0,Retinopathy of prematurity,retinopathy of prematurity,0.75
+http://purl.obolibrary.org/obo/HP_0025584,http://purl.obolibrary.org/obo/DOID_9841,3.0,Hypotropia,hypotropia,0.75
+http://purl.obolibrary.org/obo/HP_0025586,http://purl.obolibrary.org/obo/DOID_9837,3.0,Hypertropia,hypertropia,0.75
+http://purl.obolibrary.org/obo/HP_0500006,http://purl.obolibrary.org/obo/DOID_1343,3.0,Urethritis,urethritis,0.75
+http://purl.obolibrary.org/obo/HP_0007129,http://purl.obolibrary.org/obo/DOID_0060104,3.0,Cerebellar medulloblastoma,cerebellar medulloblastoma,0.75
+http://purl.obolibrary.org/obo/HP_0007404,http://purl.obolibrary.org/obo/DOID_0050428,3.0,Nonepidermolytic palmoplantar keratoderma,nonepidermolytic palmoplantar keratoderma,0.75
+http://purl.obolibrary.org/obo/HP_0007325,http://purl.obolibrary.org/obo/DOID_0050835,3.0,Generalized dystonia,generalized dystonia,0.75
+http://purl.obolibrary.org/obo/HP_0030075,http://purl.obolibrary.org/obo/DOID_0060074,3.0,Ductal carcinoma in situ,ductal carcinoma in situ,0.75
+http://purl.obolibrary.org/obo/HP_0030076,http://purl.obolibrary.org/obo/DOID_3010,3.0,Lobular carcinoma in situ,lobular neoplasia,0.75
+http://purl.obolibrary.org/obo/HP_0030074,http://purl.obolibrary.org/obo/DOID_0050773,3.0,Chemodectoma,paraganglioma,0.75
+http://purl.obolibrary.org/obo/HP_0007634,http://purl.obolibrary.org/obo/DOID_0050864,3.0,Nonarteritic anterior ischemic optic neuropathy,non-arteritic anterior ischemic optic neuropathy,0.75
+http://purl.obolibrary.org/obo/HP_0007530,http://purl.obolibrary.org/obo/DOID_0060361,3.0,Punctate palmoplantar hyperkeratosis,punctate palmoplantar keratoderma,0.75
+http://purl.obolibrary.org/obo/HP_0030222,http://purl.obolibrary.org/obo/DOID_0060155,3.0,Visual agnosia,visual agnosia,0.75
+http://purl.obolibrary.org/obo/HP_0005241,http://purl.obolibrary.org/obo/DOID_10487,3.0,Total intestinal aganglionosis,Hirschsprung's disease,0.75
+http://purl.obolibrary.org/obo/HP_0005208,http://purl.obolibrary.org/obo/DOID_0050129,3.0,Secretory diarrhea,secretory diarrhea,0.75
+http://purl.obolibrary.org/obo/HP_0005112,http://purl.obolibrary.org/obo/DOID_7693,3.0,Abdominal aortic aneurysm,abdominal aortic aneurysm,0.75
+http://purl.obolibrary.org/obo/HP_0030411,http://purl.obolibrary.org/obo/DOID_0050926,3.0,Jejunal adenocarcinoma,jejunal adenocarcinoma,0.75
+http://purl.obolibrary.org/obo/HP_0030490,http://purl.obolibrary.org/obo/DOID_0050535,3.0,Exudative vitreoretinopathy,exudative vitreoretinopathy,0.75
+http://purl.obolibrary.org/obo/HP_0007939,http://purl.obolibrary.org/obo/DOID_0050679,3.0,Blue cone monochromacy,blue cone monochromacy,0.75
+http://purl.obolibrary.org/obo/HP_0003041,http://purl.obolibrary.org/obo/DOID_0060467,3.0,Humeroradial synostosis,humeroradial synostosis,0.75
+http://purl.obolibrary.org/obo/HP_0031013,http://purl.obolibrary.org/obo/DOID_227,3.0,Ankylosis,ankylosis,0.75
+http://purl.obolibrary.org/obo/HP_0030635,http://purl.obolibrary.org/obo/DOID_0111022,3.0,Retinal dystrophy with early macular involvement,cone-rod dystrophy 16,0.75
+http://purl.obolibrary.org/obo/HP_0030636,http://purl.obolibrary.org/obo/DOID_0050578,3.0,Occult macular dystrophy,occult macular dystrophy,0.75
+http://purl.obolibrary.org/obo/HP_0005627,http://purl.obolibrary.org/obo/DOID_0110971,3.0,Type D brachydactyly,brachydactyly type D,0.75
+http://purl.obolibrary.org/obo/HP_0001875,http://purl.obolibrary.org/obo/DOID_1227,3.0,Neutropenia,neutropenia,0.75
+http://purl.obolibrary.org/obo/HP_0005558,http://purl.obolibrary.org/obo/DOID_1036,3.0,Chronic leukemia,chronic leukemia,0.75
+http://purl.obolibrary.org/obo/HP_0030760,http://purl.obolibrary.org/obo/DOID_0050855,3.0,Renal fibrosis,renal fibrosis,0.75
+http://purl.obolibrary.org/obo/HP_0005522,http://purl.obolibrary.org/obo/DOID_0060066,3.0,Pyridoxine-responsive sideroblastic anemia,pyridoxine-responsive sideroblastic anemia,0.75
+http://purl.obolibrary.org/obo/HP_0005534,http://purl.obolibrary.org/obo/DOID_0060888,3.0,Transient myeloproliferative syndrome,transient myeloproliferative syndrome,0.75
+http://purl.obolibrary.org/obo/HP_0040278,http://purl.obolibrary.org/obo/DOID_5394,3.0,Prolactinoma,prolactinoma,0.75
+http://purl.obolibrary.org/obo/HP_0003298,http://purl.obolibrary.org/obo/DOID_0080073,3.0,Spina bifida occulta,spina bifida occulta,0.75
+http://purl.obolibrary.org/obo/HP_0040297,http://purl.obolibrary.org/obo/DOID_379,3.0,Preauricular cyst,external ear disease,0.75
+http://purl.obolibrary.org/obo/HP_0003265,http://purl.obolibrary.org/obo/DOID_2383,3.0,Neonatal hyperbilirubinemia,neonatal jaundice,0.75
+http://purl.obolibrary.org/obo/HP_0100255,http://purl.obolibrary.org/obo/DOID_0080019,3.0,Metaphyseal dysplasia,metaphyseal dysplasia,0.75
+http://purl.obolibrary.org/obo/HP_0003235,http://purl.obolibrary.org/obo/DOID_0050544,3.0,Hypermethioninemia,hypermethioninemia,0.75
+http://purl.obolibrary.org/obo/HP_0001992,http://purl.obolibrary.org/obo/DOID_0060159,3.0,Organic aciduria,organic acidemia,0.75
+http://purl.obolibrary.org/obo/HP_0040144,http://purl.obolibrary.org/obo/DOID_0050574,3.0,L-2-hydroxyglutaric aciduria,L-2-hydroxyglutaric aciduria,0.75
+http://purl.obolibrary.org/obo/HP_0040147,http://purl.obolibrary.org/obo/DOID_0050574,3.0,L-2-hydroxyglutaric acidemia,L-2-hydroxyglutaric aciduria,0.75
+http://purl.obolibrary.org/obo/HP_0003153,http://purl.obolibrary.org/obo/DOID_0090142,3.0,Cystathioninuria,cystathioninuria,0.75
+http://purl.obolibrary.org/obo/HP_0011662,http://purl.obolibrary.org/obo/DOID_0080169,3.0,Tricuspid atresia,tricuspid atresia,0.75
+http://purl.obolibrary.org/obo/HP_0005901,http://purl.obolibrary.org/obo/DOID_0060645,3.0,Chronic recurrent multifocal osteomyelitis,chronic recurrent multifocal osteomyelitis,0.75
+http://purl.obolibrary.org/obo/HP_0002107,http://purl.obolibrary.org/obo/DOID_1673,3.0,Pneumothorax,pneumothorax,0.75
+http://purl.obolibrary.org/obo/HP_0030987,http://purl.obolibrary.org/obo/DOID_14269,3.0,Suppurative cholangitis,suppurative cholangitis,0.75
+http://purl.obolibrary.org/obo/HP_0030991,http://purl.obolibrary.org/obo/DOID_14268,3.0,Sclerosing cholangitis,sclerosing cholangitis,0.75
+http://purl.obolibrary.org/obo/HP_0005987,http://purl.obolibrary.org/obo/DOID_0050489,3.0,Multinodular goiter,multinodular goiter,0.75
+http://purl.obolibrary.org/obo/HP_0030955,http://purl.obolibrary.org/obo/DOID_0050741,3.0,Alcoholism,alcohol dependence,0.75
+http://purl.obolibrary.org/obo/HP_0025059,http://purl.obolibrary.org/obo/DOID_2530,3.0,Splenic abscess,splenic abscess,0.75
+http://purl.obolibrary.org/obo/HP_0025084,http://purl.obolibrary.org/obo/DOID_4409,3.0,Folliculitis,folliculitis,0.75
+http://purl.obolibrary.org/obo/HP_0025044,http://purl.obolibrary.org/obo/DOID_0060317,3.0,Lung abscess,lung abscess,0.75
+http://purl.obolibrary.org/obo/HP_0001094,http://purl.obolibrary.org/obo/DOID_9383,3.0,Iridocyclitis,iridocyclitis,0.75
+http://purl.obolibrary.org/obo/HP_0410138,http://purl.obolibrary.org/obo/DOID_1554,3.0,Vibratory urticaria,vibratory urticaria,0.75
+http://purl.obolibrary.org/obo/HP_0410134,http://purl.obolibrary.org/obo/DOID_0060220,3.0,Physical urticaria,physical urticaria,0.75
+http://purl.obolibrary.org/obo/HP_0003570,http://purl.obolibrary.org/obo/DOID_0111165,3.0,Molybdenum cofactor deficiency,molybdenum cofactor deficiency,0.75
+http://purl.obolibrary.org/obo/HP_0410017,http://purl.obolibrary.org/obo/DOID_9463,3.0,Otitis externa,otitis externa,0.75
+http://purl.obolibrary.org/obo/HP_0025277,http://purl.obolibrary.org/obo/DOID_11599,3.0,Gustatory sweating,Frey syndrome,0.75
+http://purl.obolibrary.org/obo/HP_0025274,http://purl.obolibrary.org/obo/DOID_5117,3.0,Ovarian dermoid cyst,dermoid cyst of ovary,0.75
+http://purl.obolibrary.org/obo/HP_0025268,http://purl.obolibrary.org/obo/DOID_0060243,3.0,Stuttering,stuttering,0.75
+http://purl.obolibrary.org/obo/HP_0002072,http://purl.obolibrary.org/obo/DOID_12859,3.0,Chorea,choreatic disease,0.75
+http://purl.obolibrary.org/obo/HP_0025232,http://purl.obolibrary.org/obo/DOID_2965,3.0,Bursitis,bursitis,0.75
+http://purl.obolibrary.org/obo/HP_0025252,http://purl.obolibrary.org/obo/DOID_1455,3.0,Geographic tongue,geographic tongue,0.75
+http://purl.obolibrary.org/obo/HP_0025247,http://purl.obolibrary.org/obo/DOID_2658,3.0,Dermoid cyst,dermoid cyst,0.75
+http://purl.obolibrary.org/obo/HP_0025188,http://purl.obolibrary.org/obo/DOID_11563,3.0,Retinal vasculitis,retinal vasculitis,0.75
+http://purl.obolibrary.org/obo/HP_0001107,http://purl.obolibrary.org/obo/DOID_0050633,3.0,Ocular albinism,ocular albinism,0.75
+http://purl.obolibrary.org/obo/HP_0001115,http://purl.obolibrary.org/obo/DOID_0050537,3.0,Posterior polar cataract,posterior polar cataract,0.75
+http://purl.obolibrary.org/obo/HP_0001149,http://purl.obolibrary.org/obo/DOID_8943,3.0,Lattice corneal dystrophy,lattice corneal dystrophy,0.75
+http://purl.obolibrary.org/obo/HP_0025126,http://purl.obolibrary.org/obo/DOID_0060315,3.0,Oral hairy leukoplakia,oral hairy leukoplakia,0.75
+http://purl.obolibrary.org/obo/HP_0025127,http://purl.obolibrary.org/obo/DOID_8866,3.0,Actinic keratosis,actinic keratosis,0.75
+http://purl.obolibrary.org/obo/HP_0025432,http://purl.obolibrary.org/obo/DOID_174,3.0,Acanthoma,acanthoma,0.75
+http://purl.obolibrary.org/obo/HP_0025428,http://purl.obolibrary.org/obo/DOID_1176,3.0,Bronchospasm,bronchial disease,0.75
+http://purl.obolibrary.org/obo/HP_0025452,http://purl.obolibrary.org/obo/DOID_8553,3.0,Pyoderma gangrenosum,pyoderma gangrenosum,0.75
+http://purl.obolibrary.org/obo/HP_0025418,http://purl.obolibrary.org/obo/DOID_2973,3.0,Renal cortical necrosis,kidney cortex necrosis,0.75
+http://purl.obolibrary.org/obo/HP_0025470,http://purl.obolibrary.org/obo/DOID_1943,3.0,Telogen effluvium,telogen effluvium,0.75
+http://purl.obolibrary.org/obo/HP_0025498,http://purl.obolibrary.org/obo/DOID_0050711,3.0,Aceruloplasminemia,aceruloplasminemia,0.75
+http://purl.obolibrary.org/obo/HP_0025488,http://purl.obolibrary.org/obo/DOID_12145,3.0,Detrusor sphincter dyssynergia,detrusor sphincter dyssynergia,0.75
+http://purl.obolibrary.org/obo/HP_0006562,http://purl.obolibrary.org/obo/DOID_1884,3.0,Viral hepatitis,viral hepatitis,0.75
+http://purl.obolibrary.org/obo/HP_0025319,http://purl.obolibrary.org/obo/DOID_14000,3.0,Rubeosis iridis,rubeosis iridis,0.75
+http://purl.obolibrary.org/obo/HP_0025342,http://purl.obolibrary.org/obo/DOID_13098,3.0,Central retinal artery occlusion,central retinal artery occlusion,0.75
+http://purl.obolibrary.org/obo/HP_0001741,http://purl.obolibrary.org/obo/DOID_2712,3.0,Phimosis,phimosis,0.75
+http://purl.obolibrary.org/obo/HP_0025608,http://purl.obolibrary.org/obo/DOID_12782,3.0,Cicatricial ectropion,cicatricial ectropion,0.75
+http://purl.obolibrary.org/obo/HP_0025578,http://purl.obolibrary.org/obo/DOID_5232,3.0,Aortic valve prolapse,aortic valve prolapse,0.75
+http://purl.obolibrary.org/obo/HP_0011516,http://purl.obolibrary.org/obo/DOID_13911,3.0,Achromatopsia,achromatopsia,0.75
+http://purl.obolibrary.org/obo/HP_0011536,http://purl.obolibrary.org/obo/DOID_0060856,3.0,Right atrial isomerism,right atrial isomerism,0.75
+http://purl.obolibrary.org/obo/HP_0011387,http://purl.obolibrary.org/obo/DOID_0050332,3.0,Enlarged vestibular aqueduct,enlarged vestibular aqueduct,0.75
+http://purl.obolibrary.org/obo/HP_0011712,http://purl.obolibrary.org/obo/DOID_13209,3.0,Right bundle branch block,right bundle branch block,0.75
+http://purl.obolibrary.org/obo/HP_0008256,http://purl.obolibrary.org/obo/DOID_0050891,3.0,Adrenocortical adenoma,adrenal cortical adenoma,0.75
+http://purl.obolibrary.org/obo/HP_0011748,http://purl.obolibrary.org/obo/DOID_0080150,3.0,Adrenocorticotropic hormone deficiency,adrenocorticotropic hormone deficiency,0.75
+http://purl.obolibrary.org/obo/HP_0008007,http://purl.obolibrary.org/obo/DOID_0050593,3.0,Primary congenital glaucoma,primary congenital glaucoma,0.75
+http://purl.obolibrary.org/obo/HP_0011846,http://purl.obolibrary.org/obo/DOID_0060098,3.0,Osteoblastoma,osteoblastoma,0.75
+http://purl.obolibrary.org/obo/HP_0008209,http://purl.obolibrary.org/obo/DOID_5426,3.0,Premature ovarian insufficiency,premature ovarian failure,0.75
+http://purl.obolibrary.org/obo/HP_0011859,http://purl.obolibrary.org/obo/DOID_12197,3.0,Punctate keratitis,punctate epithelial keratoconjunctivitis,0.75
+http://purl.obolibrary.org/obo/HP_0008255,http://purl.obolibrary.org/obo/DOID_0060334,3.0,Transient neonatal diabetes mellitus,transient neonatal diabetes mellitus,0.75
+http://purl.obolibrary.org/obo/HP_0008244,http://purl.obolibrary.org/obo/DOID_0080156,3.0,Congenital adrenal hypoplasia,X-linked adrenal hypoplasia congenita,0.75
+http://purl.obolibrary.org/obo/HP_0008419,http://purl.obolibrary.org/obo/DOID_90,3.0,Intervertebral disc degeneration,degenerative disc disease,0.75
+http://purl.obolibrary.org/obo/HP_0100264,http://purl.obolibrary.org/obo/DOID_0050788,3.0,Proximal symphalangism,proximal symphalangism,0.75
+http://purl.obolibrary.org/obo/HP_0200119,http://purl.obolibrary.org/obo/DOID_2237,3.0,Acute hepatitis,hepatitis,0.75
+http://purl.obolibrary.org/obo/HP_0031025,http://purl.obolibrary.org/obo/DOID_5280,3.0,Gastric leiomyosarcoma,gastric leiomyosarcoma,0.75
+http://purl.obolibrary.org/obo/HP_0031043,http://purl.obolibrary.org/obo/DOID_0110967,3.0,Type A4 brachydactyly,brachydactyly type A4,0.75
+http://purl.obolibrary.org/obo/HP_0031009,http://purl.obolibrary.org/obo/DOID_11329,3.0,Ainhum,ainhum,0.75
+http://purl.obolibrary.org/obo/HP_0031002,http://purl.obolibrary.org/obo/DOID_1803,3.0,Neuritis,neuritis,0.75
+http://purl.obolibrary.org/obo/HP_0031357,http://purl.obolibrary.org/obo/DOID_486,3.0,Glomeruloid hemangioma,glomeruloid hemangioma,0.75
+http://purl.obolibrary.org/obo/HP_0031350,http://purl.obolibrary.org/obo/DOID_5262,3.0,Cardiac sarcoma,heart sarcoma,0.75
+http://purl.obolibrary.org/obo/HP_0031368,http://purl.obolibrary.org/obo/DOID_2074,3.0,Intestinal perforation,intestinal perforation,0.75
+http://purl.obolibrary.org/obo/HP_0031281,http://purl.obolibrary.org/obo/DOID_10303,3.0,Sialadenitis,sialadenitis,0.75
+http://purl.obolibrary.org/obo/HP_0031287,http://purl.obolibrary.org/obo/DOID_6498,3.0,Seborrheic keratosis,seborrheic keratosis,0.75
+http://purl.obolibrary.org/obo/HP_0031259,http://purl.obolibrary.org/obo/DOID_10974,3.0,Oophoritis,oophoritis,0.75
+http://purl.obolibrary.org/obo/HP_0031247,http://purl.obolibrary.org/obo/DOID_1116,3.0,Whooping cough,pertussis,0.75
+http://purl.obolibrary.org/obo/HP_0031548,http://purl.obolibrary.org/obo/DOID_8426,3.0,Follicular infundibulum tumor,follicular infundibulum tumor,0.75
+http://purl.obolibrary.org/obo/HP_0006557,http://purl.obolibrary.org/obo/DOID_0050770,3.0,Polycystic liver disease,polycystic liver disease,0.75
+http://purl.obolibrary.org/obo/HP_0031524,http://purl.obolibrary.org/obo/DOID_4932,3.0,Ampulla of Vater carcinoma,ampulla of Vater carcinoma,0.75
+http://purl.obolibrary.org/obo/HP_0031525,http://purl.obolibrary.org/obo/DOID_3149,3.0,Keratoacanthoma,keratoacanthoma,0.75
+http://purl.obolibrary.org/obo/HP_0031522,http://purl.obolibrary.org/obo/DOID_5303,3.0,Cervical clear cell adenocarcinoma,cervical clear cell adenocarcinoma,0.75
+http://purl.obolibrary.org/obo/HP_0031590,http://purl.obolibrary.org/obo/DOID_10141,3.0,Asthenopia,asthenopia,0.75
+http://purl.obolibrary.org/obo/HP_0006527,http://purl.obolibrary.org/obo/DOID_0050159,3.0,Lymphoid interstitial pneumonia,lymphoid interstitial pneumonia,0.75
+http://purl.obolibrary.org/obo/HP_0031433,http://purl.obolibrary.org/obo/DOID_0060131,3.0,Alexithymia,alexithymia,0.75
+http://purl.obolibrary.org/obo/HP_0031458,http://purl.obolibrary.org/obo/DOID_0050145,3.0,Adenoiditis,adenoiditis,0.75
+http://purl.obolibrary.org/obo/HP_0031456,http://purl.obolibrary.org/obo/DOID_0060329,3.0,Ectopic pregnancy,ectopic pregnancy,0.75
+http://purl.obolibrary.org/obo/HP_0031460,http://purl.obolibrary.org/obo/DOID_461,3.0,Benign muscle neoplasm,muscle benign neoplasm,0.75
+http://purl.obolibrary.org/obo/HP_0031494,http://purl.obolibrary.org/obo/DOID_6067,3.0,Ovarian mucinous tumor,ovarian mucinous neoplasm,0.75
+http://purl.obolibrary.org/obo/HP_0031792,http://purl.obolibrary.org/obo/DOID_13919,3.0,Irregular astigmatism,irregular astigmatism,0.75
+http://purl.obolibrary.org/obo/HP_0031776,http://purl.obolibrary.org/obo/DOID_9838,3.0,Cyclotropia,cyclotropia,0.75
+http://purl.obolibrary.org/obo/HP_0031717,http://purl.obolibrary.org/obo/DOID_1142,3.0,Alternating exotropia,alternating exotropia,0.75
+http://purl.obolibrary.org/obo/HP_0031737,http://purl.obolibrary.org/obo/DOID_13113,3.0,Cicatricial entropion,cicatricial entropion,0.75
+http://purl.obolibrary.org/obo/HP_0031738,http://purl.obolibrary.org/obo/DOID_13112,3.0,Mechanical entropion,mechanical entropion,0.75
+http://purl.obolibrary.org/obo/HP_0031736,http://purl.obolibrary.org/obo/DOID_12836,3.0,Involutional entropion,senile entropion,0.75
+http://purl.obolibrary.org/obo/HP_0031615,http://purl.obolibrary.org/obo/DOID_10443,3.0,Hypopyon,hypopyon,0.75
+http://purl.obolibrary.org/obo/HP_0100502,http://purl.obolibrary.org/obo/DOID_0050731,3.0,Vitamin B12 deficiency,vitamin B12 deficiency,0.75
+http://purl.obolibrary.org/obo/HP_0004789,http://purl.obolibrary.org/obo/DOID_10604,3.0,Lactose intolerance,lactose intolerance,0.75
+http://purl.obolibrary.org/obo/HP_0100327,http://purl.obolibrary.org/obo/DOID_0060521,3.0,Cow milk allergy,cow milk allergy,0.75
+http://purl.obolibrary.org/obo/HP_0008940,http://purl.obolibrary.org/obo/DOID_0060314,1.83077,Generalized lymphadenopathy,persistent generalized lymphadenopathy,0.4576925
+http://purl.obolibrary.org/obo/HP_0006517,http://purl.obolibrary.org/obo/DOID_12120,1.8,Alveolar proteinosis,pulmonary alveolar proteinosis,0.45
+http://purl.obolibrary.org/obo/HP_0100723,http://purl.obolibrary.org/obo/DOID_9253,1.48305,Gastrointestinal stroma tumor,gastrointestinal stromal tumor,0.3707625
+http://purl.obolibrary.org/obo/HP_0006516,http://purl.obolibrary.org/obo/DOID_841,1.48246,Hypersensitivity pneumonitis,extrinsic allergic alveolitis,0.370615
+http://purl.obolibrary.org/obo/HP_0007406,http://purl.obolibrary.org/obo/DOID_10122,1.48182,Hyperpigmentation of eyelids,hyperpigmentation of eyelid,0.370455
+http://purl.obolibrary.org/obo/HP_0003269,http://purl.obolibrary.org/obo/DOID_3210,1.48182,Sudanophilic leukodystrophy,Pelizaeus-Merzbacher disease,0.370455
+http://purl.obolibrary.org/obo/HP_0000495,http://purl.obolibrary.org/obo/DOID_11541,1.4803899999999999,Recurrent corneal erosions,recurrent corneal erosion,0.37009749999999997
+http://purl.obolibrary.org/obo/HP_0005701,http://purl.obolibrary.org/obo/DOID_4624,1.4803899999999999,Multiple enchondromatosis,Ollier disease,0.37009749999999997
+http://purl.obolibrary.org/obo/HP_0100546,http://purl.obolibrary.org/obo/DOID_13001,1.47872,Carotid artery stenosis,carotid stenosis,0.36968
+http://purl.obolibrary.org/obo/HP_0005306,http://purl.obolibrary.org/obo/DOID_2725,1.47561,Capillary hemangiomas,capillary hemangioma,0.3689025
+http://purl.obolibrary.org/obo/HP_0100603,http://purl.obolibrary.org/obo/DOID_10591,1.47561,Toxemia of pregnancy,pre-eclampsia,0.3689025
+http://purl.obolibrary.org/obo/HP_0007476,http://purl.obolibrary.org/obo/DOID_14793,1.46875,Anhidrotic ectodermal dysplasia,hypohidrotic ectodermal dysplasia,0.3671875
+http://purl.obolibrary.org/obo/HP_0100650,http://purl.obolibrary.org/obo/DOID_119,1.46774,Vaginal neoplasm,vaginal cancer,0.366935
+http://purl.obolibrary.org/obo/HP_0012254,http://purl.obolibrary.org/obo/DOID_3369,1.4655200000000002,Ewing's sarcoma,Ewing sarcoma,0.36638000000000004
+http://purl.obolibrary.org/obo/HP_0007029,http://purl.obolibrary.org/obo/DOID_0060228,1.456,Cerebral berry aneurysm,intracranial berry aneurysm,0.364
+http://purl.obolibrary.org/obo/HP_0000407,http://purl.obolibrary.org/obo/DOID_10003,1.455172,Sensorineural hearing impairment,sensorineural hearing loss,0.363793
+http://purl.obolibrary.org/obo/HP_0001112,http://purl.obolibrary.org/obo/DOID_705,1.45,Leber optic atrophy,Leber hereditary optic neuropathy,0.3625
+http://purl.obolibrary.org/obo/HP_0006740,http://purl.obolibrary.org/obo/DOID_4006,1.45,Transitional cell carcinoma of the bladder,bladder urothelial carcinoma,0.3625
+http://purl.obolibrary.org/obo/HP_0010953,http://purl.obolibrary.org/obo/DOID_1573,1.44737,Noncommunicating hydrocephalus,communicating hydrocephalus,0.3618425
+http://purl.obolibrary.org/obo/HP_0005942,http://purl.obolibrary.org/obo/DOID_0050158,1.44444,Desquamative interstitial pneumonitis,desquamative interstitial pneumonia,0.36111
+http://purl.obolibrary.org/obo/HP_0009718,http://purl.obolibrary.org/obo/DOID_5077,1.44286,Subependymal giant-cell astrocytoma,subependymal giant cell astrocytoma,0.360715
+http://purl.obolibrary.org/obo/HP_0012426,http://purl.obolibrary.org/obo/DOID_13561,1.4411800000000001,Optic disc drusen,optic disk drusen,0.36029500000000003
+http://purl.obolibrary.org/obo/HP_0010609,http://purl.obolibrary.org/obo/DOID_6873,1.4411800000000001,Skin tags,skin tag,0.36029500000000003
+http://purl.obolibrary.org/obo/HP_0006297,http://purl.obolibrary.org/obo/DOID_693,1.4411800000000001,Hypoplasia of dental enamel,dental enamel hypoplasia,0.36029500000000003
+http://purl.obolibrary.org/obo/HP_0012288,http://purl.obolibrary.org/obo/DOID_11934,1.43617,Neoplasm of head and neck,head and neck cancer,0.3590425
+http://purl.obolibrary.org/obo/HP_0006931,http://purl.obolibrary.org/obo/DOID_6294,1.43617,Lipoma of corpus callosum,corpus callosum lipoma,0.3590425
+http://purl.obolibrary.org/obo/HP_0100733,http://purl.obolibrary.org/obo/DOID_1540,1.43548,Neoplasm of the parathyroid gland,parathyroid carcinoma,0.35887
+http://purl.obolibrary.org/obo/HP_0000558,http://purl.obolibrary.org/obo/DOID_14686,1.43333,Rieger anomaly,Axenfeld-Rieger syndrome,0.3583325
+http://purl.obolibrary.org/obo/HP_0007486,http://purl.obolibrary.org/obo/DOID_5776,1.43333,Cavernous hemangioma of the face,cavernous hemangioma of face,0.3583325
+http://purl.obolibrary.org/obo/HP_0011847,http://purl.obolibrary.org/obo/DOID_4305,1.43333,Giant cell tumor of bone,bone giant cell tumor,0.3583325
+http://purl.obolibrary.org/obo/HP_0000588,http://purl.obolibrary.org/obo/DOID_11975,1.43023,Optic nerve coloboma,coloboma of optic nerve,0.3575575
+http://purl.obolibrary.org/obo/HP_0006685,http://purl.obolibrary.org/obo/DOID_12932,1.43023,Endocardial fibrosis,endomyocardial fibrosis,0.3575575
+http://purl.obolibrary.org/obo/HP_0100031,http://purl.obolibrary.org/obo/DOID_1781,1.4259300000000001,Neoplasm of the thyroid gland,thyroid cancer,0.35648250000000004
+http://purl.obolibrary.org/obo/HP_0000579,http://purl.obolibrary.org/obo/DOID_13929,1.4259300000000001,Nasolacrimal duct obstruction,lacrimal duct obstruction,0.35648250000000004
+http://purl.obolibrary.org/obo/HP_0003077,http://purl.obolibrary.org/obo/DOID_1168,1.4230800000000001,Hyperlipidemia,familial hyperlipidemia,0.35577000000000003
+http://purl.obolibrary.org/obo/HP_0010313,http://purl.obolibrary.org/obo/DOID_10688,1.4230800000000001,Breast hypertrophy,hypertrophy of breast,0.35577000000000003
+http://purl.obolibrary.org/obo/HP_0040276,http://purl.obolibrary.org/obo/DOID_234,1.42,Adenocarcinoma of the colon,colon adenocarcinoma,0.355
+http://purl.obolibrary.org/obo/HP_0010772,http://purl.obolibrary.org/obo/DOID_4297,1.4166699999999999,Anomalous pulmonary venous return,scimitar syndrome,0.35416749999999997
+http://purl.obolibrary.org/obo/HP_0010734,http://purl.obolibrary.org/obo/DOID_1858,1.40909,Fibrous dysplasia of the bones,McCune Albright syndrome,0.3522725
+http://purl.obolibrary.org/obo/HP_0009720,http://purl.obolibrary.org/obo/DOID_2648,1.40909,Adenoma sebaceum,sebaceous adenoma,0.3522725
+http://purl.obolibrary.org/obo/HP_0010796,http://purl.obolibrary.org/obo/DOID_4202,1.40909,Brainstem glioma,brain stem glioma,0.3522725
+http://purl.obolibrary.org/obo/HP_0100836,http://purl.obolibrary.org/obo/DOID_3620,1.4072200000000001,Malignant neoplasm of the central nervous system,central nervous system cancer,0.35180500000000003
+http://purl.obolibrary.org/obo/HP_0100007,http://purl.obolibrary.org/obo/DOID_1192,1.40667,Neoplasm of the peripheral nervous system,peripheral nervous system neoplasm,0.3516675
+http://purl.obolibrary.org/obo/HP_0006880,http://purl.obolibrary.org/obo/DOID_6500,1.4019599999999999,Cerebellar hemangioblastoma,cerebellar angioblastoma,0.35048999999999997
+http://purl.obolibrary.org/obo/HP_0030741,http://purl.obolibrary.org/obo/DOID_5568,1.4,Mediastinal teratoma,mediastinum teratoma,0.35
+http://purl.obolibrary.org/obo/HP_0000972,http://purl.obolibrary.org/obo/DOID_3390,1.3979599999999999,Palmoplantar hyperkeratosis,palmoplantar keratosis,0.34948999999999997
+http://purl.obolibrary.org/obo/HP_0012019,http://purl.obolibrary.org/obo/DOID_11364,1.39655,Lens luxation,lens subluxation,0.3491375
+http://purl.obolibrary.org/obo/HP_0007302,http://purl.obolibrary.org/obo/DOID_3312,1.39655,Bipolar affective disorder,bipolar disorder,0.3491375
+http://purl.obolibrary.org/obo/HP_0040274,http://purl.obolibrary.org/obo/DOID_4906,1.3955199999999999,Adenocarcinoma of the small intestine,small intestine adenocarcinoma,0.34887999999999997
+http://purl.obolibrary.org/obo/HP_0030070,http://purl.obolibrary.org/obo/DOID_4791,1.39412,Central primitive neuroectodermal tumor,supratentorial primitive neuroectodermal tumor,0.34853
+http://purl.obolibrary.org/obo/HP_0030417,http://purl.obolibrary.org/obo/DOID_2101,1.3923100000000002,Squamous cell carcinoma of the vulva,vulva squamous cell carcinoma,0.34807750000000004
+http://purl.obolibrary.org/obo/HP_0008207,http://purl.obolibrary.org/obo/DOID_13774,1.3923100000000002,Primary adrenal insufficiency,Addison's disease,0.34807750000000004
+http://purl.obolibrary.org/obo/HP_0010608,http://purl.obolibrary.org/obo/DOID_9908,1.38889,Hordeolum internum,internal hordeolum,0.3472225
+http://purl.obolibrary.org/obo/HP_0030792,http://purl.obolibrary.org/obo/DOID_1862,1.38889,Jaw neoplasm,jaw cancer,0.3472225
+http://purl.obolibrary.org/obo/HP_0006739,http://purl.obolibrary.org/obo/DOID_3151,1.38889,Squamous cell carcinoma of the skin,skin squamous cell carcinoma,0.3472225
+http://purl.obolibrary.org/obo/HP_0030069,http://purl.obolibrary.org/obo/DOID_3234,1.38571,Primary central nervous system lymphoma,central nervous system lymphoma,0.3464275
+http://purl.obolibrary.org/obo/HP_0010444,http://purl.obolibrary.org/obo/DOID_14265,1.38462,Pulmonary insufficiency,pulmonary valve insufficiency,0.346155
+http://purl.obolibrary.org/obo/HP_0002891,http://purl.obolibrary.org/obo/DOID_5289,1.3837199999999998,Uterine leiomyosarcoma,uterus leiomyosarcoma,0.34592999999999996
+http://purl.obolibrary.org/obo/HP_0100617,http://purl.obolibrary.org/obo/DOID_5842,1.3837199999999998,Testicular seminoma,testis seminoma,0.34592999999999996
+http://purl.obolibrary.org/obo/HP_0100012,http://purl.obolibrary.org/obo/DOID_2174,1.38235,Neoplasm of the eye,ocular cancer,0.3455875
+http://purl.obolibrary.org/obo/HP_0012777,http://purl.obolibrary.org/obo/DOID_4645,1.38235,Retinal neoplasm,retinal cancer,0.3455875
+http://purl.obolibrary.org/obo/HP_0002516,http://purl.obolibrary.org/obo/DOID_9428,1.38136,Increased intracranial pressure,intracranial hypertension,0.34534
+http://purl.obolibrary.org/obo/HP_0005246,http://purl.obolibrary.org/obo/DOID_8757,1.38,Giant hypertrophic gastritis,gastric mucosal hypertrophy,0.345
+http://purl.obolibrary.org/obo/HP_0001970,http://purl.obolibrary.org/obo/DOID_1063,1.38,Tubulointerstitial nephritis,interstitial nephritis,0.345
+http://purl.obolibrary.org/obo/HP_0004610,http://purl.obolibrary.org/obo/DOID_6725,1.38,Lumbar spinal canal stenosis,spinal stenosis,0.345
+http://purl.obolibrary.org/obo/HP_0012246,http://purl.obolibrary.org/obo/DOID_11550,1.375,Oculomotor nerve palsy,oculomotor nerve paralysis,0.34375
+http://purl.obolibrary.org/obo/HP_0008028,http://purl.obolibrary.org/obo/DOID_14245,1.375,Cystoid macular degeneration,cystoid macular retinal degeneration,0.34375
+http://purl.obolibrary.org/obo/HP_0030065,http://purl.obolibrary.org/obo/DOID_7398,1.37324,Primitive neuroectodermal tumor,cerebral primitive neuroectodermal tumor,0.34331
+http://purl.obolibrary.org/obo/HP_0100642,http://purl.obolibrary.org/obo/DOID_5719,1.37273,Neoplasm of the adrenal medulla,adrenal medulla cancer,0.3431825
+http://purl.obolibrary.org/obo/HP_0100833,http://purl.obolibrary.org/obo/DOID_7505,1.37273,Neoplasm of the small intestine,small intestine neoplasm,0.3431825
+http://purl.obolibrary.org/obo/HP_0001973,http://purl.obolibrary.org/obo/DOID_8924,1.37097,Autoimmune thrombocytopenia,autoimmune thrombocytopenic purpura,0.3427425
+http://purl.obolibrary.org/obo/HP_0012842,http://purl.obolibrary.org/obo/DOID_2433,1.36792,Skin appendage neoplasm,epidermal appendage tumor,0.34198
+http://purl.obolibrary.org/obo/HP_0030693,http://purl.obolibrary.org/obo/DOID_1659,1.36792,Supratentorial neoplasm,supratentorial cancer,0.34198
+http://purl.obolibrary.org/obo/HP_0007760,http://purl.obolibrary.org/obo/DOID_0060456,1.3656700000000002,Crystalline corneal dystrophy,Schnyder corneal dystrophy,0.34141750000000004
+http://purl.obolibrary.org/obo/HP_0007108,http://purl.obolibrary.org/obo/DOID_5214,1.3641999999999999,Demyelinating peripheral neuropathy,demyelinating polyneuropathy,0.34104999999999996
+http://purl.obolibrary.org/obo/HP_0001975,http://purl.obolibrary.org/obo/DOID_2219,1.3641999999999999,Decreased platelet glycoprotein IIb-IIIa,Glanzmann's thrombasthenia,0.34104999999999996
+http://purl.obolibrary.org/obo/HP_0011153,http://purl.obolibrary.org/obo/DOID_3327,1.36364,Focal motor seizures,partial motor epilepsy,0.34091
+http://purl.obolibrary.org/obo/HP_0030410,http://purl.obolibrary.org/obo/DOID_4839,1.36364,Sebaceous gland carcinoma,sebaceous adenocarcinoma,0.34091
+http://purl.obolibrary.org/obo/HP_0001994,http://purl.obolibrary.org/obo/DOID_1062,1.36364,Renal Fanconi syndrome,Fanconi syndrome,0.34091
+http://purl.obolibrary.org/obo/HP_0008341,http://purl.obolibrary.org/obo/DOID_14219,1.3627500000000001,Distal renal tubular acidosis,renal tubular acidosis,0.34068750000000003
+http://purl.obolibrary.org/obo/HP_0030067,http://purl.obolibrary.org/obo/DOID_171,1.36076,Peripheral primitive neuroectodermal neoplasm,neuroectodermal tumor,0.34019
+http://purl.obolibrary.org/obo/HP_0100724,http://purl.obolibrary.org/obo/DOID_2452,1.35714,Hypercoagulability,thrombophilia,0.339285
+http://purl.obolibrary.org/obo/HP_0012055,http://purl.obolibrary.org/obo/DOID_6524,1.35714,Ciliary body melanoma,malignant ciliary body melanoma,0.339285
+http://purl.obolibrary.org/obo/HP_0001677,http://purl.obolibrary.org/obo/DOID_3393,1.35714,Coronary artery atherosclerosis,coronary artery disease,0.339285
+http://purl.obolibrary.org/obo/HP_0000846,http://purl.obolibrary.org/obo/DOID_10493,1.35714,Adrenal insufficiency,adrenal cortical hypofunction,0.339285
+http://purl.obolibrary.org/obo/HP_0012768,http://purl.obolibrary.org/obo/DOID_11088,1.35714,Neonatal asphyxia,asphyxia neonatorum,0.339285
+http://purl.obolibrary.org/obo/HP_0005696,http://purl.obolibrary.org/obo/DOID_1148,1.35714,Postaxial polydactyly type A,polydactyly,0.339285
+http://purl.obolibrary.org/obo/HP_0100575,http://purl.obolibrary.org/obo/DOID_3121,1.35106,Neoplasm of the gallbladder,gallbladder cancer,0.337765
+http://purl.obolibrary.org/obo/HP_0002613,http://purl.obolibrary.org/obo/DOID_12236,1.35,Biliary cirrhosis,primary biliary cirrhosis,0.3375
+http://purl.obolibrary.org/obo/HP_0006870,http://purl.obolibrary.org/obo/DOID_4621,1.35,Lobar holoprosencephaly,holoprosencephaly,0.3375
+http://purl.obolibrary.org/obo/HP_0001908,http://purl.obolibrary.org/obo/DOID_12449,1.34848,Hypoplastic anemia,aplastic anemia,0.33712
+http://purl.obolibrary.org/obo/HP_0011369,http://purl.obolibrary.org/obo/DOID_4702,1.34848,Mongolian blue spot,mongolian spot,0.33712
+http://purl.obolibrary.org/obo/HP_0012327,http://purl.obolibrary.org/obo/DOID_9892,1.3474599999999999,Celiac artery compression,median arcuate ligament syndrome,0.33686499999999997
+http://purl.obolibrary.org/obo/HP_0004334,http://purl.obolibrary.org/obo/DOID_2733,1.34615,Dermal atrophy,skin atrophy,0.3365375
+http://purl.obolibrary.org/obo/HP_0030064,http://purl.obolibrary.org/obo/DOID_14174,1.34615,Neurocytoma,central neurocytoma,0.3365375
+http://purl.obolibrary.org/obo/HP_0007524,http://purl.obolibrary.org/obo/DOID_8712,1.34615,Atypical neurofibromatosis,neurofibromatosis,0.3365375
+http://purl.obolibrary.org/obo/HP_0002821,http://purl.obolibrary.org/obo/DOID_14286,1.34444,Neuropathic arthropathy,neurogenic arthropathy,0.33611
+http://purl.obolibrary.org/obo/HP_0000544,http://purl.obolibrary.org/obo/DOID_539,1.34444,External ophthalmoplegia,ophthalmoplegia,0.33611
+http://purl.obolibrary.org/obo/HP_0010619,http://purl.obolibrary.org/obo/DOID_1618,1.34444,Fibroadenoma of the breast,breast fibroadenoma,0.33611
+http://purl.obolibrary.org/obo/HP_0007942,http://purl.obolibrary.org/obo/DOID_539,1.34444,Internal ophthalmoplegia,ophthalmoplegia,0.33611
+http://purl.obolibrary.org/obo/HP_0010784,http://purl.obolibrary.org/obo/DOID_363,1.3387099999999998,Uterine neoplasm,uterine cancer,0.33467749999999996
+http://purl.obolibrary.org/obo/HP_0012804,http://purl.obolibrary.org/obo/DOID_8463,1.3387099999999998,Corneal ulceration,corneal ulcer,0.33467749999999996
+http://purl.obolibrary.org/obo/HP_0030405,http://purl.obolibrary.org/obo/DOID_1799,1.3387099999999998,Pancreatic endocrine tumor,islet cell tumor,0.33467749999999996
+http://purl.obolibrary.org/obo/HP_0011537,http://purl.obolibrary.org/obo/DOID_0060856,1.33721,Left atrial isomerism,right atrial isomerism,0.3343025
+http://purl.obolibrary.org/obo/HP_0004383,http://purl.obolibrary.org/obo/DOID_9955,1.33019,Hypoplastic left heart,hypoplastic left heart syndrome,0.3325475
+http://purl.obolibrary.org/obo/HP_0002092,http://purl.obolibrary.org/obo/DOID_6432,1.33019,Pulmonary arterial hypertension,pulmonary hypertension,0.3325475
+http://purl.obolibrary.org/obo/HP_0002049,http://purl.obolibrary.org/obo/DOID_14219,1.33019,Proximal renal tubular acidosis,renal tubular acidosis,0.3325475
+http://purl.obolibrary.org/obo/HP_0100742,http://purl.obolibrary.org/obo/DOID_175,1.32927,Vascular neoplasm,vascular cancer,0.3323175
+http://purl.obolibrary.org/obo/HP_0002894,http://purl.obolibrary.org/obo/DOID_1793,1.32927,Neoplasm of the pancreas,pancreatic cancer,0.3323175
+http://purl.obolibrary.org/obo/HP_0010302,http://purl.obolibrary.org/obo/DOID_5612,1.32927,Spinal cord tumor,spinal cancer,0.3323175
+http://purl.obolibrary.org/obo/HP_0005145,http://purl.obolibrary.org/obo/DOID_4248,1.32927,Coronary artery stenosis,coronary stenosis,0.3323175
+http://purl.obolibrary.org/obo/HP_0200120,http://purl.obolibrary.org/obo/DOID_2237,1.32927,Chronic active hepatitis,hepatitis,0.3323175
+http://purl.obolibrary.org/obo/HP_0006988,http://purl.obolibrary.org/obo/DOID_4621,1.32927,Alobar holoprosencephaly,holoprosencephaly,0.3323175
+http://purl.obolibrary.org/obo/HP_0000722,http://purl.obolibrary.org/obo/DOID_10933,1.32759,Obsessive-compulsive behavior,obsessive-compulsive disorder,0.3318975
+http://purl.obolibrary.org/obo/HP_0010316,http://purl.obolibrary.org/obo/DOID_14289,1.32759,Ebstein's anomaly of the tricuspid valve,Ebstein anomaly,0.3318975
+http://purl.obolibrary.org/obo/HP_0030061,http://purl.obolibrary.org/obo/DOID_171,1.32759,Neuroectodermal neoplasm,neuroectodermal tumor,0.3318975
+http://purl.obolibrary.org/obo/HP_0010788,http://purl.obolibrary.org/obo/DOID_2998,1.3235299999999999,Testicular neoplasm,testicular cancer,0.33088249999999997
+http://purl.obolibrary.org/obo/HP_0012043,http://purl.obolibrary.org/obo/DOID_11771,1.3235299999999999,Pendular nystagmus,spontaneous ocular nystagmus,0.33088249999999997
+http://purl.obolibrary.org/obo/HP_0007178,http://purl.obolibrary.org/obo/DOID_1389,1.3235299999999999,Motor polyneuropathy,polyneuropathy,0.33088249999999997
+http://purl.obolibrary.org/obo/HP_0007620,http://purl.obolibrary.org/obo/DOID_5132,1.3235299999999999,Cutaneous leiomyoma,leiomyoma cutis,0.33088249999999997
+http://purl.obolibrary.org/obo/HP_0008326,http://purl.obolibrary.org/obo/DOID_8455,1.3235299999999999,Vitamin B6 deficiency,pyridoxine deficiency anemia,0.33088249999999997
+http://purl.obolibrary.org/obo/HP_0006733,http://purl.obolibrary.org/obo/DOID_9119,1.3214299999999999,Acute megakaryocytic leukemia,acute myeloid leukemia,0.33035749999999997
+http://purl.obolibrary.org/obo/HP_0002187,http://purl.obolibrary.org/obo/DOID_1059,1.3214299999999999,"Intellectual disability, profound",intellectual disability,0.33035749999999997
+http://purl.obolibrary.org/obo/HP_0100849,http://purl.obolibrary.org/obo/DOID_518,1.32051,Neoplasm of the scrotum,scrotum neoplasm,0.3301275
+http://purl.obolibrary.org/obo/HP_0100638,http://purl.obolibrary.org/obo/DOID_0060119,1.32051,Neoplasm of the pharynx,pharynx cancer,0.3301275
+http://purl.obolibrary.org/obo/HP_0030856,http://purl.obolibrary.org/obo/DOID_13789,1.32051,Posterior staphyloma,staphyloma posticum,0.3301275
+http://purl.obolibrary.org/obo/HP_0100551,http://purl.obolibrary.org/obo/DOID_248,1.32051,Neoplasm of the trachea,trachea leiomyoma,0.3301275
+http://purl.obolibrary.org/obo/HP_0100006,http://purl.obolibrary.org/obo/DOID_3620,1.31928,Neoplasm of the central nervous system,central nervous system cancer,0.32982
+http://purl.obolibrary.org/obo/HP_0002582,http://purl.obolibrary.org/obo/DOID_8929,1.31818,Chronic atrophic gastritis,atrophic gastritis,0.329545
+http://purl.obolibrary.org/obo/HP_0010980,http://purl.obolibrary.org/obo/DOID_1168,1.31633,Hyperlipoproteinemia,familial hyperlipidemia,0.3290825
+http://purl.obolibrary.org/obo/HP_0000968,http://purl.obolibrary.org/obo/DOID_14693,1.31633,Ectodermal dysplasia,Clouston syndrome,0.3290825
+http://purl.obolibrary.org/obo/HP_0010627,http://purl.obolibrary.org/obo/DOID_7378,1.31633,Anterior pituitary hypoplasia,pituitary hypoplasia,0.3290825
+http://purl.obolibrary.org/obo/HP_0001684,http://purl.obolibrary.org/obo/DOID_1882,1.31633,Secundum atrial septal defect,atrial heart septal defect,0.3290825
+http://purl.obolibrary.org/obo/HP_0011170,http://purl.obolibrary.org/obo/DOID_308,1.31481,Myoclonic atonic seizures,early myoclonic encephalopathy,0.3287025
+http://purl.obolibrary.org/obo/HP_0002871,http://purl.obolibrary.org/obo/DOID_9220,1.3125,Central apnea,central sleep apnea,0.328125
+http://purl.obolibrary.org/obo/HP_0001583,http://purl.obolibrary.org/obo/DOID_11771,1.3125,Rotary nystagmus,spontaneous ocular nystagmus,0.328125
+http://purl.obolibrary.org/obo/HP_0011752,http://purl.obolibrary.org/obo/DOID_5048,1.31159,Neoplasm of the posterior pituitary,posterior pituitary gland neoplasm,0.3278975
+http://purl.obolibrary.org/obo/HP_0100743,http://purl.obolibrary.org/obo/DOID_1984,1.31081,Neoplasm of the rectum,rectal neoplasm,0.3277025
+http://purl.obolibrary.org/obo/HP_0100805,http://purl.obolibrary.org/obo/DOID_10787,1.31081,Precocious menopause,premature menopause,0.3277025
+http://purl.obolibrary.org/obo/HP_0100605,http://purl.obolibrary.org/obo/DOID_2598,1.31081,Neoplasm of the larynx,laryngeal benign neoplasm,0.3277025
+http://purl.obolibrary.org/obo/HP_0100273,http://purl.obolibrary.org/obo/DOID_235,1.3,Neoplasm of the colon,colonic benign neoplasm,0.325
+http://purl.obolibrary.org/obo/HP_0011538,http://purl.obolibrary.org/obo/DOID_758,1.3,Atrial situs inversus,situs inversus,0.325
+http://purl.obolibrary.org/obo/HP_0100002,http://purl.obolibrary.org/obo/DOID_7474,1.3,Pleural mesothelioma,malignant pleural mesothelioma,0.325
+http://purl.obolibrary.org/obo/HP_0100517,http://purl.obolibrary.org/obo/DOID_730,1.3,Neoplasm of the urethra,urethral benign neoplasm,0.325
+http://purl.obolibrary.org/obo/HP_0003768,http://purl.obolibrary.org/obo/DOID_14452,1.14737,Periodic paralysis,hypokalemic periodic paralysis,0.2868425
+http://purl.obolibrary.org/obo/HP_0030409,http://purl.obolibrary.org/obo/DOID_5974,1.10411,Renal transitional cell carcinoma,renal pelvis transitional cell carcinoma,0.2760275
+http://purl.obolibrary.org/obo/HP_0030413,http://purl.obolibrary.org/obo/DOID_0050865,1.09552,Squamous cell carcinoma of the tongue,tongue squamous cell carcinoma,0.27388
+http://purl.obolibrary.org/obo/HP_0006727,http://purl.obolibrary.org/obo/DOID_5603,1.07805,T-cell acute lymphoblastic leukemias,acute T cell leukemia,0.2695125
+http://purl.obolibrary.org/obo/HP_0008542,http://purl.obolibrary.org/obo/DOID_10003,1.06792,Low-frequency hearing loss,sensorineural hearing loss,0.26698
+http://purl.obolibrary.org/obo/HP_0012309,http://purl.obolibrary.org/obo/DOID_0050639,1.04,Cutaneous amyloidosis,primary cutaneous amyloidosis,0.26
+http://purl.obolibrary.org/obo/HP_0001669,http://purl.obolibrary.org/obo/DOID_0060770,1.03333,Transposition of the great arteries,dextro-looped transposition of the great arteries,0.2583325
+http://purl.obolibrary.org/obo/HP_0011774,http://purl.obolibrary.org/obo/DOID_6204,1.0254,Thyroid follicular adenoma,follicular adenoma,0.25635
+http://purl.obolibrary.org/obo/HP_0002896,http://purl.obolibrary.org/obo/DOID_916,1.0,Neoplasm of the liver,liver neoplasm,0.25
+http://purl.obolibrary.org/obo/HP_0001657,http://purl.obolibrary.org/obo/DOID_2843,1.0,Prolonged QT interval,long QT syndrome,0.25
+http://purl.obolibrary.org/obo/HP_0002109,http://purl.obolibrary.org/obo/DOID_1176,1.0,obsolete Abnormality of the bronchi,bronchial disease,0.25
+http://purl.obolibrary.org/obo/HP_0002132,http://purl.obolibrary.org/obo/DOID_0060263,1.0,Porencephalic cyst,porencephaly,0.25
+http://purl.obolibrary.org/obo/HP_0011707,http://purl.obolibrary.org/obo/DOID_11312,0.98413,Mobitz I atrioventricular block,Mobitz type II atrioventricular block,0.2460325
+http://purl.obolibrary.org/obo/HP_0008672,http://purl.obolibrary.org/obo/DOID_585,0.98413,Calcium oxalate nephrolithiasis,nephrolithiasis,0.2460325
+http://purl.obolibrary.org/obo/HP_0000044,http://purl.obolibrary.org/obo/DOID_0090070,0.98305,Hypogonadotrophic hypogonadism,hypogonadotropic hypogonadism,0.2457625
+http://purl.obolibrary.org/obo/HP_0006737,http://purl.obolibrary.org/obo/DOID_0050936,0.98305,Extraadrenal pheochromocytoma,extra-adrenal pheochromocytoma,0.2457625
+http://purl.obolibrary.org/obo/HP_0031023,http://purl.obolibrary.org/obo/DOID_5155,0.97959,Multiple mucosal neuromas,multiple mucosal neuroma,0.2448975
+http://purl.obolibrary.org/obo/HP_0100503,http://purl.obolibrary.org/obo/DOID_0050731,0.97674,Vitamin B1 deficiency,vitamin B12 deficiency,0.244185
+http://purl.obolibrary.org/obo/HP_0004929,http://purl.obolibrary.org/obo/DOID_3393,0.97586,obsolete Coronary atherosclerosis,coronary artery disease,0.243965
+http://purl.obolibrary.org/obo/HP_0040198,http://purl.obolibrary.org/obo/DOID_3969,0.97586,Non-medullary thyroid carcinoma,papillary thyroid carcinoma,0.243965
+http://purl.obolibrary.org/obo/HP_0009370,http://purl.obolibrary.org/obo/DOID_0110964,0.97561,Type A brachydactyly,brachydactyly type A1,0.2439025
+http://purl.obolibrary.org/obo/HP_0005831,http://purl.obolibrary.org/obo/DOID_0110975,0.97561,Type B brachydactyly,brachydactyly type B2,0.2439025
+http://purl.obolibrary.org/obo/HP_0005863,http://purl.obolibrary.org/obo/DOID_0110976,0.97561,Type E brachydactyly,brachydactyly type E2,0.2439025
+http://purl.obolibrary.org/obo/HP_0001489,http://purl.obolibrary.org/obo/DOID_9726,0.9750019999999999,Posterior vitreous detachment,vitreous detachment,0.24375049999999998
+http://purl.obolibrary.org/obo/HP_0011107,http://purl.obolibrary.org/obo/DOID_9663,0.9750019999999999,Recurrent aphthous stomatitis,aphthous stomatitis,0.24375049999999998
+http://purl.obolibrary.org/obo/HP_0008668,http://purl.obolibrary.org/obo/DOID_14448,0.9750019999999999,"Gonadal dysgenesis, male",46 XY gonadal dysgenesis,0.24375049999999998
+http://purl.obolibrary.org/obo/HP_0006918,http://purl.obolibrary.org/obo/DOID_10588,0.97442,Diffuse cerebral sclerosis,adrenoleukodystrophy,0.243605
+http://purl.obolibrary.org/obo/HP_0100568,http://purl.obolibrary.org/obo/DOID_170,0.973238,Neoplasm of the endocrine system,endocrine gland cancer,0.2433095
+http://purl.obolibrary.org/obo/HP_0100641,http://purl.obolibrary.org/obo/DOID_660,0.972728,Neoplasm of the adrenal cortex,adrenal cortex cancer,0.243182
+http://purl.obolibrary.org/obo/HP_0008069,http://purl.obolibrary.org/obo/DOID_3165,0.972728,Neoplasm of the skin,skin benign neoplasm,0.243182
+http://purl.obolibrary.org/obo/HP_0011524,http://purl.obolibrary.org/obo/DOID_6994,0.972728,Iris melanoma,malignant iris melanoma,0.243182
+http://purl.obolibrary.org/obo/HP_0000580,http://purl.obolibrary.org/obo/DOID_10584,0.971426,Pigmentary retinopathy,retinitis pigmentosa,0.2428565
+http://purl.obolibrary.org/obo/HP_0030441,http://purl.obolibrary.org/obo/DOID_7708,0.971426,Anal margin Paget's disease,perianal skin Paget's disease,0.2428565
+http://purl.obolibrary.org/obo/HP_0100315,http://purl.obolibrary.org/obo/DOID_12217,0.971426,Lewy bodies,Lewy body dementia,0.2428565
+http://purl.obolibrary.org/obo/HP_0004864,http://purl.obolibrary.org/obo/DOID_8955,0.970586,Refractory sideroblastic anemia,sideroblastic anemia,0.2426465
+http://purl.obolibrary.org/obo/HP_0002762,http://purl.obolibrary.org/obo/DOID_206,0.9695659999999999,Multiple exostoses,hereditary multiple exostoses,0.24239149999999998
+http://purl.obolibrary.org/obo/HP_0007263,http://purl.obolibrary.org/obo/DOID_1441,0.9695659999999999,Spinocerebellar atrophy,autosomal dominant cerebellar ataxia,0.24239149999999998
+http://purl.obolibrary.org/obo/HP_0100631,http://purl.obolibrary.org/obo/DOID_3953,0.96875,Neoplasm of the adrenal gland,adrenal gland cancer,0.2421875
+http://purl.obolibrary.org/obo/HP_0002721,http://purl.obolibrary.org/obo/DOID_612,0.968294,Immunodeficiency,primary immunodeficiency disease,0.2420735
+http://purl.obolibrary.org/obo/HP_0007435,http://purl.obolibrary.org/obo/DOID_0050428,0.968294,Diffuse palmoplantar keratoderma,nonepidermolytic palmoplantar keratoderma,0.2420735
+http://purl.obolibrary.org/obo/HP_0011567,http://purl.obolibrary.org/obo/DOID_1882,0.967796,Sinus venosus atrial septal defect,atrial heart septal defect,0.241949
+http://purl.obolibrary.org/obo/HP_0012469,http://purl.obolibrary.org/obo/DOID_2481,0.96774,Infantile spasms,infantile epileptic encephalopathy,0.241935
+http://purl.obolibrary.org/obo/HP_0011143,http://purl.obolibrary.org/obo/DOID_0110244,0.96667,Age-related cortical cataract,cataract 28,0.2416675
+http://purl.obolibrary.org/obo/HP_0002356,http://purl.obolibrary.org/obo/DOID_0050841,0.966668,Writer's cramp,focal hand dystonia,0.241667
+http://purl.obolibrary.org/obo/HP_0100850,http://purl.obolibrary.org/obo/DOID_11624,0.966668,Neoplasm of the penis,penile neoplasm,0.241667
+http://purl.obolibrary.org/obo/HP_0003654,http://purl.obolibrary.org/obo/DOID_14218,0.966668,Reduced dihydropyrimidine dehydrogenase activity,dihydropyrimidine dehydrogenase deficiency,0.241667
+http://purl.obolibrary.org/obo/HP_0001696,http://purl.obolibrary.org/obo/DOID_758,0.966668,Situs inversus totalis,situs inversus,0.241667
+http://purl.obolibrary.org/obo/HP_0011540,http://purl.obolibrary.org/obo/DOID_0060770,0.9661,Congenitally corrected transposition of the great arteries,dextro-looped transposition of the great arteries,0.241525
+http://purl.obolibrary.org/obo/HP_0100799,http://purl.obolibrary.org/obo/DOID_5099,0.965306,Neoplasm of the middle ear,middle ear cancer,0.2413265
+http://purl.obolibrary.org/obo/HP_0001762,http://purl.obolibrary.org/obo/DOID_11836,0.965306,Talipes equinovarus,clubfoot,0.2413265
+http://purl.obolibrary.org/obo/HP_0004757,http://purl.obolibrary.org/obo/DOID_0060224,0.965306,Paroxysmal atrial fibrillation,atrial fibrillation,0.2413265
+http://purl.obolibrary.org/obo/HP_0002637,http://purl.obolibrary.org/obo/DOID_2316,0.964514,Cerebral ischemia,brain ischemia,0.2411285
+http://purl.obolibrary.org/obo/HP_0040146,http://purl.obolibrary.org/obo/DOID_0050574,0.96429,D-2-hydroxyglutaric acidemia,L-2-hydroxyglutaric aciduria,0.2410725
+http://purl.obolibrary.org/obo/HP_0030450,http://purl.obolibrary.org/obo/DOID_2621,0.9639979999999999,Neuroplasm of the autonomic nervous system,autonomic nervous system neoplasm,0.24099949999999998
+http://purl.obolibrary.org/obo/HP_0002507,http://purl.obolibrary.org/obo/DOID_4621,0.963638,Semilobar holoprosencephaly,holoprosencephaly,0.2409095
+http://purl.obolibrary.org/obo/HP_0006579,http://purl.obolibrary.org/obo/DOID_2383,0.963638,Prolonged neonatal jaundice,neonatal jaundice,0.2409095
+http://purl.obolibrary.org/obo/HP_0011286,http://purl.obolibrary.org/obo/DOID_10487,0.963158,Total colonic aganglionosis,Hirschsprung's disease,0.2407895
+http://purl.obolibrary.org/obo/HP_0006767,http://purl.obolibrary.org/obo/DOID_5394,0.962858,Pituitary prolactin cell adenoma,prolactinoma,0.2407145
+http://purl.obolibrary.org/obo/HP_0005101,http://purl.obolibrary.org/obo/DOID_10003,0.960002,High-frequency hearing impairment,sensorineural hearing loss,0.2400005
+http://purl.obolibrary.org/obo/HP_0010890,http://purl.obolibrary.org/obo/DOID_7489,0.959576,Morbus Osgood-Schlatter,Osgood-Schlatter's disease,0.239894
+http://purl.obolibrary.org/obo/HP_0005458,http://purl.obolibrary.org/obo/DOID_2340,0.958826,Premature closure of fontanelles,craniosynostosis,0.2397065
+http://purl.obolibrary.org/obo/HP_0003159,http://purl.obolibrary.org/obo/DOID_2977,0.958826,Hyperoxaluria,primary hyperoxaluria,0.2397065
+http://purl.obolibrary.org/obo/HP_0002451,http://purl.obolibrary.org/obo/DOID_543,0.95714,Limb dystonia,dystonia,0.239285
+http://purl.obolibrary.org/obo/HP_0004377,http://purl.obolibrary.org/obo/DOID_2531,0.95714,Hematological neoplasm,hematologic cancer,0.239285
+http://purl.obolibrary.org/obo/HP_0012058,http://purl.obolibrary.org/obo/DOID_10047,0.95714,Nodular melanoma,nodular malignant melanoma,0.239285
+http://purl.obolibrary.org/obo/HP_0012226,http://purl.obolibrary.org/obo/DOID_5567,0.95714,Ovarian teratoma,ovarian germ cell teratoma,0.239285
+http://purl.obolibrary.org/obo/HP_0000992,http://purl.obolibrary.org/obo/DOID_3159,0.956,Cutaneous photosensitivity,photosensitivity disease,0.239
+http://purl.obolibrary.org/obo/HP_0001982,http://purl.obolibrary.org/obo/DOID_4423,0.956,Sea-blue histiocytosis,sea-blue histiocyte syndrome,0.239
+http://purl.obolibrary.org/obo/HP_0006704,http://purl.obolibrary.org/obo/DOID_11843,0.9551719999999999,Abnormal coronary artery morphology,coronary artery anomaly,0.23879299999999998
+http://purl.obolibrary.org/obo/HP_0003715,http://purl.obolibrary.org/obo/DOID_0080096,0.95455,Myofibrillar myopathy,myofibrillar myopathy 5,0.2386375
+http://purl.obolibrary.org/obo/HP_0001491,http://purl.obolibrary.org/obo/DOID_0080143,0.95455,Congenital fibrosis of extraocular muscles,congenital fibrosis of the extraocular muscles,0.2386375
+http://purl.obolibrary.org/obo/HP_0006762,http://purl.obolibrary.org/obo/DOID_4919,0.95455,Renal pelvic carcinoma,renal pelvis carcinoma,0.2386375
+http://purl.obolibrary.org/obo/HP_0011643,http://purl.obolibrary.org/obo/DOID_1882,0.954548,Coronary sinus atrial septal defect,atrial heart septal defect,0.238637
+http://purl.obolibrary.org/obo/HP_0009800,http://purl.obolibrary.org/obo/DOID_11714,0.954056,Maternal diabetes,gestational diabetes,0.238514
+http://purl.obolibrary.org/obo/HP_0030005,http://purl.obolibrary.org/obo/DOID_14400,0.954056,Capillary leak,capillary leak syndrome,0.238514
+http://purl.obolibrary.org/obo/HP_0011445,http://purl.obolibrary.org/obo/DOID_1969,0.954056,Athetoid cerebral palsy,cerebral palsy,0.238514
+http://purl.obolibrary.org/obo/HP_0003477,http://purl.obolibrary.org/obo/DOID_7319,0.953336,Peripheral axonal neuropathy,axonal neuropathy,0.238334
+http://purl.obolibrary.org/obo/HP_0031044,http://purl.obolibrary.org/obo/DOID_0110964,0.95238,Type A5 brachydactyly,brachydactyly type A1,0.238095
+http://purl.obolibrary.org/obo/HP_0100497,http://purl.obolibrary.org/obo/DOID_8454,0.95238,Vitamin B3 deficiency,ariboflavinosis,0.238095
+http://purl.obolibrary.org/obo/HP_0100505,http://purl.obolibrary.org/obo/DOID_8454,0.95238,Vitamin B5 deficiency,ariboflavinosis,0.238095
+http://purl.obolibrary.org/obo/HP_0100506,http://purl.obolibrary.org/obo/DOID_8454,0.95238,Vitamin B8 deficiency,ariboflavinosis,0.238095
+http://purl.obolibrary.org/obo/HP_0007755,http://purl.obolibrary.org/obo/DOID_0060451,0.95195,Juvenile epithelial corneal dystrophy,Meesmann corneal dystrophy,0.2379875
+http://purl.obolibrary.org/obo/HP_0004398,http://purl.obolibrary.org/obo/DOID_750,0.95,Peptic ulcer,peptic ulcer disease,0.2375
+http://purl.obolibrary.org/obo/HP_0000204,http://purl.obolibrary.org/obo/DOID_9296,0.95,Cleft upper lip,cleft lip,0.2375
+http://purl.obolibrary.org/obo/HP_0000255,http://purl.obolibrary.org/obo/DOID_0050127,0.95,Acute sinusitis,sinusitis,0.2375
+http://purl.obolibrary.org/obo/HP_0012442,http://purl.obolibrary.org/obo/DOID_4140,0.95,Gallbladder dyskinesia,biliary dyskinesia,0.2375
+http://purl.obolibrary.org/obo/HP_0500009,http://purl.obolibrary.org/obo/DOID_6457,0.95,Dysplastic gangliocytoma of the cerebellum,Cowden disease,0.2375
+http://purl.obolibrary.org/obo/HP_0003034,http://purl.obolibrary.org/obo/DOID_4997,0.95,Diaphyseal sclerosis,Camurati-Engelmann disease,0.2375
+http://purl.obolibrary.org/obo/HP_0003162,http://purl.obolibrary.org/obo/DOID_9993,0.95,Fasting hypoglycemia,hypoglycemia,0.2375
+http://purl.obolibrary.org/obo/HP_0011530,http://purl.obolibrary.org/obo/DOID_12514,0.95,Retinal hole,retinal perforation,0.2375
+http://purl.obolibrary.org/obo/HP_0011367,http://purl.obolibrary.org/obo/DOID_0050468,0.95,Yellow nails,yellow nail syndrome,0.2375
+http://purl.obolibrary.org/obo/HP_0008221,http://purl.obolibrary.org/obo/DOID_0050811,0.95,Adrenal hyperplasia,congenital adrenal hyperplasia,0.2375
+http://purl.obolibrary.org/obo/HP_0100513,http://purl.obolibrary.org/obo/DOID_11249,0.95,Vitamin E deficiency,vitamin K deficiency hemorrhagic disease,0.2375
+http://purl.obolibrary.org/obo/HP_0008964,http://purl.obolibrary.org/obo/DOID_318,0.94915,Nonprogressive muscular atrophy,progressive muscular atrophy,0.2372875
+http://purl.obolibrary.org/obo/HP_0031684,http://purl.obolibrary.org/obo/DOID_14092,0.94915,Renal artery atherosclerosis,renal artery atheroma,0.2372875
+http://purl.obolibrary.org/obo/HP_0002123,http://purl.obolibrary.org/obo/DOID_308,0.947456,Generalized myoclonic seizures,early myoclonic encephalopathy,0.236864
+http://purl.obolibrary.org/obo/HP_0000839,http://purl.obolibrary.org/obo/DOID_0060873,0.94737,Pituitary dwarfism,isolated growth hormone deficiency type IA,0.2368425
+http://purl.obolibrary.org/obo/HP_0040289,http://purl.obolibrary.org/obo/DOID_5339,0.94737,Cyclic neutropenia,cyclic hematopoiesis,0.2368425
+http://purl.obolibrary.org/obo/HP_0007443,http://purl.obolibrary.org/obo/DOID_3263,0.9465140000000001,Partial albinism,piebaldism,0.23662850000000002
+http://purl.obolibrary.org/obo/HP_0001304,http://purl.obolibrary.org/obo/DOID_0050835,0.9465140000000001,Torsion dystonia,generalized dystonia,0.23662850000000002
+http://purl.obolibrary.org/obo/HP_0004443,http://purl.obolibrary.org/obo/DOID_2340,0.9465140000000001,Lambdoidal craniosynostosis,craniosynostosis,0.23662850000000002
+http://purl.obolibrary.org/obo/HP_0012452,http://purl.obolibrary.org/obo/DOID_0050425,0.945716,Restless legs,restless legs syndrome,0.236429
+http://purl.obolibrary.org/obo/HP_0010298,http://purl.obolibrary.org/obo/DOID_1453,0.945716,Smooth tongue,atrophic glossitis,0.236429
+http://purl.obolibrary.org/obo/HP_0002888,http://purl.obolibrary.org/obo/DOID_4844,0.944444,Ependymoma,benign ependymoma,0.236111
+http://purl.obolibrary.org/obo/HP_0006519,http://purl.obolibrary.org/obo/DOID_4926,0.944444,Alveolar cell carcinoma,bronchiolo-alveolar adenocarcinoma,0.236111
+http://purl.obolibrary.org/obo/HP_0011706,http://purl.obolibrary.org/obo/DOID_0050822,0.94444,Second degree atrioventricular block,second-degree atrioventricular block,0.23611
+http://purl.obolibrary.org/obo/HP_0006543,http://purl.obolibrary.org/obo/DOID_0060319,0.943478,Cardiorespiratory arrest,cardiac arrest,0.2358695
+http://purl.obolibrary.org/obo/HP_0001709,http://purl.obolibrary.org/obo/DOID_0050823,0.94286,Third degree atrioventricular block,third-degree atrioventricular block,0.235715
+http://purl.obolibrary.org/obo/HP_0011705,http://purl.obolibrary.org/obo/DOID_0050821,0.94286,First degree atrioventricular block,first-degree atrioventricular block,0.235715
+http://purl.obolibrary.org/obo/HP_0003363,http://purl.obolibrary.org/obo/DOID_758,0.942104,Abdominal situs inversus,situs inversus,0.235526
+http://purl.obolibrary.org/obo/HP_0001587,http://purl.obolibrary.org/obo/DOID_5426,0.942104,obsolete Primary ovarian failure,premature ovarian failure,0.235526
+http://purl.obolibrary.org/obo/HP_0011761,http://purl.obolibrary.org/obo/DOID_5715,0.942104,Pituitary null cell adenoma,functionless pituitary adenoma,0.235526
+http://purl.obolibrary.org/obo/HP_0008689,http://purl.obolibrary.org/obo/DOID_11383,0.942104,Bilateral cryptorchidism,cryptorchidism,0.235526
+http://purl.obolibrary.org/obo/HP_0000835,http://purl.obolibrary.org/obo/DOID_0080204,0.94118,Adrenal hypoplasia,renal hypoplasia,0.235295
+http://purl.obolibrary.org/obo/HP_0008222,http://purl.obolibrary.org/obo/DOID_12336,0.94118,Female infertility,male infertility,0.235295
+http://purl.obolibrary.org/obo/HP_0002510,http://purl.obolibrary.org/obo/DOID_12835,0.939998,Spastic tetraplegia,quadriplegia,0.2349995
+http://purl.obolibrary.org/obo/HP_0000201,http://purl.obolibrary.org/obo/DOID_4258,0.9390259999999999,Pierre-Robin sequence,Weissenbacher-Zweymuller syndrome,0.23475649999999998
+http://purl.obolibrary.org/obo/HP_0012798,http://purl.obolibrary.org/obo/DOID_3319,0.9375,Pulmonary lymphangiomyomatosis,lymphangioleiomyomatosis,0.234375
+http://purl.obolibrary.org/obo/HP_0010976,http://purl.obolibrary.org/obo/DOID_614,0.9375,B lymphocytopenia,lymphopenia,0.234375
+http://purl.obolibrary.org/obo/HP_0040294,http://purl.obolibrary.org/obo/DOID_11514,0.9375,Duplicated tongue,fissured tongue,0.234375
+http://purl.obolibrary.org/obo/HP_0100843,http://purl.obolibrary.org/obo/DOID_3068,0.9363619999999999,obsolete Glioblastoma,glioblastoma multiforme,0.23409049999999998
+http://purl.obolibrary.org/obo/HP_0012051,http://purl.obolibrary.org/obo/DOID_9993,0.9363619999999999,Reactive hypoglycemia,hypoglycemia,0.23409049999999998
+http://purl.obolibrary.org/obo/HP_0005235,http://purl.obolibrary.org/obo/DOID_10486,0.9363619999999999,Jejunal atresia,intestinal atresia,0.23409049999999998
+http://purl.obolibrary.org/obo/HP_0003534,http://purl.obolibrary.org/obo/DOID_0060236,0.933332,Reduced xanthine dehydrogenase activity,xanthinuria,0.233333
+http://purl.obolibrary.org/obo/HP_0012193,http://purl.obolibrary.org/obo/DOID_0050744,0.93333,Anaplastic large-cell lymphoma,anaplastic large cell lymphoma,0.2333325
+http://purl.obolibrary.org/obo/HP_0100630,http://purl.obolibrary.org/obo/DOID_9261,0.932786,Neoplasia of the nasopharynx,nasopharynx carcinoma,0.2331965
+http://purl.obolibrary.org/obo/HP_0100648,http://purl.obolibrary.org/obo/DOID_8649,0.9319999999999999,Neoplasm of the tongue,tongue cancer,0.23299999999999998
+http://purl.obolibrary.org/obo/HP_0000639,http://purl.obolibrary.org/obo/DOID_11771,0.9319999999999999,Nystagmus,spontaneous ocular nystagmus,0.23299999999999998
+http://purl.obolibrary.org/obo/HP_0100013,http://purl.obolibrary.org/obo/DOID_1612,0.9319999999999999,Neoplasm of the breast,breast cancer,0.23299999999999998
+http://purl.obolibrary.org/obo/HP_0002181,http://purl.obolibrary.org/obo/DOID_4724,0.9319999999999999,Cerebral edema,brain edema,0.23299999999999998
+http://purl.obolibrary.org/obo/HP_0008153,http://purl.obolibrary.org/obo/DOID_14452,0.93103,Periodic hypokalemic paresis,hypokalemic periodic paralysis,0.2327575
+http://purl.obolibrary.org/obo/HP_0008024,http://purl.obolibrary.org/obo/DOID_0110261,0.93103,Congenital nuclear cataract,cataract 35,0.2327575
+http://purl.obolibrary.org/obo/HP_0004445,http://purl.obolibrary.org/obo/DOID_2373,0.93077,Elliptocytosis,hereditary elliptocytosis,0.2326925
+http://purl.obolibrary.org/obo/HP_0003202,http://purl.obolibrary.org/obo/DOID_767,0.93077,Skeletal muscle atrophy,muscular atrophy,0.2326925
+http://purl.obolibrary.org/obo/HP_0012741,http://purl.obolibrary.org/obo/DOID_11383,0.93077,Unilateral cryptorchidism,cryptorchidism,0.2326925
+http://purl.obolibrary.org/obo/HP_0010693,http://purl.obolibrary.org/obo/DOID_0110248,0.93023,Pulverulent cataract,cataract 30,0.2325575
+http://purl.obolibrary.org/obo/HP_0010921,http://purl.obolibrary.org/obo/DOID_0110232,0.93023,Coralliform cataract,cataract 29,0.2325575
+http://purl.obolibrary.org/obo/HP_0031459,http://purl.obolibrary.org/obo/DOID_0060123,0.93023,Soft tissue neoplasm,connective tissue benign neoplasm,0.2325575
+http://purl.obolibrary.org/obo/HP_0004905,http://purl.obolibrary.org/obo/DOID_8454,0.92683,Vitamin A deficiency,ariboflavinosis,0.2317075
+http://purl.obolibrary.org/obo/HP_0100512,http://purl.obolibrary.org/obo/DOID_8454,0.92683,Vitamin D deficiency,ariboflavinosis,0.2317075
+http://purl.obolibrary.org/obo/HP_0011880,http://purl.obolibrary.org/obo/DOID_11247,0.92683,Acute disseminated intravascular coagulation,disseminated intravascular coagulation,0.2317075
+http://purl.obolibrary.org/obo/HP_0008715,http://purl.obolibrary.org/obo/DOID_0060020,0.92683,Testicular dysgenesis,reticular dysgenesis,0.2317075
+http://purl.obolibrary.org/obo/HP_0006897,http://purl.obolibrary.org/obo/DOID_3817,0.92683,Cranial nerve VI palsy,cranial nerve palsy,0.2317075
+http://purl.obolibrary.org/obo/HP_0100510,http://purl.obolibrary.org/obo/DOID_8454,0.92683,Vitamin C deficiency,ariboflavinosis,0.2317075
+http://purl.obolibrary.org/obo/HP_0100618,http://purl.obolibrary.org/obo/DOID_2696,0.92683,Leydig cell neoplasia,Leydig cell tumor,0.2317075
+http://purl.obolibrary.org/obo/HP_0008480,http://purl.obolibrary.org/obo/DOID_2247,0.925808,Cervical spondylosis,spondylosis,0.231452
+http://purl.obolibrary.org/obo/HP_0004392,http://purl.obolibrary.org/obo/DOID_0060889,0.925808,Prune belly,prune belly syndrome,0.231452
+http://purl.obolibrary.org/obo/HP_0007782,http://purl.obolibrary.org/obo/DOID_12161,0.92537,Peripheral retinal cone degeneration,peripheral retinal degeneration,0.2313425
+http://purl.obolibrary.org/obo/HP_0010773,http://purl.obolibrary.org/obo/DOID_4297,0.925,Partial anomalous pulmonary venous return,scimitar syndrome,0.23125
+http://purl.obolibrary.org/obo/HP_0100544,http://purl.obolibrary.org/obo/DOID_117,0.924998,Neoplasm of the heart,heart cancer,0.2312495
+http://purl.obolibrary.org/obo/HP_0001300,http://purl.obolibrary.org/obo/DOID_13548,0.9235279999999999,Parkinsonism,secondary Parkinson disease,0.23088199999999998
+http://purl.obolibrary.org/obo/HP_0006749,http://purl.obolibrary.org/obo/DOID_3119,0.9235279999999999,Malignant gastrointestinal tract tumors,gastrointestinal system cancer,0.23088199999999998
+http://purl.obolibrary.org/obo/HP_0010544,http://purl.obolibrary.org/obo/DOID_11771,0.9235279999999999,Vertical nystagmus,spontaneous ocular nystagmus,0.23088199999999998
+http://purl.obolibrary.org/obo/HP_0040154,http://purl.obolibrary.org/obo/DOID_2280,0.9235279999999999,Acne inversa,hidradenitis suppurativa,0.23088199999999998
+http://purl.obolibrary.org/obo/HP_0001492,http://purl.obolibrary.org/obo/DOID_14686,0.9235279999999999,Axenfeld anomaly,Axenfeld-Rieger syndrome,0.23088199999999998
+http://purl.obolibrary.org/obo/HP_0001397,http://purl.obolibrary.org/obo/DOID_9452,0.9235279999999999,Hepatic steatosis,fatty liver disease,0.23088199999999998
+http://purl.obolibrary.org/obo/HP_0100516,http://purl.obolibrary.org/obo/DOID_11885,0.9235279999999999,Neoplasm of the ureter,ureteral benign neoplasm,0.23088199999999998
+http://purl.obolibrary.org/obo/HP_0100521,http://purl.obolibrary.org/obo/DOID_3277,0.9235279999999999,Neoplasm of the thymus,thymus cancer,0.23088199999999998
+http://purl.obolibrary.org/obo/HP_0003344,http://purl.obolibrary.org/obo/DOID_0060336,0.92308,3-Methylglutaric aciduria,3-methylglutaconic aciduria,0.23077
+http://purl.obolibrary.org/obo/HP_0003647,http://purl.obolibrary.org/obo/DOID_0060358,0.92308,Electron transfer flavoprotein-ubiquinone oxidoreductase defect,multiple acyl-CoA dehydrogenase deficiency,0.23077
+http://purl.obolibrary.org/obo/HP_0100526,http://purl.obolibrary.org/obo/DOID_3683,0.92162,Neoplasm of the lung,lung benign neoplasm,0.230405
+http://purl.obolibrary.org/obo/HP_0002930,http://purl.obolibrary.org/obo/DOID_11633,0.9210499999999999,Thyroid hormone receptor defect,thyroid hormone resistance syndrome,0.23026249999999998
+http://purl.obolibrary.org/obo/HP_0004760,http://purl.obolibrary.org/obo/DOID_1681,0.9207799999999999,obsolete Congenital septal defect,heart septal defect,0.23019499999999998
+http://purl.obolibrary.org/obo/HP_0006763,http://purl.obolibrary.org/obo/DOID_7177,0.92063,Anal canal squamous carcinoma,anal canal squamous cell carcinoma,0.2301575
+http://purl.obolibrary.org/obo/HP_0025326,http://purl.obolibrary.org/obo/DOID_8483,0.92,Retinal arterial occlusion,retinal artery occlusion,0.23
+http://purl.obolibrary.org/obo/HP_0006722,http://purl.obolibrary.org/obo/DOID_4907,0.92,Small intestine carcinoid,small intestine carcinoma,0.23
+http://purl.obolibrary.org/obo/HP_0100654,http://purl.obolibrary.org/obo/DOID_1210,0.9199999999999999,Retrobulbar optic neuritis,optic neuritis,0.22999999999999998
+http://purl.obolibrary.org/obo/HP_0000700,http://purl.obolibrary.org/obo/DOID_4617,0.9199999999999999,Periapical bone loss,periapical granuloma,0.22999999999999998
+http://purl.obolibrary.org/obo/HP_0010891,http://purl.obolibrary.org/obo/DOID_13300,0.9199999999999999,Morbus Scheuermann,Scheuermann's disease,0.22999999999999998
+http://purl.obolibrary.org/obo/HP_0008110,http://purl.obolibrary.org/obo/DOID_11836,0.9199999999999999,Equinovarus deformity,clubfoot,0.22999999999999998
+http://purl.obolibrary.org/obo/HP_0007971,http://purl.obolibrary.org/obo/DOID_0110271,0.91892,Lamellar cataract,cataract 23,0.22973
+http://purl.obolibrary.org/obo/HP_0031371,http://purl.obolibrary.org/obo/DOID_12514,0.91892,Rectal perforation,retinal perforation,0.22973
+http://purl.obolibrary.org/obo/HP_0011734,http://purl.obolibrary.org/obo/DOID_0050546,0.91803,Central adrenal insufficiency,congenital adrenal insufficiency,0.2295075
+http://purl.obolibrary.org/obo/HP_0011622,http://purl.obolibrary.org/obo/DOID_1657,0.91803,Inlet ventricular septal defect,ventricular septal defect,0.2295075
+http://purl.obolibrary.org/obo/HP_0011638,http://purl.obolibrary.org/obo/DOID_0060562,0.91803,Anomalous origin of left coronary artery from the pulmonary artery,anomalous left coronary artery from the pulmonary artery,0.2295075
+http://purl.obolibrary.org/obo/HP_0009049,http://purl.obolibrary.org/obo/DOID_10595,0.91667,Peroneal muscle atrophy,Charcot-Marie-Tooth disease,0.2291675
+http://purl.obolibrary.org/obo/HP_0031110,http://purl.obolibrary.org/obo/DOID_13576,0.91667,Twin-to-twin transfusion,twin-to-twin transfusion syndrome,0.2291675
+http://purl.obolibrary.org/obo/HP_0025195,http://purl.obolibrary.org/obo/DOID_3827,0.91525,Central diaphragmatic hernia,congenital diaphragmatic hernia,0.2288125
+http://purl.obolibrary.org/obo/HP_0006717,http://purl.obolibrary.org/obo/DOID_4388,0.91525,Peripheral neuroepithelioma,bone peripheral neuroepithelioma,0.2288125
+http://purl.obolibrary.org/obo/HP_0006978,http://purl.obolibrary.org/obo/DOID_0060786,0.91525,Dysmyelinating leukodystrophy,hypomyelinating leukodystrophy,0.2288125
+http://purl.obolibrary.org/obo/HP_0030171,http://purl.obolibrary.org/obo/DOID_9745,0.91429,Perirenal hematoma,perianal hematoma,0.2285725
+http://purl.obolibrary.org/obo/HP_0012233,http://purl.obolibrary.org/obo/DOID_468,0.91304,Intramuscular hematoma,intramuscular hemangioma,0.22826
+http://purl.obolibrary.org/obo/HP_0030953,http://purl.obolibrary.org/obo/DOID_1248,0.91304,Conjunctival hyperemia,ocular hyperemia,0.22826
+http://purl.obolibrary.org/obo/HP_0025497,http://purl.obolibrary.org/obo/DOID_11840,0.91304,Coronary artery spasm,coronary artery vasospasm,0.22826
+http://purl.obolibrary.org/obo/HP_0006735,http://purl.obolibrary.org/obo/DOID_0050891,0.91304,Renal cortical adenoma,adrenal cortical adenoma,0.22826
+http://purl.obolibrary.org/obo/HP_0012887,http://purl.obolibrary.org/obo/DOID_7320,0.91228,Ovarian serous cystadenoma,ovarian serous cystadenofibroma,0.22807
+http://purl.obolibrary.org/obo/HP_0500062,http://purl.obolibrary.org/obo/DOID_13025,0.91228,Retinopathy of prematurity plus,retinopathy of prematurity,0.22807
+http://purl.obolibrary.org/obo/HP_0010736,http://purl.obolibrary.org/obo/DOID_1858,0.91228,Monostotic fibrous dysplasia,McCune Albright syndrome,0.22807
+http://purl.obolibrary.org/obo/HP_0011556,http://purl.obolibrary.org/obo/DOID_6406,0.91228,Double inlet right ventricle,double outlet right ventricle,0.22807
+http://purl.obolibrary.org/obo/HP_0006955,http://purl.obolibrary.org/obo/DOID_0060264,0.91228,Olivopontocerebellar hypoplasia,pontocerebellar hypoplasia,0.22807
+http://purl.obolibrary.org/obo/HP_0200071,http://purl.obolibrary.org/obo/DOID_12161,0.91176,Peripheral vitreoretinal degeneration,peripheral retinal degeneration,0.22794
+http://purl.obolibrary.org/obo/HP_0002656,http://purl.obolibrary.org/obo/DOID_12721,0.90909,Epiphyseal dysplasia,multiple epiphyseal dysplasia,0.2272725
+http://purl.obolibrary.org/obo/HP_0007508,http://purl.obolibrary.org/obo/DOID_0060361,0.90909,Punctate palmar hyperkeratosis,punctate palmoplantar keratoderma,0.2272725
+http://purl.obolibrary.org/obo/HP_0011770,http://purl.obolibrary.org/obo/DOID_11202,0.90909,Tertiary hyperparathyroidism,primary hyperparathyroidism,0.2272725
+http://purl.obolibrary.org/obo/HP_0031207,http://purl.obolibrary.org/obo/DOID_271,0.90909,Hepatic hemangioma,hemangioma of liver,0.2272725
+http://purl.obolibrary.org/obo/HP_0031521,http://purl.obolibrary.org/obo/DOID_5304,0.90909,Vaginal clear cell adenocarcinoma,ovarian clear cell adenocarcinoma,0.2272725
+http://purl.obolibrary.org/obo/HP_0031488,http://purl.obolibrary.org/obo/DOID_0060688,0.90909,Arteriovenous malformation of the lip,arteriovenous malformations of the brain,0.2272725
+http://purl.obolibrary.org/obo/HP_0011637,http://purl.obolibrary.org/obo/DOID_0060562,0.90598,Anomalous origin of coronary artery from the pulmonary artery,anomalous left coronary artery from the pulmonary artery,0.226495
+http://purl.obolibrary.org/obo/HP_0012781,http://purl.obolibrary.org/obo/DOID_10003,0.90566,Mid-frequency hearing loss,sensorineural hearing loss,0.226415
+http://purl.obolibrary.org/obo/HP_0005520,http://purl.obolibrary.org/obo/DOID_11247,0.90476,Chronic disseminated intravascular coagulation,disseminated intravascular coagulation,0.22619
+http://purl.obolibrary.org/obo/HP_0007131,http://purl.obolibrary.org/obo/DOID_5214,0.90323,Acute demyelinating polyneuropathy,demyelinating polyneuropathy,0.2258075
+http://purl.obolibrary.org/obo/HP_0007401,http://purl.obolibrary.org/obo/DOID_767,0.90323,Macular atrophy,muscular atrophy,0.2258075
+http://purl.obolibrary.org/obo/HP_0011773,http://purl.obolibrary.org/obo/DOID_13197,0.90323,Uninodular goiter,nodular goiter,0.2258075

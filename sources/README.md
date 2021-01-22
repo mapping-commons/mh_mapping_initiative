@@ -46,7 +46,17 @@ _Contact:_ [Debbie Krupke (JAX)](https://www.jax.org/people/debbie-krupke)
 #### Logical matches (Monarch/Alliance)
 
 ### The Pistoia Alliance Mappings
-
+_Contact_: [Thomas Liener](https://github.com/LLTommy)
+_Summary_: The Pistoia alliance mappings use a mixture of label matching and ontology cross-links to automatically produce ontology alignments, using a system called PAXO.
+_Project_URL_: https://www.pistoiaalliance.org/projects/current-projects/ontologies-mapping/
+_Raw data_: [snapshot](pistoia)
+_Description_: Data was cut off at a confidence of 0.9 after manual sanity checks. The data referenced here corresponds to a 2018 snapshot of the PAXO mapping pipeline. Datafiles available:
+- calculated_output_hp_doid.csv
+- calculated_output_mp_doid.csv
+- calculated_output_mp_hp.csv
+- calculated_output_ordo_doid.csv
+- calculated_output_ordo_hp.csv
+- calculated_output_ordo_mp.csv
 
 
 ### The MGI mappings
