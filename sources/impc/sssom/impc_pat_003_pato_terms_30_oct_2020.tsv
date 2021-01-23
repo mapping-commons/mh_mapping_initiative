@@ -1,0 +1,37 @@
+subject_id	subject_label	object_id	object_label	match_type	predicate_id	reviewer_id	comment
+PATO:0000627	focal	HP:0030650	Focal	SSSOMC:Lexical	skos:exactMatch	orcid:0000-0002-7356-1779	What is the purpose of this entire table?
+PATO:0001791	multifocal (preferred synonym of multi-localised)	HP:0030651	Multifocal	SSSOMC:Lexical	skos:closeMatch		
+PATO:0002402	multifocal to coalescing	HP:0030651	Multifocal	SSSOMC:Logical	skos:closeMatch		
+PATO:0001566	diffuse	HP:0020034	Diffuse	SSSOMC:Lexical	skos:closeMatch		
+PATO:0000632	symmetrical	sssom:NoTermFound		SSSOMC:HumanCurated	skos:closeMatch		
+PATO:0002401	random pattern	sssom:NoTermFound		SSSOMC:HumanCurated	skos:closeMatch		
+PATO:0000634	unilateral	HP:0012833	Unilateral	SSSOMC:Lexical	skos:closeMatch		
+PATO:0000618	bilateral	HP:0012832	Bilateral	SSSOMC:Lexical	skos:closeMatch		
+PATO:0000366	left	HP:0012835	Left	SSSOMC:Lexical	skos:closeMatch		
+PATO:0000367	right	HP:0012834	Right	SSSOMC:Lexical	skos:closeMatch		
+PATO:0000586	increased size	sssom:NoTermFound		SSSOMC:HumanCurated	skos:closeMatch		
+PATO:0000587	decreased size	sssom:NoTermFound		SSSOMC:HumanCurated	skos:closeMatch		
+PATO:0000573	increased length	sssom:NoTermFound		SSSOMC:HumanCurated	skos:closeMatch		
+PATO:0000574	decreased length	sssom:NoTermFound		SSSOMC:HumanCurated	skos:closeMatch		
+PATO:0000411	circular	sssom:NoTermFound		SSSOMC:HumanCurated	skos:closeMatch		
+PATO:0001891	ovate	sssom:NoTermFound		SSSOMC:HumanCurated	skos:closeMatch		
+PATO:0000407	flat	sssom:NoTermFound		SSSOMC:HumanCurated	skos:closeMatch		
+PATO:0001369	raised	sssom:NoTermFound		SSSOMC:HumanCurated	skos:closeMatch		
+PATO:0002416	sunken	sssom:NoTermFound		SSSOMC:HumanCurated	skos:closeMatch		
+PATO:0000387	soft	sssom:NoTermFound		SSSOMC:HumanCurated	skos:closeMatch		
+PATO:0000386	hard	sssom:NoTermFound		SSSOMC:HumanCurated	skos:closeMatch		
+PATO:0002406	friable	sssom:NoTermFound		SSSOMC:HumanCurated	skos:closeMatch		
+PATO:0002376	inflated	sssom:NoTermFound		SSSOMC:HumanCurated	skos:closeMatch		
+PATO:0002409	fluid-filled	sssom:NoTermFound		SSSOMC:HumanCurated	skos:closeMatch		
+PATO:0002408	watery	sssom:NoTermFound		SSSOMC:HumanCurated	skos:closeMatch		
+PATO:0000322	red	sssom:NoTermFound		SSSOMC:HumanCurated	skos:closeMatch		
+PATO:0000317	black	sssom:NoTermFound		SSSOMC:HumanCurated	skos:closeMatch		
+PATO:0000952	brown	sssom:NoTermFound		SSSOMC:HumanCurated	skos:closeMatch		
+PATO:0000954	pink	sssom:NoTermFound		SSSOMC:HumanCurated	skos:closeMatch		
+PATO:0000950	grey	sssom:NoTermFound		SSSOMC:HumanCurated	skos:closeMatch		
+PATO:0000323	white	sssom:NoTermFound		SSSOMC:HumanCurated	skos:closeMatch		
+PATO:0002410	beige	sssom:NoTermFound		SSSOMC:HumanCurated	skos:closeMatch		
+PATO:0000318	blue	sssom:NoTermFound		SSSOMC:HumanCurated	skos:closeMatch		
+PATO:0000320	green	sssom:NoTermFound		SSSOMC:HumanCurated	skos:closeMatch		
+PATO:0000324	yellow	sssom:NoTermFound		SSSOMC:HumanCurated	skos:closeMatch		
+PATO:0002274	mottled	sssom:NoTermFound		SSSOMC:HumanCurated	skos:closeMatch		

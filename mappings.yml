@@ -1,0 +1,26 @@
+registry_id: mh_mapping_initiative
+registry_title: Mouse Human Mapping Initiative
+registry_description: Mouse Human Mapping Initiative
+homepage: https://github.com/mapping-commons/mh_mapping_initiative
+mappings:
+  - mapping_set_id: mp_hp_impc_eye
+    mapping_set_group: impc_mouse_morphology
+    mapping_set_title: "The IMPC Mouse Morphology Mappings: Eye Morphology Test"
+    mapping_set_description: Some url
+    creator_id: "https://orcid.org/0000-0002-7356-1779"
+    curie_map: 
+      HP: "http://purl.obolibrary.org/obo/HP_"
+      MP: "http://purl.obolibrary.org/obo/MP_"
+      skos: "http://www.w3.org/2004/02/skos/core"
+    license: "https://creativecommons.org/publicdomain/zero/1.0/"
+    mapping_provider: "http://purl.obolibrary.org/obo/upheno.owl"
+  - mapping_set_id: mp_hp_impc_hwt
+    mapping_set_group: impc_mouse_morphology
+    mapping_set_title: "The IMPC Mouse Morphology Mappings: Heart Weight Test"
+    creator_id: "https://orcid.org/0000-0002-7356-1779"
+    curie_map: 
+      HP: "http://purl.obolibrary.org/obo/HP_"
+      MP: "http://purl.obolibrary.org/obo/MP_"
+      skos: "http://www.w3.org/2004/02/skos/core"
+    license: "https://creativecommons.org/publicdomain/zero/1.0/"
+    mapping_provider: "http://purl.obolibrary.org/obo/upheno.owl"

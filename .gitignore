@@ -1,5 +1,8 @@
-
+.idea
 .DS_Store
 df_kids_first_mapped.csv
 .ipynb_checkpoints
 ~*.xlsx
+tmp/
+.cogs
+*.pyc
