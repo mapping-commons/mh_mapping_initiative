@@ -5,6 +5,6 @@ curie_map:
   skos: http://www.w3.org/2004/02/skos/core
 license: https://creativecommons.org/publicdomain/zero/1.0/
 mapping_provider: https://www.mousephenotype.org
-mapping_set_group: impc_mouse_morphology
-mapping_set_id: mp_hp_impc_hwt
-mapping_set_title: 'The IMPC Mouse Morphology Mappings: Heart Weight Test'
+mapping_set_group: pistoia_mappings
+mapping_set_id: mp_doid_pistoia
+mapping_set_title: 'The Pistoia Ontology Mappings: MP-DOID'

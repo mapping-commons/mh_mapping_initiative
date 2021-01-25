@@ -1,0 +1,336 @@
+#curie_map:
+#  HP: http://purl.obolibrary.org/obo/HP_
+#  MP: http://purl.obolibrary.org/obo/MP_
+#  skos: http://www.w3.org/2004/02/skos/core
+#license: https://creativecommons.org/publicdomain/zero/1.0/
+#mapping_provider: https://www.pistoiaalliance.org/projects/current-projects/ontologies-mapping/
+#mapping_set_group: pistoia_mappings
+#mapping_set_id: ordo_mp_pistoia
+#mapping_set_title: 'The Pistoia Ontology Mappings: ORDO-MP'
+#curie_map:
+#  '@vocab': https://w3id.org/biolink/vocab/
+#  APO: http://purl.obolibrary.org/obo/APO_
+#  Aeolus: http://translator.ncats.nih.gov/Aeolus_
+#  BIOGRID: http://identifiers.org/biogrid/
+#  BIOSAMPLE: http://identifiers.org/biosample/
+#  BSPO: http://purl.obolibrary.org/obo/BSPO_
+#  CAID: http://reg.clinicalgenome.org/redmine/projects/registry/genboree_registry/by_caid?caid=
+#  CAS: http://identifiers.org/cas/
+#  CHADO: http://gmod.org/wiki/Chado/
+#  CHEBI: http://purl.obolibrary.org/obo/CHEBI_
+#  CHEMBL.COMPOUND: http://identifiers.org/chembl.compound/
+#  CHEMBL.MECHANISM: https://www.ebi.ac.uk/chembl/mechanism/inspect/
+#  CHEMBL.TARGET: http://identifiers.org/chembl.target/
+#  CID: http://pubchem.ncbi.nlm.nih.gov/compound/
+#  CL: http://purl.obolibrary.org/obo/CL_
+#  CLINVAR: http://identifiers.org/clinvar/
+#  CLO: http://purl.obolibrary.org/obo/CLO_
+#  COAR_RESOURCE: http://purl.org/coar/resource_type/
+#  CPT: https://www.ama-assn.org/practice-management/cpt/
+#  CTD: http://translator.ncats.nih.gov/CTD_
+#  ChemBank: http://chembank.broadinstitute.org/chemistry/viewMolecule.htm?cbid=
+#  ClinVarVariant: http://www.ncbi.nlm.nih.gov/clinvar/variation/
+#  DBSNP: http://identifiers.org/dbsnp/
+#  DGIdb: https://www.dgidb.org/interaction_types
+#  DOID: http://purl.obolibrary.org/obo/DOID_
+#  DRUGBANK: http://identifiers.org/drugbank/
+#  DrugCentral: http://translator.ncats.nih.gov/DrugCentral_
+#  EC: http://www.enzyme-database.org/query.php?ec=
+#  ECTO: http://purl.obolibrary.org/obo/ECTO_
+#  EDAM-DATA: http://edamontology.org/data_
+#  EDAM-FORMAT: http://edamontology.org/format_
+#  EDAM-OPERATION: http://edamontology.org/operation_
+#  EDAM-TOPIC: http://edamontology.org/topic_
+#  EFO: http://identifiers.org/efo/
+#  EGGNOG: http://identifiers.org/eggnog/
+#  ENSEMBL: http://identifiers.org/ensembl/
+#  ExO: http://purl.obolibrary.org/obo/ExO_
+#  FAO: http://purl.obolibrary.org/obo/FAO_
+#  FB: http://identifiers.org/fb/
+#  FBcv: http://purl.obolibrary.org/obo/FBcv_
+#  GAMMA: http://translator.renci.org/GAMMA_
+#  GO: http://purl.obolibrary.org/obo/GO_
+#  GOLD.META: http://identifiers.org/gold.meta/
+#  GOP: http://purl.obolibrary.org/obo/go#
+#  GOREL: http://purl.obolibrary.org/obo/GOREL_
+#  GSID: https://scholar.google.com/citations?user=
+#  GTEx: https://www.gtexportal.org/home/gene/
+#  GTOPDB: https://www.guidetopharmacology.org/GRAC/LigandDisplayForward?ligandId=
+#  HANCESTRO: http://www.ebi.ac.uk/ancestro/ancestro_
+#  HCPCS: http://purl.bioontology.org/ontology/HCPCS/
+#  HGNC: http://identifiers.org/hgnc/
+#  HGNC.FAMILY: http://identifiers.org/hgnc.family/
+#  HMDB: http://identifiers.org/hmdb/
+#  HP: http://purl.obolibrary.org/obo/HP_
+#  HsapDv: http://purl.obolibrary.org/obo/HsapDv_
+#  ICD0: http://translator.ncats.nih.gov/ICD0_
+#  ICD10: http://translator.ncats.nih.gov/ICD10_
+#  ICD9: http://translator.ncats.nih.gov/ICD9_
+#  INCHI: http://identifiers.org/inchi/
+#  INCHIKEY: http://identifiers.org/inchikey/
+#  INTACT: http://identifiers.org/intact/
+#  IUPHAR.FAMILY: http://identifiers.org/iuphar.family/
+#  KEGG: http://identifiers.org/kegg/
+#  KEGG.BRITE: http://www.kegg.jp/entry/
+#  KEGG.COMPOUND: http://identifiers.org/kegg.compound/
+#  KEGG.DGROUP: http://www.kegg.jp/entry/
+#  KEGG.DISEASE: http://identifiers.org/kegg.disease/
+#  KEGG.DRUG: http://identifiers.org/kegg.drug/
+#  KEGG.ENVIRON: http://identifiers.org/kegg.environ/
+#  KEGG.ENZYME: http://www.kegg.jp/entry/
+#  KEGG.GENE: http://www.kegg.jp/entry/
+#  KEGG.GLYCAN: http://identifiers.org/kegg.glycan/
+#  KEGG.MODULE: http://identifiers.org/kegg.module/
+#  KEGG.ORTHOLOGY: http://identifiers.org/kegg.orthology/
+#  KEGG.RCLASS: http://www.kegg.jp/entry/
+#  KEGG.REACTION: http://identifiers.org/kegg.reaction/
+#  LOINC: http://loinc.org/rdf/
+#  MEDDRA: http://identifiers.org/meddra/
+#  MESH: http://identifiers.org/mesh/
+#  MGI: http://identifiers.org/mgi/
+#  MI: http://purl.obolibrary.org/obo/MI_
+#  MIR: http://identifiers.org/mir/
+#  MONDO: http://purl.obolibrary.org/obo/MONDO_
+#  MP: http://purl.obolibrary.org/obo/MP_
+#  MSigDB: https://www.gsea-msigdb.org/gsea/msigdb/
+#  MetaCyc: http://translator.ncats.nih.gov/MetaCyc_
+#  NCBIGENE: http://identifiers.org/ncbigene/
+#  NCBITaxon: http://purl.obolibrary.org/obo/NCBITaxon_
+#  NCIT: http://purl.obolibrary.org/obo/NCIT_
+#  NDC: http://identifiers.org/ndc/
+#  NDDF: http://purl.bioontology.org/ontology/NDDF/
+#  NLMID: https://www.ncbi.nlm.nih.gov/nlmcatalog/?term=
+#  OBAN: http://purl.org/oban/
+#  OBOREL: http://purl.obolibrary.org/obo/RO_
+#  OIO: http://www.geneontology.org/formats/oboInOwl#
+#  OMIM: http://purl.obolibrary.org/obo/OMIM_
+#  ORCID: https://orcid.org/
+#  ORPHA: http://www.orpha.net/ORDO/Orphanet_
+#  ORPHANET: http://identifiers.org/orphanet/
+#  PANTHER.FAMILY: http://identifiers.org/panther.family/
+#  PANTHER.PATHWAY: http://identifiers.org/panther.pathway/
+#  PATO: http://purl.obolibrary.org/obo/PATO_
+#  PATO-PROPERTY: http://purl.obolibrary.org/obo/pato#
+#  PDQ: https://www.cancer.gov/publications/pdq#
+#  PHARMGKB.DRUG: http://identifiers.org/pharmgkb.drug/
+#  PHARMGKB.PATHWAYS: http://identifiers.org/pharmgkb.pathways/
+#  PHAROS: http://pharos.nih.gov
+#  PMID: http://www.ncbi.nlm.nih.gov/pubmed/
+#  PO: http://purl.obolibrary.org/obo/PO_
+#  POMBASE: http://identifiers.org/pombase/
+#  PR: http://purl.obolibrary.org/obo/PR_
+#  PUBCHEM.COMPOUND: http://identifiers.org/pubchem.compound/
+#  PUBCHEM.SUBSTANCE: http://identifiers.org/pubchem.substance/
+#  PathWhiz: http://smpdb.ca/pathways/#
+#  REACT: http://www.reactome.org/PathwayBrowser/#/
+#  REPODB: http://apps.chiragjpgroup.org/repoDB/
+#  RGD: http://identifiers.org/rgd/
+#  RHEA: http://identifiers.org/rhea/
+#  RNACENTRAL: http://identifiers.org/rnacentral/
+#  RO: http://purl.obolibrary.org/obo/RO_
+#  RTXKG1: http://kg1endpoint.rtx.ai/
+#  RXCUI: https://mor.nlm.nih.gov/RxNav/search?searchBy=RXCUI&searchTerm=
+#  RXNORM: http://purl.bioontology.org/ontology/RXNORM/
+#  ResearchID: https://publons.com/researcher/
+#  SEMMEDDB: https://skr3.nlm.nih.gov/SemMedDB
+#  SGD: http://identifiers.org/sgd/
+#  SIDER.DRUG: http://identifiers.org/sider.drug/
+#  SIO: http://semanticscience.org/resource/SIO_
+#  SMPDB: http://identifiers.org/smpdb/
+#  SNOMEDCT: http://identifiers.org/snomedct/
+#  SNPEFF: http://translator.ncats.nih.gov/SNPEFF_
+#  ScopusID: https://www.scopus.com/authid/detail.uri?authorId=
+#  TAXRANK: http://purl.obolibrary.org/obo/TAXRANK_
+#  UBERGRAPH: http://translator.renci.org/ubergraph-axioms.ofn#
+#  UBERON: http://purl.obolibrary.org/obo/UBERON_
+#  UBERON_CORE: http://purl.obolibrary.org/obo/uberon/core#
+#  UMLS: http://identifiers.org/umls/
+#  UMLSSC: https://metamap.nlm.nih.gov/Docs/SemanticTypes_2018AB.txt/code#
+#  UMLSSG: https://metamap.nlm.nih.gov/Docs/SemGroups_2018.txt/group#
+#  UMLSST: https://metamap.nlm.nih.gov/Docs/SemanticTypes_2018AB.txt/type#
+#  UNII: http://identifiers.org/unii/
+#  UPHENO: http://purl.obolibrary.org/obo/UPHENO_
+#  UniProtKB: http://identifiers.org/uniprot/
+#  VANDF: https://www.nlm.nih.gov/research/umls/sourcereleasedocs/current/VANDF/
+#  VMC: https://github.com/ga4gh/vr-spec/
+#  WB: http://identifiers.org/wb/
+#  WBPhenotype: http://purl.obolibrary.org/obo/WBPhenotype_
+#  WBVocab: http://bio2rdf.org/wormbase_vocabulary
+#  WIKIDATA: https://www.wikidata.org/wiki/
+#  WIKIDATA_PROPERTY: 'https://www.wikidata.org/wiki/Property:'
+#  WIKIPATHWAYS: http://identifiers.org/wikipathways/
+#  WormBase: https://www.wormbase.org/get?name=
+#  ZFIN: http://identifiers.org/zfin/
+#  ZP: http://purl.obolibrary.org/obo/ZP_
+#  alliancegenome: https://www.alliancegenome.org/
+#  biolink: https://w3id.org/biolink/vocab/
+#  biolinkml: https://w3id.org/biolink/biolinkml/
+#  chembio: http://translator.ncats.nih.gov/chembio_
+#  dcat: http://www.w3.org/ns/dcat#
+#  dct: http://purl.org/dc/terms/
+#  dictyBase: http://dictybase.org/gene/
+#  doi: https://doi.org/
+#  fabio: http://purl.org/spar/fabio/
+#  foaf: http://xmlns.com/foaf/0.1/
+#  foodb.compound: http://foodb.ca/compounds/
+#  gff3: https://github.com/The-Sequence-Ontology/Specifications/blob/master/gff3.md#
+#  gpi: https://github.com/geneontology/go-annotation/blob/master/specs/gpad-gpi-2-0.md#
+#  gtpo: https://rdf.guidetopharmacology.org/ns/gtpo#
+#  hetio: http://translator.ncats.nih.gov/hetio_
+#  id: '@id'
+#  interpro: https://www.ebi.ac.uk/interpro/entry/
+#  isbn: https://www.isbn-international.org/identifier/
+#  isni: https://isni.org/isni/
+#  issn: https://portal.issn.org/resource/ISSN/
+#  medgen: https://www.ncbi.nlm.nih.gov/medgen/
+#  oboformat: http://www.geneontology.org/formats/oboInOWL#
+#  pav: http://purl.org/pav/
+#  prov: http://www.w3.org/ns/prov#
+#  qud: http://qudt.org/1.1/schema/qudt#
+#  rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#
+#  rdfs: http://www.w3.org/2000/01/rdf-schema#
+#  schema: http://schema.org/
+#  skos: https://www.w3.org/TR/skos-reference/#
+#  wgs: http://www.w3.org/2003/01/geo/wgs84_pos
+#  xsd: http://www.w3.org/2001/XMLSchema#
+#object_source: http://purl.obolibrary.org/mp.owl
+#subject_source: http://purl.obolibrary.org/ordo.owl
+subject_id	predicate_id	object_id	confidence
+ORPHA:98613	owl:equivalentClass	MP:0006193	0.75
+ORPHA:156207	owl:equivalentClass	MP:0009906	0.75
+ORPHA:79364	owl:equivalentClass	MP:0000414	0.75
+ORPHA:98575	owl:equivalentClass	MP:0030166	0.75
+ORPHA:91495	owl:equivalentClass	MP:0010711	0.75
+ORPHA:90025	owl:equivalentClass	MP:0000564	0.75
+ORPHA:79389	owl:equivalentClass	MP:0003786	0.75
+ORPHA:209	owl:equivalentClass	MP:0005421	0.75
+ORPHA:69	owl:equivalentClass	MP:0000604	0.75
+ORPHA:2130	owl:equivalentClass	MP:0008985	0.75
+ORPHA:93338	owl:equivalentClass	MP:0004083	0.75
+ORPHA:2781	owl:equivalentClass	MP:0000067	0.75
+ORPHA:411709	owl:equivalentClass	MP:0000520	0.75
+ORPHA:2882	owl:equivalentClass	MP:0010077	0.75
+ORPHA:521	owl:equivalentClass	MP:0005481	0.75
+ORPHA:79225	owl:equivalentClass	MP:0009589	0.75
+ORPHA:214	owl:equivalentClass	MP:0020400	0.75
+ORPHA:155878	owl:equivalentClass	MP:0011615	0.75
+ORPHA:101023	owl:equivalentClass	MP:0013545	0.75
+ORPHA:98282	owl:equivalentClass	MP:0009440	0.75
+ORPHA:79383	owl:equivalentClass	MP:0003390	0.75
+ORPHA:79365	owl:equivalentClass	MP:0000412	0.75
+ORPHA:1531	owl:equivalentClass	MP:0000081	0.75
+ORPHA:167848	owl:equivalentClass	MP:0005330	0.75
+ORPHA:738	owl:equivalentClass	MP:0005654	0.75
+ORPHA:1457	owl:equivalentClass	MP:0003387	0.75
+ORPHA:1463	owl:equivalentClass	MP:0010409	0.75
+ORPHA:1464	owl:equivalentClass	MP:0010432	0.75
+ORPHA:77	owl:equivalentClass	MP:0005261	0.75
+ORPHA:450	owl:equivalentClass	MP:0004133	0.75
+ORPHA:2695	owl:equivalentClass	MP:0030117	0.75
+ORPHA:963	owl:equivalentClass	MP:0003506	0.75
+ORPHA:98427	owl:equivalentClass	MP:0002872	0.75
+ORPHA:95708	owl:equivalentClass	MP:0003378	0.75
+ORPHA:755	owl:equivalentClass	MP:0005536	0.75
+ORPHA:1671	owl:equivalentClass	MP:0012710	0.75
+ORPHA:780	owl:equivalentClass	MP:0002036	0.75
+ORPHA:439167	owl:equivalentClass	MP:0006372	0.75
+ORPHA:675	owl:equivalentClass	MP:0006261	0.75
+ORPHA:674	owl:equivalentClass	MP:0013291	0.75
+ORPHA:46724	owl:equivalentClass	MP:0010530	0.75
+ORPHA:101043	owl:equivalentClass	MP:0002747	0.75
+ORPHA:2014	owl:equivalentClass	MP:0000111	0.75
+ORPHA:157769	owl:equivalentClass	MP:0002767	0.75
+ORPHA:101063	owl:equivalentClass	MP:0011252	0.75
+ORPHA:95720	owl:equivalentClass	MP:0003499	0.75
+ORPHA:660	owl:equivalentClass	MP:0003052	0.75
+ORPHA:284804	owl:equivalentClass	MP:0006159	0.75
+ORPHA:93108	owl:equivalentClass	MP:0002135	0.75
+ORPHA:1666	owl:equivalentClass	MP:0000644	0.75
+ORPHA:93101	owl:equivalentClass	MP:0003446	0.75
+ORPHA:199323	owl:equivalentClass	MP:0003665	0.75
+ORPHA:2913	owl:equivalentClass	MP:0000562	0.75
+ORPHA:93	owl:equivalentClass	MP:0011516	0.75
+ORPHA:180139	owl:equivalentClass	MP:0001121	0.75
+ORPHA:1041	owl:equivalentClass	MP:0002192	0.75
+ORPHA:263413	owl:equivalentClass	MP:0003667	0.75
+ORPHA:99867	owl:equivalentClass	MP:0014127	0.75
+ORPHA:52759	owl:equivalentClass	MP:0001864	0.75
+ORPHA:480501	owl:equivalentClass	MP:0003266	0.75
+ORPHA:91414	owl:equivalentClass	MP:0002013	0.75
+ORPHA:141253	owl:equivalentClass	MP:0008799	0.75
+ORPHA:141269	owl:equivalentClass	MP:0008798	0.75
+ORPHA:141229	owl:equivalentClass	MP:0008797	0.75
+ORPHA:93968	owl:equivalentClass	MP:0012259	0.75
+ORPHA:93962	owl:equivalentClass	MP:0030126	0.75
+ORPHA:93969	owl:equivalentClass	MP:0009929	0.75
+ORPHA:268744	owl:equivalentClass	MP:0012547	0.75
+ORPHA:93976	owl:equivalentClass	MP:0003142	0.75
+ORPHA:2162	owl:equivalentClass	MP:0005157	0.75
+ORPHA:93928	owl:equivalentClass	MP:0003598	0.75
+ORPHA:141163	owl:equivalentClass	MP:0030328	0.75
+ORPHA:166415	owl:equivalentClass	MP:0001496	0.75
+ORPHA:431341	owl:equivalentClass	MP:0011852	0.75
+ORPHA:97275	owl:equivalentClass	MP:0001847	0.75
+ORPHA:123411	owl:equivalentClass	MP:0005638	0.75
+ORPHA:83463	owl:equivalentClass	MP:0000018	0.75
+ORPHA:3280	owl:equivalentClass	MP:0012545	0.75
+ORPHA:268369	owl:equivalentClass	MP:0012547	0.75
+ORPHA:99107	owl:equivalentClass	MP:0010450	0.75
+ORPHA:65681	owl:equivalentClass	MP:0001144	0.75
+ORPHA:99083	owl:equivalentClass	MP:0010460	0.75
+ORPHA:3426	owl:equivalentClass	MP:0000284	0.75
+ORPHA:99079	owl:equivalentClass	MP:0004161	0.75
+ORPHA:99081	owl:equivalentClass	MP:0004158	0.75
+ORPHA:363483	owl:equivalentClass	MP:0004478	0.75
+ORPHA:64720	owl:equivalentClass	MP:0002035	0.75
+ORPHA:98715	owl:equivalentClass	MP:0005515	0.75
+ORPHA:63260	owl:equivalentClass	MP:0008784	0.75
+ORPHA:217604	owl:equivalentClass	MP:0002795	0.75
+ORPHA:3193	owl:equivalentClass	MP:0010471	0.75
+ORPHA:1077	owl:equivalentClass	MP:0030449	0.75
+ORPHA:2368	owl:equivalentClass	MP:0000757	0.75
+ORPHA:306773	owl:equivalentClass	MP:0005604	0.75
+ORPHA:2287	owl:equivalentClass	MP:0030475	0.75
+ORPHA:1203	owl:equivalentClass	MP:0003272	0.75
+ORPHA:95443	owl:equivalentClass	MP:0000650	0.75
+ORPHA:95448	owl:equivalentClass	MP:0006115	0.75
+ORPHA:95458	owl:equivalentClass	MP:0006125	0.75
+ORPHA:1199	owl:equivalentClass	MP:0003276	0.75
+ORPHA:1160	owl:equivalentClass	MP:0012080	0.75
+ORPHA:3289	owl:equivalentClass	MP:0030496	0.75
+ORPHA:448270	owl:equivalentClass	MP:0011660	0.75
+ORPHA:3169	owl:equivalentClass	MP:0003445	0.75
+ORPHA:3190	owl:equivalentClass	MP:0010449	0.75
+ORPHA:3427	owl:equivalentClass	MP:0010427	0.75
+ORPHA:137914	owl:equivalentClass	MP:0008970	0.75
+ORPHA:96321	owl:equivalentClass	MP:0004025	0.75
+ORPHA:2038	owl:equivalentClass	MP:0010480	0.75
+ORPHA:3148	owl:equivalentClass	MP:0002030	0.246835
+ORPHA:98722	owl:equivalentClass	MP:0010412	0.2457625
+ORPHA:93100	owl:equivalentClass	MP:0003604	0.2450975
+ORPHA:1848	owl:equivalentClass	MP:0000520	0.2448975
+ORPHA:98691	owl:equivalentClass	MP:0001389	0.244185
+ORPHA:99054	owl:equivalentClass	MP:0006128	0.240385
+ORPHA:99047	owl:equivalentClass	MP:0011669	0.24
+ORPHA:99098	owl:equivalentClass	MP:0010411	0.2386375
+ORPHA:118246	owl:equivalentClass	MP:0001326	0.238095
+ORPHA:99097	owl:equivalentClass	MP:0010419	0.238095
+ORPHA:99071	owl:equivalentClass	MP:0010481	0.2372875
+ORPHA:1054	owl:equivalentClass	MP:0010483	0.2363625
+ORPHA:3384	owl:equivalentClass	MP:0002633	0.23611
+ORPHA:216675	owl:equivalentClass	MP:0004110	0.2348475
+ORPHA:99099	owl:equivalentClass	MP:0010410	0.234695
+ORPHA:98823	owl:equivalentClass	MP:0005481	0.2327575
+ORPHA:98653	owl:equivalentClass	MP:0020486	0.2325575
+ORPHA:98947	owl:equivalentClass	MP:0010716	0.2317075
+ORPHA:99103	owl:equivalentClass	MP:0010405	0.23077
+ORPHA:329931	owl:equivalentClass	MP:0002743	0.23077
+ORPHA:99104	owl:equivalentClass	MP:0010407	0.2302625
+ORPHA:99106	owl:equivalentClass	MP:0010404	0.22973
+ORPHA:99105	owl:equivalentClass	MP:0010408	0.22973
+ORPHA:99044	owl:equivalentClass	MP:0011667	0.22963
+ORPHA:211266	owl:equivalentClass	MP:0006093	0.22807
+ORPHA:105	owl:equivalentClass	MP:0003591	0.2272725
+ORPHA:263746	owl:equivalentClass	MP:0004023	0.226415
+ORPHA:263714	owl:equivalentClass	MP:0004023	0.226415
+ORPHA:1138	owl:equivalentClass	MP:0013980	0.2253525

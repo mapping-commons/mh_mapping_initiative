@@ -1,0 +1,9 @@
+curie_map:
+  HP: http://purl.obolibrary.org/obo/HP_
+  MP: http://purl.obolibrary.org/obo/MP_
+  skos: http://www.w3.org/2004/02/skos/core
+license: https://creativecommons.org/publicdomain/zero/1.0/
+mapping_provider: https://www.pistoiaalliance.org/projects/current-projects/ontologies-mapping/
+mapping_set_group: pistoia_mappings
+mapping_set_id: ordo_mp_pistoia
+mapping_set_title: 'The Pistoia Ontology Mappings: ORDO-MP'

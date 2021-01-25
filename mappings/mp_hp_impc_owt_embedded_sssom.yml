@@ -1,0 +1,44 @@
+#creator_id: https://orcid.org/0000-0002-7356-1779
+#curie_map:
+#  HP: http://purl.obolibrary.org/obo/HP_
+#  MP: http://purl.obolibrary.org/obo/MP_
+#  skos: http://www.w3.org/2004/02/skos/core
+#license: https://creativecommons.org/publicdomain/zero/1.0/
+#mapping_provider: https://www.mousephenotype.org
+#mapping_set_group: impc_mouse_morphology
+#mapping_set_id: mp_hp_impc_owt
+#mapping_set_title: 'The IMPC Mouse Morphology Mappings: Organ Weight Test'
+subject_id	subject_label	object_id	object_label	match_type	predicate_id	reviewer_id
+MP:0001260	increased body weight	HP:0004324	Increased body weight	SSSOMC:Lexical	skos:exactMatch	orcid:0000-0002-7356-1779
+MP:0001262	decreased body weight	HP:0004325	Decreased body weight	SSSOMC:Lexical	skos:exactMatch	orcid:0000-0002-7356-1779
+MP:0001259	abnormal body weight	HP:0004323	Abnormality of body weight	SSSOMC:Lexical	skos:exactMatch	orcid:0000-0002-7356-1779
+MP:0004952	increased spleen weight	sssom:NoTermFound	No Term Found	SSSOMC:HumanCurated	skos:closeMatch	
+MP:0004953	decreased spleen weight	sssom:NoTermFound	No Term Found	SSSOMC:HumanCurated	skos:closeMatch	
+MP:0004951	abnormal spleen weight	HP:0001743	Abnormality of the spleen	SSSOMC:Logical	skos:narrowMatch	orcid:0000-0002-7356-1779
+MP:0003917	increased kidney weight	sssom:NoTermFound	No Term Found	SSSOMC:HumanCurated	skos:closeMatch	
+MP:0003918	decreased kidney weight	sssom:NoTermFound	No Term Found	SSSOMC:HumanCurated	skos:closeMatch	
+MP:0002707	abnormal kidney weight	HP:0000077	Abnormality of the kidney	SSSOMC:Logical	skos:closeMatch	
+MP:0003917	increased kidney weight	sssom:NoTermFound	No Term Found	SSSOMC:HumanCurated	skos:closeMatch	
+MP:0003918	decreased kidney weight	sssom:NoTermFound	No Term Found	SSSOMC:HumanCurated	skos:closeMatch	
+MP:0002707	abnormal kidney weight	HP:0000077	Abnormality of the kidney	SSSOMC:Logical	skos:closeMatch	
+MP:0004928	increased epididymis weight	sssom:NoTermFound	No Term Found	SSSOMC:HumanCurated	skos:closeMatch	
+MP:0004929	decreased epididymis weight	sssom:NoTermFound	No Term Found	SSSOMC:HumanCurated	skos:closeMatch	
+MP:0004927	abnormal epididymis weight	HP:0009714	Abnormality of the epididymis	SSSOMC:Logical	skos:closeMatch	
+MP:0004909	increased seminal vesicle weight	sssom:NoTermFound	No Term Found	SSSOMC:HumanCurated	skos:closeMatch	
+MP:0004910	decreased seminal vesicle weight	sssom:NoTermFound	No Term Found	SSSOMC:HumanCurated	skos:closeMatch	
+MP:0004908	abnormal seminal vesicle weight	sssom:NoTermFound	No Term Found	SSSOMC:HumanCurated	skos:closeMatch	
+MP:0004851	increased testis weight	sssom:NoTermFound	No Term Found	SSSOMC:HumanCurated	skos:closeMatch	
+MP:0004852	decreased testis weight	sssom:NoTermFound	No Term Found	SSSOMC:HumanCurated	skos:closeMatch	
+MP:0004850	abnormal testis weight	HP:0000035	Abnormal testis morphology	SSSOMC:Logical	skos:closeMatch	
+MP:0004851	increased testis weight	sssom:NoTermFound	No Term Found	SSSOMC:HumanCurated	skos:closeMatch	
+MP:0004852	decreased testis weight	sssom:NoTermFound	No Term Found	SSSOMC:HumanCurated	skos:closeMatch	
+MP:0004850	abnormal testis weight	HP:0000035	Abnormal testis morphology	SSSOMC:Logical	skos:closeMatch	
+MP:0002981	increased liver weight	sssom:NoTermFound	No Term Found	SSSOMC:HumanCurated	skos:closeMatch	
+MP:0003402	decreased liver weight	sssom:NoTermFound	No Term Found	SSSOMC:HumanCurated	skos:closeMatch	
+MP:0004847	abnormal liver weight	HP:0001392	Abnormality of the liver	SSSOMC:Logical	skos:closeMatch	
+MP:0005630	increased lung weight	sssom:NoTermFound	No Term Found	SSSOMC:HumanCurated	skos:closeMatch	
+MP:0005631	decreased lung weight	sssom:NoTermFound	No Term Found	SSSOMC:HumanCurated	skos:closeMatch	
+MP:0005629	abnormal lung weight	HP:0002088	Abnormal lung morphology	SSSOMC:Logical	skos:closeMatch	
+MP:0005630	increased lung weight	sssom:NoTermFound	No Term Found	SSSOMC:HumanCurated	skos:closeMatch	
+MP:0005631	decreased lung weight	sssom:NoTermFound	No Term Found	SSSOMC:HumanCurated	skos:closeMatch	
+MP:0005629	abnormal lung weight	HP:0002088	Abnormal lung morphology	SSSOMC:Logical	skos:closeMatch	

@@ -27,13 +27,6 @@ sources/monarch_mp_hp_sim.tsv: #tmp/owlsim.cache
 mappings: ./scripts/update_registry.py
 	python $< update-registry -r mappings.yml
 
-mappings/%_sssom.tsv:
-	sh scripts/ingest/$*.sh $@
-
-.PHONY: mapping_set_%
-mapping_set_%: mappings/%_sssom.tsv
-	echo "Build $<"
-
 ### IMPC Mappings ######
 
 mappings/mp_hp_impc_eye_sssom.tsv: sources/impc/sssom/impc_eye_003_mp_terms_30_oct_2020.tsv
@@ -57,6 +50,16 @@ mappings/pato_hp_impc_pat_sssom.tsv: sources/impc/sssom/impc_pat_003_pato_terms_
 mappings/mp_hp_impc_xry_sssom.tsv: sources/impc/sssom/impc_xry_003_mp_terms_30_oct_2020.tsv
 	cp $< $@
 
+CONTEXT_URL=https://raw.githubusercontent.com/biolink/biolink-model/master/context.jsonld
+mappings_context.yml:
+	wget $(CONTEXT_URL) -O $@
 
+mappings/%_pistoia_sssom.tsv: sources/pistoia/calculated_output_%.rdf mappings_context.yml
+	sssom convert -i $< -f alignment-api-xml -c mappings_context.yml -o $@
 
-	
+mappings/%_sssom.tsv:
+	sh scripts/ingest/$*.sh $@
+
+.PHONY: mapping_set_%
+mapping_set_%: mappings/%_sssom.tsv
+	echo "Build $<"

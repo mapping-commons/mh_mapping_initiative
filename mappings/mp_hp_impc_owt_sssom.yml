@@ -6,5 +6,5 @@ curie_map:
 license: https://creativecommons.org/publicdomain/zero/1.0/
 mapping_provider: https://www.mousephenotype.org
 mapping_set_group: impc_mouse_morphology
-mapping_set_id: mp_hp_impc_hwt
-mapping_set_title: 'The IMPC Mouse Morphology Mappings: Heart Weight Test'
+mapping_set_id: mp_hp_impc_owt
+mapping_set_title: 'The IMPC Mouse Morphology Mappings: Organ Weight Test'

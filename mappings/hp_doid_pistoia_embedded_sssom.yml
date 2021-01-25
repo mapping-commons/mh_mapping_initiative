@@ -1,0 +1,1489 @@
+#curie_map:
+#  HP: http://purl.obolibrary.org/obo/HP_
+#  MP: http://purl.obolibrary.org/obo/MP_
+#  skos: http://www.w3.org/2004/02/skos/core
+#license: https://creativecommons.org/publicdomain/zero/1.0/
+#mapping_provider: https://www.pistoiaalliance.org/projects/current-projects/ontologies-mapping/
+#mapping_set_group: pistoia_mappings
+#mapping_set_id: hp_doid_pistoia
+#mapping_set_title: 'The Pistoia Ontology Mappings: HP-DOID'
+#curie_map:
+#  '@vocab': https://w3id.org/biolink/vocab/
+#  APO: http://purl.obolibrary.org/obo/APO_
+#  Aeolus: http://translator.ncats.nih.gov/Aeolus_
+#  BIOGRID: http://identifiers.org/biogrid/
+#  BIOSAMPLE: http://identifiers.org/biosample/
+#  BSPO: http://purl.obolibrary.org/obo/BSPO_
+#  CAID: http://reg.clinicalgenome.org/redmine/projects/registry/genboree_registry/by_caid?caid=
+#  CAS: http://identifiers.org/cas/
+#  CHADO: http://gmod.org/wiki/Chado/
+#  CHEBI: http://purl.obolibrary.org/obo/CHEBI_
+#  CHEMBL.COMPOUND: http://identifiers.org/chembl.compound/
+#  CHEMBL.MECHANISM: https://www.ebi.ac.uk/chembl/mechanism/inspect/
+#  CHEMBL.TARGET: http://identifiers.org/chembl.target/
+#  CID: http://pubchem.ncbi.nlm.nih.gov/compound/
+#  CL: http://purl.obolibrary.org/obo/CL_
+#  CLINVAR: http://identifiers.org/clinvar/
+#  CLO: http://purl.obolibrary.org/obo/CLO_
+#  COAR_RESOURCE: http://purl.org/coar/resource_type/
+#  CPT: https://www.ama-assn.org/practice-management/cpt/
+#  CTD: http://translator.ncats.nih.gov/CTD_
+#  ChemBank: http://chembank.broadinstitute.org/chemistry/viewMolecule.htm?cbid=
+#  ClinVarVariant: http://www.ncbi.nlm.nih.gov/clinvar/variation/
+#  DBSNP: http://identifiers.org/dbsnp/
+#  DGIdb: https://www.dgidb.org/interaction_types
+#  DOID: http://purl.obolibrary.org/obo/DOID_
+#  DRUGBANK: http://identifiers.org/drugbank/
+#  DrugCentral: http://translator.ncats.nih.gov/DrugCentral_
+#  EC: http://www.enzyme-database.org/query.php?ec=
+#  ECTO: http://purl.obolibrary.org/obo/ECTO_
+#  EDAM-DATA: http://edamontology.org/data_
+#  EDAM-FORMAT: http://edamontology.org/format_
+#  EDAM-OPERATION: http://edamontology.org/operation_
+#  EDAM-TOPIC: http://edamontology.org/topic_
+#  EFO: http://identifiers.org/efo/
+#  EGGNOG: http://identifiers.org/eggnog/
+#  ENSEMBL: http://identifiers.org/ensembl/
+#  ExO: http://purl.obolibrary.org/obo/ExO_
+#  FAO: http://purl.obolibrary.org/obo/FAO_
+#  FB: http://identifiers.org/fb/
+#  FBcv: http://purl.obolibrary.org/obo/FBcv_
+#  GAMMA: http://translator.renci.org/GAMMA_
+#  GO: http://purl.obolibrary.org/obo/GO_
+#  GOLD.META: http://identifiers.org/gold.meta/
+#  GOP: http://purl.obolibrary.org/obo/go#
+#  GOREL: http://purl.obolibrary.org/obo/GOREL_
+#  GSID: https://scholar.google.com/citations?user=
+#  GTEx: https://www.gtexportal.org/home/gene/
+#  GTOPDB: https://www.guidetopharmacology.org/GRAC/LigandDisplayForward?ligandId=
+#  HANCESTRO: http://www.ebi.ac.uk/ancestro/ancestro_
+#  HCPCS: http://purl.bioontology.org/ontology/HCPCS/
+#  HGNC: http://identifiers.org/hgnc/
+#  HGNC.FAMILY: http://identifiers.org/hgnc.family/
+#  HMDB: http://identifiers.org/hmdb/
+#  HP: http://purl.obolibrary.org/obo/HP_
+#  HsapDv: http://purl.obolibrary.org/obo/HsapDv_
+#  ICD0: http://translator.ncats.nih.gov/ICD0_
+#  ICD10: http://translator.ncats.nih.gov/ICD10_
+#  ICD9: http://translator.ncats.nih.gov/ICD9_
+#  INCHI: http://identifiers.org/inchi/
+#  INCHIKEY: http://identifiers.org/inchikey/
+#  INTACT: http://identifiers.org/intact/
+#  IUPHAR.FAMILY: http://identifiers.org/iuphar.family/
+#  KEGG: http://identifiers.org/kegg/
+#  KEGG.BRITE: http://www.kegg.jp/entry/
+#  KEGG.COMPOUND: http://identifiers.org/kegg.compound/
+#  KEGG.DGROUP: http://www.kegg.jp/entry/
+#  KEGG.DISEASE: http://identifiers.org/kegg.disease/
+#  KEGG.DRUG: http://identifiers.org/kegg.drug/
+#  KEGG.ENVIRON: http://identifiers.org/kegg.environ/
+#  KEGG.ENZYME: http://www.kegg.jp/entry/
+#  KEGG.GENE: http://www.kegg.jp/entry/
+#  KEGG.GLYCAN: http://identifiers.org/kegg.glycan/
+#  KEGG.MODULE: http://identifiers.org/kegg.module/
+#  KEGG.ORTHOLOGY: http://identifiers.org/kegg.orthology/
+#  KEGG.RCLASS: http://www.kegg.jp/entry/
+#  KEGG.REACTION: http://identifiers.org/kegg.reaction/
+#  LOINC: http://loinc.org/rdf/
+#  MEDDRA: http://identifiers.org/meddra/
+#  MESH: http://identifiers.org/mesh/
+#  MGI: http://identifiers.org/mgi/
+#  MI: http://purl.obolibrary.org/obo/MI_
+#  MIR: http://identifiers.org/mir/
+#  MONDO: http://purl.obolibrary.org/obo/MONDO_
+#  MP: http://purl.obolibrary.org/obo/MP_
+#  MSigDB: https://www.gsea-msigdb.org/gsea/msigdb/
+#  MetaCyc: http://translator.ncats.nih.gov/MetaCyc_
+#  NCBIGENE: http://identifiers.org/ncbigene/
+#  NCBITaxon: http://purl.obolibrary.org/obo/NCBITaxon_
+#  NCIT: http://purl.obolibrary.org/obo/NCIT_
+#  NDC: http://identifiers.org/ndc/
+#  NDDF: http://purl.bioontology.org/ontology/NDDF/
+#  NLMID: https://www.ncbi.nlm.nih.gov/nlmcatalog/?term=
+#  OBAN: http://purl.org/oban/
+#  OBOREL: http://purl.obolibrary.org/obo/RO_
+#  OIO: http://www.geneontology.org/formats/oboInOwl#
+#  OMIM: http://purl.obolibrary.org/obo/OMIM_
+#  ORCID: https://orcid.org/
+#  ORPHA: http://www.orpha.net/ORDO/Orphanet_
+#  ORPHANET: http://identifiers.org/orphanet/
+#  PANTHER.FAMILY: http://identifiers.org/panther.family/
+#  PANTHER.PATHWAY: http://identifiers.org/panther.pathway/
+#  PATO: http://purl.obolibrary.org/obo/PATO_
+#  PATO-PROPERTY: http://purl.obolibrary.org/obo/pato#
+#  PDQ: https://www.cancer.gov/publications/pdq#
+#  PHARMGKB.DRUG: http://identifiers.org/pharmgkb.drug/
+#  PHARMGKB.PATHWAYS: http://identifiers.org/pharmgkb.pathways/
+#  PHAROS: http://pharos.nih.gov
+#  PMID: http://www.ncbi.nlm.nih.gov/pubmed/
+#  PO: http://purl.obolibrary.org/obo/PO_
+#  POMBASE: http://identifiers.org/pombase/
+#  PR: http://purl.obolibrary.org/obo/PR_
+#  PUBCHEM.COMPOUND: http://identifiers.org/pubchem.compound/
+#  PUBCHEM.SUBSTANCE: http://identifiers.org/pubchem.substance/
+#  PathWhiz: http://smpdb.ca/pathways/#
+#  REACT: http://www.reactome.org/PathwayBrowser/#/
+#  REPODB: http://apps.chiragjpgroup.org/repoDB/
+#  RGD: http://identifiers.org/rgd/
+#  RHEA: http://identifiers.org/rhea/
+#  RNACENTRAL: http://identifiers.org/rnacentral/
+#  RO: http://purl.obolibrary.org/obo/RO_
+#  RTXKG1: http://kg1endpoint.rtx.ai/
+#  RXCUI: https://mor.nlm.nih.gov/RxNav/search?searchBy=RXCUI&searchTerm=
+#  RXNORM: http://purl.bioontology.org/ontology/RXNORM/
+#  ResearchID: https://publons.com/researcher/
+#  SEMMEDDB: https://skr3.nlm.nih.gov/SemMedDB
+#  SGD: http://identifiers.org/sgd/
+#  SIDER.DRUG: http://identifiers.org/sider.drug/
+#  SIO: http://semanticscience.org/resource/SIO_
+#  SMPDB: http://identifiers.org/smpdb/
+#  SNOMEDCT: http://identifiers.org/snomedct/
+#  SNPEFF: http://translator.ncats.nih.gov/SNPEFF_
+#  ScopusID: https://www.scopus.com/authid/detail.uri?authorId=
+#  TAXRANK: http://purl.obolibrary.org/obo/TAXRANK_
+#  UBERGRAPH: http://translator.renci.org/ubergraph-axioms.ofn#
+#  UBERON: http://purl.obolibrary.org/obo/UBERON_
+#  UBERON_CORE: http://purl.obolibrary.org/obo/uberon/core#
+#  UMLS: http://identifiers.org/umls/
+#  UMLSSC: https://metamap.nlm.nih.gov/Docs/SemanticTypes_2018AB.txt/code#
+#  UMLSSG: https://metamap.nlm.nih.gov/Docs/SemGroups_2018.txt/group#
+#  UMLSST: https://metamap.nlm.nih.gov/Docs/SemanticTypes_2018AB.txt/type#
+#  UNII: http://identifiers.org/unii/
+#  UPHENO: http://purl.obolibrary.org/obo/UPHENO_
+#  UniProtKB: http://identifiers.org/uniprot/
+#  VANDF: https://www.nlm.nih.gov/research/umls/sourcereleasedocs/current/VANDF/
+#  VMC: https://github.com/ga4gh/vr-spec/
+#  WB: http://identifiers.org/wb/
+#  WBPhenotype: http://purl.obolibrary.org/obo/WBPhenotype_
+#  WBVocab: http://bio2rdf.org/wormbase_vocabulary
+#  WIKIDATA: https://www.wikidata.org/wiki/
+#  WIKIDATA_PROPERTY: 'https://www.wikidata.org/wiki/Property:'
+#  WIKIPATHWAYS: http://identifiers.org/wikipathways/
+#  WormBase: https://www.wormbase.org/get?name=
+#  ZFIN: http://identifiers.org/zfin/
+#  ZP: http://purl.obolibrary.org/obo/ZP_
+#  alliancegenome: https://www.alliancegenome.org/
+#  biolink: https://w3id.org/biolink/vocab/
+#  biolinkml: https://w3id.org/biolink/biolinkml/
+#  chembio: http://translator.ncats.nih.gov/chembio_
+#  dcat: http://www.w3.org/ns/dcat#
+#  dct: http://purl.org/dc/terms/
+#  dictyBase: http://dictybase.org/gene/
+#  doi: https://doi.org/
+#  fabio: http://purl.org/spar/fabio/
+#  foaf: http://xmlns.com/foaf/0.1/
+#  foodb.compound: http://foodb.ca/compounds/
+#  gff3: https://github.com/The-Sequence-Ontology/Specifications/blob/master/gff3.md#
+#  gpi: https://github.com/geneontology/go-annotation/blob/master/specs/gpad-gpi-2-0.md#
+#  gtpo: https://rdf.guidetopharmacology.org/ns/gtpo#
+#  hetio: http://translator.ncats.nih.gov/hetio_
+#  id: '@id'
+#  interpro: https://www.ebi.ac.uk/interpro/entry/
+#  isbn: https://www.isbn-international.org/identifier/
+#  isni: https://isni.org/isni/
+#  issn: https://portal.issn.org/resource/ISSN/
+#  medgen: https://www.ncbi.nlm.nih.gov/medgen/
+#  oboformat: http://www.geneontology.org/formats/oboInOWL#
+#  pav: http://purl.org/pav/
+#  prov: http://www.w3.org/ns/prov#
+#  qud: http://qudt.org/1.1/schema/qudt#
+#  rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#
+#  rdfs: http://www.w3.org/2000/01/rdf-schema#
+#  schema: http://schema.org/
+#  skos: https://www.w3.org/TR/skos-reference/#
+#  wgs: http://www.w3.org/2003/01/geo/wgs84_pos
+#  xsd: http://www.w3.org/2001/XMLSchema#
+#object_source: http://purl.obolibrary.org/doid.owl
+#subject_source: http://purl.obolibrary.org/hp.owl
+subject_id	predicate_id	object_id	confidence
+HP:0002650	owl:equivalentClass	DOID:0060249	1.0
+HP:0100026	owl:equivalentClass	DOID:11294	1.0
+HP:0004818	owl:equivalentClass	DOID:0060284	1.0
+HP:0004840	owl:equivalentClass	DOID:0050642	1.0
+HP:0000508	owl:equivalentClass	DOID:0060260	1.0
+HP:0002014	owl:equivalentClass	DOID:13250	1.0
+HP:0002619	owl:equivalentClass	DOID:799	1.0
+HP:0002576	owl:equivalentClass	DOID:8446	1.0
+HP:0100753	owl:equivalentClass	DOID:5419	1.0
+HP:0100727	owl:equivalentClass	DOID:3405	1.0
+HP:0002035	owl:equivalentClass	DOID:9307	1.0
+HP:0100825	owl:equivalentClass	DOID:1762	1.0
+HP:0002475	owl:equivalentClass	DOID:0060326	1.0
+HP:0002840	owl:equivalentClass	DOID:1602	1.0
+HP:0000175	owl:equivalentClass	DOID:674	1.0
+HP:0000131	owl:equivalentClass	DOID:13223	1.0
+HP:0012115	owl:equivalentClass	DOID:2237	1.0
+HP:0002779	owl:equivalentClass	DOID:0060313	1.0
+HP:0000011	owl:equivalentClass	DOID:12143	1.0
+HP:0002671	owl:equivalentClass	DOID:2513	1.0
+HP:0000023	owl:equivalentClass	DOID:0060320	1.0
+HP:0002697	owl:equivalentClass	DOID:0060285	1.0
+HP:0004418	owl:equivalentClass	DOID:3875	1.0
+HP:0001943	owl:equivalentClass	DOID:9993	1.0
+HP:0012396	owl:equivalentClass	DOID:4140	1.0
+HP:0002900	owl:equivalentClass	DOID:4500	1.0
+HP:0012234	owl:equivalentClass	DOID:12987	1.0
+HP:0000265	owl:equivalentClass	DOID:0060322	1.0
+HP:0000647	owl:equivalentClass	DOID:0060252	1.0
+HP:0001636	owl:equivalentClass	DOID:6419	1.0
+HP:0000545	owl:equivalentClass	DOID:11830	1.0
+HP:0002019	owl:equivalentClass	DOID:2089	1.0
+HP:0000483	owl:equivalentClass	DOID:11782	1.0
+HP:0012461	owl:equivalentClass	DOID:1412	1.0
+HP:0000833	owl:equivalentClass	DOID:10603	1.0
+HP:0000863	owl:equivalentClass	DOID:12388	1.0
+HP:0010447	owl:equivalentClass	DOID:0060328	1.0
+HP:0000934	owl:equivalentClass	DOID:1156	1.0
+HP:0000979	owl:equivalentClass	DOID:3326	1.0
+HP:0000999	owl:equivalentClass	DOID:4223	1.0
+HP:0010934	owl:equivalentClass	DOID:0060236	1.0
+HP:0007313	owl:equivalentClass	DOID:1443	1.0
+HP:0005110	owl:equivalentClass	DOID:0060224	1.0
+HP:0030159	owl:equivalentClass	DOID:0060325	1.0
+HP:0030151	owl:equivalentClass	DOID:9446	1.0
+HP:0007720	owl:equivalentClass	DOID:0060287	1.0
+HP:0030419	owl:equivalentClass	DOID:3999	1.0
+HP:0007970	owl:equivalentClass	DOID:0060261	1.0
+HP:0003072	owl:equivalentClass	DOID:12678	1.0
+HP:0003074	owl:equivalentClass	DOID:4195	1.0
+HP:0005506	owl:equivalentClass	DOID:8552	1.0
+HP:0005521	owl:equivalentClass	DOID:11247	1.0
+HP:0006536	owl:equivalentClass	DOID:2320	1.0
+HP:0001537	owl:equivalentClass	DOID:0060321	1.0
+HP:0001539	owl:equivalentClass	DOID:0060327	1.0
+HP:0001915	owl:equivalentClass	DOID:12449	1.0
+HP:0001891	owl:equivalentClass	DOID:11758	1.0
+HP:0002110	owl:equivalentClass	DOID:9563	1.0
+HP:0002135	owl:equivalentClass	DOID:0060230	1.0
+HP:0100881	owl:equivalentClass	DOID:4773	0.875
+HP:0000822	owl:equivalentClass	DOID:10763	0.875
+HP:0012727	owl:equivalentClass	DOID:14004	0.875
+HP:0002324	owl:equivalentClass	DOID:4626	0.875
+HP:0002326	owl:equivalentClass	DOID:224	0.875
+HP:0001297	owl:equivalentClass	DOID:6713	0.875
+HP:0002343	owl:equivalentClass	DOID:1572	0.875
+HP:0000238	owl:equivalentClass	DOID:10908	0.875
+HP:0001249	owl:equivalentClass	DOID:1059	0.875
+HP:0002634	owl:equivalentClass	DOID:2349	0.875
+HP:0004942	owl:equivalentClass	DOID:3627	0.875
+HP:0002621	owl:equivalentClass	DOID:1936	0.875
+HP:0001409	owl:equivalentClass	DOID:10762	0.875
+HP:0002301	owl:equivalentClass	DOID:10969	0.875
+HP:0002300	owl:equivalentClass	DOID:4189	0.875
+HP:0000763	owl:equivalentClass	DOID:2491	0.875
+HP:0002383	owl:equivalentClass	DOID:9588	0.875
+HP:0003128	owl:equivalentClass	DOID:3650	0.875
+HP:0000819	owl:equivalentClass	DOID:9351	0.875
+HP:0002748	owl:equivalentClass	DOID:10609	0.875
+HP:0001947	owl:equivalentClass	DOID:14219	0.875
+HP:0004919	owl:equivalentClass	DOID:9870	0.875
+HP:0001935	owl:equivalentClass	DOID:11252	0.875
+HP:0001972	owl:equivalentClass	DOID:2361	0.875
+HP:0001873	owl:equivalentClass	DOID:1588	0.875
+HP:0001889	owl:equivalentClass	DOID:13382	0.875
+HP:0002204	owl:equivalentClass	DOID:9477	0.875
+HP:0002206	owl:equivalentClass	DOID:3770	0.875
+HP:0001878	owl:equivalentClass	DOID:583	0.875
+HP:0001924	owl:equivalentClass	DOID:8955	0.875
+HP:0000998	owl:equivalentClass	DOID:420	0.875
+HP:0002229	owl:equivalentClass	DOID:986	0.875
+HP:0001596	owl:equivalentClass	DOID:987	0.875
+HP:0006721	owl:equivalentClass	DOID:9952	0.875
+HP:0004810	owl:equivalentClass	DOID:1342	0.875
+HP:0003641	owl:equivalentClass	DOID:582	0.875
+HP:0002488	owl:equivalentClass	DOID:12603	0.875
+HP:0012324	owl:equivalentClass	DOID:8692	0.875
+HP:0004836	owl:equivalentClass	DOID:0060318	0.875
+HP:0004845	owl:equivalentClass	DOID:8864	0.875
+HP:0001931	owl:equivalentClass	DOID:11759	0.875
+HP:0002277	owl:equivalentClass	DOID:11486	0.875
+HP:0001006	owl:equivalentClass	DOID:4535	0.875
+HP:0002777	owl:equivalentClass	DOID:3227	0.875
+HP:0011100	owl:equivalentClass	DOID:10486	0.875
+HP:0002243	owl:equivalentClass	DOID:10611	0.875
+HP:0002245	owl:equivalentClass	DOID:9487	0.875
+HP:0002257	owl:equivalentClass	DOID:8252	0.875
+HP:0012384	owl:equivalentClass	DOID:4483	0.875
+HP:0002251	owl:equivalentClass	DOID:10487	0.875
+HP:0001332	owl:equivalentClass	DOID:543	0.875
+HP:0100661	owl:equivalentClass	DOID:12098	0.875
+HP:0100665	owl:equivalentClass	DOID:1558	0.875
+HP:0100647	owl:equivalentClass	DOID:12361	0.875
+HP:0100646	owl:equivalentClass	DOID:7166	0.875
+HP:0100651	owl:equivalentClass	DOID:9744	0.875
+HP:0100653	owl:equivalentClass	DOID:1210	0.875
+HP:0100658	owl:equivalentClass	DOID:3488	0.875
+HP:0100697	owl:equivalentClass	DOID:3512	0.875
+HP:0002608	owl:equivalentClass	DOID:10608	0.875
+HP:0001396	owl:equivalentClass	DOID:13580	0.875
+HP:0005293	owl:equivalentClass	DOID:10128	0.875
+HP:0002563	owl:equivalentClass	DOID:11481	0.875
+HP:0001701	owl:equivalentClass	DOID:1787	0.875
+HP:0002578	owl:equivalentClass	DOID:11914	0.875
+HP:0002570	owl:equivalentClass	DOID:10602	0.875
+HP:0002571	owl:equivalentClass	DOID:9164	0.875
+HP:0002588	owl:equivalentClass	DOID:1724	0.875
+HP:0002580	owl:equivalentClass	DOID:8445	0.875
+HP:0002583	owl:equivalentClass	DOID:0060180	0.875
+HP:0002511	owl:equivalentClass	DOID:10652	0.875
+HP:0002542	owl:equivalentClass	DOID:14784	0.875
+HP:0000589	owl:equivalentClass	DOID:12270	0.875
+HP:0002595	owl:equivalentClass	DOID:8440	0.875
+HP:0005214	owl:equivalentClass	DOID:8437	0.875
+HP:0002592	owl:equivalentClass	DOID:10808	0.875
+HP:0002590	owl:equivalentClass	DOID:8442	0.875
+HP:0100757	owl:equivalentClass	DOID:6823	0.875
+HP:0100726	owl:equivalentClass	DOID:8632	0.875
+HP:0100787	owl:equivalentClass	DOID:10283	0.875
+HP:0100796	owl:equivalentClass	DOID:2518	0.875
+HP:0100764	owl:equivalentClass	DOID:1475	0.875
+HP:0100768	owl:equivalentClass	DOID:3594	0.875
+HP:0100769	owl:equivalentClass	DOID:2703	0.875
+HP:0100774	owl:equivalentClass	DOID:205	0.875
+HP:0100778	owl:equivalentClass	DOID:2917	0.875
+HP:0001360	owl:equivalentClass	DOID:4621	0.875
+HP:0002435	owl:equivalentClass	DOID:1088	0.875
+HP:0002445	owl:equivalentClass	DOID:12835	0.875
+HP:0001298	owl:equivalentClass	DOID:936	0.875
+HP:0002408	owl:equivalentClass	DOID:0060688	0.875
+HP:0002415	owl:equivalentClass	DOID:10579	0.875
+HP:0100821	owl:equivalentClass	DOID:12369	0.875
+HP:0100813	owl:equivalentClass	DOID:11996	0.875
+HP:0100817	owl:equivalentClass	DOID:1591	0.875
+HP:0001909	owl:equivalentClass	DOID:1240	0.875
+HP:0002480	owl:equivalentClass	DOID:13413	0.875
+HP:0000107	owl:equivalentClass	DOID:2975	0.875
+HP:0100842	owl:equivalentClass	DOID:0060857	0.875
+HP:0100847	owl:equivalentClass	DOID:4398	0.875
+HP:0012387	owl:equivalentClass	DOID:6132	0.875
+HP:0002859	owl:equivalentClass	DOID:3247	0.875
+HP:0002858	owl:equivalentClass	DOID:3565	0.875
+HP:0002668	owl:equivalentClass	DOID:0050773	0.875
+HP:0002865	owl:equivalentClass	DOID:3973	0.875
+HP:0002890	owl:equivalentClass	DOID:3963	0.875
+HP:0002860	owl:equivalentClass	DOID:1749	0.875
+HP:0002862	owl:equivalentClass	DOID:4007	0.875
+HP:0002861	owl:equivalentClass	DOID:1909	0.875
+HP:0000206	owl:equivalentClass	DOID:1456	0.875
+HP:0003040	owl:equivalentClass	DOID:381	0.875
+HP:0000135	owl:equivalentClass	DOID:1924	0.875
+HP:0000133	owl:equivalentClass	DOID:14447	0.875
+HP:0012119	owl:equivalentClass	DOID:10783	0.875
+HP:0012118	owl:equivalentClass	DOID:2600	0.875
+HP:0012114	owl:equivalentClass	DOID:2871	0.875
+HP:0000147	owl:equivalentClass	DOID:11612	0.875
+HP:0000149	owl:equivalentClass	DOID:3578	0.875
+HP:0100615	owl:equivalentClass	DOID:2394	0.875
+HP:0000150	owl:equivalentClass	DOID:3301	0.875
+HP:0000141	owl:equivalentClass	DOID:13938	0.875
+HP:0012124	owl:equivalentClass	DOID:12732	0.875
+HP:0000554	owl:equivalentClass	DOID:13141	0.875
+HP:0012123	owl:equivalentClass	DOID:12574	0.875
+HP:0012121	owl:equivalentClass	DOID:12030	0.875
+HP:0012125	owl:equivalentClass	DOID:10283	0.875
+HP:0000169	owl:equivalentClass	DOID:0060466	0.875
+HP:0000704	owl:equivalentClass	DOID:824	0.875
+HP:0002758	owl:equivalentClass	DOID:8398	0.875
+HP:0000100	owl:equivalentClass	DOID:1184	0.875
+HP:0000112	owl:equivalentClass	DOID:557	0.875
+HP:0002787	owl:equivalentClass	DOID:14224	0.875
+HP:0000126	owl:equivalentClass	DOID:11111	0.875
+HP:0000121	owl:equivalentClass	DOID:12679	0.875
+HP:0000123	owl:equivalentClass	DOID:10952	0.875
+HP:0000501	owl:equivalentClass	DOID:1686	0.875
+HP:0012192	owl:equivalentClass	DOID:0060061	0.875
+HP:0012191	owl:equivalentClass	DOID:707	0.875
+HP:0012197	owl:equivalentClass	DOID:3892	0.875
+HP:0012158	owl:equivalentClass	DOID:9348	0.875
+HP:0030502	owl:equivalentClass	DOID:8465	0.875
+HP:0012174	owl:equivalentClass	DOID:3068	0.875
+HP:0012189	owl:equivalentClass	DOID:8567	0.875
+HP:0002665	owl:equivalentClass	DOID:0060058	0.875
+HP:0012181	owl:equivalentClass	DOID:573	0.875
+HP:0009830	owl:equivalentClass	DOID:870	0.875
+HP:0000221	owl:equivalentClass	DOID:11514	0.875
+HP:0002720	owl:equivalentClass	DOID:0060025	0.875
+HP:0002728	owl:equivalentClass	DOID:2058	0.875
+HP:0002725	owl:equivalentClass	DOID:9074	0.875
+HP:0002749	owl:equivalentClass	DOID:10573	0.875
+HP:0000015	owl:equivalentClass	DOID:11353	0.875
+HP:0000027	owl:equivalentClass	DOID:14227	0.875
+HP:0000028	owl:equivalentClass	DOID:11383	0.875
+HP:0000024	owl:equivalentClass	DOID:14654	0.875
+HP:0000030	owl:equivalentClass	DOID:3579	0.875
+HP:0000031	owl:equivalentClass	DOID:9402	0.875
+HP:0000047	owl:equivalentClass	DOID:10892	0.875
+HP:0002633	owl:equivalentClass	DOID:865	0.875
+HP:0002639	owl:equivalentClass	DOID:11512	0.875
+HP:0002654	owl:equivalentClass	DOID:12721	0.875
+HP:0100634	owl:equivalentClass	DOID:169	0.875
+HP:0002667	owl:equivalentClass	DOID:2154	0.875
+HP:0002669	owl:equivalentClass	DOID:3347	0.875
+HP:0000099	owl:equivalentClass	DOID:2921	0.875
+HP:0000097	owl:equivalentClass	DOID:1312	0.875
+HP:0000090	owl:equivalentClass	DOID:12712	0.875
+HP:0000093	owl:equivalentClass	DOID:576	0.875
+HP:0012077	owl:equivalentClass	DOID:334	0.875
+HP:0012076	owl:equivalentClass	DOID:10930	0.875
+HP:0012085	owl:equivalentClass	DOID:1439	0.875
+HP:0012034	owl:equivalentClass	DOID:3382	0.875
+HP:0012031	owl:equivalentClass	DOID:3315	0.875
+HP:0012032	owl:equivalentClass	DOID:3315	0.875
+HP:0002099	owl:equivalentClass	DOID:2841	0.875
+HP:0000076	owl:equivalentClass	DOID:9620	0.875
+HP:0000070	owl:equivalentClass	DOID:4022	0.875
+HP:0012068	owl:equivalentClass	DOID:0050461	0.875
+HP:0012410	owl:equivalentClass	DOID:1340	0.875
+HP:0012424	owl:equivalentClass	DOID:8886	0.875
+HP:0000388	owl:equivalentClass	DOID:10754	0.875
+HP:0012388	owl:equivalentClass	DOID:6132	0.875
+HP:0012316	owl:equivalentClass	DOID:3355	0.875
+HP:0012315	owl:equivalentClass	DOID:4231	0.875
+HP:0001028	owl:equivalentClass	DOID:255	0.875
+HP:0012330	owl:equivalentClass	DOID:11400	0.875
+HP:0012334	owl:equivalentClass	DOID:13619	0.875
+HP:0012344	owl:equivalentClass	DOID:8472	0.875
+HP:0012399	owl:equivalentClass	DOID:8717	0.875
+HP:0012397	owl:equivalentClass	DOID:10230	0.875
+HP:0002905	owl:equivalentClass	DOID:0050459	0.875
+HP:0002961	owl:equivalentClass	DOID:11702	0.875
+HP:0002974	owl:equivalentClass	DOID:9827	0.875
+HP:0004431	owl:equivalentClass	DOID:626	0.875
+HP:0011034	owl:equivalentClass	DOID:9120	0.875
+HP:0000252	owl:equivalentClass	DOID:10907	0.875
+HP:0001913	owl:equivalentClass	DOID:12987	0.875
+HP:0000541	owl:equivalentClass	DOID:5327	0.875
+HP:0012268	owl:equivalentClass	DOID:5363	0.875
+HP:0000212	owl:equivalentClass	DOID:3086	0.875
+HP:0002885	owl:equivalentClass	DOID:0050902	0.875
+HP:0002884	owl:equivalentClass	DOID:687	0.875
+HP:0002898	owl:equivalentClass	DOID:688	0.875
+HP:0012209	owl:equivalentClass	DOID:0050458	0.875
+HP:0002897	owl:equivalentClass	DOID:7608	0.875
+HP:0000230	owl:equivalentClass	DOID:3087	0.875
+HP:0010280	owl:equivalentClass	DOID:9637	0.875
+HP:0002893	owl:equivalentClass	DOID:3829	0.875
+HP:0002895	owl:equivalentClass	DOID:3969	0.875
+HP:0100243	owl:equivalentClass	DOID:1967	0.875
+HP:0012218	owl:equivalentClass	DOID:4239	0.875
+HP:0009792	owl:equivalentClass	DOID:3307	0.875
+HP:0000608	owl:equivalentClass	DOID:4448	0.875
+HP:0000546	owl:equivalentClass	DOID:8466	0.875
+HP:0000602	owl:equivalentClass	DOID:539	0.875
+HP:0012636	owl:equivalentClass	DOID:1727	0.875
+HP:0000656	owl:equivalentClass	DOID:1570	0.875
+HP:0000659	owl:equivalentClass	DOID:0060673	0.875
+HP:0000581	owl:equivalentClass	DOID:10348	0.875
+HP:0000668	owl:equivalentClass	DOID:0050591	0.875
+HP:0000674	owl:equivalentClass	DOID:13714	0.875
+HP:0012653	owl:equivalentClass	DOID:9362	0.875
+HP:0000620	owl:equivalentClass	DOID:9938	0.875
+HP:0000621	owl:equivalentClass	DOID:12397	0.875
+HP:0000643	owl:equivalentClass	DOID:529	0.875
+HP:0000646	owl:equivalentClass	DOID:10376	0.875
+HP:0000648	owl:equivalentClass	DOID:5723	0.875
+HP:0000577	owl:equivalentClass	DOID:1143	0.875
+HP:0000520	owl:equivalentClass	DOID:9370	0.875
+HP:0000585	owl:equivalentClass	DOID:11164	0.875
+HP:0000590	owl:equivalentClass	DOID:12558	0.875
+HP:0012579	owl:equivalentClass	DOID:10966	0.875
+HP:0012578	owl:equivalentClass	DOID:10976	0.875
+HP:0012570	owl:equivalentClass	DOID:5485	0.875
+HP:0000538	owl:equivalentClass	DOID:1392	0.875
+HP:0000540	owl:equivalentClass	DOID:9834	0.875
+HP:0000556	owl:equivalentClass	DOID:8501	0.875
+HP:0000555	owl:equivalentClass	DOID:11772	0.875
+HP:0000565	owl:equivalentClass	DOID:9840	0.875
+HP:0000563	owl:equivalentClass	DOID:10126	0.875
+HP:0000568	owl:equivalentClass	DOID:10629	0.875
+HP:0000509	owl:equivalentClass	DOID:6195	0.875
+HP:0000518	owl:equivalentClass	DOID:83	0.875
+HP:0000526	owl:equivalentClass	DOID:12271	0.875
+HP:0000498	owl:equivalentClass	DOID:9423	0.875
+HP:0000491	owl:equivalentClass	DOID:4677	0.875
+HP:0012486	owl:equivalentClass	DOID:322	0.875
+HP:0012490	owl:equivalentClass	DOID:1526	0.875
+HP:0000453	owl:equivalentClass	DOID:9574	0.875
+HP:0000476	owl:equivalentClass	DOID:3081	0.875
+HP:0000485	owl:equivalentClass	DOID:0060305	0.875
+HP:0012803	owl:equivalentClass	DOID:12273	0.875
+HP:0000829	owl:equivalentClass	DOID:11199	0.875
+HP:0000842	owl:equivalentClass	DOID:2018	0.875
+HP:0000821	owl:equivalentClass	DOID:1459	0.875
+HP:0040075	owl:equivalentClass	DOID:9406	0.875
+HP:0012819	owl:equivalentClass	DOID:820	0.875
+HP:0001638	owl:equivalentClass	DOID:0050700	0.875
+HP:0000836	owl:equivalentClass	DOID:7998	0.875
+HP:0010514	owl:equivalentClass	DOID:2444	0.875
+HP:0000843	owl:equivalentClass	DOID:13543	0.875
+HP:0012871	owl:equivalentClass	DOID:12337	0.875
+HP:0012876	owl:equivalentClass	DOID:13709	0.875
+HP:0012889	owl:equivalentClass	DOID:361	0.875
+HP:0030127	owl:equivalentClass	DOID:289	0.875
+HP:0000851	owl:equivalentClass	DOID:0050328	0.875
+HP:0000852	owl:equivalentClass	DOID:4184	0.875
+HP:0000853	owl:equivalentClass	DOID:12176	0.875
+HP:0000859	owl:equivalentClass	DOID:446	0.875
+HP:0000854	owl:equivalentClass	DOID:2891	0.875
+HP:0000873	owl:equivalentClass	DOID:9409	0.875
+HP:0002133	owl:equivalentClass	DOID:1824	0.875
+HP:0012843	owl:equivalentClass	DOID:5375	0.875
+HP:0000867	owl:equivalentClass	DOID:12466	0.875
+HP:0000872	owl:equivalentClass	DOID:7188	0.875
+HP:0000871	owl:equivalentClass	DOID:9410	0.875
+HP:0012859	owl:equivalentClass	DOID:9021	0.875
+HP:0010628	owl:equivalentClass	DOID:13934	0.875
+HP:0000705	owl:equivalentClass	DOID:2187	0.875
+HP:0000703	owl:equivalentClass	DOID:4154	0.875
+HP:0000717	owl:equivalentClass	DOID:12849	0.875
+HP:0000771	owl:equivalentClass	DOID:12698	0.875
+HP:0009110	owl:equivalentClass	DOID:10480	0.875
+HP:0000789	owl:equivalentClass	DOID:5223	0.875
+HP:0000796	owl:equivalentClass	DOID:12577	0.875
+HP:0000798	owl:equivalentClass	DOID:14228	0.875
+HP:0000791	owl:equivalentClass	DOID:580	0.875
+HP:0000793	owl:equivalentClass	DOID:2920	0.875
+HP:0009125	owl:equivalentClass	DOID:811	0.875
+HP:0012784	owl:equivalentClass	DOID:2982	0.875
+HP:0001159	owl:equivalentClass	DOID:11193	0.875
+HP:0000756	owl:equivalentClass	DOID:593	0.875
+HP:0012740	owl:equivalentClass	DOID:2615	0.875
+HP:0001513	owl:equivalentClass	DOID:9970	0.875
+HP:0003198	owl:equivalentClass	DOID:423	0.875
+HP:0007269	owl:equivalentClass	DOID:12377	0.875
+HP:0003737	owl:equivalentClass	DOID:699	0.875
+HP:0012672	owl:equivalentClass	DOID:4267	0.875
+HP:0010446	owl:equivalentClass	DOID:4078	0.875
+HP:0001631	owl:equivalentClass	DOID:1882	0.875
+HP:0006695	owl:equivalentClass	DOID:0050651	0.875
+HP:0010442	owl:equivalentClass	DOID:1148	0.875
+HP:0000939	owl:equivalentClass	DOID:11476	0.875
+HP:0000956	owl:equivalentClass	DOID:3138	0.875
+HP:0000964	owl:equivalentClass	DOID:2723	0.875
+HP:0000966	owl:equivalentClass	DOID:11155	0.875
+HP:0000973	owl:equivalentClass	DOID:3144	0.875
+HP:0000970	owl:equivalentClass	DOID:11156	0.875
+HP:0000982	owl:equivalentClass	DOID:3390	0.875
+HP:0000991	owl:equivalentClass	DOID:3345	0.875
+HP:0006824	owl:equivalentClass	DOID:3817	0.875
+HP:0010606	owl:equivalentClass	DOID:9909	0.875
+HP:0010607	owl:equivalentClass	DOID:13134	0.875
+HP:0010605	owl:equivalentClass	DOID:9903	0.875
+HP:0003560	owl:equivalentClass	DOID:9884	0.875
+HP:0007018	owl:equivalentClass	DOID:1094	0.875
+HP:0007024	owl:equivalentClass	DOID:12680	0.875
+HP:0001287	owl:equivalentClass	DOID:9471	0.875
+HP:0010524	owl:equivalentClass	DOID:4090	0.875
+HP:0010526	owl:equivalentClass	DOID:4540	0.875
+HP:0010523	owl:equivalentClass	DOID:13417	0.875
+HP:0010529	owl:equivalentClass	DOID:4188	0.875
+HP:0010528	owl:equivalentClass	DOID:4970	0.875
+HP:0010521	owl:equivalentClass	DOID:4260	0.875
+HP:0010522	owl:equivalentClass	DOID:4428	0.875
+HP:0009588	owl:equivalentClass	DOID:12689	0.875
+HP:0009592	owl:equivalentClass	DOID:3069	0.875
+HP:0100008	owl:equivalentClass	DOID:3192	0.875
+HP:0010536	owl:equivalentClass	DOID:9220	0.875
+HP:0010534	owl:equivalentClass	DOID:13027	0.875
+HP:0010542	owl:equivalentClass	DOID:14070	0.875
+HP:0010550	owl:equivalentClass	DOID:607	0.875
+HP:0007209	owl:equivalentClass	DOID:13934	0.875
+HP:0007215	owl:equivalentClass	DOID:14451	0.875
+HP:0010886	owl:equivalentClass	DOID:84	0.875
+HP:0040188	owl:equivalentClass	DOID:8125	0.875
+HP:0009831	owl:equivalentClass	DOID:1188	0.875
+HP:0001339	owl:equivalentClass	DOID:0050453	0.875
+HP:0001635	owl:equivalentClass	DOID:6000	0.875
+HP:0009806	owl:equivalentClass	DOID:12387	0.875
+HP:0010735	owl:equivalentClass	DOID:1858	0.875
+HP:0010739	owl:equivalentClass	DOID:11991	0.875
+HP:0009741	owl:equivalentClass	DOID:11664	0.875
+HP:0010749	owl:equivalentClass	DOID:348	0.875
+HP:0001059	owl:equivalentClass	DOID:0002116	0.875
+HP:0010762	owl:equivalentClass	DOID:3302	0.875
+HP:0010797	owl:equivalentClass	DOID:5241	0.875
+HP:0030421	owl:equivalentClass	DOID:512	0.875
+HP:0010786	owl:equivalentClass	DOID:731	0.875
+HP:0009732	owl:equivalentClass	DOID:5151	0.875
+HP:0009734	owl:equivalentClass	DOID:4992	0.875
+HP:0009797	owl:equivalentClass	DOID:869	0.875
+HP:0010799	owl:equivalentClass	DOID:5032	0.875
+HP:0007479	owl:equivalentClass	DOID:1699	0.875
+HP:0007431	owl:equivalentClass	DOID:1699	0.875
+HP:0007475	owl:equivalentClass	DOID:4603	0.875
+HP:0008064	owl:equivalentClass	DOID:1697	0.875
+HP:0001009	owl:equivalentClass	DOID:1272	0.875
+HP:0001048	owl:equivalentClass	DOID:483	0.875
+HP:0001888	owl:equivalentClass	DOID:614	0.875
+HP:0001903	owl:equivalentClass	DOID:2355	0.875
+HP:0010981	owl:equivalentClass	DOID:1387	0.875
+HP:0007354	owl:equivalentClass	DOID:332	0.875
+HP:0009919	owl:equivalentClass	DOID:768	0.875
+HP:0009926	owl:equivalentClass	DOID:13757	0.875
+HP:0030004	owl:equivalentClass	DOID:13038	0.875
+HP:0030003	owl:equivalentClass	DOID:12958	0.875
+HP:0001369	owl:equivalentClass	DOID:848	0.875
+HP:0007642	owl:equivalentClass	DOID:0050534	0.875
+HP:0007769	owl:equivalentClass	DOID:12161	0.875
+HP:0030068	owl:equivalentClass	DOID:369	0.875
+HP:0003006	owl:equivalentClass	DOID:769	0.875
+HP:0030066	owl:equivalentClass	DOID:4794	0.875
+HP:0030062	owl:equivalentClass	DOID:3840	0.875
+HP:0030050	owl:equivalentClass	DOID:8986	0.875
+HP:0030080	owl:equivalentClass	DOID:8584	0.875
+HP:0030071	owl:equivalentClass	DOID:4790	0.875
+HP:0030072	owl:equivalentClass	DOID:1350	0.875
+HP:0030079	owl:equivalentClass	DOID:4362	0.875
+HP:0030077	owl:equivalentClass	DOID:3906	0.875
+HP:0030078	owl:equivalentClass	DOID:3910	0.875
+HP:0030358	owl:equivalentClass	DOID:3908	0.875
+HP:0007607	owl:equivalentClass	DOID:14793	0.875
+HP:0001138	owl:equivalentClass	DOID:1891	0.875
+HP:0001051	owl:equivalentClass	DOID:8741	0.875
+HP:0001047	owl:equivalentClass	DOID:3310	0.875
+HP:0007529	owl:equivalentClass	DOID:14693	0.875
+HP:0007544	owl:equivalentClass	DOID:3263	0.875
+HP:0005263	owl:equivalentClass	DOID:4029	0.875
+HP:0030242	owl:equivalentClass	DOID:11695	0.875
+HP:0030243	owl:equivalentClass	DOID:11512	0.875
+HP:0001131	owl:equivalentClass	DOID:2566	0.875
+HP:0007898	owl:equivalentClass	DOID:7765	0.875
+HP:0001733	owl:equivalentClass	DOID:4989	0.875
+HP:0005912	owl:equivalentClass	DOID:13608	0.875
+HP:0006934	owl:equivalentClass	DOID:9649	0.875
+HP:0007868	owl:equivalentClass	DOID:10871	0.875
+HP:0007879	owl:equivalentClass	DOID:11204	0.875
+HP:0007802	owl:equivalentClass	DOID:12318	0.875
+HP:0007824	owl:equivalentClass	DOID:539	0.875
+HP:0001639	owl:equivalentClass	DOID:11984	0.875
+HP:0005160	owl:equivalentClass	DOID:4297	0.875
+HP:0001682	owl:equivalentClass	DOID:5805	0.875
+HP:0005180	owl:equivalentClass	DOID:4080	0.875
+HP:0007763	owl:equivalentClass	DOID:7736	0.875
+HP:0007777	owl:equivalentClass	DOID:11086	0.875
+HP:0030160	owl:equivalentClass	DOID:2568	0.875
+HP:0030153	owl:equivalentClass	DOID:4947	0.875
+HP:0007705	owl:equivalentClass	DOID:1237	0.875
+HP:0030426	owl:equivalentClass	DOID:180	0.875
+HP:0030416	owl:equivalentClass	DOID:1245	0.875
+HP:0030418	owl:equivalentClass	DOID:2093	0.875
+HP:0001363	owl:equivalentClass	DOID:2340	0.875
+HP:0030442	owl:equivalentClass	DOID:12239	0.875
+HP:0030443	owl:equivalentClass	DOID:4283	0.875
+HP:0030439	owl:equivalentClass	DOID:3692	0.875
+HP:0030438	owl:equivalentClass	DOID:7177	0.875
+HP:0030434	owl:equivalentClass	DOID:5374	0.875
+HP:0030432	owl:equivalentClass	DOID:2649	0.875
+HP:0030430	owl:equivalentClass	DOID:2001	0.875
+HP:0005432	owl:equivalentClass	DOID:624	0.875
+HP:0030406	owl:equivalentClass	DOID:1791	0.875
+HP:0030408	owl:equivalentClass	DOID:1664	0.875
+HP:0005387	owl:equivalentClass	DOID:628	0.875
+HP:0030360	owl:equivalentClass	DOID:4556	0.875
+HP:0030359	owl:equivalentClass	DOID:3907	0.875
+HP:0030357	owl:equivalentClass	DOID:5409	0.875
+HP:0030394	owl:equivalentClass	DOID:1963	0.875
+HP:0030392	owl:equivalentClass	DOID:5648	0.875
+HP:0007915	owl:equivalentClass	DOID:0060457	0.875
+HP:0005321	owl:equivalentClass	DOID:2908	0.875
+HP:0004439	owl:equivalentClass	DOID:2339	0.875
+HP:0007992	owl:equivalentClass	DOID:12165	0.875
+HP:0003095	owl:equivalentClass	DOID:813	0.875
+HP:0040049	owl:equivalentClass	DOID:4449	0.875
+HP:0030692	owl:equivalentClass	DOID:1319	0.875
+HP:0001144	owl:equivalentClass	DOID:14233	0.875
+HP:0030683	owl:equivalentClass	DOID:2170	0.875
+HP:0001045	owl:equivalentClass	DOID:12306	0.875
+HP:0003003	owl:equivalentClass	DOID:219	0.875
+HP:0003002	owl:equivalentClass	DOID:3459	0.875
+HP:0030642	owl:equivalentClass	DOID:11105	0.875
+HP:0001370	owl:equivalentClass	DOID:7148	0.875
+HP:0005584	owl:equivalentClass	DOID:4450	0.875
+HP:0005550	owl:equivalentClass	DOID:1040	0.875
+HP:0030511	owl:equivalentClass	DOID:0050335	0.875
+HP:0005575	owl:equivalentClass	DOID:12554	0.875
+HP:0030854	owl:equivalentClass	DOID:11595	0.875
+HP:0003251	owl:equivalentClass	DOID:12336	0.875
+HP:0030816	owl:equivalentClass	DOID:1134	0.875
+HP:0001061	owl:equivalentClass	DOID:6543	0.875
+HP:0040165	owl:equivalentClass	DOID:9957	0.875
+HP:0030784	owl:equivalentClass	DOID:4541	0.875
+HP:0030773	owl:equivalentClass	DOID:538	0.875
+HP:0003193	owl:equivalentClass	DOID:4481	0.875
+HP:0040197	owl:equivalentClass	DOID:2034	0.875
+HP:0030731	owl:equivalentClass	DOID:305	0.875
+HP:0003131	owl:equivalentClass	DOID:9266	0.875
+HP:0030764	owl:equivalentClass	DOID:14223	0.875
+HP:0030752	owl:equivalentClass	DOID:9939	0.875
+HP:0003304	owl:equivalentClass	DOID:2300	0.875
+HP:0003302	owl:equivalentClass	DOID:6682	0.875
+HP:0005978	owl:equivalentClass	DOID:9352	0.875
+HP:0003396	owl:equivalentClass	DOID:327	0.875
+HP:0005994	owl:equivalentClass	DOID:13197	0.875
+HP:0003535	owl:equivalentClass	DOID:0060336	0.875
+HP:0003353	owl:equivalentClass	DOID:14701	0.875
+HP:0001004	owl:equivalentClass	DOID:4977	0.875
+HP:0001014	owl:equivalentClass	DOID:479	0.875
+HP:0001071	owl:equivalentClass	DOID:14499	0.875
+HP:0001084	owl:equivalentClass	DOID:11342	0.875
+HP:0001085	owl:equivalentClass	DOID:146	0.875
+HP:0001082	owl:equivalentClass	DOID:1949	0.875
+HP:0001095	owl:equivalentClass	DOID:11561	0.875
+HP:0001096	owl:equivalentClass	DOID:9368	0.875
+HP:0001097	owl:equivalentClass	DOID:12895	0.875
+HP:0001055	owl:equivalentClass	DOID:11330	0.875
+HP:0001264	owl:equivalentClass	DOID:10965	0.875
+HP:0001271	owl:equivalentClass	DOID:1389	0.875
+HP:0003761	owl:equivalentClass	DOID:182	0.875
+HP:0001101	owl:equivalentClass	DOID:1406	0.875
+HP:0003763	owl:equivalentClass	DOID:2846	0.875
+HP:0001137	owl:equivalentClass	DOID:9888	0.875
+HP:0001139	owl:equivalentClass	DOID:9821	0.875
+HP:0001132	owl:equivalentClass	DOID:11364	0.875
+HP:0100259	owl:equivalentClass	DOID:1148	0.875
+HP:0001402	owl:equivalentClass	DOID:684	0.875
+HP:0001406	owl:equivalentClass	DOID:1852	0.875
+HP:0001394	owl:equivalentClass	DOID:5082	0.875
+HP:0001343	owl:equivalentClass	DOID:2382	0.875
+HP:0025318	owl:equivalentClass	DOID:4001	0.875
+HP:0001325	owl:equivalentClass	DOID:1607	0.875
+HP:0001334	owl:equivalentClass	DOID:1573	0.875
+HP:0001678	owl:equivalentClass	DOID:0050820	0.875
+HP:0001706	owl:equivalentClass	DOID:12929	0.875
+HP:0001704	owl:equivalentClass	DOID:5644	0.875
+HP:0001716	owl:equivalentClass	DOID:384	0.875
+HP:0001718	owl:equivalentClass	DOID:1754	0.875
+HP:0001719	owl:equivalentClass	DOID:6406	0.875
+HP:0001723	owl:equivalentClass	DOID:397	0.875
+HP:0001738	owl:equivalentClass	DOID:13316	0.875
+HP:0001734	owl:equivalentClass	DOID:0060850	0.875
+HP:0001735	owl:equivalentClass	DOID:2913	0.875
+HP:0011002	owl:equivalentClass	DOID:13533	0.875
+HP:0001698	owl:equivalentClass	DOID:118	0.875
+HP:0001695	owl:equivalentClass	DOID:0060319	0.875
+HP:0001651	owl:equivalentClass	DOID:9565	0.875
+HP:0001629	owl:equivalentClass	DOID:1657	0.875
+HP:0001634	owl:equivalentClass	DOID:988	0.875
+HP:0001643	owl:equivalentClass	DOID:13832	0.875
+HP:0001644	owl:equivalentClass	DOID:12930	0.875
+HP:0001648	owl:equivalentClass	DOID:8515	0.875
+HP:0001653	owl:equivalentClass	DOID:11502	0.875
+HP:0001655	owl:equivalentClass	DOID:13620	0.875
+HP:0001650	owl:equivalentClass	DOID:1712	0.875
+HP:0001658	owl:equivalentClass	DOID:5844	0.875
+HP:0001659	owl:equivalentClass	DOID:57	0.875
+HP:0001543	owl:equivalentClass	DOID:11044	0.875
+HP:0001561	owl:equivalentClass	DOID:8488	0.875
+HP:0001562	owl:equivalentClass	DOID:12215	0.875
+HP:0001901	owl:equivalentClass	DOID:8432	0.875
+HP:0001876	owl:equivalentClass	DOID:12450	0.875
+HP:0001882	owl:equivalentClass	DOID:615	0.875
+HP:0001997	owl:equivalentClass	DOID:13189	0.875
+HP:0002149	owl:equivalentClass	DOID:1920	0.875
+HP:0001953	owl:equivalentClass	DOID:1837	0.875
+HP:0001971	owl:equivalentClass	DOID:6376	0.875
+HP:0001818	owl:equivalentClass	DOID:13117	0.875
+HP:0001880	owl:equivalentClass	DOID:999	0.875
+HP:0001897	owl:equivalentClass	DOID:720	0.875
+HP:0001894	owl:equivalentClass	DOID:2228	0.875
+HP:0001890	owl:equivalentClass	DOID:718	0.875
+HP:0011110	owl:equivalentClass	DOID:10456	0.875
+HP:0011505	owl:equivalentClass	DOID:4447	0.875
+HP:0011508	owl:equivalentClass	DOID:7633	0.875
+HP:0011958	owl:equivalentClass	DOID:12514	0.875
+HP:0011522	owl:equivalentClass	DOID:13910	0.875
+HP:0011521	owl:equivalentClass	DOID:13909	0.875
+HP:0011496	owl:equivalentClass	DOID:11382	0.875
+HP:0100021	owl:equivalentClass	DOID:1969	0.875
+HP:0011459	owl:equivalentClass	DOID:1107	0.875
+HP:0011708	owl:equivalentClass	DOID:11312	0.875
+HP:0011704	owl:equivalentClass	DOID:13884	0.875
+HP:0100584	owl:equivalentClass	DOID:10314	0.875
+HP:0011726	owl:equivalentClass	DOID:13042	0.875
+HP:0011736	owl:equivalentClass	DOID:446	0.875
+HP:0011782	owl:equivalentClass	DOID:12837	0.875
+HP:0006766	owl:equivalentClass	DOID:4465	0.875
+HP:0011798	owl:equivalentClass	DOID:6245	0.875
+HP:0011763	owl:equivalentClass	DOID:4916	0.875
+HP:0045054	owl:equivalentClass	DOID:3690	0.875
+HP:0100537	owl:equivalentClass	DOID:9598	0.875
+HP:0045038	owl:equivalentClass	DOID:10540	0.875
+HP:0011945	owl:equivalentClass	DOID:0050157	0.875
+HP:0011946	owl:equivalentClass	DOID:2799	0.875
+HP:0011953	owl:equivalentClass	DOID:6760	0.875
+HP:0011951	owl:equivalentClass	DOID:0050152	0.875
+HP:0002090	owl:equivalentClass	DOID:552	0.875
+HP:0011950	owl:equivalentClass	DOID:2942	0.875
+HP:0011974	owl:equivalentClass	DOID:4971	0.875
+HP:0011971	owl:equivalentClass	DOID:743	0.875
+HP:0011919	owl:equivalentClass	DOID:3798	0.875
+HP:0011857	owl:equivalentClass	DOID:3721	0.875
+HP:0008200	owl:equivalentClass	DOID:11202	0.875
+HP:0011850	owl:equivalentClass	DOID:10301	0.875
+HP:0011851	owl:equivalentClass	DOID:11482	0.875
+HP:0008288	owl:equivalentClass	DOID:9268	0.875
+HP:0008242	owl:equivalentClass	DOID:4479	0.875
+HP:0011892	owl:equivalentClass	DOID:11249	0.875
+HP:0008181	owl:equivalentClass	DOID:1386	0.875
+HP:0200022	owl:equivalentClass	DOID:2626	0.875
+HP:0200023	owl:equivalentClass	DOID:9286	0.875
+HP:0008722	owl:equivalentClass	DOID:9341	0.875
+HP:0200058	owl:equivalentClass	DOID:0001816	0.875
+HP:0200044	owl:equivalentClass	DOID:3805	0.875
+HP:0008653	owl:equivalentClass	DOID:13139	0.875
+HP:0008663	owl:equivalentClass	DOID:4242	0.875
+HP:0008677	owl:equivalentClass	DOID:2590	0.875
+HP:0200123	owl:equivalentClass	DOID:2237	0.875
+HP:0008682	owl:equivalentClass	DOID:12556	0.875
+HP:0100324	owl:equivalentClass	DOID:419	0.875
+HP:0200151	owl:equivalentClass	DOID:3663	0.875
+HP:0100495	owl:equivalentClass	DOID:350	0.875
+HP:0006510	owl:equivalentClass	DOID:3083	0.875
+HP:0100001	owl:equivalentClass	DOID:1790	0.875
+HP:0100003	owl:equivalentClass	DOID:1788	0.875
+HP:0100004	owl:equivalentClass	DOID:6201	0.875
+HP:0100009	owl:equivalentClass	DOID:3565	0.875
+HP:0100010	owl:equivalentClass	DOID:1138	0.875
+HP:0006755	owl:equivalentClass	DOID:5273	0.875
+HP:0006765	owl:equivalentClass	DOID:3371	0.875
+HP:0006779	owl:equivalentClass	DOID:4051	0.875
+HP:0006775	owl:equivalentClass	DOID:9538	0.875
+HP:0006771	owl:equivalentClass	DOID:10816	0.875
+HP:0006772	owl:equivalentClass	DOID:8411	0.875
+HP:0006770	owl:equivalentClass	DOID:4467	0.875
+HP:0006785	owl:equivalentClass	DOID:11724	0.875
+HP:0006780	owl:equivalentClass	DOID:1540	0.875
+HP:0006781	owl:equivalentClass	DOID:8162	0.875
+HP:0006725	owl:equivalentClass	DOID:4074	0.875
+HP:0006731	owl:equivalentClass	DOID:3962	0.875
+HP:0006747	owl:equivalentClass	DOID:4163	0.875
+HP:0006744	owl:equivalentClass	DOID:3948	0.875
+HP:0006743	owl:equivalentClass	DOID:3246	0.875
+HP:0004389	owl:equivalentClass	DOID:3878	0.875
+HP:0004381	owl:equivalentClass	DOID:1929	0.875
+HP:0006970	owl:equivalentClass	DOID:13088	0.875
+HP:0100504	owl:equivalentClass	DOID:8454	0.875
+HP:0100519	owl:equivalentClass	DOID:2983	0.875
+HP:0100522	owl:equivalentClass	DOID:3275	0.875
+HP:0100528	owl:equivalentClass	DOID:4769	0.875
+HP:0100532	owl:equivalentClass	DOID:13452	0.875
+HP:0100580	owl:equivalentClass	DOID:9206	0.875
+HP:0004496	owl:equivalentClass	DOID:9574	0.875
+HP:0100588	owl:equivalentClass	DOID:5334	0.875
+HP:0100598	owl:equivalentClass	DOID:11396	0.875
+HP:0002032	owl:equivalentClass	DOID:10485	0.875
+HP:0004469	owl:equivalentClass	DOID:6132	0.875
+HP:0004417	owl:equivalentClass	DOID:3669	0.875
+HP:0100620	owl:equivalentClass	DOID:3304	0.875
+HP:0100621	owl:equivalentClass	DOID:4441	0.875
+HP:0100633	owl:equivalentClass	DOID:11963	0.875
+HP:0004432	owl:equivalentClass	DOID:2583	0.875
+HP:0004430	owl:equivalentClass	DOID:627	0.875
+HP:0100601	owl:equivalentClass	DOID:13593	0.875
+HP:0100602	owl:equivalentClass	DOID:10591	0.875
+HP:0100614	owl:equivalentClass	DOID:633	0.875
+HP:0100279	owl:equivalentClass	DOID:8577	0.875
+HP:0100244	owl:equivalentClass	DOID:3355	0.875
+HP:0100252	owl:equivalentClass	DOID:4997	0.875
+HP:0004808	owl:equivalentClass	DOID:9119	0.875
+HP:0004804	owl:equivalentClass	DOID:589	0.875
+HP:0100280	owl:equivalentClass	DOID:8778	0.875
+HP:0002156	owl:equivalentClass	DOID:9263	0.875
+HP:0002161	owl:equivalentClass	DOID:9274	0.875
+HP:0002131	owl:equivalentClass	DOID:963	0.875
+HP:0002076	owl:equivalentClass	DOID:6364	0.875
+HP:0002077	owl:equivalentClass	DOID:10024	0.875
+HP:0002083	owl:equivalentClass	DOID:12783	0.875
+HP:0002036	owl:equivalentClass	DOID:12642	0.875
+HP:0002047	owl:equivalentClass	DOID:8545	0.875
+HP:0002044	owl:equivalentClass	DOID:0050782	0.875
+HP:0002023	owl:equivalentClass	DOID:10488	0.875
+HP:0002020	owl:equivalentClass	DOID:8534	0.875
+HP:0002021	owl:equivalentClass	DOID:12639	0.875
+HP:0000726	owl:equivalentClass	DOID:1307	0.8
+HP:0002836	owl:equivalentClass	DOID:0080174	0.8
+HP:0012126	owl:equivalentClass	DOID:10534	0.8
+HP:0002754	owl:equivalentClass	DOID:1019	0.8
+HP:0012109	owl:equivalentClass	DOID:13550	0.8
+HP:0100242	owl:equivalentClass	DOID:1115	0.8
+HP:0000362	owl:equivalentClass	DOID:12185	0.8
+HP:0000246	owl:equivalentClass	DOID:0050127	0.8
+HP:0002870	owl:equivalentClass	DOID:0050848	0.8
+HP:0012622	owl:equivalentClass	DOID:784	0.8
+HP:0000557	owl:equivalentClass	DOID:11211	0.8
+HP:0000787	owl:equivalentClass	DOID:585	0.8
+HP:0000802	owl:equivalentClass	DOID:1875	0.8
+HP:0000776	owl:equivalentClass	DOID:3827	0.8
+HP:0001156	owl:equivalentClass	DOID:0050581	0.8
+HP:0010296	owl:equivalentClass	DOID:0060604	0.8
+HP:0002145	owl:equivalentClass	DOID:9255	0.8
+HP:0100574	owl:equivalentClass	DOID:0050625	0.8
+HP:0030318	owl:equivalentClass	DOID:0060312	0.8
+HP:0030682	owl:equivalentClass	DOID:0060480	0.8
+HP:0005684	owl:equivalentClass	DOID:0050646	0.8
+HP:0003005	owl:equivalentClass	DOID:4817	0.8
+HP:0005681	owl:equivalentClass	DOID:676	0.8
+HP:0005526	owl:equivalentClass	DOID:10747	0.8
+HP:0003239	owl:equivalentClass	DOID:0110914	0.8
+HP:0030706	owl:equivalentClass	DOID:12904	0.8
+HP:0001025	owl:equivalentClass	DOID:1555	0.8
+HP:0001081	owl:equivalentClass	DOID:10211	0.8
+HP:0003741	owl:equivalentClass	DOID:0050557	0.8
+HP:0011419	owl:equivalentClass	DOID:9667	0.8
+HP:0011970	owl:equivalentClass	DOID:9246	0.8
+HP:0008258	owl:equivalentClass	DOID:0050811	0.8
+HP:0002040	owl:equivalentClass	DOID:112	0.8
+HP:0002323	owl:equivalentClass	DOID:0060668	0.75
+HP:0004373	owl:equivalentClass	DOID:0050836	0.75
+HP:0002381	owl:equivalentClass	DOID:0060046	0.75
+HP:0004904	owl:equivalentClass	DOID:0050524	0.75
+HP:0001942	owl:equivalentClass	DOID:0050758	0.75
+HP:0002148	owl:equivalentClass	DOID:0050336	0.75
+HP:0002289	owl:equivalentClass	DOID:0050634	0.75
+HP:0002586	owl:equivalentClass	DOID:8283	0.75
+HP:0031502	owl:equivalentClass	DOID:4085	0.75
+HP:0025439	owl:equivalentClass	DOID:2275	0.75
+HP:0002414	owl:equivalentClass	DOID:0080016	0.75
+HP:0002442	owl:equivalentClass	DOID:12568	0.75
+HP:0010301	owl:equivalentClass	DOID:1089	0.75
+HP:0010614	owl:equivalentClass	DOID:0050871	0.75
+HP:0002497	owl:equivalentClass	DOID:0050952	0.75
+HP:0410030	owl:equivalentClass	DOID:9296	0.75
+HP:0002804	owl:equivalentClass	DOID:0050646	0.75
+HP:0000138	owl:equivalentClass	DOID:5119	0.75
+HP:0012122	owl:equivalentClass	DOID:1407	0.75
+HP:0012120	owl:equivalentClass	DOID:14749	0.75
+HP:0000155	owl:equivalentClass	DOID:9663	0.75
+HP:0000104	owl:equivalentClass	DOID:14766	0.75
+HP:0012108	owl:equivalentClass	DOID:1067	0.75
+HP:0012539	owl:equivalentClass	DOID:0060060	0.75
+HP:0000185	owl:equivalentClass	DOID:0110214	0.75
+HP:0002672	owl:equivalentClass	DOID:0050922	0.75
+HP:0012028	owl:equivalentClass	DOID:0050868	0.75
+HP:0002655	owl:equivalentClass	DOID:0050813	0.75
+HP:0002651	owl:equivalentClass	DOID:0080027	0.75
+HP:0002664	owl:equivalentClass	DOID:14566	0.75
+HP:0000096	owl:equivalentClass	DOID:0050851	0.75
+HP:0012075	owl:equivalentClass	DOID:1510	0.75
+HP:0007686	owl:equivalentClass	DOID:11518	0.75
+HP:0012049	owl:equivalentClass	DOID:0050844	0.75
+HP:0012048	owl:equivalentClass	DOID:0050843	0.75
+HP:0000074	owl:equivalentClass	DOID:0111145	0.75
+HP:0006000	owl:equivalentClass	DOID:5199	0.75
+HP:0012056	owl:equivalentClass	DOID:8923	0.75
+HP:0007716	owl:equivalentClass	DOID:1752	0.75
+HP:0000089	owl:equivalentClass	DOID:0080204	0.75
+HP:0012060	owl:equivalentClass	DOID:6367	0.75
+HP:0012321	owl:equivalentClass	DOID:0050575	0.75
+HP:0012325	owl:equivalentClass	DOID:0080188	0.75
+HP:0012390	owl:equivalentClass	DOID:3128	0.75
+HP:0002904	owl:equivalentClass	DOID:2741	0.75
+HP:0002912	owl:equivalentClass	DOID:14749	0.75
+HP:0002913	owl:equivalentClass	DOID:0080108	0.75
+HP:0002927	owl:equivalentClass	DOID:0060168	0.75
+HP:0012239	owl:equivalentClass	DOID:0050649	0.75
+HP:0010535	owl:equivalentClass	DOID:0050847	0.75
+HP:0002878	owl:equivalentClass	DOID:11162	0.75
+HP:0012205	owl:equivalentClass	DOID:0111156	0.75
+HP:0012227	owl:equivalentClass	DOID:1829	0.75
+HP:0000677	owl:equivalentClass	DOID:0050591	0.75
+HP:0000575	owl:equivalentClass	DOID:9335	0.75
+HP:0002186	owl:equivalentClass	DOID:0060135	0.75
+HP:0012652	owl:equivalentClass	DOID:2841	0.75
+HP:0000618	owl:equivalentClass	DOID:1432	0.75
+HP:0012474	owl:equivalentClass	DOID:807	0.75
+HP:0000486	owl:equivalentClass	DOID:540	0.75
+HP:0000815	owl:equivalentClass	DOID:5426	0.75
+HP:0000825	owl:equivalentClass	DOID:13317	0.75
+HP:0000739	owl:equivalentClass	DOID:2030	0.75
+HP:0001592	owl:equivalentClass	DOID:0050591	0.75
+HP:0009067	owl:equivalentClass	DOID:318	0.75
+HP:0009054	owl:equivalentClass	DOID:0060253	0.75
+HP:0009059	owl:equivalentClass	DOID:0050585	0.75
+HP:0010475	owl:equivalentClass	DOID:0080175	0.75
+HP:0009371	owl:equivalentClass	DOID:0110964	0.75
+HP:0009372	owl:equivalentClass	DOID:0110965	0.75
+HP:0009373	owl:equivalentClass	DOID:0110970	0.75
+HP:0045005	owl:equivalentClass	DOID:0080074	0.75
+HP:0020046	owl:equivalentClass	DOID:9839	0.75
+HP:0007011	owl:equivalentClass	DOID:10869	0.75
+HP:0010525	owl:equivalentClass	DOID:0060141	0.75
+HP:0010527	owl:equivalentClass	DOID:0060150	0.75
+HP:0010553	owl:equivalentClass	DOID:0050842	0.75
+HP:0010865	owl:equivalentClass	DOID:0050856	0.75
+HP:0010816	owl:equivalentClass	DOID:0111162	0.75
+HP:0500049	owl:equivalentClass	DOID:13025	0.75
+HP:0025584	owl:equivalentClass	DOID:9841	0.75
+HP:0025586	owl:equivalentClass	DOID:9837	0.75
+HP:0500006	owl:equivalentClass	DOID:1343	0.75
+HP:0007129	owl:equivalentClass	DOID:0060104	0.75
+HP:0007404	owl:equivalentClass	DOID:0050428	0.75
+HP:0007325	owl:equivalentClass	DOID:0050835	0.75
+HP:0030075	owl:equivalentClass	DOID:0060074	0.75
+HP:0030076	owl:equivalentClass	DOID:3010	0.75
+HP:0030074	owl:equivalentClass	DOID:0050773	0.75
+HP:0007634	owl:equivalentClass	DOID:0050864	0.75
+HP:0007530	owl:equivalentClass	DOID:0060361	0.75
+HP:0030222	owl:equivalentClass	DOID:0060155	0.75
+HP:0005241	owl:equivalentClass	DOID:10487	0.75
+HP:0005208	owl:equivalentClass	DOID:0050129	0.75
+HP:0005112	owl:equivalentClass	DOID:7693	0.75
+HP:0030411	owl:equivalentClass	DOID:0050926	0.75
+HP:0030490	owl:equivalentClass	DOID:0050535	0.75
+HP:0007939	owl:equivalentClass	DOID:0050679	0.75
+HP:0003041	owl:equivalentClass	DOID:0060467	0.75
+HP:0031013	owl:equivalentClass	DOID:227	0.75
+HP:0030635	owl:equivalentClass	DOID:0111022	0.75
+HP:0030636	owl:equivalentClass	DOID:0050578	0.75
+HP:0005627	owl:equivalentClass	DOID:0110971	0.75
+HP:0001875	owl:equivalentClass	DOID:1227	0.75
+HP:0005558	owl:equivalentClass	DOID:1036	0.75
+HP:0030760	owl:equivalentClass	DOID:0050855	0.75
+HP:0005522	owl:equivalentClass	DOID:0060066	0.75
+HP:0005534	owl:equivalentClass	DOID:0060888	0.75
+HP:0040278	owl:equivalentClass	DOID:5394	0.75
+HP:0003298	owl:equivalentClass	DOID:0080073	0.75
+HP:0040297	owl:equivalentClass	DOID:379	0.75
+HP:0003265	owl:equivalentClass	DOID:2383	0.75
+HP:0100255	owl:equivalentClass	DOID:0080019	0.75
+HP:0003235	owl:equivalentClass	DOID:0050544	0.75
+HP:0001992	owl:equivalentClass	DOID:0060159	0.75
+HP:0040144	owl:equivalentClass	DOID:0050574	0.75
+HP:0040147	owl:equivalentClass	DOID:0050574	0.75
+HP:0003153	owl:equivalentClass	DOID:0090142	0.75
+HP:0011662	owl:equivalentClass	DOID:0080169	0.75
+HP:0005901	owl:equivalentClass	DOID:0060645	0.75
+HP:0002107	owl:equivalentClass	DOID:1673	0.75
+HP:0030987	owl:equivalentClass	DOID:14269	0.75
+HP:0030991	owl:equivalentClass	DOID:14268	0.75
+HP:0005987	owl:equivalentClass	DOID:0050489	0.75
+HP:0030955	owl:equivalentClass	DOID:0050741	0.75
+HP:0025059	owl:equivalentClass	DOID:2530	0.75
+HP:0025084	owl:equivalentClass	DOID:4409	0.75
+HP:0025044	owl:equivalentClass	DOID:0060317	0.75
+HP:0001094	owl:equivalentClass	DOID:9383	0.75
+HP:0410138	owl:equivalentClass	DOID:1554	0.75
+HP:0410134	owl:equivalentClass	DOID:0060220	0.75
+HP:0003570	owl:equivalentClass	DOID:0111165	0.75
+HP:0410017	owl:equivalentClass	DOID:9463	0.75
+HP:0025277	owl:equivalentClass	DOID:11599	0.75
+HP:0025274	owl:equivalentClass	DOID:5117	0.75
+HP:0025268	owl:equivalentClass	DOID:0060243	0.75
+HP:0002072	owl:equivalentClass	DOID:12859	0.75
+HP:0025232	owl:equivalentClass	DOID:2965	0.75
+HP:0025252	owl:equivalentClass	DOID:1455	0.75
+HP:0025247	owl:equivalentClass	DOID:2658	0.75
+HP:0025188	owl:equivalentClass	DOID:11563	0.75
+HP:0001107	owl:equivalentClass	DOID:0050633	0.75
+HP:0001115	owl:equivalentClass	DOID:0050537	0.75
+HP:0001149	owl:equivalentClass	DOID:8943	0.75
+HP:0025126	owl:equivalentClass	DOID:0060315	0.75
+HP:0025127	owl:equivalentClass	DOID:8866	0.75
+HP:0025432	owl:equivalentClass	DOID:174	0.75
+HP:0025428	owl:equivalentClass	DOID:1176	0.75
+HP:0025452	owl:equivalentClass	DOID:8553	0.75
+HP:0025418	owl:equivalentClass	DOID:2973	0.75
+HP:0025470	owl:equivalentClass	DOID:1943	0.75
+HP:0025498	owl:equivalentClass	DOID:0050711	0.75
+HP:0025488	owl:equivalentClass	DOID:12145	0.75
+HP:0006562	owl:equivalentClass	DOID:1884	0.75
+HP:0025319	owl:equivalentClass	DOID:14000	0.75
+HP:0025342	owl:equivalentClass	DOID:13098	0.75
+HP:0001741	owl:equivalentClass	DOID:2712	0.75
+HP:0025608	owl:equivalentClass	DOID:12782	0.75
+HP:0025578	owl:equivalentClass	DOID:5232	0.75
+HP:0011516	owl:equivalentClass	DOID:13911	0.75
+HP:0011536	owl:equivalentClass	DOID:0060856	0.75
+HP:0011387	owl:equivalentClass	DOID:0050332	0.75
+HP:0011712	owl:equivalentClass	DOID:13209	0.75
+HP:0008256	owl:equivalentClass	DOID:0050891	0.75
+HP:0011748	owl:equivalentClass	DOID:0080150	0.75
+HP:0008007	owl:equivalentClass	DOID:0050593	0.75
+HP:0011846	owl:equivalentClass	DOID:0060098	0.75
+HP:0008209	owl:equivalentClass	DOID:5426	0.75
+HP:0011859	owl:equivalentClass	DOID:12197	0.75
+HP:0008255	owl:equivalentClass	DOID:0060334	0.75
+HP:0008244	owl:equivalentClass	DOID:0080156	0.75
+HP:0008419	owl:equivalentClass	DOID:90	0.75
+HP:0100264	owl:equivalentClass	DOID:0050788	0.75
+HP:0200119	owl:equivalentClass	DOID:2237	0.75
+HP:0031025	owl:equivalentClass	DOID:5280	0.75
+HP:0031043	owl:equivalentClass	DOID:0110967	0.75
+HP:0031009	owl:equivalentClass	DOID:11329	0.75
+HP:0031002	owl:equivalentClass	DOID:1803	0.75
+HP:0031357	owl:equivalentClass	DOID:486	0.75
+HP:0031350	owl:equivalentClass	DOID:5262	0.75
+HP:0031368	owl:equivalentClass	DOID:2074	0.75
+HP:0031281	owl:equivalentClass	DOID:10303	0.75
+HP:0031287	owl:equivalentClass	DOID:6498	0.75
+HP:0031259	owl:equivalentClass	DOID:10974	0.75
+HP:0031247	owl:equivalentClass	DOID:1116	0.75
+HP:0031548	owl:equivalentClass	DOID:8426	0.75
+HP:0006557	owl:equivalentClass	DOID:0050770	0.75
+HP:0031524	owl:equivalentClass	DOID:4932	0.75
+HP:0031525	owl:equivalentClass	DOID:3149	0.75
+HP:0031522	owl:equivalentClass	DOID:5303	0.75
+HP:0031590	owl:equivalentClass	DOID:10141	0.75
+HP:0006527	owl:equivalentClass	DOID:0050159	0.75
+HP:0031433	owl:equivalentClass	DOID:0060131	0.75
+HP:0031458	owl:equivalentClass	DOID:0050145	0.75
+HP:0031456	owl:equivalentClass	DOID:0060329	0.75
+HP:0031460	owl:equivalentClass	DOID:461	0.75
+HP:0031494	owl:equivalentClass	DOID:6067	0.75
+HP:0031792	owl:equivalentClass	DOID:13919	0.75
+HP:0031776	owl:equivalentClass	DOID:9838	0.75
+HP:0031717	owl:equivalentClass	DOID:1142	0.75
+HP:0031737	owl:equivalentClass	DOID:13113	0.75
+HP:0031738	owl:equivalentClass	DOID:13112	0.75
+HP:0031736	owl:equivalentClass	DOID:12836	0.75
+HP:0031615	owl:equivalentClass	DOID:10443	0.75
+HP:0100502	owl:equivalentClass	DOID:0050731	0.75
+HP:0004789	owl:equivalentClass	DOID:10604	0.75
+HP:0100327	owl:equivalentClass	DOID:0060521	0.75
+HP:0008940	owl:equivalentClass	DOID:0060314	0.4576925
+HP:0006517	owl:equivalentClass	DOID:12120	0.45
+HP:0100723	owl:equivalentClass	DOID:9253	0.3707625
+HP:0006516	owl:equivalentClass	DOID:841	0.370615
+HP:0007406	owl:equivalentClass	DOID:10122	0.370455
+HP:0003269	owl:equivalentClass	DOID:3210	0.370455
+HP:0000495	owl:equivalentClass	DOID:11541	0.37009749999999997
+HP:0005701	owl:equivalentClass	DOID:4624	0.37009749999999997
+HP:0100546	owl:equivalentClass	DOID:13001	0.36968
+HP:0005306	owl:equivalentClass	DOID:2725	0.3689025
+HP:0100603	owl:equivalentClass	DOID:10591	0.3689025
+HP:0007476	owl:equivalentClass	DOID:14793	0.3671875
+HP:0100650	owl:equivalentClass	DOID:119	0.366935
+HP:0012254	owl:equivalentClass	DOID:3369	0.36638000000000004
+HP:0007029	owl:equivalentClass	DOID:0060228	0.364
+HP:0000407	owl:equivalentClass	DOID:10003	0.363793
+HP:0001112	owl:equivalentClass	DOID:705	0.3625
+HP:0006740	owl:equivalentClass	DOID:4006	0.3625
+HP:0010953	owl:equivalentClass	DOID:1573	0.3618425
+HP:0005942	owl:equivalentClass	DOID:0050158	0.36111
+HP:0009718	owl:equivalentClass	DOID:5077	0.360715
+HP:0012426	owl:equivalentClass	DOID:13561	0.36029500000000003
+HP:0010609	owl:equivalentClass	DOID:6873	0.36029500000000003
+HP:0006297	owl:equivalentClass	DOID:693	0.36029500000000003
+HP:0012288	owl:equivalentClass	DOID:11934	0.3590425
+HP:0006931	owl:equivalentClass	DOID:6294	0.3590425
+HP:0100733	owl:equivalentClass	DOID:1540	0.35887
+HP:0000558	owl:equivalentClass	DOID:14686	0.3583325
+HP:0007486	owl:equivalentClass	DOID:5776	0.3583325
+HP:0011847	owl:equivalentClass	DOID:4305	0.3583325
+HP:0000588	owl:equivalentClass	DOID:11975	0.3575575
+HP:0006685	owl:equivalentClass	DOID:12932	0.3575575
+HP:0100031	owl:equivalentClass	DOID:1781	0.35648250000000004
+HP:0000579	owl:equivalentClass	DOID:13929	0.35648250000000004
+HP:0003077	owl:equivalentClass	DOID:1168	0.35577000000000003
+HP:0010313	owl:equivalentClass	DOID:10688	0.35577000000000003
+HP:0040276	owl:equivalentClass	DOID:234	0.355
+HP:0010772	owl:equivalentClass	DOID:4297	0.35416749999999997
+HP:0010734	owl:equivalentClass	DOID:1858	0.3522725
+HP:0009720	owl:equivalentClass	DOID:2648	0.3522725
+HP:0010796	owl:equivalentClass	DOID:4202	0.3522725
+HP:0100836	owl:equivalentClass	DOID:3620	0.35180500000000003
+HP:0100007	owl:equivalentClass	DOID:1192	0.3516675
+HP:0006880	owl:equivalentClass	DOID:6500	0.35048999999999997
+HP:0030741	owl:equivalentClass	DOID:5568	0.35
+HP:0000972	owl:equivalentClass	DOID:3390	0.34948999999999997
+HP:0012019	owl:equivalentClass	DOID:11364	0.3491375
+HP:0007302	owl:equivalentClass	DOID:3312	0.3491375
+HP:0040274	owl:equivalentClass	DOID:4906	0.34887999999999997
+HP:0030070	owl:equivalentClass	DOID:4791	0.34853
+HP:0030417	owl:equivalentClass	DOID:2101	0.34807750000000004
+HP:0008207	owl:equivalentClass	DOID:13774	0.34807750000000004
+HP:0010608	owl:equivalentClass	DOID:9908	0.3472225
+HP:0030792	owl:equivalentClass	DOID:1862	0.3472225
+HP:0006739	owl:equivalentClass	DOID:3151	0.3472225
+HP:0030069	owl:equivalentClass	DOID:3234	0.3464275
+HP:0010444	owl:equivalentClass	DOID:14265	0.346155
+HP:0002891	owl:equivalentClass	DOID:5289	0.34592999999999996
+HP:0100617	owl:equivalentClass	DOID:5842	0.34592999999999996
+HP:0100012	owl:equivalentClass	DOID:2174	0.3455875
+HP:0012777	owl:equivalentClass	DOID:4645	0.3455875
+HP:0002516	owl:equivalentClass	DOID:9428	0.34534
+HP:0005246	owl:equivalentClass	DOID:8757	0.345
+HP:0001970	owl:equivalentClass	DOID:1063	0.345
+HP:0004610	owl:equivalentClass	DOID:6725	0.345
+HP:0012246	owl:equivalentClass	DOID:11550	0.34375
+HP:0008028	owl:equivalentClass	DOID:14245	0.34375
+HP:0030065	owl:equivalentClass	DOID:7398	0.34331
+HP:0100642	owl:equivalentClass	DOID:5719	0.3431825
+HP:0100833	owl:equivalentClass	DOID:7505	0.3431825
+HP:0001973	owl:equivalentClass	DOID:8924	0.3427425
+HP:0012842	owl:equivalentClass	DOID:2433	0.34198
+HP:0030693	owl:equivalentClass	DOID:1659	0.34198
+HP:0007760	owl:equivalentClass	DOID:0060456	0.34141750000000004
+HP:0007108	owl:equivalentClass	DOID:5214	0.34104999999999996
+HP:0001975	owl:equivalentClass	DOID:2219	0.34104999999999996
+HP:0011153	owl:equivalentClass	DOID:3327	0.34091
+HP:0030410	owl:equivalentClass	DOID:4839	0.34091
+HP:0001994	owl:equivalentClass	DOID:1062	0.34091
+HP:0008341	owl:equivalentClass	DOID:14219	0.34068750000000003
+HP:0030067	owl:equivalentClass	DOID:171	0.34019
+HP:0100724	owl:equivalentClass	DOID:2452	0.339285
+HP:0012055	owl:equivalentClass	DOID:6524	0.339285
+HP:0001677	owl:equivalentClass	DOID:3393	0.339285
+HP:0000846	owl:equivalentClass	DOID:10493	0.339285
+HP:0012768	owl:equivalentClass	DOID:11088	0.339285
+HP:0005696	owl:equivalentClass	DOID:1148	0.339285
+HP:0100575	owl:equivalentClass	DOID:3121	0.337765
+HP:0002613	owl:equivalentClass	DOID:12236	0.3375
+HP:0006870	owl:equivalentClass	DOID:4621	0.3375
+HP:0001908	owl:equivalentClass	DOID:12449	0.33712
+HP:0011369	owl:equivalentClass	DOID:4702	0.33712
+HP:0012327	owl:equivalentClass	DOID:9892	0.33686499999999997
+HP:0004334	owl:equivalentClass	DOID:2733	0.3365375
+HP:0030064	owl:equivalentClass	DOID:14174	0.3365375
+HP:0007524	owl:equivalentClass	DOID:8712	0.3365375
+HP:0002821	owl:equivalentClass	DOID:14286	0.33611
+HP:0000544	owl:equivalentClass	DOID:539	0.33611
+HP:0010619	owl:equivalentClass	DOID:1618	0.33611
+HP:0007942	owl:equivalentClass	DOID:539	0.33611
+HP:0010784	owl:equivalentClass	DOID:363	0.33467749999999996
+HP:0012804	owl:equivalentClass	DOID:8463	0.33467749999999996
+HP:0030405	owl:equivalentClass	DOID:1799	0.33467749999999996
+HP:0011537	owl:equivalentClass	DOID:0060856	0.3343025
+HP:0004383	owl:equivalentClass	DOID:9955	0.3325475
+HP:0002092	owl:equivalentClass	DOID:6432	0.3325475
+HP:0002049	owl:equivalentClass	DOID:14219	0.3325475
+HP:0100742	owl:equivalentClass	DOID:175	0.3323175
+HP:0002894	owl:equivalentClass	DOID:1793	0.3323175
+HP:0010302	owl:equivalentClass	DOID:5612	0.3323175
+HP:0005145	owl:equivalentClass	DOID:4248	0.3323175
+HP:0200120	owl:equivalentClass	DOID:2237	0.3323175
+HP:0006988	owl:equivalentClass	DOID:4621	0.3323175
+HP:0000722	owl:equivalentClass	DOID:10933	0.3318975
+HP:0010316	owl:equivalentClass	DOID:14289	0.3318975
+HP:0030061	owl:equivalentClass	DOID:171	0.3318975
+HP:0010788	owl:equivalentClass	DOID:2998	0.33088249999999997
+HP:0012043	owl:equivalentClass	DOID:11771	0.33088249999999997
+HP:0007178	owl:equivalentClass	DOID:1389	0.33088249999999997
+HP:0007620	owl:equivalentClass	DOID:5132	0.33088249999999997
+HP:0008326	owl:equivalentClass	DOID:8455	0.33088249999999997
+HP:0006733	owl:equivalentClass	DOID:9119	0.33035749999999997
+HP:0002187	owl:equivalentClass	DOID:1059	0.33035749999999997
+HP:0100849	owl:equivalentClass	DOID:518	0.3301275
+HP:0100638	owl:equivalentClass	DOID:0060119	0.3301275
+HP:0030856	owl:equivalentClass	DOID:13789	0.3301275
+HP:0100551	owl:equivalentClass	DOID:248	0.3301275
+HP:0100006	owl:equivalentClass	DOID:3620	0.32982
+HP:0002582	owl:equivalentClass	DOID:8929	0.329545
+HP:0010980	owl:equivalentClass	DOID:1168	0.3290825
+HP:0000968	owl:equivalentClass	DOID:14693	0.3290825
+HP:0010627	owl:equivalentClass	DOID:7378	0.3290825
+HP:0001684	owl:equivalentClass	DOID:1882	0.3290825
+HP:0011170	owl:equivalentClass	DOID:308	0.3287025
+HP:0002871	owl:equivalentClass	DOID:9220	0.328125
+HP:0001583	owl:equivalentClass	DOID:11771	0.328125
+HP:0011752	owl:equivalentClass	DOID:5048	0.3278975
+HP:0100743	owl:equivalentClass	DOID:1984	0.3277025
+HP:0100805	owl:equivalentClass	DOID:10787	0.3277025
+HP:0100605	owl:equivalentClass	DOID:2598	0.3277025
+HP:0100273	owl:equivalentClass	DOID:235	0.325
+HP:0011538	owl:equivalentClass	DOID:758	0.325
+HP:0100002	owl:equivalentClass	DOID:7474	0.325
+HP:0100517	owl:equivalentClass	DOID:730	0.325
+HP:0003768	owl:equivalentClass	DOID:14452	0.2868425
+HP:0030409	owl:equivalentClass	DOID:5974	0.2760275
+HP:0030413	owl:equivalentClass	DOID:0050865	0.27388
+HP:0006727	owl:equivalentClass	DOID:5603	0.2695125
+HP:0008542	owl:equivalentClass	DOID:10003	0.26698
+HP:0012309	owl:equivalentClass	DOID:0050639	0.26
+HP:0001669	owl:equivalentClass	DOID:0060770	0.2583325
+HP:0011774	owl:equivalentClass	DOID:6204	0.25635
+HP:0002896	owl:equivalentClass	DOID:916	0.25
+HP:0001657	owl:equivalentClass	DOID:2843	0.25
+HP:0002109	owl:equivalentClass	DOID:1176	0.25
+HP:0002132	owl:equivalentClass	DOID:0060263	0.25
+HP:0011707	owl:equivalentClass	DOID:11312	0.2460325
+HP:0008672	owl:equivalentClass	DOID:585	0.2460325
+HP:0000044	owl:equivalentClass	DOID:0090070	0.2457625
+HP:0006737	owl:equivalentClass	DOID:0050936	0.2457625
+HP:0031023	owl:equivalentClass	DOID:5155	0.2448975
+HP:0100503	owl:equivalentClass	DOID:0050731	0.244185
+HP:0004929	owl:equivalentClass	DOID:3393	0.243965
+HP:0040198	owl:equivalentClass	DOID:3969	0.243965
+HP:0009370	owl:equivalentClass	DOID:0110964	0.2439025
+HP:0005831	owl:equivalentClass	DOID:0110975	0.2439025
+HP:0005863	owl:equivalentClass	DOID:0110976	0.2439025
+HP:0001489	owl:equivalentClass	DOID:9726	0.24375049999999998
+HP:0011107	owl:equivalentClass	DOID:9663	0.24375049999999998
+HP:0008668	owl:equivalentClass	DOID:14448	0.24375049999999998
+HP:0006918	owl:equivalentClass	DOID:10588	0.243605
+HP:0100568	owl:equivalentClass	DOID:170	0.2433095
+HP:0100641	owl:equivalentClass	DOID:660	0.243182
+HP:0008069	owl:equivalentClass	DOID:3165	0.243182
+HP:0011524	owl:equivalentClass	DOID:6994	0.243182
+HP:0000580	owl:equivalentClass	DOID:10584	0.2428565
+HP:0030441	owl:equivalentClass	DOID:7708	0.2428565
+HP:0100315	owl:equivalentClass	DOID:12217	0.2428565
+HP:0004864	owl:equivalentClass	DOID:8955	0.2426465
+HP:0002762	owl:equivalentClass	DOID:206	0.24239149999999998
+HP:0007263	owl:equivalentClass	DOID:1441	0.24239149999999998
+HP:0100631	owl:equivalentClass	DOID:3953	0.2421875
+HP:0002721	owl:equivalentClass	DOID:612	0.2420735
+HP:0007435	owl:equivalentClass	DOID:0050428	0.2420735
+HP:0011567	owl:equivalentClass	DOID:1882	0.241949
+HP:0012469	owl:equivalentClass	DOID:2481	0.241935
+HP:0011143	owl:equivalentClass	DOID:0110244	0.2416675
+HP:0002356	owl:equivalentClass	DOID:0050841	0.241667
+HP:0100850	owl:equivalentClass	DOID:11624	0.241667
+HP:0003654	owl:equivalentClass	DOID:14218	0.241667
+HP:0001696	owl:equivalentClass	DOID:758	0.241667
+HP:0011540	owl:equivalentClass	DOID:0060770	0.241525
+HP:0100799	owl:equivalentClass	DOID:5099	0.2413265
+HP:0001762	owl:equivalentClass	DOID:11836	0.2413265
+HP:0004757	owl:equivalentClass	DOID:0060224	0.2413265
+HP:0002637	owl:equivalentClass	DOID:2316	0.2411285
+HP:0040146	owl:equivalentClass	DOID:0050574	0.2410725
+HP:0030450	owl:equivalentClass	DOID:2621	0.24099949999999998
+HP:0002507	owl:equivalentClass	DOID:4621	0.2409095
+HP:0006579	owl:equivalentClass	DOID:2383	0.2409095
+HP:0011286	owl:equivalentClass	DOID:10487	0.2407895
+HP:0006767	owl:equivalentClass	DOID:5394	0.2407145
+HP:0005101	owl:equivalentClass	DOID:10003	0.2400005
+HP:0010890	owl:equivalentClass	DOID:7489	0.239894
+HP:0005458	owl:equivalentClass	DOID:2340	0.2397065
+HP:0003159	owl:equivalentClass	DOID:2977	0.2397065
+HP:0002451	owl:equivalentClass	DOID:543	0.239285
+HP:0004377	owl:equivalentClass	DOID:2531	0.239285
+HP:0012058	owl:equivalentClass	DOID:10047	0.239285
+HP:0012226	owl:equivalentClass	DOID:5567	0.239285
+HP:0000992	owl:equivalentClass	DOID:3159	0.239
+HP:0001982	owl:equivalentClass	DOID:4423	0.239
+HP:0006704	owl:equivalentClass	DOID:11843	0.23879299999999998
+HP:0003715	owl:equivalentClass	DOID:0080096	0.2386375
+HP:0001491	owl:equivalentClass	DOID:0080143	0.2386375
+HP:0006762	owl:equivalentClass	DOID:4919	0.2386375
+HP:0011643	owl:equivalentClass	DOID:1882	0.238637
+HP:0009800	owl:equivalentClass	DOID:11714	0.238514
+HP:0030005	owl:equivalentClass	DOID:14400	0.238514
+HP:0011445	owl:equivalentClass	DOID:1969	0.238514
+HP:0003477	owl:equivalentClass	DOID:7319	0.238334
+HP:0031044	owl:equivalentClass	DOID:0110964	0.238095
+HP:0100497	owl:equivalentClass	DOID:8454	0.238095
+HP:0100505	owl:equivalentClass	DOID:8454	0.238095
+HP:0100506	owl:equivalentClass	DOID:8454	0.238095
+HP:0007755	owl:equivalentClass	DOID:0060451	0.2379875
+HP:0004398	owl:equivalentClass	DOID:750	0.2375
+HP:0000204	owl:equivalentClass	DOID:9296	0.2375
+HP:0000255	owl:equivalentClass	DOID:0050127	0.2375
+HP:0012442	owl:equivalentClass	DOID:4140	0.2375
+HP:0500009	owl:equivalentClass	DOID:6457	0.2375
+HP:0003034	owl:equivalentClass	DOID:4997	0.2375
+HP:0003162	owl:equivalentClass	DOID:9993	0.2375
+HP:0011530	owl:equivalentClass	DOID:12514	0.2375
+HP:0011367	owl:equivalentClass	DOID:0050468	0.2375
+HP:0008221	owl:equivalentClass	DOID:0050811	0.2375
+HP:0100513	owl:equivalentClass	DOID:11249	0.2375
+HP:0008964	owl:equivalentClass	DOID:318	0.2372875
+HP:0031684	owl:equivalentClass	DOID:14092	0.2372875
+HP:0002123	owl:equivalentClass	DOID:308	0.236864
+HP:0000839	owl:equivalentClass	DOID:0060873	0.2368425
+HP:0040289	owl:equivalentClass	DOID:5339	0.2368425
+HP:0007443	owl:equivalentClass	DOID:3263	0.23662850000000002
+HP:0001304	owl:equivalentClass	DOID:0050835	0.23662850000000002
+HP:0004443	owl:equivalentClass	DOID:2340	0.23662850000000002
+HP:0012452	owl:equivalentClass	DOID:0050425	0.236429
+HP:0010298	owl:equivalentClass	DOID:1453	0.236429
+HP:0002888	owl:equivalentClass	DOID:4844	0.236111
+HP:0006519	owl:equivalentClass	DOID:4926	0.236111
+HP:0011706	owl:equivalentClass	DOID:0050822	0.23611
+HP:0006543	owl:equivalentClass	DOID:0060319	0.2358695
+HP:0001709	owl:equivalentClass	DOID:0050823	0.235715
+HP:0011705	owl:equivalentClass	DOID:0050821	0.235715
+HP:0003363	owl:equivalentClass	DOID:758	0.235526
+HP:0001587	owl:equivalentClass	DOID:5426	0.235526
+HP:0011761	owl:equivalentClass	DOID:5715	0.235526
+HP:0008689	owl:equivalentClass	DOID:11383	0.235526
+HP:0000835	owl:equivalentClass	DOID:0080204	0.235295
+HP:0008222	owl:equivalentClass	DOID:12336	0.235295
+HP:0002510	owl:equivalentClass	DOID:12835	0.2349995
+HP:0000201	owl:equivalentClass	DOID:4258	0.23475649999999998
+HP:0012798	owl:equivalentClass	DOID:3319	0.234375
+HP:0010976	owl:equivalentClass	DOID:614	0.234375
+HP:0040294	owl:equivalentClass	DOID:11514	0.234375
+HP:0100843	owl:equivalentClass	DOID:3068	0.23409049999999998
+HP:0012051	owl:equivalentClass	DOID:9993	0.23409049999999998
+HP:0005235	owl:equivalentClass	DOID:10486	0.23409049999999998
+HP:0003534	owl:equivalentClass	DOID:0060236	0.233333
+HP:0012193	owl:equivalentClass	DOID:0050744	0.2333325
+HP:0100630	owl:equivalentClass	DOID:9261	0.2331965
+HP:0100648	owl:equivalentClass	DOID:8649	0.23299999999999998
+HP:0000639	owl:equivalentClass	DOID:11771	0.23299999999999998
+HP:0100013	owl:equivalentClass	DOID:1612	0.23299999999999998
+HP:0002181	owl:equivalentClass	DOID:4724	0.23299999999999998
+HP:0008153	owl:equivalentClass	DOID:14452	0.2327575
+HP:0008024	owl:equivalentClass	DOID:0110261	0.2327575
+HP:0004445	owl:equivalentClass	DOID:2373	0.2326925
+HP:0003202	owl:equivalentClass	DOID:767	0.2326925
+HP:0012741	owl:equivalentClass	DOID:11383	0.2326925
+HP:0010693	owl:equivalentClass	DOID:0110248	0.2325575
+HP:0010921	owl:equivalentClass	DOID:0110232	0.2325575
+HP:0031459	owl:equivalentClass	DOID:0060123	0.2325575
+HP:0004905	owl:equivalentClass	DOID:8454	0.2317075
+HP:0100512	owl:equivalentClass	DOID:8454	0.2317075
+HP:0011880	owl:equivalentClass	DOID:11247	0.2317075
+HP:0008715	owl:equivalentClass	DOID:0060020	0.2317075
+HP:0006897	owl:equivalentClass	DOID:3817	0.2317075
+HP:0100510	owl:equivalentClass	DOID:8454	0.2317075
+HP:0100618	owl:equivalentClass	DOID:2696	0.2317075
+HP:0008480	owl:equivalentClass	DOID:2247	0.231452
+HP:0004392	owl:equivalentClass	DOID:0060889	0.231452
+HP:0007782	owl:equivalentClass	DOID:12161	0.2313425
+HP:0010773	owl:equivalentClass	DOID:4297	0.23125
+HP:0100544	owl:equivalentClass	DOID:117	0.2312495
+HP:0001300	owl:equivalentClass	DOID:13548	0.23088199999999998
+HP:0006749	owl:equivalentClass	DOID:3119	0.23088199999999998
+HP:0010544	owl:equivalentClass	DOID:11771	0.23088199999999998
+HP:0040154	owl:equivalentClass	DOID:2280	0.23088199999999998
+HP:0001492	owl:equivalentClass	DOID:14686	0.23088199999999998
+HP:0001397	owl:equivalentClass	DOID:9452	0.23088199999999998
+HP:0100516	owl:equivalentClass	DOID:11885	0.23088199999999998
+HP:0100521	owl:equivalentClass	DOID:3277	0.23088199999999998
+HP:0003344	owl:equivalentClass	DOID:0060336	0.23077
+HP:0003647	owl:equivalentClass	DOID:0060358	0.23077
+HP:0100526	owl:equivalentClass	DOID:3683	0.230405
+HP:0002930	owl:equivalentClass	DOID:11633	0.23026249999999998
+HP:0004760	owl:equivalentClass	DOID:1681	0.23019499999999998
+HP:0006763	owl:equivalentClass	DOID:7177	0.2301575
+HP:0025326	owl:equivalentClass	DOID:8483	0.23
+HP:0006722	owl:equivalentClass	DOID:4907	0.23
+HP:0100654	owl:equivalentClass	DOID:1210	0.22999999999999998
+HP:0000700	owl:equivalentClass	DOID:4617	0.22999999999999998
+HP:0010891	owl:equivalentClass	DOID:13300	0.22999999999999998
+HP:0008110	owl:equivalentClass	DOID:11836	0.22999999999999998
+HP:0007971	owl:equivalentClass	DOID:0110271	0.22973
+HP:0031371	owl:equivalentClass	DOID:12514	0.22973
+HP:0011734	owl:equivalentClass	DOID:0050546	0.2295075
+HP:0011622	owl:equivalentClass	DOID:1657	0.2295075
+HP:0011638	owl:equivalentClass	DOID:0060562	0.2295075
+HP:0009049	owl:equivalentClass	DOID:10595	0.2291675
+HP:0031110	owl:equivalentClass	DOID:13576	0.2291675
+HP:0025195	owl:equivalentClass	DOID:3827	0.2288125
+HP:0006717	owl:equivalentClass	DOID:4388	0.2288125
+HP:0006978	owl:equivalentClass	DOID:0060786	0.2288125
+HP:0030171	owl:equivalentClass	DOID:9745	0.2285725
+HP:0012233	owl:equivalentClass	DOID:468	0.22826
+HP:0030953	owl:equivalentClass	DOID:1248	0.22826
+HP:0025497	owl:equivalentClass	DOID:11840	0.22826
+HP:0006735	owl:equivalentClass	DOID:0050891	0.22826
+HP:0012887	owl:equivalentClass	DOID:7320	0.22807
+HP:0500062	owl:equivalentClass	DOID:13025	0.22807
+HP:0010736	owl:equivalentClass	DOID:1858	0.22807
+HP:0011556	owl:equivalentClass	DOID:6406	0.22807
+HP:0006955	owl:equivalentClass	DOID:0060264	0.22807
+HP:0200071	owl:equivalentClass	DOID:12161	0.22794
+HP:0002656	owl:equivalentClass	DOID:12721	0.2272725
+HP:0007508	owl:equivalentClass	DOID:0060361	0.2272725
+HP:0011770	owl:equivalentClass	DOID:11202	0.2272725
+HP:0031207	owl:equivalentClass	DOID:271	0.2272725
+HP:0031521	owl:equivalentClass	DOID:5304	0.2272725
+HP:0031488	owl:equivalentClass	DOID:0060688	0.2272725
+HP:0011637	owl:equivalentClass	DOID:0060562	0.226495
+HP:0012781	owl:equivalentClass	DOID:10003	0.226415
+HP:0005520	owl:equivalentClass	DOID:11247	0.22619
+HP:0007131	owl:equivalentClass	DOID:5214	0.2258075
+HP:0007401	owl:equivalentClass	DOID:767	0.2258075
+HP:0011773	owl:equivalentClass	DOID:13197	0.2258075

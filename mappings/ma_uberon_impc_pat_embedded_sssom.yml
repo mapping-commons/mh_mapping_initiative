@@ -1,0 +1,59 @@
+#creator_id: https://orcid.org/0000-0002-7356-1779
+#curie_map:
+#  HP: http://purl.obolibrary.org/obo/HP_
+#  MP: http://purl.obolibrary.org/obo/MP_
+#  skos: http://www.w3.org/2004/02/skos/core
+#license: https://creativecommons.org/publicdomain/zero/1.0/
+#mapping_provider: https://www.mousephenotype.org
+#mapping_set_group: impc_mouse_morphology
+#mapping_set_id: ma_uberon_impc_pat
+#mapping_set_title: 'The IMPC Mouse Morphology Mappings: Gross Pathology & Tissue Collection
+#  Test (Anatomy)'
+subject_id	subject_label	object_id	object_label	match_type	predicate_id
+MA:0000168	brain	UBERON:0000955	brain	SSSOMC:Lexical	skos:exactMatch
+MA:0000261	eye	UBERON:0000970	eye	SSSOMC:Lexical	skos:exactMatch
+MA:0001097	optic II nerve	UBERON:0000941	cranial nerve II	SSSOMC:Logical	skos:closeMatch
+MA:0000216	spinal cord	UBERON:0002240	spinal cord	SSSOMC:Lexical	skos:exactMatch
+MA:0000142	thymus	UBERON:0002370	thymus	SSSOMC:Lexical	skos:exactMatch
+MA:0000129	thyroid gland	UBERON:0002046	thyroid gland	SSSOMC:Lexical	skos:exactMatch
+MA:0000072	heart	UBERON:0000948	heart	SSSOMC:Lexical	skos:exactMatch
+MA:0000441	trachea	UBERON:0003126	trachea	SSSOMC:Lexical	skos:exactMatch
+MA:0000352	esophagus	UBERON:0001043	esophagus	SSSOMC:Lexical	skos:exactMatch
+MA:0000415	lung	UBERON:0002048	lung	SSSOMC:Lexical	skos:exactMatch
+MA:0000358	liver	UBERON:0002107	liver	SSSOMC:Lexical	skos:exactMatch
+MA:0000356	gall bladder	UBERON:0002110	gall bladder	SSSOMC:Lexical	skos:exactMatch
+MA:0000353	stomach	UBERON:0000945	stomach	SSSOMC:Lexical	skos:exactMatch
+MA:0000337	small intestine	UBERON:0002108	small intestine	SSSOMC:Lexical	skos:exactMatch
+MA:0000333	large intestine	UBERON:0000059	large intestine	SSSOMC:Lexical	skos:exactMatch
+MA:0000120	pancreas	UBERON:0001264	pancreas	SSSOMC:Lexical	skos:exactMatch
+MA:0000141	spleen	UBERON:0002106	spleen	SSSOMC:Lexical	skos:exactMatch
+MA:0000368	kidney	UBERON:0002113	kidney	SSSOMC:Lexical	skos:exactMatch
+MA:0000116	adrenal gland	UBERON:0002369	adrenal gland	SSSOMC:Lexical	skos:exactMatch
+MA:0000139	lymph node	UBERON:0000029	lymph node	SSSOMC:Lexical	skos:exactMatch
+MA:0000151	skin	UBERON:0002199	integument	SSSOMC:Logical	skos:closeMatch
+MA:0003148	skeletal muscle	UBERON:0001134	skeletal muscle tissue	SSSOMC:Lexical	skos:closeMatch
+MA:0000380	urinary bladder	UBERON:0001255	urinary bladder	SSSOMC:Lexical	skos:exactMatch
+MA:0000145	mammary gland	UBERON:0001911	mammary gland	SSSOMC:Lexical	skos:exactMatch
+MA:0000411	testis	UBERON:0000473	testis	SSSOMC:Lexical	skos:exactMatch
+MA:0000397	epididymis	UBERON:0001301	epididymis	SSSOMC:Lexical	skos:exactMatch
+MA:0000404	prostate gland	UBERON:0002367	prostate gland	SSSOMC:Lexical	skos:exactMatch
+MA:0000410	seminal vesicle	UBERON:0000998	seminal vesicle	SSSOMC:Lexical	skos:exactMatch
+MA:0000384	ovary	UBERON:0000992	ovary	SSSOMC:Lexical	skos:exactMatch
+MA:0000389	uterus	UBERON:0000995	uterus	SSSOMC:Lexical	skos:exactMatch
+MA:0000346	salivary gland	UBERON:0001044	saliva-secreting gland	SSSOMC:Lexical	skos:closeMatch
+MA:0001331	sternum	UBERON:0000975	sternum	SSSOMC:Lexical	skos:exactMatch
+MA:0001359	femur	UBERON:0000981	femur	SSSOMC:Lexical	skos:exactMatch
+MA:0000134	bone marrow	UBERON:0002371	bone marrow	SSSOMC:Lexical	skos:exactMatch
+MA:0000057	brown adipose tissue	UBERON:0001348	brown adipose tissue	SSSOMC:Lexical	skos:exactMatch
+MA:0001361	tibia	UBERON:0000979	tibia	SSSOMC:Lexical	skos:exactMatch
+MA:0000471	knee joint	UBERON:0001485	knee joint	SSSOMC:Lexical	skos:exactMatch
+MA:0001080	trigeminal V ganglion	UBERON:0001675	trigeminal ganglion	SSSOMC:Lexical	skos:closeMatch
+MA:0000284	nasal cavity	UBERON:0001707	nasal cavity	SSSOMC:Lexical	skos:exactMatch
+MA:0000236	ear	UBERON:0001690	ear	SSSOMC:Lexical	skos:exactMatch
+MA:0000348	tooth	UBERON:0001091	calcareous tooth	SSSOMC:Lexical	skos:closeMatch
+MA:0000347	tongue	UBERON:0001723	tongue	SSSOMC:Lexical	skos:exactMatch
+MA:0001172	sciatic nerve	UBERON:0001322	sciatic nerve	SSSOMC:Lexical	skos:exactMatch
+MA:0001459	bone	UBERON:0002481	bone tissue	SSSOMC:Lexical	skos:closeMatch
+MA:0000176	pituitary gland	UBERON:0000007	pituitary gland	SSSOMC:Lexical	skos:exactMatch
+MA:0000473	subcutaneous adipose tissue	UBERON:0002190	subcutaneous adipose tissue	SSSOMC:Lexical	skos:exactMatch
+MA:0000058	white adipose tissue	UBERON:0001347	white adipose tissue	SSSOMC:Lexical	skos:exactMatch

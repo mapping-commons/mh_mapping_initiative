@@ -1,0 +1,489 @@
+#creator_id: https://orcid.org/0000-0002-7356-1779
+#curie_map:
+#  HP: http://purl.obolibrary.org/obo/HP_
+#  MP: http://purl.obolibrary.org/obo/MP_
+#  skos: http://www.w3.org/2004/02/skos/core
+#license: https://creativecommons.org/publicdomain/zero/1.0/
+#mapping_provider: https://www.mousephenotype.org
+#mapping_set_group: pistoia_mappings
+#mapping_set_id: mp_doid_pistoia
+#mapping_set_title: 'The Pistoia Ontology Mappings: MP-DOID'
+#curie_map:
+#  '@vocab': https://w3id.org/biolink/vocab/
+#  APO: http://purl.obolibrary.org/obo/APO_
+#  Aeolus: http://translator.ncats.nih.gov/Aeolus_
+#  BIOGRID: http://identifiers.org/biogrid/
+#  BIOSAMPLE: http://identifiers.org/biosample/
+#  BSPO: http://purl.obolibrary.org/obo/BSPO_
+#  CAID: http://reg.clinicalgenome.org/redmine/projects/registry/genboree_registry/by_caid?caid=
+#  CAS: http://identifiers.org/cas/
+#  CHADO: http://gmod.org/wiki/Chado/
+#  CHEBI: http://purl.obolibrary.org/obo/CHEBI_
+#  CHEMBL.COMPOUND: http://identifiers.org/chembl.compound/
+#  CHEMBL.MECHANISM: https://www.ebi.ac.uk/chembl/mechanism/inspect/
+#  CHEMBL.TARGET: http://identifiers.org/chembl.target/
+#  CID: http://pubchem.ncbi.nlm.nih.gov/compound/
+#  CL: http://purl.obolibrary.org/obo/CL_
+#  CLINVAR: http://identifiers.org/clinvar/
+#  CLO: http://purl.obolibrary.org/obo/CLO_
+#  COAR_RESOURCE: http://purl.org/coar/resource_type/
+#  CPT: https://www.ama-assn.org/practice-management/cpt/
+#  CTD: http://translator.ncats.nih.gov/CTD_
+#  ChemBank: http://chembank.broadinstitute.org/chemistry/viewMolecule.htm?cbid=
+#  ClinVarVariant: http://www.ncbi.nlm.nih.gov/clinvar/variation/
+#  DBSNP: http://identifiers.org/dbsnp/
+#  DGIdb: https://www.dgidb.org/interaction_types
+#  DOID: http://purl.obolibrary.org/obo/DOID_
+#  DRUGBANK: http://identifiers.org/drugbank/
+#  DrugCentral: http://translator.ncats.nih.gov/DrugCentral_
+#  EC: http://www.enzyme-database.org/query.php?ec=
+#  ECTO: http://purl.obolibrary.org/obo/ECTO_
+#  EDAM-DATA: http://edamontology.org/data_
+#  EDAM-FORMAT: http://edamontology.org/format_
+#  EDAM-OPERATION: http://edamontology.org/operation_
+#  EDAM-TOPIC: http://edamontology.org/topic_
+#  EFO: http://identifiers.org/efo/
+#  EGGNOG: http://identifiers.org/eggnog/
+#  ENSEMBL: http://identifiers.org/ensembl/
+#  ExO: http://purl.obolibrary.org/obo/ExO_
+#  FAO: http://purl.obolibrary.org/obo/FAO_
+#  FB: http://identifiers.org/fb/
+#  FBcv: http://purl.obolibrary.org/obo/FBcv_
+#  GAMMA: http://translator.renci.org/GAMMA_
+#  GO: http://purl.obolibrary.org/obo/GO_
+#  GOLD.META: http://identifiers.org/gold.meta/
+#  GOP: http://purl.obolibrary.org/obo/go#
+#  GOREL: http://purl.obolibrary.org/obo/GOREL_
+#  GSID: https://scholar.google.com/citations?user=
+#  GTEx: https://www.gtexportal.org/home/gene/
+#  GTOPDB: https://www.guidetopharmacology.org/GRAC/LigandDisplayForward?ligandId=
+#  HANCESTRO: http://www.ebi.ac.uk/ancestro/ancestro_
+#  HCPCS: http://purl.bioontology.org/ontology/HCPCS/
+#  HGNC: http://identifiers.org/hgnc/
+#  HGNC.FAMILY: http://identifiers.org/hgnc.family/
+#  HMDB: http://identifiers.org/hmdb/
+#  HP: http://purl.obolibrary.org/obo/HP_
+#  HsapDv: http://purl.obolibrary.org/obo/HsapDv_
+#  ICD0: http://translator.ncats.nih.gov/ICD0_
+#  ICD10: http://translator.ncats.nih.gov/ICD10_
+#  ICD9: http://translator.ncats.nih.gov/ICD9_
+#  INCHI: http://identifiers.org/inchi/
+#  INCHIKEY: http://identifiers.org/inchikey/
+#  INTACT: http://identifiers.org/intact/
+#  IUPHAR.FAMILY: http://identifiers.org/iuphar.family/
+#  KEGG: http://identifiers.org/kegg/
+#  KEGG.BRITE: http://www.kegg.jp/entry/
+#  KEGG.COMPOUND: http://identifiers.org/kegg.compound/
+#  KEGG.DGROUP: http://www.kegg.jp/entry/
+#  KEGG.DISEASE: http://identifiers.org/kegg.disease/
+#  KEGG.DRUG: http://identifiers.org/kegg.drug/
+#  KEGG.ENVIRON: http://identifiers.org/kegg.environ/
+#  KEGG.ENZYME: http://www.kegg.jp/entry/
+#  KEGG.GENE: http://www.kegg.jp/entry/
+#  KEGG.GLYCAN: http://identifiers.org/kegg.glycan/
+#  KEGG.MODULE: http://identifiers.org/kegg.module/
+#  KEGG.ORTHOLOGY: http://identifiers.org/kegg.orthology/
+#  KEGG.RCLASS: http://www.kegg.jp/entry/
+#  KEGG.REACTION: http://identifiers.org/kegg.reaction/
+#  LOINC: http://loinc.org/rdf/
+#  MEDDRA: http://identifiers.org/meddra/
+#  MESH: http://identifiers.org/mesh/
+#  MGI: http://identifiers.org/mgi/
+#  MI: http://purl.obolibrary.org/obo/MI_
+#  MIR: http://identifiers.org/mir/
+#  MONDO: http://purl.obolibrary.org/obo/MONDO_
+#  MP: http://purl.obolibrary.org/obo/MP_
+#  MSigDB: https://www.gsea-msigdb.org/gsea/msigdb/
+#  MetaCyc: http://translator.ncats.nih.gov/MetaCyc_
+#  NCBIGENE: http://identifiers.org/ncbigene/
+#  NCBITaxon: http://purl.obolibrary.org/obo/NCBITaxon_
+#  NCIT: http://purl.obolibrary.org/obo/NCIT_
+#  NDC: http://identifiers.org/ndc/
+#  NDDF: http://purl.bioontology.org/ontology/NDDF/
+#  NLMID: https://www.ncbi.nlm.nih.gov/nlmcatalog/?term=
+#  OBAN: http://purl.org/oban/
+#  OBOREL: http://purl.obolibrary.org/obo/RO_
+#  OIO: http://www.geneontology.org/formats/oboInOwl#
+#  OMIM: http://purl.obolibrary.org/obo/OMIM_
+#  ORCID: https://orcid.org/
+#  ORPHA: http://www.orpha.net/ORDO/Orphanet_
+#  ORPHANET: http://identifiers.org/orphanet/
+#  PANTHER.FAMILY: http://identifiers.org/panther.family/
+#  PANTHER.PATHWAY: http://identifiers.org/panther.pathway/
+#  PATO: http://purl.obolibrary.org/obo/PATO_
+#  PATO-PROPERTY: http://purl.obolibrary.org/obo/pato#
+#  PDQ: https://www.cancer.gov/publications/pdq#
+#  PHARMGKB.DRUG: http://identifiers.org/pharmgkb.drug/
+#  PHARMGKB.PATHWAYS: http://identifiers.org/pharmgkb.pathways/
+#  PHAROS: http://pharos.nih.gov
+#  PMID: http://www.ncbi.nlm.nih.gov/pubmed/
+#  PO: http://purl.obolibrary.org/obo/PO_
+#  POMBASE: http://identifiers.org/pombase/
+#  PR: http://purl.obolibrary.org/obo/PR_
+#  PUBCHEM.COMPOUND: http://identifiers.org/pubchem.compound/
+#  PUBCHEM.SUBSTANCE: http://identifiers.org/pubchem.substance/
+#  PathWhiz: http://smpdb.ca/pathways/#
+#  REACT: http://www.reactome.org/PathwayBrowser/#/
+#  REPODB: http://apps.chiragjpgroup.org/repoDB/
+#  RGD: http://identifiers.org/rgd/
+#  RHEA: http://identifiers.org/rhea/
+#  RNACENTRAL: http://identifiers.org/rnacentral/
+#  RO: http://purl.obolibrary.org/obo/RO_
+#  RTXKG1: http://kg1endpoint.rtx.ai/
+#  RXCUI: https://mor.nlm.nih.gov/RxNav/search?searchBy=RXCUI&searchTerm=
+#  RXNORM: http://purl.bioontology.org/ontology/RXNORM/
+#  ResearchID: https://publons.com/researcher/
+#  SEMMEDDB: https://skr3.nlm.nih.gov/SemMedDB
+#  SGD: http://identifiers.org/sgd/
+#  SIDER.DRUG: http://identifiers.org/sider.drug/
+#  SIO: http://semanticscience.org/resource/SIO_
+#  SMPDB: http://identifiers.org/smpdb/
+#  SNOMEDCT: http://identifiers.org/snomedct/
+#  SNPEFF: http://translator.ncats.nih.gov/SNPEFF_
+#  ScopusID: https://www.scopus.com/authid/detail.uri?authorId=
+#  TAXRANK: http://purl.obolibrary.org/obo/TAXRANK_
+#  UBERGRAPH: http://translator.renci.org/ubergraph-axioms.ofn#
+#  UBERON: http://purl.obolibrary.org/obo/UBERON_
+#  UBERON_CORE: http://purl.obolibrary.org/obo/uberon/core#
+#  UMLS: http://identifiers.org/umls/
+#  UMLSSC: https://metamap.nlm.nih.gov/Docs/SemanticTypes_2018AB.txt/code#
+#  UMLSSG: https://metamap.nlm.nih.gov/Docs/SemGroups_2018.txt/group#
+#  UMLSST: https://metamap.nlm.nih.gov/Docs/SemanticTypes_2018AB.txt/type#
+#  UNII: http://identifiers.org/unii/
+#  UPHENO: http://purl.obolibrary.org/obo/UPHENO_
+#  UniProtKB: http://identifiers.org/uniprot/
+#  VANDF: https://www.nlm.nih.gov/research/umls/sourcereleasedocs/current/VANDF/
+#  VMC: https://github.com/ga4gh/vr-spec/
+#  WB: http://identifiers.org/wb/
+#  WBPhenotype: http://purl.obolibrary.org/obo/WBPhenotype_
+#  WBVocab: http://bio2rdf.org/wormbase_vocabulary
+#  WIKIDATA: https://www.wikidata.org/wiki/
+#  WIKIDATA_PROPERTY: 'https://www.wikidata.org/wiki/Property:'
+#  WIKIPATHWAYS: http://identifiers.org/wikipathways/
+#  WormBase: https://www.wormbase.org/get?name=
+#  ZFIN: http://identifiers.org/zfin/
+#  ZP: http://purl.obolibrary.org/obo/ZP_
+#  alliancegenome: https://www.alliancegenome.org/
+#  biolink: https://w3id.org/biolink/vocab/
+#  biolinkml: https://w3id.org/biolink/biolinkml/
+#  chembio: http://translator.ncats.nih.gov/chembio_
+#  dcat: http://www.w3.org/ns/dcat#
+#  dct: http://purl.org/dc/terms/
+#  dictyBase: http://dictybase.org/gene/
+#  doi: https://doi.org/
+#  fabio: http://purl.org/spar/fabio/
+#  foaf: http://xmlns.com/foaf/0.1/
+#  foodb.compound: http://foodb.ca/compounds/
+#  gff3: https://github.com/The-Sequence-Ontology/Specifications/blob/master/gff3.md#
+#  gpi: https://github.com/geneontology/go-annotation/blob/master/specs/gpad-gpi-2-0.md#
+#  gtpo: https://rdf.guidetopharmacology.org/ns/gtpo#
+#  hetio: http://translator.ncats.nih.gov/hetio_
+#  id: '@id'
+#  interpro: https://www.ebi.ac.uk/interpro/entry/
+#  isbn: https://www.isbn-international.org/identifier/
+#  isni: https://isni.org/isni/
+#  issn: https://portal.issn.org/resource/ISSN/
+#  medgen: https://www.ncbi.nlm.nih.gov/medgen/
+#  oboformat: http://www.geneontology.org/formats/oboInOWL#
+#  pav: http://purl.org/pav/
+#  prov: http://www.w3.org/ns/prov#
+#  qud: http://qudt.org/1.1/schema/qudt#
+#  rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#
+#  rdfs: http://www.w3.org/2000/01/rdf-schema#
+#  schema: http://schema.org/
+#  skos: https://www.w3.org/TR/skos-reference/#
+#  wgs: http://www.w3.org/2003/01/geo/wgs84_pos
+#  xsd: http://www.w3.org/2001/XMLSchema#
+#object_source: http://purl.obolibrary.org/doid.owl
+#subject_source: http://purl.obolibrary.org/mp.owl
+subject_id	predicate_id	object_id	confidence
+MP:0013546	owl:equivalentClass	DOID:0110214	0.75
+MP:0001585	owl:equivalentClass	DOID:583	0.75
+MP:0001577	owl:equivalentClass	DOID:2355	0.75
+MP:0001559	owl:equivalentClass	DOID:4195	0.75
+MP:0001194	owl:equivalentClass	DOID:2723	0.75
+MP:0013466	owl:equivalentClass	DOID:12895	0.75
+MP:0006194	owl:equivalentClass	DOID:9368	0.75
+MP:0013479	owl:equivalentClass	DOID:13452	0.75
+MP:0001297	owl:equivalentClass	DOID:10629	0.75
+MP:0010519	owl:equivalentClass	DOID:0050820	0.75
+MP:0013335	owl:equivalentClass	DOID:914	0.75
+MP:0003828	owl:equivalentClass	DOID:11396	0.75
+MP:0013370	owl:equivalentClass	DOID:11156	0.75
+MP:0013371	owl:equivalentClass	DOID:11155	0.75
+MP:0001349	owl:equivalentClass	DOID:13757	0.75
+MP:0001344	owl:equivalentClass	DOID:0060260	0.75
+MP:0003991	owl:equivalentClass	DOID:2349	0.75
+MP:0001326	owl:equivalentClass	DOID:8466	0.75
+MP:0003985	owl:equivalentClass	DOID:0050855	0.75
+MP:0001304	owl:equivalentClass	DOID:83	0.75
+MP:0013251	owl:equivalentClass	DOID:11623	0.75
+MP:0003924	owl:equivalentClass	DOID:3827	0.75
+MP:0002731	owl:equivalentClass	DOID:11372	0.75
+MP:0001890	owl:equivalentClass	DOID:0060668	0.75
+MP:0001864	owl:equivalentClass	DOID:865	0.75
+MP:0001867	owl:equivalentClass	DOID:4483	0.75
+MP:0001852	owl:equivalentClass	DOID:6195	0.75
+MP:0001857	owl:equivalentClass	DOID:1787	0.75
+MP:0001856	owl:equivalentClass	DOID:820	0.75
+MP:0013806	owl:equivalentClass	DOID:936	0.75
+MP:0000414	owl:equivalentClass	DOID:987	0.75
+MP:0004133	owl:equivalentClass	DOID:0050545	0.75
+MP:0002766	owl:equivalentClass	DOID:758	0.75
+MP:0001953	owl:equivalentClass	DOID:11162	0.75
+MP:0001948	owl:equivalentClass	DOID:9620	0.75
+MP:0001924	owl:equivalentClass	DOID:5223	0.75
+MP:0001925	owl:equivalentClass	DOID:12336	0.75
+MP:0013732	owl:equivalentClass	DOID:13717	0.75
+MP:0013731	owl:equivalentClass	DOID:10997	0.75
+MP:0013753	owl:equivalentClass	DOID:0060313	0.75
+MP:0005036	owl:equivalentClass	DOID:13250	0.75
+MP:0011164	owl:equivalentClass	DOID:1526	0.75
+MP:0011174	owl:equivalentClass	DOID:811	0.75
+MP:0011012	owl:equivalentClass	DOID:9563	0.75
+MP:0003347	owl:equivalentClass	DOID:2444	0.75
+MP:0011747	owl:equivalentClass	DOID:4971	0.75
+MP:0011763	owl:equivalentClass	DOID:1343	0.75
+MP:0011767	owl:equivalentClass	DOID:4022	0.75
+MP:0011802	owl:equivalentClass	DOID:9365	0.75
+MP:0000284	owl:equivalentClass	DOID:6406	0.75
+MP:0002001	owl:equivalentClass	DOID:1432	0.75
+MP:0011515	owl:equivalentClass	DOID:3326	0.75
+MP:0011516	owl:equivalentClass	DOID:0050461	0.75
+MP:0011570	owl:equivalentClass	DOID:9164	0.75
+MP:0011403	owl:equivalentClass	DOID:11400	0.75
+MP:0011404	owl:equivalentClass	DOID:2744	0.75
+MP:0011420	owl:equivalentClass	DOID:1439	0.75
+MP:0011491	owl:equivalentClass	DOID:0111145	0.75
+MP:0008543	owl:equivalentClass	DOID:0060224	0.75
+MP:0008541	owl:equivalentClass	DOID:12986	0.75
+MP:0002816	owl:equivalentClass	DOID:0060180	0.75
+MP:0008387	owl:equivalentClass	DOID:11759	0.75
+MP:0002811	owl:equivalentClass	DOID:2361	0.75
+MP:0008388	owl:equivalentClass	DOID:0050642	0.75
+MP:0002810	owl:equivalentClass	DOID:11252	0.75
+MP:0020400	owl:equivalentClass	DOID:9266	0.75
+MP:0003099	owl:equivalentClass	DOID:5327	0.75
+MP:0020461	owl:equivalentClass	DOID:0080193	0.75
+MP:0010998	owl:equivalentClass	DOID:12120	0.75
+MP:0030449	owl:equivalentClass	DOID:12661	0.75
+MP:0005422	owl:equivalentClass	DOID:4254	0.75
+MP:0005421	owl:equivalentClass	DOID:3144	0.75
+MP:0005415	owl:equivalentClass	DOID:1852	0.75
+MP:0000610	owl:equivalentClass	DOID:13580	0.75
+MP:0005414	owl:equivalentClass	DOID:13619	0.75
+MP:0003560	owl:equivalentClass	DOID:8398	0.75
+MP:0009644	owl:equivalentClass	DOID:4676	0.75
+MP:0005515	owl:equivalentClass	DOID:13141	0.75
+MP:0005505	owl:equivalentClass	DOID:2228	0.75
+MP:0030222	owl:equivalentClass	DOID:205	0.75
+MP:0005251	owl:equivalentClass	DOID:9423	0.75
+MP:0005244	owl:equivalentClass	DOID:11482	0.75
+MP:0005312	owl:equivalentClass	DOID:118	0.75
+MP:0005245	owl:equivalentClass	DOID:801	0.75
+MP:0005190	owl:equivalentClass	DOID:1019	0.75
+MP:0005159	owl:equivalentClass	DOID:14227	0.75
+MP:0005157	owl:equivalentClass	DOID:4621	0.75
+MP:0005152	owl:equivalentClass	DOID:12450	0.75
+MP:0003179	owl:equivalentClass	DOID:1588	0.75
+MP:0005330	owl:equivalentClass	DOID:0050700	0.75
+MP:0005323	owl:equivalentClass	DOID:543	0.75
+MP:0005302	owl:equivalentClass	DOID:12143	0.75
+MP:0030141	owl:equivalentClass	DOID:13934	0.75
+MP:0005297	owl:equivalentClass	DOID:0080073	0.75
+MP:0003054	owl:equivalentClass	DOID:0080016	0.75
+MP:0005279	owl:equivalentClass	DOID:8986	0.75
+MP:0005262	owl:equivalentClass	DOID:12270	0.75
+MP:0005261	owl:equivalentClass	DOID:12271	0.75
+MP:0005264	owl:equivalentClass	DOID:0050851	0.75
+MP:0005260	owl:equivalentClass	DOID:790	0.75
+MP:0005258	owl:equivalentClass	DOID:9282	0.75
+MP:0005255	owl:equivalentClass	DOID:1143	0.75
+MP:0005254	owl:equivalentClass	DOID:540	0.75
+MP:0005256	owl:equivalentClass	DOID:9840	0.75
+MP:0003294	owl:equivalentClass	DOID:8446	0.75
+MP:0003286	owl:equivalentClass	DOID:8534	0.75
+MP:0003282	owl:equivalentClass	DOID:10808	0.75
+MP:0006278	owl:equivalentClass	DOID:3627	0.75
+MP:0003276	owl:equivalentClass	DOID:10485	0.75
+MP:0003270	owl:equivalentClass	DOID:8437	0.75
+MP:0003273	owl:equivalentClass	DOID:1724	0.75
+MP:0003267	owl:equivalentClass	DOID:2089	0.75
+MP:0003258	owl:equivalentClass	DOID:12642	0.75
+MP:0003197	owl:equivalentClass	DOID:12679	0.75
+MP:0003390	owl:equivalentClass	DOID:4977	0.75
+MP:0003376	owl:equivalentClass	DOID:13938	0.75
+MP:0003348	owl:equivalentClass	DOID:9406	0.75
+MP:0003335	owl:equivalentClass	DOID:13316	0.75
+MP:0003328	owl:equivalentClass	DOID:10762	0.75
+MP:0000604	owl:equivalentClass	DOID:9120	0.75
+MP:0003319	owl:equivalentClass	DOID:0060328	0.75
+MP:0003305	owl:equivalentClass	DOID:3127	0.75
+MP:0003307	owl:equivalentClass	DOID:12639	0.75
+MP:0003052	owl:equivalentClass	DOID:0060327	0.75
+MP:0003046	owl:equivalentClass	DOID:5082	0.75
+MP:0003007	owl:equivalentClass	DOID:6307	0.75
+MP:0005654	owl:equivalentClass	DOID:13268	0.75
+MP:0005639	owl:equivalentClass	DOID:12119	0.75
+MP:0005638	owl:equivalentClass	DOID:2352	0.75
+MP:0005604	owl:equivalentClass	DOID:0060695	0.75
+MP:0003195	owl:equivalentClass	DOID:182	0.75
+MP:0003139	owl:equivalentClass	DOID:13832	0.75
+MP:0003130	owl:equivalentClass	DOID:10488	0.75
+MP:0003116	owl:equivalentClass	DOID:10609	0.75
+MP:0003100	owl:equivalentClass	DOID:11830	0.75
+MP:0003689	owl:equivalentClass	DOID:539	0.75
+MP:0003665	owl:equivalentClass	DOID:4692	0.75
+MP:0003623	owl:equivalentClass	DOID:9912	0.75
+MP:0003624	owl:equivalentClass	DOID:2983	0.75
+MP:0003606	owl:equivalentClass	DOID:1074	0.75
+MP:0013148	owl:equivalentClass	DOID:10690	0.75
+MP:0004947	owl:equivalentClass	DOID:2723	0.75
+MP:0001193	owl:equivalentClass	DOID:8893	0.75
+MP:0003746	owl:equivalentClass	DOID:9637	0.75
+MP:0000433	owl:equivalentClass	DOID:10907	0.75
+MP:0002993	owl:equivalentClass	DOID:848	0.75
+MP:0003446	owl:equivalentClass	DOID:0080204	0.75
+MP:0006050	owl:equivalentClass	DOID:3770	0.75
+MP:0003415	owl:equivalentClass	DOID:9286	0.75
+MP:0003561	owl:equivalentClass	DOID:7148	0.75
+MP:0003554	owl:equivalentClass	DOID:2712	0.75
+MP:0003548	owl:equivalentClass	DOID:6432	0.75
+MP:0000231	owl:equivalentClass	DOID:10763	0.75
+MP:0003506	owl:equivalentClass	DOID:2449	0.75
+MP:0000189	owl:equivalentClass	DOID:9993	0.75
+MP:0000161	owl:equivalentClass	DOID:0060249	0.75
+MP:0002795	owl:equivalentClass	DOID:12930	0.75
+MP:0002791	owl:equivalentClass	DOID:10602	0.75
+MP:0002787	owl:equivalentClass	DOID:3765	0.75
+MP:0000111	owl:equivalentClass	DOID:674	0.75
+MP:0002767	owl:equivalentClass	DOID:0050545	0.75
+MP:0002750	owl:equivalentClass	DOID:9370	0.75
+MP:0012259	owl:equivalentClass	DOID:1088	0.75
+MP:0002743	owl:equivalentClass	DOID:2921	0.75
+MP:0002708	owl:equivalentClass	DOID:585	0.75
+MP:0012121	owl:equivalentClass	DOID:0060252	0.75
+MP:0002872	owl:equivalentClass	DOID:8432	0.75
+MP:0012171	owl:equivalentClass	DOID:12215	0.75
+MP:0002544	owl:equivalentClass	DOID:0050581	0.75
+MP:0000067	owl:equivalentClass	DOID:13533	0.75
+MP:0000066	owl:equivalentClass	DOID:11476	0.75
+MP:0002686	owl:equivalentClass	DOID:0111156	0.75
+MP:0002657	owl:equivalentClass	DOID:2256	0.75
+MP:0002654	owl:equivalentClass	DOID:649	0.75
+MP:0010033	owl:equivalentClass	DOID:5334	0.75
+MP:0000576	owl:equivalentClass	DOID:11836	0.75
+MP:0000564	owl:equivalentClass	DOID:11193	0.75
+MP:0000566	owl:equivalentClass	DOID:11971	0.75
+MP:0000562	owl:equivalentClass	DOID:1148	0.75
+MP:0000525	owl:equivalentClass	DOID:14219	0.75
+MP:0000519	owl:equivalentClass	DOID:11111	0.75
+MP:0012545	owl:equivalentClass	DOID:327	0.75
+MP:0012551	owl:equivalentClass	DOID:0050758	0.75
+MP:0012552	owl:equivalentClass	DOID:3650	0.75
+MP:0000644	owl:equivalentClass	DOID:9565	0.75
+MP:0000376	owl:equivalentClass	DOID:4409	0.75
+MP:0000315	owl:equivalentClass	DOID:582	0.75
+MP:0002927	owl:equivalentClass	DOID:1770	0.75
+MP:0002926	owl:equivalentClass	DOID:10487	0.75
+MP:0000493	owl:equivalentClass	DOID:9307	0.75
+MP:0010402	owl:equivalentClass	DOID:1657	0.75
+MP:0010403	owl:equivalentClass	DOID:1882	0.75
+MP:0010412	owl:equivalentClass	DOID:0050651	0.75
+MP:0010479	owl:equivalentClass	DOID:10941	0.75
+MP:0010478	owl:equivalentClass	DOID:10941	0.75
+MP:0006093	owl:equivalentClass	DOID:11294	0.75
+MP:0009445	owl:equivalentClass	DOID:10573	0.75
+MP:0002269	owl:equivalentClass	DOID:767	0.75
+MP:0000751	owl:equivalentClass	DOID:423	0.75
+MP:0010139	owl:equivalentClass	DOID:519	0.75
+MP:0010146	owl:equivalentClass	DOID:0060321	0.75
+MP:0010141	owl:equivalentClass	DOID:9317	0.75
+MP:0010140	owl:equivalentClass	DOID:864	0.75
+MP:0009274	owl:equivalentClass	DOID:11211	0.75
+MP:0020225	owl:equivalentClass	DOID:10159	0.75
+MP:0009792	owl:equivalentClass	DOID:8741	0.75
+MP:0010922	owl:equivalentClass	DOID:841	0.75
+MP:0009744	owl:equivalentClass	DOID:1148	0.75
+MP:0009877	owl:equivalentClass	DOID:203	0.75
+MP:0010822	owl:equivalentClass	DOID:1673	0.75
+MP:0009860	owl:equivalentClass	DOID:11664	0.75
+MP:0002006	owl:equivalentClass	DOID:14566	0.75
+MP:0009578	owl:equivalentClass	DOID:0060341	0.75
+MP:0010711	owl:equivalentClass	DOID:0060282	0.75
+MP:0010530	owl:equivalentClass	DOID:0060688	0.75
+MP:0009699	owl:equivalentClass	DOID:14118	0.75
+MP:0009668	owl:equivalentClass	DOID:0060329	0.75
+MP:0008970	owl:equivalentClass	DOID:9574	0.75
+MP:0006261	owl:equivalentClass	DOID:0060850	0.75
+MP:0006248	owl:equivalentClass	DOID:12959	0.75
+MP:0006222	owl:equivalentClass	DOID:1891	0.75
+MP:0006077	owl:equivalentClass	DOID:0060320	0.75
+MP:0006061	owl:equivalentClass	DOID:0060856	0.75
+MP:0006034	owl:equivalentClass	DOID:0080108	0.75
+MP:0008869	owl:equivalentClass	DOID:3781	0.75
+MP:0006198	owl:equivalentClass	DOID:11175	0.75
+MP:0006199	owl:equivalentClass	DOID:9837	0.75
+MP:0006190	owl:equivalentClass	DOID:12510	0.75
+MP:0006165	owl:equivalentClass	DOID:12397	0.75
+MP:0006164	owl:equivalentClass	DOID:1570	0.75
+MP:0006159	owl:equivalentClass	DOID:0050633	0.75
+MP:0006153	owl:equivalentClass	DOID:9834	0.75
+MP:0006151	owl:equivalentClass	DOID:11782	0.75
+MP:0006138	owl:equivalentClass	DOID:6000	0.75
+MP:0006136	owl:equivalentClass	DOID:799	0.75
+MP:0006128	owl:equivalentClass	DOID:6420	0.75
+MP:0006125	owl:equivalentClass	DOID:5644	0.75
+MP:0006124	owl:equivalentClass	DOID:4078	0.75
+MP:0006122	owl:equivalentClass	DOID:1754	0.75
+MP:0006120	owl:equivalentClass	DOID:988	0.75
+MP:0006118	owl:equivalentClass	DOID:5232	0.75
+MP:0006117	owl:equivalentClass	DOID:1712	0.75
+MP:0004119	owl:equivalentClass	DOID:4500	0.75
+MP:0004270	owl:equivalentClass	DOID:0060145	0.75
+MP:0004254	owl:equivalentClass	DOID:9246	0.75
+MP:0004020	owl:equivalentClass	DOID:8488	0.75
+MP:0004547	owl:equivalentClass	DOID:6050	0.75
+MP:0004510	owl:equivalentClass	DOID:633	0.75
+MP:0014086	owl:equivalentClass	DOID:255	0.75
+MP:0004749	owl:equivalentClass	DOID:0050563	0.75
+MP:0004740	owl:equivalentClass	DOID:10003	0.75
+MP:0002286	owl:equivalentClass	DOID:11383	0.75
+MP:0004897	owl:equivalentClass	DOID:12185	0.75
+MP:0014187	owl:equivalentClass	DOID:11997	0.75
+MP:0003254	owl:equivalentClass	DOID:9446	0.25
+MP:0010260	owl:equivalentClass	DOID:0050537	0.2448975
+MP:0010452	owl:equivalentClass	DOID:11295	0.2439025
+MP:0006191	owl:equivalentClass	DOID:11653	0.2439025
+MP:0011801	owl:equivalentClass	DOID:12577	0.24359
+MP:0003592	owl:equivalentClass	DOID:1829	0.2428575
+MP:0010883	owl:equivalentClass	DOID:3227	0.242425
+MP:0004684	owl:equivalentClass	DOID:90	0.2421875
+MP:0005544	owl:equivalentClass	DOID:11547	0.241935
+MP:0008389	owl:equivalentClass	DOID:0050642	0.24138
+MP:0010471	owl:equivalentClass	DOID:1929	0.2410725
+MP:0009825	owl:equivalentClass	DOID:8463	0.24
+MP:0003587	owl:equivalentClass	DOID:5199	0.2368425
+MP:0003565	owl:equivalentClass	DOID:14427	0.2368425
+MP:0006177	owl:equivalentClass	DOID:980	0.23611
+MP:0001926	owl:equivalentClass	DOID:12336	0.235295
+MP:0000081	owl:equivalentClass	DOID:2340	0.235295
+MP:0003865	owl:equivalentClass	DOID:1602	0.234695
+MP:0000917	owl:equivalentClass	DOID:14159	0.234695
+MP:0010659	owl:equivalentClass	DOID:7693	0.234695
+MP:0010658	owl:equivalentClass	DOID:14004	0.2340425
+MP:0004750	owl:equivalentClass	DOID:0050563	0.2340425
+MP:0010405	owl:equivalentClass	DOID:13620	0.233765
+MP:0011758	owl:equivalentClass	DOID:12510	0.2333325
+MP:0006186	owl:equivalentClass	DOID:0050855	0.2333325
+MP:0020038	owl:equivalentClass	DOID:4448	0.2327575
+MP:0010717	owl:equivalentClass	DOID:11975	0.2325575
+MP:0001875	owl:equivalentClass	DOID:2518	0.2317075
+MP:0010716	owl:equivalentClass	DOID:11975	0.2317075
+MP:0013451	owl:equivalentClass	DOID:13929	0.2314825
+MP:0020050	owl:equivalentClass	DOID:0090122	0.2314825
+MP:0001548	owl:equivalentClass	DOID:1168	0.23077
+MP:0011665	owl:equivalentClass	DOID:0060770	0.23077
+MP:0030226	owl:equivalentClass	DOID:7439	0.2285725
+MP:0012491	owl:equivalentClass	DOID:11527	0.2272725
+MP:0002984	owl:equivalentClass	DOID:0080204	0.2272725
