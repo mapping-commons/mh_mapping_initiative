@@ -30,11 +30,11 @@ def update_registry(registryfile):
     mappings = config.get_mappings()
     
     for mapping in mappings:
-        mappings_set_file_path = os.path.join(mapping_dir,f"{mapping}_sssom.yml")
-        mappings_set_file_path_tsv = os.path.join(mapping_dir, f"{mapping}_sssom.tsv")
-        mappings_set_file_path_tsv_embedded = os.path.join(mapping_dir, f"{mapping}_embedded_sssom.tsv")
+        mappings_set_file_path = os.path.join(mapping_dir,f"{mapping}.sssom.yml")
+        mappings_set_file_path_tsv = os.path.join(mapping_dir, f"{mapping}.sssom.tsv")
+        mappings_set_file_path_tsv_embedded = os.path.join(mapping_dir, f"{mapping}_embedded.sssom.tsv")
         logging.info(f"Updateing {mapping} mapping set")
-        runcmd(f"make mappings/{mapping}_sssom.tsv {make_parameters} -B")
+        runcmd(f"make mappings/{mapping}.sssom.tsv {make_parameters} -B")
         mapping_data = mappings[mapping]
         
         with open(mappings_set_file_path_tsv, 'r') as original: data = original.read()
