@@ -8,3 +8,5 @@ mapping_provider: https://www.mousephenotype.org
 mapping_set_group: pistoia_mappings
 mapping_set_id: mp_doid_pistoia
 mapping_set_title: 'The Pistoia Ontology Mappings: MP-DOID'
+object_source: http://purl.obolibrary.org/doid.owl
+subject_source: http://purl.obolibrary.org/mp.owl

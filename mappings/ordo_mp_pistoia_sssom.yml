@@ -7,3 +7,5 @@ mapping_provider: https://www.pistoiaalliance.org/projects/current-projects/onto
 mapping_set_group: pistoia_mappings
 mapping_set_id: ordo_mp_pistoia
 mapping_set_title: 'The Pistoia Ontology Mappings: ORDO-MP'
+object_source: http://purl.obolibrary.org/mp.owl
+subject_source: http://purl.obolibrary.org/ordo.owl
