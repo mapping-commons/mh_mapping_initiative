@@ -1,16 +1,16 @@
-# creator_id: orcid:0000-0003-4606-0597|orcid:0000-0002-6490-7723											
-# curie_map:											
+#creator_id: orcid:0000-0003-4606-0597|orcid:0000-0002-6490-7723											
+#curie_map:											
 #  HP: http://purl.obolibrary.org/obo/HP_											
 #  MP: http://purl.obolibrary.org/obo/MP_											
 #  skos: http://www.w3.org/2004/02/skos/core											
-# license: https://creativecommons.org/licenses/by/4.0/											
+#license: https://creativecommons.org/licenses/by/4.0/											
 #mapping_provider: Mouse Genome Informatics											
 #mapping_set_group: MGI_MP_HPO											
 #mapping_set_id: MGI_COVID_MP_HPO											
 #mapping_set_title: MP to HPO mappings for COVID related phenotypes											
 #object_source: http://purl.obolibrary.org/hp.owl 											
 #subject_source: http://purl.obolibrary.org/mp.owl											
-# Use of SSSOM terms: skos:exact - terms have the same meaning except that MP term is not limited to human; skos:broad ontology term would be a parent to the symptom or MP term would be a parent to HPO term; skos:narrow - ignoring species limit MP term would be a child of the HPO term; skos:close terms are almost skos:exact but there is a subtle distinction; skos:related - terms are similar but would not have a parent/child relation in an ontology. Cut off for skos:broad was based on the term having just subtypes of the phenotype, i.e. if it matches the general phenotype but doesn't specify the location then it got a skos:broad mapping, but if the phenotype was for a specific cell type and the skos:closest match was just for the general tissue no mapping was made. Source for COVID symptoms are listed in the comment column											
+#mapping_set_description: Use of SSSOM terms: skos:exact - terms have the same meaning except that MP term is not limited to human; skos:broad ontology term would be a parent to the symptom or MP term would be a parent to HPO term; skos:narrow - ignoring species limit MP term would be a child of the HPO term; skos:close terms are almost skos:exact but there is a subtle distinction; skos:related - terms are similar but would not have a parent/child relation in an ontology. Cut off for skos:broad was based on the term having just subtypes of the phenotype, i.e. if it matches the general phenotype but doesn't specify the location then it got a skos:broad mapping, but if the phenotype was for a specific cell type and the skos:closest match was just for the general tissue no mapping was made. Source for COVID symptoms are listed in the comment column											
 subject_label	subject_id	object_id	object_label	predicate_id	match_type	sssom:confidence	sssom:creator_id	sssom:mapping_date	sssom:comment		sssom:comment
 MP TERM NAME	MP TERM ID	HPO TERM NAME	HPO TERM ID	Feature match MP to HPO 	match type	Confidence MP to HPO match	creator orcid	date	Symptom SOURCE		
 abnormal arterial thrombosis	MP:0031157	Arterial thrombosis	HP:0004420	skos:broad	HumanCurated		orcid:0000-0003-4606-0597|orcid:0000-0002-6490-7723	2021	PMID:32425264, PMID:32415579		

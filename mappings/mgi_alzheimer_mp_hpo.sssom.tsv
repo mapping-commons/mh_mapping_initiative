@@ -1,0 +1,35 @@
+#creator_id: orcid:0000-0003-4606-0597|orcid:0000-0003-2307-1226									
+#curie_map:									
+#  HP: http://purl.obolibrary.org/obo/HP_									
+#  MP: http://purl.obolibrary.org/obo/MP_									
+#  skos:http://www.w3.org/2004/02/skos/core									
+#license: https://creativecommons.org/licenses/by/4.0/									
+#mapping_provider: Mouse Genome Informatics									
+#mapping_set_group: MGI_MP_HPO									
+#mapping_set_id: MGI_Alzheimer_MP_HPO									
+#mapping_set_title: MP to HPO mappings for Alzheimer disease related phenotypes									
+#object_source: http://purl.obolibrary.org/hpo.owl 									
+#subject_source: http://purl.obolibrary.org/mp.owl									
+subject_id	subject_label	predicate_id	object_id	object_label	match_type	sssom:confidence	sssom:creator_id	sssom:mapping_date	sssom:comment
+MP:0003329	amyloid beta deposits	skos:closeMatch	HP:0100256	Senile plaques	HumanCurated	9	orcid:0000-0003-2307-1226	2021-07-29	
+MP:0002571	senility	skos:relatedMatch	HP:0100543	Cognitive impairment	HumanCurated	7	orcid:0000-0003-2307-1226	2021-07-29	
+MP:0003214	neurofibrillary tangles	skos:exactMatch	HP:0002185	Neurofibrillary tangles	HumanCurated	10	orcid:0000-0003-2307-1226	2021-07-29	
+MP:0004254	cerebral amyloid angiopathy 	skos:exactMatch	HP:0011970	Cerebral amyloid angiopathy	HumanCurated	10	orcid:0000-0003-2307-1226	2021-07-29	
+MP:0030003	hippocampus atrophy	skos:closeMatch	HP:0410170	Hippocampal atrophy	HumanCurated	10	orcid:0000-0003-2307-1226	2021-07-29	
+MP:0021011	parietal lobe atrophy	skos:relatedMatch	HP:0012104	Parietal cortical atrophy	HumanCurated	9	orcid:0000-0003-2307-1226	2021-07-29	
+MP:0014185	cerebellum atrophy	skos:closeMatch	HP:0001272	Cerebellar atrophy	HumanCurated	10	orcid:0000-0003-2307-1226	2021-07-29	
+MP:0001393	ataxia	skos:exactMatch 	HP:0001251	Ataxia	HumanCurated	10	orcid:0000-0003-2307-1226	2021-07-29	
+MP:0000243	myoclonus	skos:exactMatch	HP:0001336	Myoclonus	HumanCurated	10	orcid:0000-0003-2307-1226	2021-07-29	
+MP:0002064	seizures	skos:exactMatch	HP:0001250	Seizure	HumanCurated	10	orcid:0000-0003-2307-1226	2021-07-29	
+MP:0021008	temporal lobe atrophy	skos:relatedMatch	HP:0007112	temporal cortical atrophy 	HumanCurated	9	orcid:0000-0003-2307-1226	2021-07-29	
+MP:0004254	cerebral amyloid angiopathy	skos:exactMatch	HP:0011970	Cerebral amyloid angiopathy	HumanCurated	10	orcid:0000-0003-2307-1226	2021-07-29	
+MP:0008026	abnormal brain white matter morphology	skos:closeMatch	HP:0002500	Abnormal cerebral white matter morphology	HumanCurated	6	orcid:0000-0003-2307-1226	2021-07-29	
+MP:0003360	abnormal depression - related behavior	skos:relatedMatch	HP:0000716	Depression	HumanCurated	8	orcid:0000-0003-2307-1226	2021-07-29	
+MP:0001363	increased anxiety-related response	skos:relatedMatch	HP:0000739	Anxiety	HumanCurated	8	orcid:0000-0003-2307-1226	2021-07-29	
+MP:0014065	Lewy bodies	skos:exactMatch	HP:0100315	Lewy bodies	HumanCurated	10	orcid:0000-0003-2307-1226	2021-07-29	
+MP:0002183	gliosis	skos:exactMatch	HP:0002171	Gliosis	HumanCurated	10	orcid:0000-0003-2307-1226	2021-07-29	
+MP:0001916	intracerebral hemorrhage 	skos:narrowMatch	HP:0001342	Cerebral hemorrhage	HumanCurated	8	orcid:0000-0003-2307-1226	2021-07-29	
+MP:0006276	abnormal autonomic nervous system physiology	skos:exactMatch	HP:0012332	Abnormal autonomic nervous system physiology	HumanCurated	10	orcid:0000-0003-2307-1226	2021-07-29	
+MP:0012506	brain atrophy 	skos:relatedMatch	HP:0002283	Global brain atrophy	HumanCurated	9	orcid:0000-0003-2307-1226	2021-07-29	
+MP:0012052	hypertonicity	skos:relatedMatch	HP:0001276	Hypertonia	HumanCurated	10	orcid:0000-0003-2307-1226	2021-07-29	
+MP:0001406	abnormal gait	skos:relatedMatch	HP:0001288	Gait disturbance	HumanCurated	9	orcid:0000-0003-2307-1226	2021-07-29	
