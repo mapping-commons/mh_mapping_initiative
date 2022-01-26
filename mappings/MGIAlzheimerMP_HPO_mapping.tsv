@@ -1,3 +1,15 @@
+# creator_id: orcid:0000-0003-4606-0597|orcid:0000-0003-2307-1226									
+# curie_map:									
+#  HP: http://purl.obolibrary.org/obo/HP_									
+#  MP: http://purl.obolibrary.org/obo/MP_									
+#  skos: http://www.w3.org/2004/02/skos/core									
+# license: https://creativecommons.org/licenses/by/4.0/									
+#mapping_provider: Mouse Genome Informatics									
+#mapping_set_group: MGI_MP_HPO									
+#mapping_set_id: MGI_Alzheimer_MP_HPO									
+#mapping_set_title: MP to HPO mappings for Alzheimer disease related phenotypes									
+#object_source: http://purl.obolibrary.org/hpo.owl 									
+#subject_source: http://purl.obolibrary.org/mp.owl									
 subject_id	subject_label	predicate_id	object_id	object_label	match_type	sssom:confidence	sssom:creator_id	sssom:mapping_date	sssom:comment
 MP:0003329	amyloid beta deposits	skos: closeMatch	HP:0100256	Senile plaques	HumanCurated	9	orcid:0000-0003-2307-1226	2021 - 07 - 29	
 MP:0002571	senility	skos: relatedMatch	HP:0100543	Cognitive impairment	HumanCurated	7	orcid:0000-0003-2307-1226	2021 - 07 - 29	
