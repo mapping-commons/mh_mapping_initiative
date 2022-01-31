@@ -12,7 +12,7 @@
 #  orcid: https://orcid.org/
 #  ror: https://ror.org/
 #  wikidata: https://www.wikidata.org/wiki/
-#mapping_set_description: Symptoms for Alzheimer's disease were collected from the published literature and OMIM.org. Phenotype terms in MP and HPO corresponding to these phenotypes were identified and used to define the set of terms for these mappings. This work was primarily done as part of a summer research  project for Mouse Genome Informatics by Sarah Stofel (orcid:0000-0003-2307-1226).									
+#mapping_set_description: "Symptoms for Alzheimer's disease were collected from the published literature and OMIM.org. Phenotype terms in MP and HPO corresponding to these phenotypes were identified and used to define the set of terms for these mappings. This work was primarily done as part of a summer research  project for Mouse Genome Informatics by Sarah Stofel (orcid:0000-0003-2307-1226)."
 subject_id	subject_label	predicate_id	object_id	object_label	match_type	confidence	author_id	mapping_date	comment
 MP:0003329	amyloid beta deposits	skos:closeMatch	HP:0100256	Senile plaques	HumanCurated	0.9	orcid:0000-0003-2307-1226	2021-07-29	
 MP:0002571	senility	skos:relatedMatch	HP:0100543	Cognitive impairment	HumanCurated	0.7	orcid:0000-0003-2307-1226	2021-07-29	
