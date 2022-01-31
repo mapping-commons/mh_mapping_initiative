@@ -1,18 +1,19 @@
-#creator_id: orcid:0000-0003-4606-0597|orcid:0000-0002-6490-7723|ror:org/021sy4w91|wikidata:Q1951035										
-#curie_map:										
-#  HP: http://purl.obolibrary.org/obo/HP_										
-#  MP: http://purl.obolibrary.org/obo/MP_										
-#  skos: http://www.w3.org/2004/02/skos/core										
-#  PMID: https://pubmed.ncbi.nlm.nih.gov										
-#  orcid: https://orcid.org/										
-#license: https://creativecommons.org/licenses/by/4.0/										
-#mapping_provider: 										
-#mapping_set_group: MGI_MP_HPO										
-#mapping_set_id: MGI_COVID_MP_HPO										
-#mapping_set_title: MP to HPO mappings for COVID related phenotypes										
-#object_source: http://purl.obolibrary.org/hp.owl 										
-#subject_source: http://purl.obolibrary.org/mp.owl										
+#mapping_set_id: MGI_COVID_MP_HPO
+#mapping_set_title: MP to HPO mappings for COVID related phenotypes
 #mapping_set_description: Set consists of phenotype terms in MP and HPO related to symptoms of COVID-19. COVID-19 symptoms were identified from the literature and reliable websites. The source for each symptom is listed in the "other" field. Use of SSSOM terms: skos:exactMatch - terms have the same meaning except that MP term is not limited to human; skos:broadMatch ontology term would be a parent to the symptom or MP term would be a parent to HPO term; skos:narrowMatch - ignoring species limit MP term would be a child of the HPO term; skos:closeMatch terms are almost skos:exactMatch but there is a subtle distinction; skos:relatedMatch - terms are similar but would not have a parent/child relation in an ontology. Cut off for skos:broadMatch was based on the term having just subtypes of the phenotype, i.e. if it matches the general phenotype but doesn't specify the location then it got a skos:broadMatch mapping, but if the phenotype was for a specific cell type and the closest match was just for the general tissue no mapping was made. Source for COVID symptoms are listed in the comment column.										
+#creator_id: orcid:0000-0003-4606-0597|orcid:0000-0002-6490-7723|ror:021sy4w91|wikidata:Q1951035
+#license: https://creativecommons.org/licenses/by/4.0/
+#mapping_set_group: MGI_MP_HPO
+#object_source: http://purl.obolibrary.org/hpo.owl
+#subject_source: http://purl.obolibrary.org/mp.owl
+#curie_map:
+#  HP: http://purl.obolibrary.org/obo/HP_
+#  MP: http://purl.obolibrary.org/obo/MP_
+#  PMID: https://pubmed.ncbi.nlm.nih.gov										
+#  skos: http://www.w3.org/2004/02/skos/core/
+#  orcid: https://orcid.org/
+#  ror: https://ror.org/
+#  wikidata: https://www.wikidata.org/wiki/
 subject_label	subject_id	object_id	object_label	predicate_id	match_type	confidence	author_id	mapping_date	other	comment
 abnormal arterial thrombosis	MP:0031157	Arterial thrombosis	HP:0004420	skos:broadMatch	HumanCurated	1	orcid:0000-0003-4606-0597|orcid:0000-0002-6490-7723	2021	PMID:32425264, PMID:32415579	
 abnormal cerebral venous thrombosis	MP:0031160	Cerebral venous thrombosis	HP:0005305	skos:broadMatch	HumanCurated	1	orcid:0000-0003-4606-0597|orcid:0000-0002-6490-7723	2021	PMID:32414532	
