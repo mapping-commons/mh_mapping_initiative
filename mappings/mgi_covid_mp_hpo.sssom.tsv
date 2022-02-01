@@ -4,7 +4,7 @@
 #creator_id: orcid:0000-0003-4606-0597|orcid:0000-0002-6490-7723|ror:021sy4w91|wikidata:Q1951035
 #license: https://creativecommons.org/licenses/by/4.0/
 #mapping_set_group: MGI_MP_HPO
-#object_source: http://purl.obolibrary.org/hpo.owl
+#object_source: http://purl.obolibrary.org/hp.owl
 #subject_source: http://purl.obolibrary.org/mp.owl
 #curie_map:
 #  HP: http://purl.obolibrary.org/obo/HP_
@@ -22,7 +22,7 @@ abnormal cognition	MP:0014114	Cognitive impairment	HP:0100543	skos:broadMatch	Hu
 decreased circulating triiodothyronine level	MP:0005479	Decreased circulating free T3	HP:0032210	skos:broadMatch	HumanCurated	1	orcid:0000-0003-4606-0597|orcid:0000-0002-6490-7723	2021-12-31	PMID:32600165, PMID:32217556	
 CNS inflammation	MP:0006082	Viral encephalitis	HP:0033993 	skos:broadMatch	HumanCurated	1	orcid:0000-0003-4606-0597|orcid:0000-0002-6490-7723	2021-12-31	PMID:32464367	
 increased body temperature	MP:0005533	Fever	HP:0001945	skos:broadMatch	HumanCurated	1	orcid:0000-0003-4606-0597|orcid:0000-0002-6490-7723	2021-12-31	PMID:32574165	MP term narrow synonym = hyperpyrexia
-increased core body temperature 	MP:0011016	Hyperpyrexia	HP:0033031	skos:broadMatch	HumanCurated		orcid:0000-0003-4606-0597|orcid:0000-0002-6490-7723	2021-12-31	PMID:32519768	
+increased core body temperature 	MP:0011016	Hyperpyrexia	HP:0033031	skos:broadMatch	HumanCurated	1	orcid:0000-0003-4606-0597|orcid:0000-0002-6490-7723	2021-12-31	PMID:32519768	
 abnormal venous thrombosis	MP:0031158	Venous thrombosis	HP:0004936	skos:broadMatch	HumanCurated	1	orcid:0000-0003-4606-0597|orcid:0000-0002-6490-7723	2021-12-31	PMID:32415579	
 decreased circulating citrulline level	MP:0020837	Low plasma citrulline	HP:0003572	skos:closeMatch	HumanCurated	1	orcid:0000-0003-4606-0597|orcid:0000-0002-6490-7723	2021-12-31	PMID:32646736	frequent issue of the distinction between circulating/plasma/blood - depending on how the measurement is made thes may be skos:exactMatch or may involve additional constituents of the blood
 decreased ventricle muscle contractility	MP:0005598	Reduced ejection fraction	HP:0012664	skos:broadMatch	HumanCurated	1	orcid:0000-0003-4606-0597|orcid:0000-0002-6490-7723	2021-12-31	PMID:33187875, PMID:33075857, https://doi.org/10.1101/2020.11.10.20229294	based on parentage the HPO term is restricted to the left ventricle
@@ -265,7 +265,7 @@ kidney inflammation	MP:0001859	Nephritis	HP:0000123	skos:exactMatch	HumanCurated
 increased neutrophil cell number	MP:0000219	Neutrophilia	HP:0011897	skos:exactMatch	HumanCurated	1	orcid:0000-0003-4606-0597|orcid:0000-0002-6490-7723	2021-12-31	PMID:32007143, PMID:31986264, PMID:32311826	
 oliguria	MP:0003620	Oliguria	HP:0100520	skos:exactMatch	HumanCurated	1	orcid:0000-0003-4606-0597|orcid:0000-0002-6490-7723	2021-12-31	PMID:32533197	
 podocyte foot process effacement	MP:0008140	Podocyte foot process effacement	HP:0031266	skos:exactMatch	HumanCurated	1	orcid:0000-0003-4606-0597|orcid:0000-0002-6490-7723	2021-12-31	PMID:32471641	
-priapism	MP:0003415	Priapism	HP:0200023	skos:exactMatch	HumanCurated		orcid:0000-0003-4606-0597|orcid:0000-0002-6490-7723	2021-12-31	PMID:32732087	
+priapism	MP:0003415	Priapism	HP:0200023	skos:exactMatch	HumanCurated	1	orcid:0000-0003-4606-0597|orcid:0000-0002-6490-7723	2021-12-31	PMID:32732087	
 coughing	MP:0031088	Productive cough	HP:0031245	skos:broadMatch	HumanCurated	1	orcid:0000-0003-4606-0597|orcid:0000-0002-6490-7723	2021-12-31	PMID:32574165	
 pulmonary alveolar edema	MP:0010894	Pulmonary edema	HP:0100598	skos:narrowMatch	HumanCurated	1	orcid:0000-0003-4606-0597|orcid:0000-0002-6490-7723	2021-12-31	PMID:32526193	
 pulmonary alveolar hemorrhage	MP:0010909	Diffuse alveolar hemorrhage	HP:0025420	skos:broadMatch	HumanCurated	1	orcid:0000-0003-4606-0597|orcid:0000-0002-6490-7723	2021-12-31	PMID:32620220	
@@ -283,3 +283,4 @@ abnormal venous thrombosis	MP:0031158	Thromboembolism	HP:0001907	skos:relatedMat
 reactive type II pneumocyte hyperplasia	MP:0031238	Type II pneumocyte hyperplasia	HP:0033328	skos:narrowMatch	HumanCurated	0.8	orcid:0000-0003-4606-0597|orcid:0000-0002-6490-7723	2021-12-31	PMID:32427582, PMID:32817204	reactive - incorporates cause of hyperplasia as following lung injury, the definition for the HP term specifies "enlargement" which I find ambiguos in meaning; submitted a ticket to get this clarified
 blistering	MP:0001208	Skin vesicle	HP:0200037	skos:broadMatch	HumanCurated	1	orcid:0000-0003-4606-0597|orcid:0000-0002-6490-7723	2021-12-31	PMID:32348545	
 rhabdomyolysis	MP:0031112	Viral infection-induced rhabdomyolysis	HP:0003558	skos:broadMatch	HumanCurated	1	orcid:0000-0003-4606-0597|orcid:0000-0002-6490-7723	2021-12-31	PMID:32542129	
+red eye	MP:0031347	Red eye	HP:0025337	skos:exactMatch	HumanCurated	1	orcid:0000-0002-6490-7723	2022-02-01	PMID:32585259	
