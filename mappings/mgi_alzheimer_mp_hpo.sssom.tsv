@@ -1,0 +1,36 @@
+#mapping_set_id: MGI_Alzheimer_MP_HPO
+#mapping_set_title: MP to HPO mappings for Alzheimer disease related phenotypes
+#creator_id: orcid:0000-0003-4606-0597|orcid:0000-0003-2307-1226|ror:021sy4w91|wikidata:Q1951035
+#license: https://creativecommons.org/licenses/by/4.0/
+#object_source: http://purl.obolibrary.org/hpo.owl
+#subject_source: http://purl.obolibrary.org/mp.owl
+#curie_map:
+#  HP: http://purl.obolibrary.org/obo/HP_
+#  MP: http://purl.obolibrary.org/obo/MP_
+#  orcid: https://orcid.org/
+#  ror: https://ror.org/
+#  wikidata: https://www.wikidata.org/wiki/
+#mapping_set_description: "Symptoms for Alzheimer's disease were collected from the published literature and OMIM.org. Phenotype terms in MP and HPO corresponding to these phenotypes were identified and used to define the set of terms for these mappings. This work was primarily done as part of a summer research  project for Mouse Genome Informatics by Sarah Stofel (orcid:0000-0003-2307-1226)."
+subject_id	subject_label	predicate_id	object_id	object_label	mapping_justification	confidence	author_id	mapping_date	comment
+MP:0003329	amyloid beta deposits	skos:closeMatch	HP:0100256	Senile plaques	semapv:ManualMappingCuration	0.9	orcid:0000-0003-2307-1226	2021-07-29	
+MP:0002571	senility	skos:relatedMatch	HP:0100543	Cognitive impairment	semapv:ManualMappingCuration	0.7	orcid:0000-0003-2307-1226	2021-07-29	
+MP:0003214	neurofibrillary tangles	skos:exactMatch	HP:0002185	Neurofibrillary tangles	semapv:ManualMappingCuration	1	orcid:0000-0003-2307-1226	2021-07-29	
+MP:0004254	cerebral amyloid angiopathy 	skos:exactMatch	HP:0011970	Cerebral amyloid angiopathy	semapv:ManualMappingCuration	1	orcid:0000-0003-2307-1226	2021-07-29	
+MP:0030003	hippocampus atrophy	skos:closeMatch	HP:0410170	Hippocampal atrophy	semapv:ManualMappingCuration	1	orcid:0000-0003-2307-1226	2021-07-29	
+MP:0021011	parietal lobe atrophy	skos:relatedMatch	HP:0012104	Parietal cortical atrophy	semapv:ManualMappingCuration	0.9	orcid:0000-0003-2307-1226	2021-07-29	
+MP:0014185	cerebellum atrophy	skos:closeMatch	HP:0001272	Cerebellar atrophy	semapv:ManualMappingCuration	1	orcid:0000-0003-2307-1226	2021-07-29	
+MP:0001393	ataxia	skos:exactMatch 	HP:0001251	Ataxia	semapv:ManualMappingCuration	1	orcid:0000-0003-2307-1226	2021-07-29	
+MP:0000243	myoclonus	skos:exactMatch	HP:0001336	Myoclonus	semapv:ManualMappingCuration	1	orcid:0000-0003-2307-1226	2021-07-29	
+MP:0002064	seizures	skos:exactMatch	HP:0001250	Seizure	semapv:ManualMappingCuration	1	orcid:0000-0003-2307-1226	2021-07-29	
+MP:0021008	temporal lobe atrophy	skos:relatedMatch	HP:0007112	temporal cortical atrophy 	semapv:ManualMappingCuration	0.9	orcid:0000-0003-2307-1226	2021-07-29	
+MP:0004254	cerebral amyloid angiopathy	skos:exactMatch	HP:0011970	Cerebral amyloid angiopathy	semapv:ManualMappingCuration	1	orcid:0000-0003-2307-1226	2021-07-29	
+MP:0008026	abnormal brain white matter morphology	skos:closeMatch	HP:0002500	Abnormal cerebral white matter morphology	semapv:ManualMappingCuration	0.6	orcid:0000-0003-2307-1226	2021-07-29	
+MP:0003360	abnormal depression - related behavior	skos:relatedMatch	HP:0000716	Depression	semapv:ManualMappingCuration	0.8	orcid:0000-0003-2307-1226	2021-07-29	
+MP:0001363	increased anxiety-related response	skos:relatedMatch	HP:0000739	Anxiety	semapv:ManualMappingCuration	0.8	orcid:0000-0003-2307-1226	2021-07-29	
+MP:0014065	Lewy bodies	skos:exactMatch	HP:0100315	Lewy bodies	semapv:ManualMappingCuration	1	orcid:0000-0003-2307-1226	2021-07-29	
+MP:0002183	gliosis	skos:exactMatch	HP:0002171	Gliosis	semapv:ManualMappingCuration	1	orcid:0000-0003-2307-1226	2021-07-29	
+MP:0001916	intracerebral hemorrhage 	skos:narrowMatch	HP:0001342	Cerebral hemorrhage	semapv:ManualMappingCuration	0.8	orcid:0000-0003-2307-1226	2021-07-29	
+MP:0006276	abnormal autonomic nervous system physiology	skos:exactMatch	HP:0012332	Abnormal autonomic nervous system physiology	semapv:ManualMappingCuration	1	orcid:0000-0003-2307-1226	2021-07-29	
+MP:0012506	brain atrophy 	skos:relatedMatch	HP:0002283	Global brain atrophy	semapv:ManualMappingCuration	0.9	orcid:0000-0003-2307-1226	2021-07-29	
+MP:0012052	hypertonicity	skos:relatedMatch	HP:0001276	Hypertonia	semapv:ManualMappingCuration	1	orcid:0000-0003-2307-1226	2021-07-29	
+MP:0001406	abnormal gait	skos:relatedMatch	HP:0001288	Gait disturbance	semapv:ManualMappingCuration	0.9	orcid:0000-0003-2307-1226	2021-07-29	
