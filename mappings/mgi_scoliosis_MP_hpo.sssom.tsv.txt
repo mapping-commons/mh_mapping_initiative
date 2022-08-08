@@ -1,0 +1,104 @@
+#mapping_set_id: MGI_Scoliosis_MP_HPO									
+#mapping_set_title: Phenotypes for Scoliosis models									
+"#mapping_set_description: Phenotypes are the set of Mammalian Phenotype ontology (MP) terms that are annotated to mouse genotypes annotated as models of the human disease Scoliosis (DOID:0060249) or its child term idiopathic scoliosis (DOID:0060250). Genotypes and annotated MP terms were extracted from MouseMine (7/28/22) using the templates and list functions. Use of skos mappings terms: exact match: MP term is the same as the HPO term, ignoring that the HP term applies only to humans; broad match: MP term covers more than the HPO term; narrow match: MP term is more restircted than the HPO term, ignoring the species restriction; related match: MP term and HPO term share some similarity but would not have a parent-child relation in a shared ontology"									
+#creator_id: orcid:0000-0003-4606-0597|ror:021sy4w91|wikidata:Q1951035									
+#license: https://creativecommons.org/licenses/by/4.0/									
+#mapping_set_group: MGI_MP_HPO									
+#object_source: http://purl.obolibrary.org/hp.owl 									
+#subject_source: http://purl.obolibrary.org/mp.owl 									
+#curie_map:									
+# HP: http://purl.obolibrary.org/obo/HP_									
+# MP: http://purl.obolibrary.org/obo/MP_									
+# skos: http://www.w3.org/2004/02/skos/core/									
+# orcid: https://orcid.org/									
+# ror: https://ror.org/									
+# wikidata: https://www.wikidata.org/wiki/									
+subject_label	subject_id	object_label	object_id	predicate_id	match_type	confidence	author_id	mapping_date	comment
+MP term name	MP ID			skos term		from 0-1	ORCID	Year-Month-Day	
+abnormal appendicular skeleton morphology	MP:0009250	Abnormal appendicular skeleton morphology	HP:0011844	skos:exactMatch	HumanCurated	1	orcid:0000-0003-4606-0597	7/28/2022	
+abnormal axial skeleton morphology	MP:0002114	Abnormal axial skeleton morphology	HP:0009121	skos:exactMatch	HumanCurated	1	orcid:0000-0003-4606-0597	7/28/2022	note MP def. does not mention ribs and sternum but these are included in the child terms
+abnormal bone marrow cell morphology/development	MP:0002398	Abnormality of bone marrow cell morphology	HP:0005561	skos:broadMatch	HumanCurated	0.9	orcid:0000-0003-4606-0597	7/28/2022	MP term includes developmental cell types that may not be included in the HP term
+abnormal bone mineralization	MP:0002896	Abnormality of bone mineral density	HP:0004348	skos:relatedMatch	HumanCurated	0.8	orcid:0000-0003-4606-0597	7/28/2022	"MP term is about the process, HP term is about the morphological outcome, note the MP has a separate term for abnormal bone mineral density"
+abnormal bone ossification	MP:0008271	Abnormal bone ossification	HP:0011849	skos:closeMatch	HumanCurated	0.9	orcid:0000-0003-4606-0597	7/28/2022	"while the terms have the same label and text definition, the child terms are distinct as MP term is on the physiology branch and is about the process, both use GO term in eq, HPO term is on the morphology branch and has child terms about morphological outcomes"
+abnormal carpal bone morphology	MP:0000554	Abnormal carpal morphology	HP:0001191	skos:exactMatch	HumanCurated	0.8	orcid:0000-0003-4606-0597	7/28/2022	
+abnormal chondrocyte morphology	MP:0000166	Abnormal chondrocyte morphology	HP:0032929	skos:exactMatch	HumanCurated	1	orcid:0000-0003-4606-0597	7/28/2022	
+abnormal clavicle morphology	MP:0005298	Abnormal clavicle morphology	HP:0000889	skos:exactMatch	HumanCurated	1	orcid:0000-0003-4606-0597	7/28/2022	
+abnormal cranium morphology	MP:0000438	Abnormal skull morphology	HP:0000929	skos:exactMatch	HumanCurated	1	orcid:0000-0003-4606-0597	7/28/2022	note there is a synonym match between the MP term and the HPO term Abnormality of the calvaria but these are not exact matches
+abnormal endochondral bone ossification	MP:0008272	Abnormal enchondral ossification	HP:0003336	skos:closeMatch	HumanCurated	0.9	orcid:0000-0003-4606-0597	7/28/2022	"HPO definition states ""process"" but placement is under morphology"
+abnormal gait	MP:0001406	Gait disturbance	HP:0001288	skos:exactMatch	HumanCurated	1	orcid:0000-0003-4606-0597	7/28/2022	
+abnormal intervertebral disk development	MP:0005229	Abnormal intervertebral disk morphology	HP:0005108	skos:narrowMatch	HumanCurated	1	orcid:0000-0003-4606-0597	7/28/2022	
+abnormal intervertebral disk morphology	MP:0004173	Abnormal intervertebral disk morphology	HP:0005108	skos:exactMatch	HumanCurated	1	orcid:0000-0003-4606-0597	7/28/2022	
+abnormal intramembranous bone ossification	MP:0008273	Abnormal intramembranous ossification	HP:0012790	skos:closeMatch	HumanCurated	0.9	orcid:0000-0003-4606-0597	7/28/2022	"HPO definition states ""process"" but placement is under morphology"
+abnormal knee joint morphology	MP:0030837	Abnormality of the knee	HP:0002815	skos:narrowMatch	HumanCurated	1	orcid:0000-0003-4606-0597	7/28/2022	
+abnormal lumbar vertebrae morphology	MP:0003049	Abnormal vertebral morphology	HP:0003468	skos:narrowMatch	HumanCurated	1	orcid:0000-0003-4606-0597	7/28/2022	
+abnormal lumbar vertebrae morphology	MP:0003049	Abnormal lumbar spine morphology	HP:0100712	skos:narrowMatch	HumanCurated	0.9	orcid:0000-0003-4606-0597	7/28/2022	"HP definition "" lumbar vertebral column"" which I assume would include non-vertebral elements, also this is a sibling of the vertebral term"
+abnormal metatarsal bone morphology	MP:0003072	Abnormal metatarsal morphology	HP:0001832	skos:exactMatch	HumanCurated	1	orcid:0000-0003-4606-0597	7/28/2022	
+abnormal nucleus pulposus morphology	MP:0006392	Abnormal intervertebral disk morphology	HP:0005108	skos:narrowMatch	HumanCurated	1	orcid:0000-0003-4606-0597	7/29/2022	
+abnormal phalanx morphology	MP:0005306	Abnormal digit morphology	HP:0011297	skos:narrowMatch	HumanCurated	1	orcid:0000-0003-4606-0597	7/29/2022	
+abnormal proprioceptive neuron morphology	MP:0004297	Abnormal neuron morphology	HP:0012757	skos:narrowMatch	HumanCurated	1	orcid:0000-0003-4606-0597	7/29/2022	
+abnormal skeleton development	MP:0002113	Abnormal skeletal morphology	HP:0011842	skos:narrowMatch	HumanCurated	1	orcid:0000-0003-4606-0597	7/29/2022	
+abnormal skeleton morphology	MP:0005508	Abnormal skeletal morphology	HP:0011842	skos:exactMatch	HumanCurated	1	orcid:0000-0003-4606-0597	7/29/2022	
+abnormal spine curvature	MP:0004174	Abnormality of the curvature of the vertebral column	HP:0010674	skos:exactMatch	HumanCurated	1	orcid:0000-0003-4606-0597	7/29/2022	
+abnormal sternebra morphology	MP:0004322	Abnormal sternum morphology	HP:0000766	skos:narrowMatch	HumanCurated	1	orcid:0000-0003-4606-0597	7/29/2022	
+abnormal sternocostal joint morphology	MP:0008148	Abnormality of the synovia	HP:0005262	skos:narrowMatch	HumanCurated	1	orcid:0000-0003-4606-0597	7/29/2022	
+abnormal sternum morphology	MP:0000157	Abnormal sternum morphology	HP:0000766	skos:exactMatch	HumanCurated	1	orcid:0000-0003-4606-0597	7/29/2022	
+abnormal trabecular bone morphology	MP:0000130	Abnormal trabecular bone morphology	HP:0100671	skos:exactMatch	HumanCurated	1	orcid:0000-0003-4606-0597	7/29/2022	MP and HP eqs use different Uberon terms
+abnormal vertebrae morphology	MP:0000137	Abnormal vertebral morphology	HP:0003468	skos:exactMatch	HumanCurated	1	orcid:0000-0003-4606-0597	7/29/2022	
+abnormal vertebral articular process morphology	MP:0004602	Vertebral arch anomaly	HP:0008438	skos:narrowMatch	HumanCurated	1	orcid:0000-0003-4606-0597	7/29/2022	
+abnormal vertebral body development	MP:0005227	Abnormal form of the vertebral bodies	HP:0003312	skos:narrowMatch	HumanCurated	1	orcid:0000-0003-4606-0597	7/29/2022	MP has body and arch as siblings but HP has arch as a child of body but both use the same Uberon term
+abnormal vertebral body morphology	MP:0000141	Abnormal form of the vertebral bodies	HP:0003312	skos:exactMatch	HumanCurated	1	orcid:0000-0003-4606-0597	7/29/2022	
+abnormal vertebral column morphology	MP:0004703	Abnormality of the vertebral column	HP:0000925	skos:exactMatch	HumanCurated	1	orcid:0000-0003-4606-0597	7/29/2022	
+abnormal vertebral epiphyseal plate morphology	MP:0006394	Abnormal vertebral morphology	HP:0003468	skos:narrowMatch	HumanCurated	1	orcid:0000-0003-4606-0597	7/29/2022	
+abnormal vertebral spinous process morphology	MP:0004601	Abnormality of the vertebral spinous processes	HP:0008516	skos:exactMatch	HumanCurated	1	orcid:0000-0003-4606-0597	7/29/2022	
+abnormal vertebral transverse process morphology	MP:0004600	Vertebral arch anomaly	HP:0008438	skos:narrowMatch	HumanCurated	1	orcid:0000-0003-4606-0597	7/29/2022	
+absent proprioceptive neurons	MP:0008467	Abnormal neuron morphology	HP:0012757	skos:narrowMatch	HumanCurated	1	orcid:0000-0003-4606-0597	7/29/2022	
+absent talus	MP:0005110	Talar aplasia	HP:0033977	skos:broadMatch	HumanCurated	1	orcid:0000-0003-4606-0597	7/29/2022	"MP does not specify ""congentital"" "
+ataxia	MP:0001393	Ataxia	HP:0001251	skos:broadMatch	HumanCurated	1	orcid:0000-0003-4606-0597	7/29/2022	"HPO term is limited to cerebellar ataxia ans specifically excludes sensory, the MP term does not specify cerebellar so I think it would include both"
+bowed radius	MP:0004374	Radial bowing	HP:0002986	skos:exactMatch	HumanCurated	1	orcid:0000-0003-4606-0597	7/29/2022	
+calcified intervertebral disk	MP:0004685	Intervertebral disk calcification	HP:0005645	skos:exactMatch	HumanCurated	1	orcid:0000-0003-4606-0597	7/29/2022	"MP def has ""process"" in the text but is placed under morphology, we should review this, fixed"
+decreased body fat mass	MP:0014143	Decreased body fat percentage	HP:0041079	skos:relatedMatch	HumanCurated	0.9	orcid:0000-0003-4606-0597	7/29/2022	
+decreased body size	MP:0001265	Growth abnormality	HP:0001507	skos:narrowMatch	HumanCurated	1	orcid:0000-0003-4606-0597	7/29/2022	
+decreased body weight	MP:0001262	Decreased body weight	HP:0004325	skos:exactMatch	HumanCurated	1	orcid:0000-0003-4606-0597	7/29/2022	
+decreased bone mass	MP:0004016	Abnormal bone structure	HP:0003330	skos:narrowMatch	HumanCurated	1	orcid:0000-0003-4606-0597	7/29/2022	
+decreased bone mineral content	MP:0010124	Abnormal bone structure	HP:0003330	skos:narrowMatch	HumanCurated	1	orcid:0000-0003-4606-0597	7/29/2022	
+decreased bone mineral density	MP:0000063	Reduced bone mineral density	HP:0004349	skos:exactMatch	HumanCurated	1	orcid:0000-0003-4606-0597	7/29/2022	
+decreased bone volume	MP:0010876	Abnormal bone structure	HP:0003330	skos:narrowMatch	HumanCurated	1	orcid:0000-0003-4606-0597	7/29/2022	
+decreased compact bone thickness	MP:0000135	Thin bony cortex	HP:0002753	skos:exactMatch	HumanCurated	1	orcid:0000-0003-4606-0597	7/29/2022	
+decreased compact bone volume	MP:0010965	Abnormal cortical bone morphology	HP:0003103	skos:narrowMatch	HumanCurated	1	orcid:0000-0003-4606-0597	7/29/2022	
+decreased diameter of femur	MP:0008152	Abnormality of femur morphology	HP:0002823	skos:narrowMatch	HumanCurated	1	orcid:0000-0003-4606-0597	7/29/2022	
+decreased lean body mass	MP:0003961	Abnormality of body weight	HP:0004323	skos:narrowMatch	HumanCurated	0.8	orcid:0000-0003-4606-0597	7/29/2022	"mapping based on definition of HP term ""An abnormal increase or decrease of weight or an abnormal distribution of mass in the body."" primarily the statement about distribution"
+decreased length of long bones	MP:0004686	Short long bone	HP:0003026	skos:exactMatch	HumanCurated	1	orcid:0000-0003-4606-0597	7/29/2022	
+decreased osteoblast cell number	MP:0004989	Abnormal bone structure	HP:0003330	skos:narrowMatch	HumanCurated	1	orcid:0000-0003-4606-0597	8/1/2022	
+decreased skeletal muscle fiber size	MP:0009400	Abnormality of skeletal muscle fiber size	HP:0012084	skos:narrowMatch	HumanCurated	1	orcid:0000-0003-4606-0597	8/1/2022	
+decreased trabecular bone thickness	MP:0009346	Abnormal trabecular bone morphology	HP:0100671	skos:narrowMatch	HumanCurated	1	orcid:0000-0003-4606-0597	8/1/2022	
+decreased trabecular bone volume	MP:0010879	Abnormal trabecular bone morphology	HP:0100671	skos:narrowMatch	HumanCurated	1	orcid:0000-0003-4606-0597	8/1/2022	
+decreased volumetric bone mineral density	MP:0013616	Reduced bone mineral density	HP:0004349	skos:narrowMatch	HumanCurated	1	orcid:0000-0003-4606-0597	8/1/2022	
+decreased width of hypertrophic chondrocyte zone	MP:0003409	Abnormal cartilage morphology	HP:0002763	skos:narrowMatch	HumanCurated	1	orcid:0000-0003-4606-0597	8/1/2022	
+delayed bone ossification	MP:0000060	Abnormal bone ossification	HP:0011849	skos:relatedMatch	HumanCurated	1	orcid:0000-0003-4606-0597	8/1/2022	MP term is in the physiology branch HO term is in the morphology branch
+delayed endochondral bone ossification	MP:0003419	Abnormal bone ossification	HP:0011849	skos:relatedMatch	HumanCurated	1	orcid:0000-0003-4606-0597	8/1/2022	MP term is in the physiology branch HO term is in the morphology branch
+distended abdomen	MP:0001270	Abdominal distention	HP:0003270	skos:exactMatch	HumanCurated	1	orcid:0000-0003-4606-0597	8/1/2022	
+ectopic cartilage	MP:0003869	Abnormal cartilage morphology	HP:0002763	skos:narrowMatch	HumanCurated	1	orcid:0000-0003-4606-0597	8/1/2022	
+exostosis	MP:0009877	Exostoses	HP:0100777	skos:exactMatch	HumanCurated	1	orcid:0000-0003-4606-0597	8/1/2022	
+fragile skeleton	MP:0000061	Increased susceptibility to fractures	HP:0002659	skos:exactMatch	HumanCurated	1	orcid:0000-0003-4606-0597	8/1/2022	
+fused joints	MP:0003189	Synostosis of joints	HP:0100240	skos:exactMatch	HumanCurated	1	orcid:0000-0003-4606-0597	8/2/2022	
+fusion of vertebral arches	MP:0004613	Vertebral fusion	HP:0002948	skos:narrowMatch	HumanCurated	1	orcid:0000-0003-4606-0597	8/2/2022	
+fusion of vertebral bodies	MP:0004612	Vertebral fusion	HP:0002948	skos:narrowMatch	HumanCurated	1	orcid:0000-0003-4606-0597	8/2/2022	
+homeostasis/metabolism phenotype	MP:0005376	Abnormality of metabolism/homeostasis	HP:0001939	skos:exactMatch	HumanCurated	1	orcid:0000-0003-4606-0597	8/2/2022	
+ischuria	MP:0003622	Urinary retention	HP:0000016	skos:exactMatch	HumanCurated	1	orcid:0000-0003-4606-0597	8/2/2022	
+kyphoscoliosis	MP:0000069	Kyphoscoliosis	HP:0002751	skos:exactMatch	HumanCurated	1	orcid:0000-0003-4606-0597	8/2/2022	
+kyphosis	MP:0000160	Kyphosis	HP:0002808	skos:exactMatch	HumanCurated	1	orcid:0000-0003-4606-0597	8/2/2022	
+lordosis	MP:0000162	Hyperlordosis	HP:0003307	skos:exactMatch	HumanCurated	1	orcid:0000-0003-4606-0597	8/2/2022	
+lumbar vertebral fusion	MP:0004621	Fused lumbar vertebrae	HP:0030040	skos:exactMatch	HumanCurated	1	orcid:0000-0003-4606-0597	8/2/2022	
+paraphimosis	MP:0010033	Paraphimosis	HP:0100588	skos:exactMatch	HumanCurated	1	orcid:0000-0003-4606-0597	8/2/2022	
+premature death	MP:0002083	Age of death	HP:0011420	skos:narrowMatch	HumanCurated	1	orcid:0000-0003-4606-0597	8/2/2022	
+"preweaning lethality, complete penetrance"	MP:0011100	Age of death	HP:0011420	skos:narrowMatch	HumanCurated	1	orcid:0000-0003-4606-0597	8/2/2022	
+scoliosis	MP:0000161	Scoliosis	HP:0002650	skos:exactMatch	HumanCurated	1	orcid:0000-0003-4606-0597	8/2/2022	
+short femur	MP:0003109	Short femur	HP:0003097	skos:exactMatch	HumanCurated	1	orcid:0000-0003-4606-0597	8/2/2022	
+short humerus	MP:0004351	Short humerus	HP:0005792	skos:exactMatch	HumanCurated	1	orcid:0000-0003-4606-0597	8/2/2022	
+short ulna	MP:0004359	Abnormal morphology of ulna	HP:0040071	skos:narrowMatch	HumanCurated	1	orcid:0000-0003-4606-0597	8/2/2022	https://github.com/obophenotype/human-phenotype-ontology/issues/7615
+skeleton phenotype	MP:0005390	Abnormality of the skeletal system	HP:0000924	skos:broadMatch	HumanCurated	1	orcid:0000-0003-4606-0597	8/2/2022	
+small intervertebral disk	MP:0004682	Abnormal intervertebral disk morphology	HP:0005108	skos:narrowMatch	HumanCurated	1	orcid:0000-0003-4606-0597	8/2/2022	
+small neurocranium	MP:0030315	Abnormality of calvarial morphology	HP:0002648	skos:narrowMatch	HumanCurated	1	orcid:0000-0003-4606-0597	8/2/2022	
+small vertebrae	MP:0004610	Abnormal vertebral morphology	HP:0003468	skos:narrowMatch	HumanCurated	1	orcid:0000-0003-4606-0597	8/2/2022	
+sternebra fusion	MP:0010082	Abnormal sternum morphology	HP:0000766	skos:narrowMatch	HumanCurated	1	orcid:0000-0003-4606-0597	8/2/2022	
+vertebral fusion	MP:0004609	Vertebral fusion	HP:0002948	skos:exactMatch	HumanCurated	1	orcid:0000-0003-4606-0597	8/2/2022	
