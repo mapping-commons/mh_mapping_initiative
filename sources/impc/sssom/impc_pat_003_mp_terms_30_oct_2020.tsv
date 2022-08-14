@@ -12,7 +12,7 @@ MP:0001333	absent optic nerve	HP:0012521	Optic nerve aplasia	semapv:LogicalReaso
 MP:0006221	optic nerve hypoplasia	HP:0000609	Optic nerve hypoplasia	semapv:LexicalMatching	skos:closeMatch	
 MP:0008529	enlarged optic nerve	sssom:NoTermFound	No Term Found	SSSOMC:HumanCurated	skos:closeMatch	
 MP:000095	abnormal spinal cord morphology	HP:0002143	Abnormality of the spinal cord	semapv:LexicalMatching	skos:closeMatch	
-MP:0000703	abnormal thymus morphology	HP0000777	Abnormality of the thymus	semapv:LexicalMatching	skos:closeMatch	
+MP:0000703	abnormal thymus morphology	HP:0000777	Abnormality of the thymus	semapv:LexicalMatching	skos:closeMatch	
 MP:0000705	athymia	HP:0005359	Aplasia of the thymus	semapv:LogicalReasoning	skos:closeMatch	
 MP:0000706	small thymus	HP:0000778	Hypoplasia of the thymus	semapv:LogicalReasoning	skos:closeMatch	
 MP:0000709	enlarged thymus	HP:0010516	Thymus hyperplasia	semapv:LogicalReasoning	skos:closeMatch	
@@ -137,7 +137,6 @@ MP:0002637	small uterus	HP:0000013	Hypoplasia of the uterus	semapv:LogicalReason
 MP:0004906	enlarged uterus	HP:0100878	Enlarged uterus	semapv:LexicalMatching	skos:closeMatch	
 MP:0009084	blind uterus	sssom:NoTermFound	No Term Found	SSSOMC:HumanCurated	skos:closeMatch	
 MP:0009709	hydrometra	sssom:NoTermFound	No Term Found	SSSOMC:HumanCurated	skos:closeMatch	
-MP ontology_term	MP ontology_term_name	HP ontology_term	HP ontology_term_name	SSSOMC:HumanCurated	skos:closeMatch	
 MP:0000613	abnormal salivary gland morphology	HP:0010286	Abnormal salivary gland morphology	semapv:LexicalMatching	skos:closeMatch	
 MP:0000614	absent salivary gland	sssom:NoTermFound	No Term Found	SSSOMC:HumanCurated	skos:closeMatch	
 MP:0000618	small salivary gland	sssom:NoTermFound	No Term Found	SSSOMC:HumanCurated	skos:closeMatch	
