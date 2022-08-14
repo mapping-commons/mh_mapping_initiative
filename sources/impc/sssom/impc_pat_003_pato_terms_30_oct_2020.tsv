@@ -3,35 +3,35 @@ PATO:0000627	focal	HP:0030650	Focal	semapv:LexicalMatching	skos:exactMatch	orcid
 PATO:0001791	multifocal (preferred synonym of multi-localised)	HP:0030651	Multifocal	semapv:LexicalMatching	skos:closeMatch		
 PATO:0002402	multifocal to coalescing	HP:0030651	Multifocal	semapv:LogicalReasoning	skos:closeMatch		
 PATO:0001566	diffuse	HP:0020034	Diffuse	semapv:LexicalMatching	skos:closeMatch		
-PATO:0000632	symmetrical	sssom:NoTermFound		SSSOMC:HumanCurated	skos:closeMatch		
-PATO:0002401	random pattern	sssom:NoTermFound		SSSOMC:HumanCurated	skos:closeMatch		
+PATO:0000632	symmetrical	sssom:NoTermFound		semapv:ManualMappingCuration	skos:closeMatch		
+PATO:0002401	random pattern	sssom:NoTermFound		semapv:ManualMappingCuration	skos:closeMatch		
 PATO:0000634	unilateral	HP:0012833	Unilateral	semapv:LexicalMatching	skos:closeMatch		
 PATO:0000618	bilateral	HP:0012832	Bilateral	semapv:LexicalMatching	skos:closeMatch		
 PATO:0000366	left	HP:0012835	Left	semapv:LexicalMatching	skos:closeMatch		
 PATO:0000367	right	HP:0012834	Right	semapv:LexicalMatching	skos:closeMatch		
-PATO:0000586	increased size	sssom:NoTermFound		SSSOMC:HumanCurated	skos:closeMatch		
-PATO:0000587	decreased size	sssom:NoTermFound		SSSOMC:HumanCurated	skos:closeMatch		
-PATO:0000573	increased length	sssom:NoTermFound		SSSOMC:HumanCurated	skos:closeMatch		
-PATO:0000574	decreased length	sssom:NoTermFound		SSSOMC:HumanCurated	skos:closeMatch		
-PATO:0000411	circular	sssom:NoTermFound		SSSOMC:HumanCurated	skos:closeMatch		
-PATO:0001891	ovate	sssom:NoTermFound		SSSOMC:HumanCurated	skos:closeMatch		
-PATO:0000407	flat	sssom:NoTermFound		SSSOMC:HumanCurated	skos:closeMatch		
-PATO:0001369	raised	sssom:NoTermFound		SSSOMC:HumanCurated	skos:closeMatch		
-PATO:0002416	sunken	sssom:NoTermFound		SSSOMC:HumanCurated	skos:closeMatch		
-PATO:0000387	soft	sssom:NoTermFound		SSSOMC:HumanCurated	skos:closeMatch		
-PATO:0000386	hard	sssom:NoTermFound		SSSOMC:HumanCurated	skos:closeMatch		
-PATO:0002406	friable	sssom:NoTermFound		SSSOMC:HumanCurated	skos:closeMatch		
-PATO:0002376	inflated	sssom:NoTermFound		SSSOMC:HumanCurated	skos:closeMatch		
-PATO:0002409	fluid-filled	sssom:NoTermFound		SSSOMC:HumanCurated	skos:closeMatch		
-PATO:0002408	watery	sssom:NoTermFound		SSSOMC:HumanCurated	skos:closeMatch		
-PATO:0000322	red	sssom:NoTermFound		SSSOMC:HumanCurated	skos:closeMatch		
-PATO:0000317	black	sssom:NoTermFound		SSSOMC:HumanCurated	skos:closeMatch		
-PATO:0000952	brown	sssom:NoTermFound		SSSOMC:HumanCurated	skos:closeMatch		
-PATO:0000954	pink	sssom:NoTermFound		SSSOMC:HumanCurated	skos:closeMatch		
-PATO:0000950	grey	sssom:NoTermFound		SSSOMC:HumanCurated	skos:closeMatch		
-PATO:0000323	white	sssom:NoTermFound		SSSOMC:HumanCurated	skos:closeMatch		
-PATO:0002410	beige	sssom:NoTermFound		SSSOMC:HumanCurated	skos:closeMatch		
-PATO:0000318	blue	sssom:NoTermFound		SSSOMC:HumanCurated	skos:closeMatch		
-PATO:0000320	green	sssom:NoTermFound		SSSOMC:HumanCurated	skos:closeMatch		
-PATO:0000324	yellow	sssom:NoTermFound		SSSOMC:HumanCurated	skos:closeMatch		
-PATO:0002274	mottled	sssom:NoTermFound		SSSOMC:HumanCurated	skos:closeMatch		
+PATO:0000586	increased size	sssom:NoTermFound		semapv:ManualMappingCuration	skos:closeMatch		
+PATO:0000587	decreased size	sssom:NoTermFound		semapv:ManualMappingCuration	skos:closeMatch		
+PATO:0000573	increased length	sssom:NoTermFound		semapv:ManualMappingCuration	skos:closeMatch		
+PATO:0000574	decreased length	sssom:NoTermFound		semapv:ManualMappingCuration	skos:closeMatch		
+PATO:0000411	circular	sssom:NoTermFound		semapv:ManualMappingCuration	skos:closeMatch		
+PATO:0001891	ovate	sssom:NoTermFound		semapv:ManualMappingCuration	skos:closeMatch		
+PATO:0000407	flat	sssom:NoTermFound		semapv:ManualMappingCuration	skos:closeMatch		
+PATO:0001369	raised	sssom:NoTermFound		semapv:ManualMappingCuration	skos:closeMatch		
+PATO:0002416	sunken	sssom:NoTermFound		semapv:ManualMappingCuration	skos:closeMatch		
+PATO:0000387	soft	sssom:NoTermFound		semapv:ManualMappingCuration	skos:closeMatch		
+PATO:0000386	hard	sssom:NoTermFound		semapv:ManualMappingCuration	skos:closeMatch		
+PATO:0002406	friable	sssom:NoTermFound		semapv:ManualMappingCuration	skos:closeMatch		
+PATO:0002376	inflated	sssom:NoTermFound		semapv:ManualMappingCuration	skos:closeMatch		
+PATO:0002409	fluid-filled	sssom:NoTermFound		semapv:ManualMappingCuration	skos:closeMatch		
+PATO:0002408	watery	sssom:NoTermFound		semapv:ManualMappingCuration	skos:closeMatch		
+PATO:0000322	red	sssom:NoTermFound		semapv:ManualMappingCuration	skos:closeMatch		
+PATO:0000317	black	sssom:NoTermFound		semapv:ManualMappingCuration	skos:closeMatch		
+PATO:0000952	brown	sssom:NoTermFound		semapv:ManualMappingCuration	skos:closeMatch		
+PATO:0000954	pink	sssom:NoTermFound		semapv:ManualMappingCuration	skos:closeMatch		
+PATO:0000950	grey	sssom:NoTermFound		semapv:ManualMappingCuration	skos:closeMatch		
+PATO:0000323	white	sssom:NoTermFound		semapv:ManualMappingCuration	skos:closeMatch		
+PATO:0002410	beige	sssom:NoTermFound		semapv:ManualMappingCuration	skos:closeMatch		
+PATO:0000318	blue	sssom:NoTermFound		semapv:ManualMappingCuration	skos:closeMatch		
+PATO:0000320	green	sssom:NoTermFound		semapv:ManualMappingCuration	skos:closeMatch		
+PATO:0000324	yellow	sssom:NoTermFound		semapv:ManualMappingCuration	skos:closeMatch		
+PATO:0002274	mottled	sssom:NoTermFound		semapv:ManualMappingCuration	skos:closeMatch		

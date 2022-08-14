@@ -7,9 +7,9 @@ MP:0002100	abnormal tooth morphology	HP:0006482	Abnormality of dental morphology
 MP:0000150	abnormal rib morphology	HP:0001547	Abnormality of the rib cage	semapv:LogicalReasoning	skos:closeMatch	
 MP:0010099	abnormal thoracic cage shape	HP:0001547	Abnormality of the rib cage	semapv:LogicalReasoning	skos:closeMatch	
 MP:0000154	rib fusion	HP:0000902	Rib fusion	semapv:LexicalMatching	skos:closeMatch	
-MP:0000480	increased rib number	sssom:NoTermFound	No term found	SSSOMC:HumanCurated	skos:closeMatch	
+MP:0000480	increased rib number	sssom:NoTermFound	No term found	semapv:ManualMappingCuration	skos:closeMatch	
 MP:0003345	decreased rib number	HP:0000921	Missing ribs	semapv:LogicalReasoning	skos:closeMatch	
-MP:0000480	increased rib number	sssom:NoTermFound	No term found	SSSOMC:HumanCurated	skos:closeMatch	
+MP:0000480	increased rib number	sssom:NoTermFound	No term found	semapv:ManualMappingCuration	skos:closeMatch	
 MP:0003345	decreased rib number	HP:0000921	Missing ribs	semapv:LogicalReasoning	skos:closeMatch	
 MP:0003048	abnormal cervical vertebrae morphology	HP:0003468	Abnormal vertebral morphology	semapv:LexicalMatching	skos:closeMatch	
 MP:0004599	abnormal vertebral arch morphology	HP:0008438	Vertebral arch anomaly	semapv:LexicalMatching	skos:closeMatch	
