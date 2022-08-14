@@ -6,12 +6,15 @@
 #   rdfs: http://www.w3.org/2000/01/rdf-schema#
 #   skos: http://www.w3.org/2004/02/skos/core#
 #   sssom: https://w3id.org/sssom/
+#   wikidata: https://www.wikidata.org/wiki/
+#   obo: http://purl.obolibrary.org/obo/
+#   semapv: https://w3id.org/semapv/
 # license: https://creativecommons.org/publicdomain/zero/1.0/
 # mapping_provider: https://www.pistoiaalliance.org/projects/current-projects/ontologies-mapping/
 # mapping_set_description: 'The Pistoia Ontology Mappings: mp_hp'
 # mapping_set_id: mp_hp_pistoia
-# object_source: http://purl.obolibrary.org/hp.owl
-# subject_source: http://purl.obolibrary.org/mp.owl
+# object_source: obo:hp
+# subject_source: obo:mp
 subject_id	predicate_id	object_id	mapping_justification	confidence
 MP:0000003	owl:equivalentClass	HP:0009124	semapv:UnspecifiedMatching	0.75
 MP:0000015	owl:equivalentClass	HP:0001000	semapv:UnspecifiedMatching	0.22826
