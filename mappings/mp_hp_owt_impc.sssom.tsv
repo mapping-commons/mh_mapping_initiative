@@ -1,4 +1,4 @@
-# creator_id: https://orcid.org/0000-0002-2232-0967
+# creator_id: orcid:0000-0002-2232-0967
 # curie_map:
 #   HP: http://purl.obolibrary.org/obo/HP_
 #   MP: http://purl.obolibrary.org/obo/MP_
@@ -7,42 +7,45 @@
 #   rdfs: http://www.w3.org/2000/01/rdf-schema#
 #   skos: http://www.w3.org/2004/02/skos/core#
 #   sssom: https://w3id.org/sssom/
+#   orcid: https://orcid.org/
+#   obo: http://purl.obolibrary.org/obo/
+#   semapv: https://w3id.org/semapv/
 # license: https://creativecommons.org/publicdomain/zero/1.0/
 # mapping_provider: https://www.mousephenotype.org
 # mapping_set_description: 'The IMPC Mouse Morphology Mappings: Organ Weight Test'
 # mapping_set_id: mp_hp_owt_impc
-subject_id	subject_label	predicate_id	object_id	object_label	mapping_justification	reviewer_id
-MP:0001259	abnormal body weight	skos:exactMatch	HP:0004323	Abnormality of body weight	semapv:LexicalMatching	orcid:0000-0002-7356-1779
-MP:0001260	increased body weight	skos:exactMatch	HP:0004324	Increased body weight	semapv:LexicalMatching	orcid:0000-0002-7356-1779
-MP:0001262	decreased body weight	skos:exactMatch	HP:0004325	Decreased body weight	semapv:LexicalMatching	orcid:0000-0002-7356-1779
-MP:0002707	abnormal kidney weight	skos:closeMatch	HP:0000077	Abnormality of the kidney	semapv:LogicalReasoning	
-MP:0002707	abnormal kidney weight	skos:closeMatch	HP:0000077	Abnormality of the kidney	semapv:LogicalReasoning	
-MP:0002981	increased liver weight	skos:closeMatch	sssom:NoTermFound	No Term Found	semapv:ManualMappingCuration	
-MP:0003402	decreased liver weight	skos:closeMatch	sssom:NoTermFound	No Term Found	semapv:ManualMappingCuration	
-MP:0003917	increased kidney weight	skos:closeMatch	sssom:NoTermFound	No Term Found	semapv:ManualMappingCuration	
-MP:0003917	increased kidney weight	skos:closeMatch	sssom:NoTermFound	No Term Found	semapv:ManualMappingCuration	
-MP:0003918	decreased kidney weight	skos:closeMatch	sssom:NoTermFound	No Term Found	semapv:ManualMappingCuration	
-MP:0003918	decreased kidney weight	skos:closeMatch	sssom:NoTermFound	No Term Found	semapv:ManualMappingCuration	
-MP:0004847	abnormal liver weight	skos:closeMatch	HP:0001392	Abnormality of the liver	semapv:LogicalReasoning	
-MP:0004850	abnormal testis weight	skos:closeMatch	HP:0000035	Abnormal testis morphology	semapv:LogicalReasoning	
-MP:0004850	abnormal testis weight	skos:closeMatch	HP:0000035	Abnormal testis morphology	semapv:LogicalReasoning	
-MP:0004851	increased testis weight	skos:closeMatch	sssom:NoTermFound	No Term Found	semapv:ManualMappingCuration	
-MP:0004851	increased testis weight	skos:closeMatch	sssom:NoTermFound	No Term Found	semapv:ManualMappingCuration	
-MP:0004852	decreased testis weight	skos:closeMatch	sssom:NoTermFound	No Term Found	semapv:ManualMappingCuration	
-MP:0004852	decreased testis weight	skos:closeMatch	sssom:NoTermFound	No Term Found	semapv:ManualMappingCuration	
-MP:0004908	abnormal seminal vesicle weight	skos:closeMatch	sssom:NoTermFound	No Term Found	semapv:ManualMappingCuration	
-MP:0004909	increased seminal vesicle weight	skos:closeMatch	sssom:NoTermFound	No Term Found	semapv:ManualMappingCuration	
-MP:0004910	decreased seminal vesicle weight	skos:closeMatch	sssom:NoTermFound	No Term Found	semapv:ManualMappingCuration	
-MP:0004927	abnormal epididymis weight	skos:closeMatch	HP:0009714	Abnormality of the epididymis	semapv:LogicalReasoning	
-MP:0004928	increased epididymis weight	skos:closeMatch	sssom:NoTermFound	No Term Found	semapv:ManualMappingCuration	
-MP:0004929	decreased epididymis weight	skos:closeMatch	sssom:NoTermFound	No Term Found	semapv:ManualMappingCuration	
-MP:0004951	abnormal spleen weight	skos:narrowMatch	HP:0001743	Abnormality of the spleen	semapv:LogicalReasoning	orcid:0000-0002-7356-1779
-MP:0004952	increased spleen weight	skos:closeMatch	sssom:NoTermFound	No Term Found	semapv:ManualMappingCuration	
-MP:0004953	decreased spleen weight	skos:closeMatch	sssom:NoTermFound	No Term Found	semapv:ManualMappingCuration	
-MP:0005629	abnormal lung weight	skos:closeMatch	HP:0002088	Abnormal lung morphology	semapv:LogicalReasoning	
-MP:0005629	abnormal lung weight	skos:closeMatch	HP:0002088	Abnormal lung morphology	semapv:LogicalReasoning	
-MP:0005630	increased lung weight	skos:closeMatch	sssom:NoTermFound	No Term Found	semapv:ManualMappingCuration	
-MP:0005630	increased lung weight	skos:closeMatch	sssom:NoTermFound	No Term Found	semapv:ManualMappingCuration	
-MP:0005631	decreased lung weight	skos:closeMatch	sssom:NoTermFound	No Term Found	semapv:ManualMappingCuration	
-MP:0005631	decreased lung weight	skos:closeMatch	sssom:NoTermFound	No Term Found	semapv:ManualMappingCuration	
+subject_id	subject_label	predicate_id	object_id	object_label	mapping_justification
+MP:0001259	abnormal body weight	skos:exactMatch	HP:0004323	Abnormality of body weight	semapv:LexicalMatching
+MP:0001260	increased body weight	skos:exactMatch	HP:0004324	Increased body weight	semapv:LexicalMatching
+MP:0001262	decreased body weight	skos:exactMatch	HP:0004325	Decreased body weight	semapv:LexicalMatching
+MP:0002707	abnormal kidney weight	skos:closeMatch	HP:0000077	Abnormality of the kidney	semapv:LogicalReasoning
+MP:0002707	abnormal kidney weight	skos:closeMatch	HP:0000077	Abnormality of the kidney	semapv:LogicalReasoning
+MP:0002981	increased liver weight	skos:closeMatch	sssom:NoTermFound	No Term Found	semapv:ManualMappingCuration
+MP:0003402	decreased liver weight	skos:closeMatch	sssom:NoTermFound	No Term Found	semapv:ManualMappingCuration
+MP:0003917	increased kidney weight	skos:closeMatch	sssom:NoTermFound	No Term Found	semapv:ManualMappingCuration
+MP:0003917	increased kidney weight	skos:closeMatch	sssom:NoTermFound	No Term Found	semapv:ManualMappingCuration
+MP:0003918	decreased kidney weight	skos:closeMatch	sssom:NoTermFound	No Term Found	semapv:ManualMappingCuration
+MP:0003918	decreased kidney weight	skos:closeMatch	sssom:NoTermFound	No Term Found	semapv:ManualMappingCuration
+MP:0004847	abnormal liver weight	skos:closeMatch	HP:0001392	Abnormality of the liver	semapv:LogicalReasoning
+MP:0004850	abnormal testis weight	skos:closeMatch	HP:0000035	Abnormal testis morphology	semapv:LogicalReasoning
+MP:0004850	abnormal testis weight	skos:closeMatch	HP:0000035	Abnormal testis morphology	semapv:LogicalReasoning
+MP:0004851	increased testis weight	skos:closeMatch	sssom:NoTermFound	No Term Found	semapv:ManualMappingCuration
+MP:0004851	increased testis weight	skos:closeMatch	sssom:NoTermFound	No Term Found	semapv:ManualMappingCuration
+MP:0004852	decreased testis weight	skos:closeMatch	sssom:NoTermFound	No Term Found	semapv:ManualMappingCuration
+MP:0004852	decreased testis weight	skos:closeMatch	sssom:NoTermFound	No Term Found	semapv:ManualMappingCuration
+MP:0004908	abnormal seminal vesicle weight	skos:closeMatch	sssom:NoTermFound	No Term Found	semapv:ManualMappingCuration
+MP:0004909	increased seminal vesicle weight	skos:closeMatch	sssom:NoTermFound	No Term Found	semapv:ManualMappingCuration
+MP:0004910	decreased seminal vesicle weight	skos:closeMatch	sssom:NoTermFound	No Term Found	semapv:ManualMappingCuration
+MP:0004927	abnormal epididymis weight	skos:closeMatch	HP:0009714	Abnormality of the epididymis	semapv:LogicalReasoning
+MP:0004928	increased epididymis weight	skos:closeMatch	sssom:NoTermFound	No Term Found	semapv:ManualMappingCuration
+MP:0004929	decreased epididymis weight	skos:closeMatch	sssom:NoTermFound	No Term Found	semapv:ManualMappingCuration
+MP:0004951	abnormal spleen weight	skos:narrowMatch	HP:0001743	Abnormality of the spleen	semapv:LogicalReasoning
+MP:0004952	increased spleen weight	skos:closeMatch	sssom:NoTermFound	No Term Found	semapv:ManualMappingCuration
+MP:0004953	decreased spleen weight	skos:closeMatch	sssom:NoTermFound	No Term Found	semapv:ManualMappingCuration
+MP:0005629	abnormal lung weight	skos:closeMatch	HP:0002088	Abnormal lung morphology	semapv:LogicalReasoning
+MP:0005629	abnormal lung weight	skos:closeMatch	HP:0002088	Abnormal lung morphology	semapv:LogicalReasoning
+MP:0005630	increased lung weight	skos:closeMatch	sssom:NoTermFound	No Term Found	semapv:ManualMappingCuration
+MP:0005630	increased lung weight	skos:closeMatch	sssom:NoTermFound	No Term Found	semapv:ManualMappingCuration
+MP:0005631	decreased lung weight	skos:closeMatch	sssom:NoTermFound	No Term Found	semapv:ManualMappingCuration
+MP:0005631	decreased lung weight	skos:closeMatch	sssom:NoTermFound	No Term Found	semapv:ManualMappingCuration
 

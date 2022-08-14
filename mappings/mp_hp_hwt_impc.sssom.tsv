@@ -1,4 +1,4 @@
-# creator_id: https://orcid.org/0000-0002-2232-0967
+# creator_id: orcid:0000-0002-2232-0967
 # curie_map:
 #   HP: http://purl.obolibrary.org/obo/HP_
 #   MP: http://purl.obolibrary.org/obo/MP_
@@ -7,6 +7,9 @@
 #   rdfs: http://www.w3.org/2000/01/rdf-schema#
 #   skos: http://www.w3.org/2004/02/skos/core#
 #   sssom: https://w3id.org/sssom/
+#   orcid: https://orcid.org/
+#   obo: http://purl.obolibrary.org/obo/
+#   semapv: https://w3id.org/semapv/
 # license: https://creativecommons.org/publicdomain/zero/1.0/
 # mapping_provider: https://www.mousephenotype.org
 # mapping_set_description: 'The IMPC Mouse Morphology Mappings: Heart Weight Test'
