@@ -28,3 +28,7 @@
    - skos:exactMatch
    - skos:narrowMatch
    - skos:broadMatch
+
+UPDATE 14 AUGUST 2022:
+
+We manually updated the mappings to use the correct format.

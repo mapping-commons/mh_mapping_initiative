@@ -1,14 +1,14 @@
-subject_id	subject_label	object_id	object_label	match_type	predicate_id	reviewer_id	comment
-PATO:0000627	focal	HP:0030650	Focal	SSSOMC:Lexical	skos:exactMatch	orcid:0000-0002-7356-1779	What is the purpose of this entire table?
-PATO:0001791	multifocal (preferred synonym of multi-localised)	HP:0030651	Multifocal	SSSOMC:Lexical	skos:closeMatch		
-PATO:0002402	multifocal to coalescing	HP:0030651	Multifocal	SSSOMC:Logical	skos:closeMatch		
-PATO:0001566	diffuse	HP:0020034	Diffuse	SSSOMC:Lexical	skos:closeMatch		
+subject_id	subject_label	object_id	object_label	mapping_justification	predicate_id	reviewer_id	comment
+PATO:0000627	focal	HP:0030650	Focal	semapv:LexicalMatching	skos:exactMatch	orcid:0000-0002-7356-1779	What is the purpose of this entire table?
+PATO:0001791	multifocal (preferred synonym of multi-localised)	HP:0030651	Multifocal	semapv:LexicalMatching	skos:closeMatch		
+PATO:0002402	multifocal to coalescing	HP:0030651	Multifocal	semapv:LogicalReasoning	skos:closeMatch		
+PATO:0001566	diffuse	HP:0020034	Diffuse	semapv:LexicalMatching	skos:closeMatch		
 PATO:0000632	symmetrical	sssom:NoTermFound		SSSOMC:HumanCurated	skos:closeMatch		
 PATO:0002401	random pattern	sssom:NoTermFound		SSSOMC:HumanCurated	skos:closeMatch		
-PATO:0000634	unilateral	HP:0012833	Unilateral	SSSOMC:Lexical	skos:closeMatch		
-PATO:0000618	bilateral	HP:0012832	Bilateral	SSSOMC:Lexical	skos:closeMatch		
-PATO:0000366	left	HP:0012835	Left	SSSOMC:Lexical	skos:closeMatch		
-PATO:0000367	right	HP:0012834	Right	SSSOMC:Lexical	skos:closeMatch		
+PATO:0000634	unilateral	HP:0012833	Unilateral	semapv:LexicalMatching	skos:closeMatch		
+PATO:0000618	bilateral	HP:0012832	Bilateral	semapv:LexicalMatching	skos:closeMatch		
+PATO:0000366	left	HP:0012835	Left	semapv:LexicalMatching	skos:closeMatch		
+PATO:0000367	right	HP:0012834	Right	semapv:LexicalMatching	skos:closeMatch		
 PATO:0000586	increased size	sssom:NoTermFound		SSSOMC:HumanCurated	skos:closeMatch		
 PATO:0000587	decreased size	sssom:NoTermFound		SSSOMC:HumanCurated	skos:closeMatch		
 PATO:0000573	increased length	sssom:NoTermFound		SSSOMC:HumanCurated	skos:closeMatch		

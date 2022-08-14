@@ -1,58 +1,58 @@
-subject_id	subject_label	object_id	object_label	match_type	predicate_id	reviewer_id
-MP:0000438	abnormal cranium morphology	HP:0002648	Abnormality of calvarial morphology	SSSOMC:Lexical	skos:closeMatch	
-MP:0005270	abnormal zygomatic bone morphology	HP:0010668	Abnormality of the zygomatic bone	SSSOMC:Lexical	skos:exactMatch	orcid:0000-0002-7356-1779
-MP:0000455	abnormal maxilla morphology	HP:0000326	Abnormality of the maxilla	SSSOMC:Lexical	skos:closeMatch	
-MP:0000458	abnormal mandible morphology	HP:0000277	Abnormality of the mandible	SSSOMC:Lexical	skos:closeMatch	
-MP:0002100	abnormal tooth morphology	HP:0006482	Abnormality of dental morphology	SSSOMC:Logical	skos:closeMatch	
-MP:0000150	abnormal rib morphology	HP:0001547	Abnormality of the rib cage	SSSOMC:Logical	skos:closeMatch	
-MP:0010099	abnormal thoracic cage shape	HP:0001547	Abnormality of the rib cage	SSSOMC:Logical	skos:closeMatch	
-MP:0000154	rib fusion	HP:0000902	Rib fusion	SSSOMC:Lexical	skos:closeMatch	
+subject_id	subject_label	object_id	object_label	mapping_justification	predicate_id	reviewer_id
+MP:0000438	abnormal cranium morphology	HP:0002648	Abnormality of calvarial morphology	semapv:LexicalMatching	skos:closeMatch	
+MP:0005270	abnormal zygomatic bone morphology	HP:0010668	Abnormality of the zygomatic bone	semapv:LexicalMatching	skos:exactMatch	orcid:0000-0002-7356-1779
+MP:0000455	abnormal maxilla morphology	HP:0000326	Abnormality of the maxilla	semapv:LexicalMatching	skos:closeMatch	
+MP:0000458	abnormal mandible morphology	HP:0000277	Abnormality of the mandible	semapv:LexicalMatching	skos:closeMatch	
+MP:0002100	abnormal tooth morphology	HP:0006482	Abnormality of dental morphology	semapv:LogicalReasoning	skos:closeMatch	
+MP:0000150	abnormal rib morphology	HP:0001547	Abnormality of the rib cage	semapv:LogicalReasoning	skos:closeMatch	
+MP:0010099	abnormal thoracic cage shape	HP:0001547	Abnormality of the rib cage	semapv:LogicalReasoning	skos:closeMatch	
+MP:0000154	rib fusion	HP:0000902	Rib fusion	semapv:LexicalMatching	skos:closeMatch	
 MP:0000480	increased rib number	sssom:NoTermFound	No term found	SSSOMC:HumanCurated	skos:closeMatch	
-MP:0003345	decreased rib number	HP:0000921	Missing ribs	SSSOMC:Logical	skos:closeMatch	
+MP:0003345	decreased rib number	HP:0000921	Missing ribs	semapv:LogicalReasoning	skos:closeMatch	
 MP:0000480	increased rib number	sssom:NoTermFound	No term found	SSSOMC:HumanCurated	skos:closeMatch	
-MP:0003345	decreased rib number	HP:0000921	Missing ribs	SSSOMC:Logical	skos:closeMatch	
-MP:0003048	abnormal cervical vertebrae morphology	HP:0003468	Abnormal vertebral morphology	SSSOMC:Lexical	skos:closeMatch	
-MP:0004599	abnormal vertebral arch morphology	HP:0008438	Vertebral arch anomaly	SSSOMC:Lexical	skos:closeMatch	
-MP:0010100	increased cervical vertebrae number	HP:0002946	Supernumerary vertebrae	SSSOMC:Logical	skos:closeMatch	
-MP:0004646	decreased cervical vertebrae number	HP:0030305	Decreased number of vertebrae	SSSOMC:Lexical	skos:closeMatch	
-MP:0003047	abnormal thoracic vertebrae morphology	HP:0003468	Abnormal vertebral morphology	SSSOMC:Lexical	skos:closeMatch	
-MP:0004599	abnormal vertebral arch morphology	HP:0008438	Vertebral arch anomaly	SSSOMC:Lexical	skos:closeMatch	
-MP:0004651	increased thoracic vertebrae number	HP:0002946	Supernumerary vertebrae	SSSOMC:Logical	skos:closeMatch	
-MP:0004648	decreased thoracic vertebrae number	HP:0030305	Decreased number of vertebrae	SSSOMC:Lexical	skos:closeMatch	
-MP:0003049	abnormal lumbar vertebrae morphology	HP:0003468	Abnormal vertebral morphology	SSSOMC:Lexical	skos:closeMatch	
-MP:0004599	abnormal vertebral arch morphology	HP:0008438	Vertebral arch anomaly	SSSOMC:Lexical	skos:closeMatch	
-MP:0004650	increased lumbar vertebrae number	HP:0002946	Supernumerary vertebrae	SSSOMC:Logical	skos:closeMatch	
-MP:0004647	decreased lumbar vertebrae number	HP:0030305	Decreased number of vertebrae	SSSOMC:Lexical	skos:closeMatch	
-MP:0004599	abnormal vertebral arch morphology	HP:0008438	Vertebral arch anomaly	SSSOMC:Lexical	skos:closeMatch	
-MP:0010101	increased sacral vertebrae number	HP:0002946	Supernumerary vertebrae	SSSOMC:Logical	skos:closeMatch	
-MP:0004649	decreased sacral vertebrae number	HP:0030305	Decreased number of vertebrae	SSSOMC:Lexical	skos:closeMatch	
-MP:0002759	abnormal caudal vertebrae morphology	HP:0003468	Abnormal vertebral morphology	SSSOMC:Lexical	skos:closeMatch	
-MP:0004599	abnormal vertebral arch morphology	HP:0008438	Vertebral arch anomaly	SSSOMC:Lexical	skos:closeMatch	
-MP:0010102	increased caudal vertebrae number	HP:0002946	Supernumerary vertebrae	SSSOMC:Logical	skos:closeMatch	
-MP:0001539	decreased caudal vertebrae number	HP:0030305	Decreased number of vertebrae	SSSOMC:Lexical	skos:closeMatch	
-MP:0000137	abnormal vertebrae morphology	HP:0003468	Abnormal vertebral morphology	SSSOMC:Lexical	skos:closeMatch	
-MP:0004609	vertebral fusion	HP:0002948	Vertebral fusion	SSSOMC:Lexical	skos:closeMatch	
-MP:0003036	vertebral transformation	HP:0003468	Abnormal vertebral morphology	SSSOMC:Logical	skos:closeMatch	
-MP:0004174	abnormal spine curvature	HP:0010674	Abnormality of the curvature of the vertebral column	SSSOMC:Logical	skos:closeMatch	
-MP:0000161	scoliosis	HP:0002650	Scoliosis	SSSOMC:Lexical	skos:closeMatch	
-MP:0000160	kyphosis	HP:0002808	Kyphosis	SSSOMC:Lexical	skos:closeMatch	
-MP:0000162	lordosis	HP:0002938	Lumbar hyperlordosis	SSSOMC:Logical	skos:closeMatch	
-MP:0004613	fusion of vertebral arches	HP:0002948	Vertebral fusion	SSSOMC:Lexical	skos:closeMatch	
-MP:0004509	abnormal pelvic girdle bone morphology	HP:0002644	Abnormality of pelvic girdle bone morphology	SSSOMC:Lexical	skos:closeMatch	
-MP:0000149	abnormal scapula morphology	HP:0000782	Abnormality of the scapula	SSSOMC:Lexical	skos:closeMatch	
-MP:0005298	abnormal clavicle morphology	HP:0000889	Abnormality of the clavicle	SSSOMC:Lexical	skos:closeMatch	
-MP:0005296	abnormal humerus morphology	HP:0031095	Abnormal humerus morphology	SSSOMC:Lexical	skos:closeMatch	
-MP:0000552	abnormal radius morphology	HP:0045009	Abnormal morphology of the radius	SSSOMC:Lexical	skos:closeMatch	
-MP:0005108	abnormal ulna morphology	HP:0040071	Abnormal morphology of ulna	SSSOMC:Lexical	skos:closeMatch	
-MP:0000559	abnormal femur morphology	HP:0002823	Abnormality of femur morphology	SSSOMC:Lexical	skos:closeMatch	
-MP:0000558	abnormal tibia morphology	HP:0002992	Abnormality of tibia morphology	SSSOMC:Lexical	skos:closeMatch	
-MP:0004357	long tibia	HP:0002992	Abnormality of tibia morphology	SSSOMC:Lexical	skos:closeMatch	
-MP:0002764	short tibia	HP:0005736	Short tibia	SSSOMC:Lexical	skos:closeMatch	
-MP:0002187	abnormal fibula morphology	HP:0002991	Abnormality of fibula morphology	SSSOMC:Lexical	skos:closeMatch	
-MP:0002932	abnormal joint morphology	HP:0001367	Abnormal joint morphology	SSSOMC:Lexical	skos:closeMatch	
-MP:0000562	polydactyly	HP:0010442	Polydactyly	SSSOMC:Lexical	skos:closeMatch	
-MP:0000565	oligodactyly	HP:0012165	Oligodactyly	SSSOMC:Lexical	skos:closeMatch	
-MP:0002110	abnormal digit morphology	HP:0011297	Abnormal digit morphology	SSSOMC:Lexical	skos:closeMatch	
-MP:0000564	syndactyly	HP:0001159	Syndactyly	SSSOMC:Lexical	skos:closeMatch	
-MP:0004083	polysyndactyly	HP:0005817	Postaxial polysyndactyly of foot	SSSOMC:Logical	skos:closeMatch	
-MP:0002544	brachydactyly	HP:0001156	Brachydactyly	SSSOMC:Lexical	skos:closeMatch	
+MP:0003345	decreased rib number	HP:0000921	Missing ribs	semapv:LogicalReasoning	skos:closeMatch	
+MP:0003048	abnormal cervical vertebrae morphology	HP:0003468	Abnormal vertebral morphology	semapv:LexicalMatching	skos:closeMatch	
+MP:0004599	abnormal vertebral arch morphology	HP:0008438	Vertebral arch anomaly	semapv:LexicalMatching	skos:closeMatch	
+MP:0010100	increased cervical vertebrae number	HP:0002946	Supernumerary vertebrae	semapv:LogicalReasoning	skos:closeMatch	
+MP:0004646	decreased cervical vertebrae number	HP:0030305	Decreased number of vertebrae	semapv:LexicalMatching	skos:closeMatch	
+MP:0003047	abnormal thoracic vertebrae morphology	HP:0003468	Abnormal vertebral morphology	semapv:LexicalMatching	skos:closeMatch	
+MP:0004599	abnormal vertebral arch morphology	HP:0008438	Vertebral arch anomaly	semapv:LexicalMatching	skos:closeMatch	
+MP:0004651	increased thoracic vertebrae number	HP:0002946	Supernumerary vertebrae	semapv:LogicalReasoning	skos:closeMatch	
+MP:0004648	decreased thoracic vertebrae number	HP:0030305	Decreased number of vertebrae	semapv:LexicalMatching	skos:closeMatch	
+MP:0003049	abnormal lumbar vertebrae morphology	HP:0003468	Abnormal vertebral morphology	semapv:LexicalMatching	skos:closeMatch	
+MP:0004599	abnormal vertebral arch morphology	HP:0008438	Vertebral arch anomaly	semapv:LexicalMatching	skos:closeMatch	
+MP:0004650	increased lumbar vertebrae number	HP:0002946	Supernumerary vertebrae	semapv:LogicalReasoning	skos:closeMatch	
+MP:0004647	decreased lumbar vertebrae number	HP:0030305	Decreased number of vertebrae	semapv:LexicalMatching	skos:closeMatch	
+MP:0004599	abnormal vertebral arch morphology	HP:0008438	Vertebral arch anomaly	semapv:LexicalMatching	skos:closeMatch	
+MP:0010101	increased sacral vertebrae number	HP:0002946	Supernumerary vertebrae	semapv:LogicalReasoning	skos:closeMatch	
+MP:0004649	decreased sacral vertebrae number	HP:0030305	Decreased number of vertebrae	semapv:LexicalMatching	skos:closeMatch	
+MP:0002759	abnormal caudal vertebrae morphology	HP:0003468	Abnormal vertebral morphology	semapv:LexicalMatching	skos:closeMatch	
+MP:0004599	abnormal vertebral arch morphology	HP:0008438	Vertebral arch anomaly	semapv:LexicalMatching	skos:closeMatch	
+MP:0010102	increased caudal vertebrae number	HP:0002946	Supernumerary vertebrae	semapv:LogicalReasoning	skos:closeMatch	
+MP:0001539	decreased caudal vertebrae number	HP:0030305	Decreased number of vertebrae	semapv:LexicalMatching	skos:closeMatch	
+MP:0000137	abnormal vertebrae morphology	HP:0003468	Abnormal vertebral morphology	semapv:LexicalMatching	skos:closeMatch	
+MP:0004609	vertebral fusion	HP:0002948	Vertebral fusion	semapv:LexicalMatching	skos:closeMatch	
+MP:0003036	vertebral transformation	HP:0003468	Abnormal vertebral morphology	semapv:LogicalReasoning	skos:closeMatch	
+MP:0004174	abnormal spine curvature	HP:0010674	Abnormality of the curvature of the vertebral column	semapv:LogicalReasoning	skos:closeMatch	
+MP:0000161	scoliosis	HP:0002650	Scoliosis	semapv:LexicalMatching	skos:closeMatch	
+MP:0000160	kyphosis	HP:0002808	Kyphosis	semapv:LexicalMatching	skos:closeMatch	
+MP:0000162	lordosis	HP:0002938	Lumbar hyperlordosis	semapv:LogicalReasoning	skos:closeMatch	
+MP:0004613	fusion of vertebral arches	HP:0002948	Vertebral fusion	semapv:LexicalMatching	skos:closeMatch	
+MP:0004509	abnormal pelvic girdle bone morphology	HP:0002644	Abnormality of pelvic girdle bone morphology	semapv:LexicalMatching	skos:closeMatch	
+MP:0000149	abnormal scapula morphology	HP:0000782	Abnormality of the scapula	semapv:LexicalMatching	skos:closeMatch	
+MP:0005298	abnormal clavicle morphology	HP:0000889	Abnormality of the clavicle	semapv:LexicalMatching	skos:closeMatch	
+MP:0005296	abnormal humerus morphology	HP:0031095	Abnormal humerus morphology	semapv:LexicalMatching	skos:closeMatch	
+MP:0000552	abnormal radius morphology	HP:0045009	Abnormal morphology of the radius	semapv:LexicalMatching	skos:closeMatch	
+MP:0005108	abnormal ulna morphology	HP:0040071	Abnormal morphology of ulna	semapv:LexicalMatching	skos:closeMatch	
+MP:0000559	abnormal femur morphology	HP:0002823	Abnormality of femur morphology	semapv:LexicalMatching	skos:closeMatch	
+MP:0000558	abnormal tibia morphology	HP:0002992	Abnormality of tibia morphology	semapv:LexicalMatching	skos:closeMatch	
+MP:0004357	long tibia	HP:0002992	Abnormality of tibia morphology	semapv:LexicalMatching	skos:closeMatch	
+MP:0002764	short tibia	HP:0005736	Short tibia	semapv:LexicalMatching	skos:closeMatch	
+MP:0002187	abnormal fibula morphology	HP:0002991	Abnormality of fibula morphology	semapv:LexicalMatching	skos:closeMatch	
+MP:0002932	abnormal joint morphology	HP:0001367	Abnormal joint morphology	semapv:LexicalMatching	skos:closeMatch	
+MP:0000562	polydactyly	HP:0010442	Polydactyly	semapv:LexicalMatching	skos:closeMatch	
+MP:0000565	oligodactyly	HP:0012165	Oligodactyly	semapv:LexicalMatching	skos:closeMatch	
+MP:0002110	abnormal digit morphology	HP:0011297	Abnormal digit morphology	semapv:LexicalMatching	skos:closeMatch	
+MP:0000564	syndactyly	HP:0001159	Syndactyly	semapv:LexicalMatching	skos:closeMatch	
+MP:0004083	polysyndactyly	HP:0005817	Postaxial polysyndactyly of foot	semapv:LogicalReasoning	skos:closeMatch	
+MP:0002544	brachydactyly	HP:0001156	Brachydactyly	semapv:LexicalMatching	skos:closeMatch	
