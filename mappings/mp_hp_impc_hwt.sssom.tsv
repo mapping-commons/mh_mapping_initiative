@@ -1,7 +1,0 @@
-subject_id	subject_label	object_id	object_label	match_type	predicate_id
-MP:0004357	long tibia	HP:0010504	Increased length of the tibia	SSSOMC:Lexical	skos:closeMatch
-MP:0002764	short tibia	HP:0005736	Short tibia	SSSOMC:Lexical	skos:closeMatch
-MP:0000558	abnormal tibia morphology	HP:0002992	Abnormality of tibia morphology	SSSOMC:Lexical	skos:closeMatch
-MP:0001260	increased body weight	HP:0004324	Increased body weight	SSSOMC:Lexical	skos:closeMatch
-MP:0001262	decreased body weight	HP:0004325	Decreased body weight	SSSOMC:Lexical	skos:closeMatch
-MP:0001259	abnormal body weight	HP:0004323	Abnormality of body weight	SSSOMC:Lexical	skos:closeMatch
