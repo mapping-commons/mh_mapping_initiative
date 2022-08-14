@@ -1,3 +1,5 @@
+MAPPINGS_DIR=mappings
+
 sources/upheno/upheno_mapping_lexical.csv:
 	wget https://data.monarchinitiative.org/upheno2/current/upheno-release/all/upheno_mapping_lexical.csv -O $@
 	
@@ -17,6 +19,14 @@ sources/monarch_mp_hp_sim.tsv: #tmp/owlsim.cache
 	echo "subject_id	object_id	information_content_mica_score	mica" | cat tmp/owlsim.cache | grep MP_.*HP_.*_ | sed 's/_/:/g'  > $@
 
 
+validate-%:
+	sssom validate $(MAPPINGS_DIR)/$*.sssom.tsv
+
+
+MAPPINGS=$(notdir $(wildcard $(MAPPINGS_DIR)/*.sssom.tsv))
+VALIDATE_MAPPINGS=$(patsubst %.sssom.tsv, validate-%, $(notdir $(wildcard $(MAPPINGS_DIR)/*.sssom.tsv)))
+
+validate_mappings: $(VALIDATE_MAPPINGS)
 
 
 
