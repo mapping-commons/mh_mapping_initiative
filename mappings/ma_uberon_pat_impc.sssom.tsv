@@ -1,0 +1,63 @@
+# creator_id: https://orcid.org/0000-0002-2232-0967
+# curie_map:
+#   MA: http://purl.obolibrary.org/obo/MA_
+#   UBERON: http://purl.obolibrary.org/obo/UBERON_
+#   owl: http://www.w3.org/2002/07/owl#
+#   rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#
+#   rdfs: http://www.w3.org/2000/01/rdf-schema#
+#   skos: http://www.w3.org/2004/02/skos/core#
+#   sssom: https://w3id.org/sssom/
+# license: https://creativecommons.org/publicdomain/zero/1.0/
+# mapping_provider: https://www.mousephenotype.org
+# mapping_set_description: 'The IMPC Mouse Morphology Mappings: Gross Pathology & Tissue
+#   Collection Test (Anatomy)'
+# mapping_set_id: ma_uberon_pat_impc
+subject_id	subject_label	predicate_id	object_id	object_label	mapping_justification
+MA:0000057	brown adipose tissue	skos:exactMatch	UBERON:0001348	brown adipose tissue	semapv:LexicalMatching
+MA:0000058	white adipose tissue	skos:exactMatch	UBERON:0001347	white adipose tissue	semapv:LexicalMatching
+MA:0000072	heart	skos:exactMatch	UBERON:0000948	heart	semapv:LexicalMatching
+MA:0000116	adrenal gland	skos:exactMatch	UBERON:0002369	adrenal gland	semapv:LexicalMatching
+MA:0000120	pancreas	skos:exactMatch	UBERON:0001264	pancreas	semapv:LexicalMatching
+MA:0000129	thyroid gland	skos:exactMatch	UBERON:0002046	thyroid gland	semapv:LexicalMatching
+MA:0000134	bone marrow	skos:exactMatch	UBERON:0002371	bone marrow	semapv:LexicalMatching
+MA:0000139	lymph node	skos:exactMatch	UBERON:0000029	lymph node	semapv:LexicalMatching
+MA:0000141	spleen	skos:exactMatch	UBERON:0002106	spleen	semapv:LexicalMatching
+MA:0000142	thymus	skos:exactMatch	UBERON:0002370	thymus	semapv:LexicalMatching
+MA:0000145	mammary gland	skos:exactMatch	UBERON:0001911	mammary gland	semapv:LexicalMatching
+MA:0000151	skin	skos:closeMatch	UBERON:0002199	integument	semapv:LogicalReasoning
+MA:0000168	brain	skos:exactMatch	UBERON:0000955	brain	semapv:LexicalMatching
+MA:0000176	pituitary gland	skos:exactMatch	UBERON:0000007	pituitary gland	semapv:LexicalMatching
+MA:0000216	spinal cord	skos:exactMatch	UBERON:0002240	spinal cord	semapv:LexicalMatching
+MA:0000236	ear	skos:exactMatch	UBERON:0001690	ear	semapv:LexicalMatching
+MA:0000261	eye	skos:exactMatch	UBERON:0000970	eye	semapv:LexicalMatching
+MA:0000284	nasal cavity	skos:exactMatch	UBERON:0001707	nasal cavity	semapv:LexicalMatching
+MA:0000333	large intestine	skos:exactMatch	UBERON:0000059	large intestine	semapv:LexicalMatching
+MA:0000337	small intestine	skos:exactMatch	UBERON:0002108	small intestine	semapv:LexicalMatching
+MA:0000346	salivary gland	skos:closeMatch	UBERON:0001044	saliva-secreting gland	semapv:LexicalMatching
+MA:0000347	tongue	skos:exactMatch	UBERON:0001723	tongue	semapv:LexicalMatching
+MA:0000348	tooth	skos:closeMatch	UBERON:0001091	calcareous tooth	semapv:LexicalMatching
+MA:0000352	esophagus	skos:exactMatch	UBERON:0001043	esophagus	semapv:LexicalMatching
+MA:0000353	stomach	skos:exactMatch	UBERON:0000945	stomach	semapv:LexicalMatching
+MA:0000356	gall bladder	skos:exactMatch	UBERON:0002110	gall bladder	semapv:LexicalMatching
+MA:0000358	liver	skos:exactMatch	UBERON:0002107	liver	semapv:LexicalMatching
+MA:0000368	kidney	skos:exactMatch	UBERON:0002113	kidney	semapv:LexicalMatching
+MA:0000380	urinary bladder	skos:exactMatch	UBERON:0001255	urinary bladder	semapv:LexicalMatching
+MA:0000384	ovary	skos:exactMatch	UBERON:0000992	ovary	semapv:LexicalMatching
+MA:0000389	uterus	skos:exactMatch	UBERON:0000995	uterus	semapv:LexicalMatching
+MA:0000397	epididymis	skos:exactMatch	UBERON:0001301	epididymis	semapv:LexicalMatching
+MA:0000404	prostate gland	skos:exactMatch	UBERON:0002367	prostate gland	semapv:LexicalMatching
+MA:0000410	seminal vesicle	skos:exactMatch	UBERON:0000998	seminal vesicle	semapv:LexicalMatching
+MA:0000411	testis	skos:exactMatch	UBERON:0000473	testis	semapv:LexicalMatching
+MA:0000415	lung	skos:exactMatch	UBERON:0002048	lung	semapv:LexicalMatching
+MA:0000441	trachea	skos:exactMatch	UBERON:0003126	trachea	semapv:LexicalMatching
+MA:0000471	knee joint	skos:exactMatch	UBERON:0001485	knee joint	semapv:LexicalMatching
+MA:0000473	subcutaneous adipose tissue	skos:exactMatch	UBERON:0002190	subcutaneous adipose tissue	semapv:LexicalMatching
+MA:0001080	trigeminal V ganglion	skos:closeMatch	UBERON:0001675	trigeminal ganglion	semapv:LexicalMatching
+MA:0001097	optic II nerve	skos:closeMatch	UBERON:0000941	cranial nerve II	semapv:LogicalReasoning
+MA:0001172	sciatic nerve	skos:exactMatch	UBERON:0001322	sciatic nerve	semapv:LexicalMatching
+MA:0001331	sternum	skos:exactMatch	UBERON:0000975	sternum	semapv:LexicalMatching
+MA:0001359	femur	skos:exactMatch	UBERON:0000981	femur	semapv:LexicalMatching
+MA:0001361	tibia	skos:exactMatch	UBERON:0000979	tibia	semapv:LexicalMatching
+MA:0001459	bone	skos:closeMatch	UBERON:0002481	bone tissue	semapv:LexicalMatching
+MA:0003148	skeletal muscle	skos:closeMatch	UBERON:0001134	skeletal muscle tissue	semapv:LexicalMatching
+

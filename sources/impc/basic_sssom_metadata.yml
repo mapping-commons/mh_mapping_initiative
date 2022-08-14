@@ -1,6 +1,9 @@
 curie_map:
   HP: http://purl.obolibrary.org/obo/HP_
   MP: http://purl.obolibrary.org/obo/MP_
+  PATO: http://purl.obolibrary.org/obo/PATO_
+  MA: http://purl.obolibrary.org/obo/MA_
+  UBERON: http://purl.obolibrary.org/obo/UBERON_
   skos: http://www.w3.org/2004/02/skos/core#
   orcid: https://orcid.org/
   ror: https://ror.org/

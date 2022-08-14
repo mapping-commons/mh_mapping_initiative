@@ -1,0 +1,53 @@
+# comment: What is the purpose of this entire table?
+# creator_id: https://orcid.org/0000-0002-2232-0967
+# curie_map:
+#   HP: http://purl.obolibrary.org/obo/HP_
+#   PATO: http://purl.obolibrary.org/obo/PATO_
+#   owl: http://www.w3.org/2002/07/owl#
+#   rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#
+#   rdfs: http://www.w3.org/2000/01/rdf-schema#
+#   skos: http://www.w3.org/2004/02/skos/core#
+#   sssom: https://w3id.org/sssom/
+# license: https://creativecommons.org/publicdomain/zero/1.0/
+# mapping_provider: https://www.mousephenotype.org
+# mapping_set_description: 'The IMPC Mouse Morphology Mappings: Gross Pathology & Tissue
+#   Collection Test (PATO)'
+# mapping_set_id: pato_hp_pat_impc
+subject_id	subject_label	predicate_id	object_id	object_label	mapping_justification	reviewer_id	comment
+PATO:0000317	black	skos:closeMatch	sssom:NoTermFound		semapv:ManualMappingCuration		
+PATO:0000318	blue	skos:closeMatch	sssom:NoTermFound		semapv:ManualMappingCuration		
+PATO:0000320	green	skos:closeMatch	sssom:NoTermFound		semapv:ManualMappingCuration		
+PATO:0000322	red	skos:closeMatch	sssom:NoTermFound		semapv:ManualMappingCuration		
+PATO:0000323	white	skos:closeMatch	sssom:NoTermFound		semapv:ManualMappingCuration		
+PATO:0000324	yellow	skos:closeMatch	sssom:NoTermFound		semapv:ManualMappingCuration		
+PATO:0000366	left	skos:closeMatch	HP:0012835	Left	semapv:LexicalMatching		
+PATO:0000367	right	skos:closeMatch	HP:0012834	Right	semapv:LexicalMatching		
+PATO:0000386	hard	skos:closeMatch	sssom:NoTermFound		semapv:ManualMappingCuration		
+PATO:0000387	soft	skos:closeMatch	sssom:NoTermFound		semapv:ManualMappingCuration		
+PATO:0000407	flat	skos:closeMatch	sssom:NoTermFound		semapv:ManualMappingCuration		
+PATO:0000411	circular	skos:closeMatch	sssom:NoTermFound		semapv:ManualMappingCuration		
+PATO:0000573	increased length	skos:closeMatch	sssom:NoTermFound		semapv:ManualMappingCuration		
+PATO:0000574	decreased length	skos:closeMatch	sssom:NoTermFound		semapv:ManualMappingCuration		
+PATO:0000586	increased size	skos:closeMatch	sssom:NoTermFound		semapv:ManualMappingCuration		
+PATO:0000587	decreased size	skos:closeMatch	sssom:NoTermFound		semapv:ManualMappingCuration		
+PATO:0000618	bilateral	skos:closeMatch	HP:0012832	Bilateral	semapv:LexicalMatching		
+PATO:0000627	focal	skos:exactMatch	HP:0030650	Focal	semapv:LexicalMatching	orcid:0000-0002-7356-1779	What is the purpose of this entire table?
+PATO:0000632	symmetrical	skos:closeMatch	sssom:NoTermFound		semapv:ManualMappingCuration		
+PATO:0000634	unilateral	skos:closeMatch	HP:0012833	Unilateral	semapv:LexicalMatching		
+PATO:0000950	grey	skos:closeMatch	sssom:NoTermFound		semapv:ManualMappingCuration		
+PATO:0000952	brown	skos:closeMatch	sssom:NoTermFound		semapv:ManualMappingCuration		
+PATO:0000954	pink	skos:closeMatch	sssom:NoTermFound		semapv:ManualMappingCuration		
+PATO:0001369	raised	skos:closeMatch	sssom:NoTermFound		semapv:ManualMappingCuration		
+PATO:0001566	diffuse	skos:closeMatch	HP:0020034	Diffuse	semapv:LexicalMatching		
+PATO:0001791	multifocal (preferred synonym of multi-localised)	skos:closeMatch	HP:0030651	Multifocal	semapv:LexicalMatching		
+PATO:0001891	ovate	skos:closeMatch	sssom:NoTermFound		semapv:ManualMappingCuration		
+PATO:0002274	mottled	skos:closeMatch	sssom:NoTermFound		semapv:ManualMappingCuration		
+PATO:0002376	inflated	skos:closeMatch	sssom:NoTermFound		semapv:ManualMappingCuration		
+PATO:0002401	random pattern	skos:closeMatch	sssom:NoTermFound		semapv:ManualMappingCuration		
+PATO:0002402	multifocal to coalescing	skos:closeMatch	HP:0030651	Multifocal	semapv:LogicalReasoning		
+PATO:0002406	friable	skos:closeMatch	sssom:NoTermFound		semapv:ManualMappingCuration		
+PATO:0002408	watery	skos:closeMatch	sssom:NoTermFound		semapv:ManualMappingCuration		
+PATO:0002409	fluid-filled	skos:closeMatch	sssom:NoTermFound		semapv:ManualMappingCuration		
+PATO:0002410	beige	skos:closeMatch	sssom:NoTermFound		semapv:ManualMappingCuration		
+PATO:0002416	sunken	skos:closeMatch	sssom:NoTermFound		semapv:ManualMappingCuration		
+
