@@ -1,0 +1,154 @@
+# curie_map:
+#   MP: http://purl.obolibrary.org/obo/MP_
+#   orphanet.ordo: http://www.orpha.net/ORDO/Orphanet_
+#   owl: http://www.w3.org/2002/07/owl#
+#   rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#
+#   rdfs: http://www.w3.org/2000/01/rdf-schema#
+#   skos: http://www.w3.org/2004/02/skos/core#
+#   sssom: https://w3id.org/sssom/
+# license: https://creativecommons.org/publicdomain/zero/1.0/
+# mapping_provider: https://www.pistoiaalliance.org/projects/current-projects/ontologies-mapping/
+# mapping_set_description: 'The Pistoia Ontology Mappings: ordo_mp'
+# mapping_set_id: ordo_mp_pistoia
+# object_source: http://purl.obolibrary.org/mp.owl
+# subject_source: http://purl.obolibrary.org/ordo.owl
+subject_id	predicate_id	object_id	mapping_justification	confidence
+orphanet.ordo:101023	owl:equivalentClass	MP:0013545	semapv:UnspecifiedMatching	0.75
+orphanet.ordo:101043	owl:equivalentClass	MP:0002747	semapv:UnspecifiedMatching	0.75
+orphanet.ordo:101063	owl:equivalentClass	MP:0011252	semapv:UnspecifiedMatching	0.75
+orphanet.ordo:1041	owl:equivalentClass	MP:0002192	semapv:UnspecifiedMatching	0.75
+orphanet.ordo:105	owl:equivalentClass	MP:0003591	semapv:UnspecifiedMatching	0.2272725
+orphanet.ordo:1054	owl:equivalentClass	MP:0010483	semapv:UnspecifiedMatching	0.2363625
+orphanet.ordo:1077	owl:equivalentClass	MP:0030449	semapv:UnspecifiedMatching	0.75
+orphanet.ordo:1138	owl:equivalentClass	MP:0013980	semapv:UnspecifiedMatching	0.2253525
+orphanet.ordo:1160	owl:equivalentClass	MP:0012080	semapv:UnspecifiedMatching	0.75
+orphanet.ordo:118246	owl:equivalentClass	MP:0001326	semapv:UnspecifiedMatching	0.238095
+orphanet.ordo:1199	owl:equivalentClass	MP:0003276	semapv:UnspecifiedMatching	0.75
+orphanet.ordo:1203	owl:equivalentClass	MP:0003272	semapv:UnspecifiedMatching	0.75
+orphanet.ordo:123411	owl:equivalentClass	MP:0005638	semapv:UnspecifiedMatching	0.75
+orphanet.ordo:137914	owl:equivalentClass	MP:0008970	semapv:UnspecifiedMatching	0.75
+orphanet.ordo:141163	owl:equivalentClass	MP:0030328	semapv:UnspecifiedMatching	0.75
+orphanet.ordo:141229	owl:equivalentClass	MP:0008797	semapv:UnspecifiedMatching	0.75
+orphanet.ordo:141253	owl:equivalentClass	MP:0008799	semapv:UnspecifiedMatching	0.75
+orphanet.ordo:141269	owl:equivalentClass	MP:0008798	semapv:UnspecifiedMatching	0.75
+orphanet.ordo:1457	owl:equivalentClass	MP:0003387	semapv:UnspecifiedMatching	0.75
+orphanet.ordo:1463	owl:equivalentClass	MP:0010409	semapv:UnspecifiedMatching	0.75
+orphanet.ordo:1464	owl:equivalentClass	MP:0010432	semapv:UnspecifiedMatching	0.75
+orphanet.ordo:1531	owl:equivalentClass	MP:0000081	semapv:UnspecifiedMatching	0.75
+orphanet.ordo:155878	owl:equivalentClass	MP:0011615	semapv:UnspecifiedMatching	0.75
+orphanet.ordo:156207	owl:equivalentClass	MP:0009906	semapv:UnspecifiedMatching	0.75
+orphanet.ordo:157769	owl:equivalentClass	MP:0002767	semapv:UnspecifiedMatching	0.75
+orphanet.ordo:166415	owl:equivalentClass	MP:0001496	semapv:UnspecifiedMatching	0.75
+orphanet.ordo:1666	owl:equivalentClass	MP:0000644	semapv:UnspecifiedMatching	0.75
+orphanet.ordo:1671	owl:equivalentClass	MP:0012710	semapv:UnspecifiedMatching	0.75
+orphanet.ordo:167848	owl:equivalentClass	MP:0005330	semapv:UnspecifiedMatching	0.75
+orphanet.ordo:180139	owl:equivalentClass	MP:0001121	semapv:UnspecifiedMatching	0.75
+orphanet.ordo:1848	owl:equivalentClass	MP:0000520	semapv:UnspecifiedMatching	0.2448975
+orphanet.ordo:199323	owl:equivalentClass	MP:0003665	semapv:UnspecifiedMatching	0.75
+orphanet.ordo:2014	owl:equivalentClass	MP:0000111	semapv:UnspecifiedMatching	0.75
+orphanet.ordo:2038	owl:equivalentClass	MP:0010480	semapv:UnspecifiedMatching	0.75
+orphanet.ordo:209	owl:equivalentClass	MP:0005421	semapv:UnspecifiedMatching	0.75
+orphanet.ordo:211266	owl:equivalentClass	MP:0006093	semapv:UnspecifiedMatching	0.22807
+orphanet.ordo:2130	owl:equivalentClass	MP:0008985	semapv:UnspecifiedMatching	0.75
+orphanet.ordo:214	owl:equivalentClass	MP:0020400	semapv:UnspecifiedMatching	0.75
+orphanet.ordo:2162	owl:equivalentClass	MP:0005157	semapv:UnspecifiedMatching	0.75
+orphanet.ordo:216675	owl:equivalentClass	MP:0004110	semapv:UnspecifiedMatching	0.2348475
+orphanet.ordo:217604	owl:equivalentClass	MP:0002795	semapv:UnspecifiedMatching	0.75
+orphanet.ordo:2287	owl:equivalentClass	MP:0030475	semapv:UnspecifiedMatching	0.75
+orphanet.ordo:2368	owl:equivalentClass	MP:0000757	semapv:UnspecifiedMatching	0.75
+orphanet.ordo:263413	owl:equivalentClass	MP:0003667	semapv:UnspecifiedMatching	0.75
+orphanet.ordo:263714	owl:equivalentClass	MP:0004023	semapv:UnspecifiedMatching	0.226415
+orphanet.ordo:263746	owl:equivalentClass	MP:0004023	semapv:UnspecifiedMatching	0.226415
+orphanet.ordo:268369	owl:equivalentClass	MP:0012547	semapv:UnspecifiedMatching	0.75
+orphanet.ordo:268744	owl:equivalentClass	MP:0012547	semapv:UnspecifiedMatching	0.75
+orphanet.ordo:2695	owl:equivalentClass	MP:0030117	semapv:UnspecifiedMatching	0.75
+orphanet.ordo:2781	owl:equivalentClass	MP:0000067	semapv:UnspecifiedMatching	0.75
+orphanet.ordo:284804	owl:equivalentClass	MP:0006159	semapv:UnspecifiedMatching	0.75
+orphanet.ordo:2882	owl:equivalentClass	MP:0010077	semapv:UnspecifiedMatching	0.75
+orphanet.ordo:2913	owl:equivalentClass	MP:0000562	semapv:UnspecifiedMatching	0.75
+orphanet.ordo:306773	owl:equivalentClass	MP:0005604	semapv:UnspecifiedMatching	0.75
+orphanet.ordo:3148	owl:equivalentClass	MP:0002030	semapv:UnspecifiedMatching	0.246835
+orphanet.ordo:3169	owl:equivalentClass	MP:0003445	semapv:UnspecifiedMatching	0.75
+orphanet.ordo:3190	owl:equivalentClass	MP:0010449	semapv:UnspecifiedMatching	0.75
+orphanet.ordo:3193	owl:equivalentClass	MP:0010471	semapv:UnspecifiedMatching	0.75
+orphanet.ordo:3280	owl:equivalentClass	MP:0012545	semapv:UnspecifiedMatching	0.75
+orphanet.ordo:3289	owl:equivalentClass	MP:0030496	semapv:UnspecifiedMatching	0.75
+orphanet.ordo:329931	owl:equivalentClass	MP:0002743	semapv:UnspecifiedMatching	0.23077
+orphanet.ordo:3384	owl:equivalentClass	MP:0002633	semapv:UnspecifiedMatching	0.23611
+orphanet.ordo:3426	owl:equivalentClass	MP:0000284	semapv:UnspecifiedMatching	0.75
+orphanet.ordo:3427	owl:equivalentClass	MP:0010427	semapv:UnspecifiedMatching	0.75
+orphanet.ordo:363483	owl:equivalentClass	MP:0004478	semapv:UnspecifiedMatching	0.75
+orphanet.ordo:411709	owl:equivalentClass	MP:0000520	semapv:UnspecifiedMatching	0.75
+orphanet.ordo:431341	owl:equivalentClass	MP:0011852	semapv:UnspecifiedMatching	0.75
+orphanet.ordo:439167	owl:equivalentClass	MP:0006372	semapv:UnspecifiedMatching	0.75
+orphanet.ordo:448270	owl:equivalentClass	MP:0011660	semapv:UnspecifiedMatching	0.75
+orphanet.ordo:450	owl:equivalentClass	MP:0004133	semapv:UnspecifiedMatching	0.75
+orphanet.ordo:46724	owl:equivalentClass	MP:0010530	semapv:UnspecifiedMatching	0.75
+orphanet.ordo:480501	owl:equivalentClass	MP:0003266	semapv:UnspecifiedMatching	0.75
+orphanet.ordo:521	owl:equivalentClass	MP:0005481	semapv:UnspecifiedMatching	0.75
+orphanet.ordo:52759	owl:equivalentClass	MP:0001864	semapv:UnspecifiedMatching	0.75
+orphanet.ordo:63260	owl:equivalentClass	MP:0008784	semapv:UnspecifiedMatching	0.75
+orphanet.ordo:64720	owl:equivalentClass	MP:0002035	semapv:UnspecifiedMatching	0.75
+orphanet.ordo:65681	owl:equivalentClass	MP:0001144	semapv:UnspecifiedMatching	0.75
+orphanet.ordo:660	owl:equivalentClass	MP:0003052	semapv:UnspecifiedMatching	0.75
+orphanet.ordo:674	owl:equivalentClass	MP:0013291	semapv:UnspecifiedMatching	0.75
+orphanet.ordo:675	owl:equivalentClass	MP:0006261	semapv:UnspecifiedMatching	0.75
+orphanet.ordo:69	owl:equivalentClass	MP:0000604	semapv:UnspecifiedMatching	0.75
+orphanet.ordo:738	owl:equivalentClass	MP:0005654	semapv:UnspecifiedMatching	0.75
+orphanet.ordo:755	owl:equivalentClass	MP:0005536	semapv:UnspecifiedMatching	0.75
+orphanet.ordo:77	owl:equivalentClass	MP:0005261	semapv:UnspecifiedMatching	0.75
+orphanet.ordo:780	owl:equivalentClass	MP:0002036	semapv:UnspecifiedMatching	0.75
+orphanet.ordo:79225	owl:equivalentClass	MP:0009589	semapv:UnspecifiedMatching	0.75
+orphanet.ordo:79364	owl:equivalentClass	MP:0000414	semapv:UnspecifiedMatching	0.75
+orphanet.ordo:79365	owl:equivalentClass	MP:0000412	semapv:UnspecifiedMatching	0.75
+orphanet.ordo:79383	owl:equivalentClass	MP:0003390	semapv:UnspecifiedMatching	0.75
+orphanet.ordo:79389	owl:equivalentClass	MP:0003786	semapv:UnspecifiedMatching	0.75
+orphanet.ordo:83463	owl:equivalentClass	MP:0000018	semapv:UnspecifiedMatching	0.75
+orphanet.ordo:90025	owl:equivalentClass	MP:0000564	semapv:UnspecifiedMatching	0.75
+orphanet.ordo:91414	owl:equivalentClass	MP:0002013	semapv:UnspecifiedMatching	0.75
+orphanet.ordo:91495	owl:equivalentClass	MP:0010711	semapv:UnspecifiedMatching	0.75
+orphanet.ordo:93	owl:equivalentClass	MP:0011516	semapv:UnspecifiedMatching	0.75
+orphanet.ordo:93100	owl:equivalentClass	MP:0003604	semapv:UnspecifiedMatching	0.2450975
+orphanet.ordo:93101	owl:equivalentClass	MP:0003446	semapv:UnspecifiedMatching	0.75
+orphanet.ordo:93108	owl:equivalentClass	MP:0002135	semapv:UnspecifiedMatching	0.75
+orphanet.ordo:93338	owl:equivalentClass	MP:0004083	semapv:UnspecifiedMatching	0.75
+orphanet.ordo:93928	owl:equivalentClass	MP:0003598	semapv:UnspecifiedMatching	0.75
+orphanet.ordo:93962	owl:equivalentClass	MP:0030126	semapv:UnspecifiedMatching	0.75
+orphanet.ordo:93968	owl:equivalentClass	MP:0012259	semapv:UnspecifiedMatching	0.75
+orphanet.ordo:93969	owl:equivalentClass	MP:0009929	semapv:UnspecifiedMatching	0.75
+orphanet.ordo:93976	owl:equivalentClass	MP:0003142	semapv:UnspecifiedMatching	0.75
+orphanet.ordo:95443	owl:equivalentClass	MP:0000650	semapv:UnspecifiedMatching	0.75
+orphanet.ordo:95448	owl:equivalentClass	MP:0006115	semapv:UnspecifiedMatching	0.75
+orphanet.ordo:95458	owl:equivalentClass	MP:0006125	semapv:UnspecifiedMatching	0.75
+orphanet.ordo:95708	owl:equivalentClass	MP:0003378	semapv:UnspecifiedMatching	0.75
+orphanet.ordo:95720	owl:equivalentClass	MP:0003499	semapv:UnspecifiedMatching	0.75
+orphanet.ordo:963	owl:equivalentClass	MP:0003506	semapv:UnspecifiedMatching	0.75
+orphanet.ordo:96321	owl:equivalentClass	MP:0004025	semapv:UnspecifiedMatching	0.75
+orphanet.ordo:97275	owl:equivalentClass	MP:0001847	semapv:UnspecifiedMatching	0.75
+orphanet.ordo:98282	owl:equivalentClass	MP:0009440	semapv:UnspecifiedMatching	0.75
+orphanet.ordo:98427	owl:equivalentClass	MP:0002872	semapv:UnspecifiedMatching	0.75
+orphanet.ordo:98575	owl:equivalentClass	MP:0030166	semapv:UnspecifiedMatching	0.75
+orphanet.ordo:98613	owl:equivalentClass	MP:0006193	semapv:UnspecifiedMatching	0.75
+orphanet.ordo:98653	owl:equivalentClass	MP:0020486	semapv:UnspecifiedMatching	0.2325575
+orphanet.ordo:98691	owl:equivalentClass	MP:0001389	semapv:UnspecifiedMatching	0.244185
+orphanet.ordo:98715	owl:equivalentClass	MP:0005515	semapv:UnspecifiedMatching	0.75
+orphanet.ordo:98722	owl:equivalentClass	MP:0010412	semapv:UnspecifiedMatching	0.2457625
+orphanet.ordo:98823	owl:equivalentClass	MP:0005481	semapv:UnspecifiedMatching	0.2327575
+orphanet.ordo:98947	owl:equivalentClass	MP:0010716	semapv:UnspecifiedMatching	0.2317075
+orphanet.ordo:99044	owl:equivalentClass	MP:0011667	semapv:UnspecifiedMatching	0.22963
+orphanet.ordo:99047	owl:equivalentClass	MP:0011669	semapv:UnspecifiedMatching	0.24
+orphanet.ordo:99054	owl:equivalentClass	MP:0006128	semapv:UnspecifiedMatching	0.240385
+orphanet.ordo:99071	owl:equivalentClass	MP:0010481	semapv:UnspecifiedMatching	0.2372875
+orphanet.ordo:99079	owl:equivalentClass	MP:0004161	semapv:UnspecifiedMatching	0.75
+orphanet.ordo:99081	owl:equivalentClass	MP:0004158	semapv:UnspecifiedMatching	0.75
+orphanet.ordo:99083	owl:equivalentClass	MP:0010460	semapv:UnspecifiedMatching	0.75
+orphanet.ordo:99097	owl:equivalentClass	MP:0010419	semapv:UnspecifiedMatching	0.238095
+orphanet.ordo:99098	owl:equivalentClass	MP:0010411	semapv:UnspecifiedMatching	0.2386375
+orphanet.ordo:99099	owl:equivalentClass	MP:0010410	semapv:UnspecifiedMatching	0.234695
+orphanet.ordo:99103	owl:equivalentClass	MP:0010405	semapv:UnspecifiedMatching	0.23077
+orphanet.ordo:99104	owl:equivalentClass	MP:0010407	semapv:UnspecifiedMatching	0.2302625
+orphanet.ordo:99105	owl:equivalentClass	MP:0010408	semapv:UnspecifiedMatching	0.22973
+orphanet.ordo:99106	owl:equivalentClass	MP:0010404	semapv:UnspecifiedMatching	0.22973
+orphanet.ordo:99107	owl:equivalentClass	MP:0010450	semapv:UnspecifiedMatching	0.75
+orphanet.ordo:99867	owl:equivalentClass	MP:0014127	semapv:UnspecifiedMatching	0.75
+
