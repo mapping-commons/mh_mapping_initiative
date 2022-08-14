@@ -12,26 +12,22 @@ sources: sources/upheno/upheno_mapping_logical.csv
 tmp/:
 	mkdir -p $@
 
-tmp/owlsim.cache: | tmp/
-	wget https://archive.monarchinitiative.org/latest/owlsim/owlsim.cache -O $@
 
-sources/monarch_mp_hp_sim.tsv: #tmp/owlsim.cache
-	echo "subject_id	object_id	information_content_mica_score	mica" | cat tmp/owlsim.cache | grep MP_.*HP_.*_ | sed 's/_/:/g'  > $@
-
+#######################################
+##### Mapping validation  #############
+#######################################
 
 validate-%:
 	sssom validate $(MAPPINGS_DIR)/$*.sssom.tsv
-
 
 MAPPINGS=$(notdir $(wildcard $(MAPPINGS_DIR)/*.sssom.tsv))
 VALIDATE_MAPPINGS=$(patsubst %.sssom.tsv, validate-%, $(notdir $(wildcard $(MAPPINGS_DIR)/*.sssom.tsv)))
 
 validate_mappings: $(VALIDATE_MAPPINGS)
 
-
-
 #######################################
-##### Mappings 
+##### Mappings  #######################
+#######################################
 
 .PHONY: mappings
 mappings: ./scripts/update_registry.py
