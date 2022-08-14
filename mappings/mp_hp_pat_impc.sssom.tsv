@@ -1,0 +1,204 @@
+# creator_id: https://orcid.org/0000-0002-2232-0967
+# curie_map:
+#   HP: http://purl.obolibrary.org/obo/HP_
+#   MP: http://purl.obolibrary.org/obo/MP_
+#   owl: http://www.w3.org/2002/07/owl#
+#   rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#
+#   rdfs: http://www.w3.org/2000/01/rdf-schema#
+#   skos: http://www.w3.org/2004/02/skos/core#
+#   sssom: https://w3id.org/sssom/
+# license: https://creativecommons.org/publicdomain/zero/1.0/
+# mapping_provider: https://www.mousephenotype.org
+# mapping_set_description: 'The IMPC Mouse Morphology Mappings: Gross Pathology & Tissue
+#   Collection Test (Phenotype)'
+# mapping_set_id: mp_hp_pat_impc
+subject_id	subject_label	predicate_id	object_id	object_label	mapping_justification	reviewer_id
+MP:0000005	increased brown fat amount	skos:closeMatch	HP:0000468	Increased adipose tissue around neck	semapv:LogicalReasoning	
+MP:0000017	big ears	skos:closeMatch	HP:0000400	Macrotia	semapv:LogicalReasoning	
+MP:0000018	small ears	skos:closeMatch	HP:0008551	Microtia	semapv:LogicalReasoning	
+MP:0000157	abnormal sternum morphology	skos:closeMatch	HP:0000766	Abnormality of the sternum	semapv:LexicalMatching	
+MP:0000158	absent sternum	skos:closeMatch	HP:0010308	Asternia	semapv:LogicalReasoning	
+MP:0000266	abnormal heart morphology	skos:closeMatch	HP:0001654	Abnormal heart morphology	semapv:LexicalMatching	
+MP:0000274	enlarged heart	skos:closeMatch	HP:0001640	Cardiomegaly	semapv:LogicalReasoning	
+MP:0000467	abnormal esophagus morphology	skos:closeMatch	HP:0002031	Abnormal esophagus morphology	semapv:LexicalMatching	
+MP:0000470	abnormal stomach morphology	skos:closeMatch	HP:0002577	Abnormality of the stomach	semapv:LogicalReasoning	
+MP:0000492	abnormal rectum morphology	skos:closeMatch	HP:0002034	Abnormality of the rectum	semapv:LexicalMatching	
+MP:0000493	rectal prolapse	skos:closeMatch	HP:0002035	Rectal prolapse	semapv:LexicalMatching	
+MP:0000494	abnormal cecum morphology	skos:closeMatch	sssom:NoTermFound	No Term Found	semapv:ManualMappingCuration	
+MP:0000495	abnormal colon morphology	skos:closeMatch	HP:0002250	Abnormal large intestine morphology	semapv:LexicalMatching	
+MP:0000498	absent jejunum	skos:closeMatch	HP:0005235	Jejunal atresia	semapv:LogicalReasoning	
+MP:0000499	absent ileum	skos:closeMatch	HP:0011102	Ileal atresia	semapv:LogicalReasoning	
+MP:0000538	abnormal urinary bladder morphology	skos:closeMatch	HP:0025487	Abnormality of bladder morphology	semapv:LexicalMatching	
+MP:0000558	abnormal tibia morphology	skos:closeMatch	HP:0002992	Abnormality of tibia morphology	semapv:LexicalMatching	
+MP:0000559	abnormal femur morphology	skos:closeMatch	HP:0002823	Abnormality of femur morphology	semapv:LexicalMatching	
+MP:0000598	abnormal liver morphology	skos:closeMatch	HP:0410042	Abnormal liver morphology	semapv:LexicalMatching	
+MP:0000599	enlarged liver	skos:closeMatch	HP:0002240	Hepatomegaly	semapv:LogicalReasoning	
+MP:0000601	small liver	skos:closeMatch	sssom:NoTermFound	No Term Found	semapv:ManualMappingCuration	
+MP:0000613	abnormal salivary gland morphology	skos:closeMatch	HP:0010286	Abnormal salivary gland morphology	semapv:LexicalMatching	
+MP:0000614	absent salivary gland	skos:closeMatch	sssom:NoTermFound	No Term Found	semapv:ManualMappingCuration	
+MP:0000618	small salivary gland	skos:closeMatch	sssom:NoTermFound	No Term Found	semapv:ManualMappingCuration	
+MP:0000627	abnormal mammary gland morphology	skos:closeMatch	sssom:NoTermFound	No Term Found	semapv:ManualMappingCuration	
+MP:0000629	absent mammary gland	skos:closeMatch	HP:0100783	Breast aplasia	semapv:LogicalReasoning	
+MP:0000633	abnormal pituitary gland morphology	skos:closeMatch	HP:0012503	Abnormality of the pituitary gland	semapv:LexicalMatching	
+MP:0000636	enlarged pituitary gland	skos:closeMatch	HP:0012505	Enlarged pituitary gland	semapv:LexicalMatching	
+MP:0000639	abnormal adrenal gland morphology	skos:closeMatch	HP:0011732	Abnormality of adrenal morphology	semapv:LexicalMatching	
+MP:0000642	enlarged adrenal glands	skos:closeMatch	HP:0008221	Adrenal hyperplasia	semapv:LexicalMatching	
+MP:0000681	abnormal thyroid gland morphology	skos:closeMatch	HP:0011772	Abnormality of thyroid morphology	semapv:LexicalMatching	
+MP:0000689	abnormal spleen morphology	skos:closeMatch	HP:0025408	Abnormal spleen morphology	semapv:LexicalMatching	
+MP:0000690	absent spleen	skos:closeMatch	HP:0001746	Asplenia	semapv:LogicalReasoning	
+MP:0000691	enlarged spleen	skos:closeMatch	HP:0001744	Splenomegaly	semapv:LogicalReasoning	
+MP:0000692	small spleen	skos:closeMatch	HP:0006270	Hypoplastic spleen	semapv:LogicalReasoning	
+MP:0000702	enlarged lymph nodes	skos:closeMatch	HP:0002716	Lymphadenopathy	semapv:LogicalReasoning	
+MP:0000703	abnormal thymus morphology	skos:closeMatch	HP:0000777	Abnormality of the thymus	semapv:LexicalMatching	
+MP:0000705	athymia	skos:closeMatch	HP:0005359	Aplasia of the thymus	semapv:LogicalReasoning	
+MP:0000706	small thymus	skos:closeMatch	HP:0000778	Hypoplasia of the thymus	semapv:LogicalReasoning	
+MP:0000709	enlarged thymus	skos:closeMatch	HP:0010516	Thymus hyperplasia	semapv:LogicalReasoning	
+MP:0000759	abnormal skeletal muscle morphology	skos:closeMatch	HP:0011805	Abnormal skeletal muscle morphology	semapv:LexicalMatching	
+MP:0000762	abnormal tongue morphology	skos:closeMatch	HP:0030809	Abnormal tongue morphology	semapv:LexicalMatching	
+MP:0000774	decreased brain size	skos:closeMatch	HP:0007058	Generalized cerebral atrophy/hypoplasia	semapv:LogicalReasoning	
+MP:000095	abnormal spinal cord morphology	skos:closeMatch	HP:0002143	Abnormality of the spinal cord	semapv:LexicalMatching	
+MP:0001092	abnormal trigeminal ganglion morphology	skos:closeMatch	HP:0410016	Abnormality of cranial ganglion	semapv:LexicalMatching	
+MP:0001093	small trigeminal ganglion	skos:closeMatch	sssom:NoTermFound	No Term Found	semapv:ManualMappingCuration	
+MP:0001095	enlarged trigeminal ganglion	skos:closeMatch	sssom:NoTermFound	No Term Found	semapv:ManualMappingCuration	
+MP:0001102	abnormal uterus morphology	skos:closeMatch	HP:0031105	Abnormal uterus morphology	semapv:LexicalMatching	
+MP:0001126	abnormal ovary morphology	skos:closeMatch	HP:0031065	Abnormal ovarian morphology	semapv:LexicalMatching	
+MP:0001127	small ovary	skos:closeMatch	HP:0009724	Hypoplasia of the ovary	semapv:LogicalReasoning	
+MP:0001146	abnormal testis morphology	skos:closeMatch	HP:0000035	Abnormal testis morphology	semapv:LexicalMatching	
+MP:0001147	small testis	skos:closeMatch	HP:0008734	Decreased testicular size	semapv:LogicalReasoning	
+MP:0001148	enlarged testes	skos:closeMatch	HP:0000053	Macroorchidism	semapv:LogicalReasoning	
+MP:0001157	small seminal vesicle	skos:closeMatch	sssom:NoTermFound	No Term Found	semapv:ManualMappingCuration	
+MP:0001158	abnormal prostate gland morphology	skos:closeMatch	HP:0008775	Abnormal prostate morphology	semapv:LexicalMatching	
+MP:0001159	absent prostate gland	skos:closeMatch	sssom:NoTermFound	No Term Found	semapv:ManualMappingCuration	
+MP:0001175	abnormal lung morphology	skos:closeMatch	HP:0002088	Abnormal lung morphology	semapv:LexicalMatching	
+MP:0001181	absent lung	skos:closeMatch	HP:0006703	Aplasia/Hypoplasia of the lungs	semapv:LogicalReasoning	
+MP:0001192	scaly skin	skos:closeMatch	HP:0040189	Scaling skin	semapv:LexicalMatching	
+MP:0001199	thin skin	skos:closeMatch	HP:0000963	Thin skin	semapv:LexicalMatching	
+MP:0001200	thick skin	skos:closeMatch	HP:0001072	Thickened skin	semapv:LexicalMatching	
+MP:0001211	wrinkled skin	skos:closeMatch	HP:0007392	Excessive wrinkled skin	semapv:LexicalMatching	
+MP:0001293	anophthalmia	skos:closeMatch	HP:0000528	Anophthalmia	semapv:LexicalMatching	
+MP:0001296	macrophthalmia	skos:closeMatch	HP:0001090	Abnormally large globe	semapv:LogicalReasoning	
+MP:0001297	microphthalmia	skos:exactMatch	HP:0000568	Microphthalmia	semapv:LexicalMatching	
+MP:0001330	abnormal optic nerve morphology	skos:closeMatch	HP:0000587	Abnormality of the optic nerve	semapv:LogicalReasoning	
+MP:0001333	absent optic nerve	skos:closeMatch	HP:0012521	Optic nerve aplasia	semapv:LogicalReasoning	
+MP:0001782	increased white adipose tissue amount	skos:closeMatch	HP:0008993	Increased intraabdominal fat	semapv:LogicalReasoning	
+MP:0001783	decreased white adipose tissue amount	skos:closeMatch	HP:0025128	Reduced intraabdominal adipose tissue	semapv:LogicalReasoning	
+MP:0001891	hydroencephaly	skos:closeMatch	HP:0000238	Hydrocephalus	semapv:LexicalMatching	
+MP:0001944	abnormal pancreas morphology	skos:closeMatch	HP:0012090	Abnormal pancreas morphology	semapv:LexicalMatching	
+MP:0002059	abnormal seminal vesicle morphology	skos:closeMatch	sssom:NoTermFound	No Term Found	semapv:ManualMappingCuration	
+MP:0002060	abnormal skin morphology	skos:closeMatch	HP:0011121	Abnormality of skin morphology	semapv:LexicalMatching	
+MP:0002092	abnormal eye morphology	skos:closeMatch	HP:0012372	Abnormal eye morphology	semapv:LexicalMatching	
+MP:0002102	abnormal ear morphology	skos:closeMatch	HP:0031703	Abnormal ear morphology	semapv:LexicalMatching	
+MP:0002135	abnormal kidney morphology	skos:closeMatch	HP:0012210	Abnormal renal morphology	semapv:LexicalMatching	
+MP:0002152	abnormal brain morphology	skos:exactMatch	HP:0012443	Abnormality of brain morphology	semapv:LexicalMatching	orcid:0000-0002-7356-1779
+MP:0002188	small heart	skos:closeMatch	HP:0001961	Hypoplastic heart	semapv:LogicalReasoning	
+MP:0002217	small lymph nodes	skos:closeMatch	HP:0002732	Lymph node hypoplasia	semapv:LogicalReasoning	
+MP:0002219	decreased lymph node number	skos:closeMatch	sssom:NoTermFound	No Term Found	semapv:ManualMappingCuration	
+MP:0002237	abnormal nasal cavity morphology	skos:closeMatch	HP:0010640	Abnormality of the nasal cavity	semapv:LexicalMatching	
+MP:0002282	abnormal trachea morphology	skos:closeMatch	HP:0002778	Abnormal trachea morphology	semapv:LexicalMatching	
+MP:0002286	cryptorchism	skos:closeMatch	HP:0000028	Cryptorchidism	semapv:LexicalMatching	
+MP:0002339	abnormal lymph node morphology	skos:closeMatch	HP:0002733	Abnormality of the lymph nodes	semapv:LexicalMatching	
+MP:0002397	abnormal bone marrow morphology	skos:closeMatch	HP:0005561	Abnormality of bone marrow cell morphology	semapv:LexicalMatching	
+MP:0002581	abnormal ileum morphology	skos:closeMatch	HP:0001549	Abnormal ileum morphology	semapv:LogicalReasoning	
+MP:0002631	abnormal epididymis morphology	skos:closeMatch	HP:0009714	Abnormality of the epididymis	semapv:LexicalMatching	
+MP:0002637	small uterus	skos:closeMatch	HP:0000013	Hypoplasia of the uterus	semapv:LogicalReasoning	
+MP:0002651	abnormal sciatic nerve morphology	skos:closeMatch	HP:0045010	Abnormality of peripheral nerves	semapv:LogicalReasoning	
+MP:0002689	abnormal molar morphology	skos:closeMatch	HP:0011070	Abnormality of molar morphology	semapv:LexicalMatching	
+MP:0002691	small stomach	skos:closeMatch	HP:0100841	Microgastria	semapv:LogicalReasoning	
+MP:0002728	absent tibia	skos:closeMatch	HP:0009556	Absent tibia	semapv:LexicalMatching	
+MP:0002731	megacolon	skos:closeMatch	sssom:NoTermFound	No Term Found	semapv:ManualMappingCuration	
+MP:0002764	short tibia	skos:closeMatch	HP:0005736	Short tibia	semapv:LexicalMatching	
+MP:0002768	small adrenal glands	skos:closeMatch	HP:0000835	Adrenal hypoplasia	semapv:LexicalMatching	
+MP:0002774	small prostate gland	skos:closeMatch	HP:0008687	Hypoplasia of the prostate	semapv:LogicalReasoning	
+MP:0002932	abnormal joint morphology	skos:closeMatch	HP:0001367	Abnormal joint morphology	semapv:LexicalMatching	
+MP:0002951	small thyroid gland	skos:closeMatch	HP:0005990	Thyroid hypoplasia	semapv:LogicalReasoning	
+MP:0002970	abnormal white adipose tissue morphology	skos:closeMatch	sssom:NoTermFound	No Term Found	semapv:ManualMappingCuration	
+MP:0002971	abnormal brown fat morphology	skos:closeMatch	sssom:NoTermFound	No Term Found	semapv:ManualMappingCuration	
+MP:0002989	small kidney	skos:closeMatch	HP:0000089	Renal hypoplasia	semapv:LogicalReasoning	
+MP:0002997	enlarged seminal vesicle	skos:closeMatch	sssom:NoTermFound	No Term Found	semapv:ManualMappingCuration	
+MP:0003068	enlarged kidney	skos:closeMatch	HP:0000105	Enlarged kidney	semapv:LexicalMatching	
+MP:0003109	short femur	skos:closeMatch	HP:0003097	Short femur	semapv:LexicalMatching	
+MP:0003189	fused joints	skos:closeMatch	HP:0100240	Synostosis of joints	semapv:LogicalReasoning	
+MP:0003250	absent gall bladder	skos:closeMatch	HP:0011467	Absent gallbladder	semapv:LexicalMatching	
+MP:0003271	abnormal duodenum morphology	skos:closeMatch	HP:0030992	Abnormality of the duodenum	semapv:LexicalMatching	
+MP:0003294	intussusception	skos:closeMatch	HP:0002576	Intussusception	semapv:LogicalReasoning	
+MP:0003296	microcolon	skos:closeMatch	HP:0004388	Microcolon	semapv:LexicalMatching	
+MP:0003318	rectoperineal fistula	skos:closeMatch	HP:0004792	Rectoperineal fistula	semapv:LexicalMatching	
+MP:0003320	rectovaginal fistula	skos:closeMatch	HP:0000143	Rectovaginal fistula	semapv:LexicalMatching	
+MP:0003321	tracheoesophageal fistula	skos:closeMatch	HP:0002575	Tracheoesophageal fistula	semapv:LexicalMatching	
+MP:0003450	enlarged pancreas	skos:closeMatch	HP:0006277	Pancreatic hyperplasia	semapv:LogicalReasoning	
+MP:0003558	absent uterus	skos:closeMatch	HP:0000151	Aplasia of the uterus	semapv:LogicalReasoning	
+MP:0003578	absent ovary	skos:closeMatch	HP:0010463	Aplasia of the ovary	semapv:LogicalReasoning	
+MP:0003604	single kidney	skos:closeMatch	HP:0000122	Unilateral renal agenesis	semapv:LogicalReasoning	
+MP:0003641	small lung	skos:closeMatch	HP:0006703	Aplasia/Hypoplasia of the lungs	semapv:LogicalReasoning	
+MP:0003642	absent seminal vesicle	skos:closeMatch	sssom:NoTermFound	No Term Found	semapv:ManualMappingCuration	
+MP:0003655	absent pancreas	skos:closeMatch	HP:0100801	Pancreatic aplasia	semapv:LogicalReasoning	
+MP:0003678	absent ear lobes	skos:closeMatch	sssom:NoTermFound	No Term Found	semapv:ManualMappingCuration	
+MP:0003795	abnormal bone structure	skos:closeMatch	sssom:NoTermFound	No Term Found	semapv:ManualMappingCuration	
+MP:0003883	enlarged stomach	skos:closeMatch	HP:0005207	Gastic hypertrophy	semapv:LogicalReasoning	
+MP:0004002	abnormal jejunum morphology	skos:closeMatch	HP:0005265	Abnormality of the jejunum	semapv:LogicalReasoning	
+MP:0004247	small pancreas	skos:closeMatch	HP:0002594	Pancreatic hypoplasia	semapv:LogicalReasoning	
+MP:0004320	split sternum	skos:closeMatch	HP:0010309	Bifid sternum	semapv:LogicalReasoning	
+MP:0004321	short sternum	skos:closeMatch	HP:0000879	Short sternum	semapv:LexicalMatching	
+MP:0004348	long femur	skos:closeMatch	sssom:NoTermFound	No Term Found	semapv:ManualMappingCuration	
+MP:0004349	absent femur	skos:closeMatch	HP:0012274	Femoral aplasia	semapv:LogicalReasoning	
+MP:0004357	long tibia	skos:closeMatch	HP:0010504	Increased length of the tibia	semapv:LexicalMatching	
+MP:0004545	enlarged esophagus	skos:closeMatch	sssom:NoTermFound	No Term Found	semapv:ManualMappingCuration	
+MP:0004549	small trachea	skos:closeMatch	HP:0100682	Tracheal atresia	semapv:LogicalReasoning	
+MP:0004727	absent epididymus	skos:closeMatch	sssom:NoTermFound	No Term Found	semapv:ManualMappingCuration	
+MP:0004818	increased skeletal muscle mass	skos:closeMatch	HP:0003712	Skeletal muscle hypertrophy	semapv:LogicalReasoning	
+MP:0004819	decreased skeletal muscle mass	skos:closeMatch	HP:0001460	Aplasia/Hypoplasia involving the skeletal musculature	semapv:LogicalReasoning	
+MP:0004832	enlarged ovary	skos:closeMatch	HP:0100879	Enlarged ovaries	semapv:LexicalMatching	
+MP:0004882	enlarged lung	skos:closeMatch	sssom:NoTermFound	No Term Found	semapv:ManualMappingCuration	
+MP:0004906	enlarged uterus	skos:closeMatch	HP:0100878	Enlarged uterus	semapv:LexicalMatching	
+MP:0004930	small epididymus	skos:closeMatch	sssom:NoTermFound	No Term Found	semapv:ManualMappingCuration	
+MP:0004931	enlarged epididymus	skos:closeMatch	sssom:NoTermFound	No Term Found	semapv:ManualMappingCuration	
+MP:0004958	enlarged prostate gland	skos:closeMatch	HP:0008711	Benign prostatic hyperplasia	semapv:LogicalReasoning	
+MP:0005084	abnormal gall bladder morphology	skos:closeMatch	HP:0012437	Abnormal gallbladder morphology	semapv:LexicalMatching	
+MP:0005238	increased brain size	skos:closeMatch	HP:0001355	Megalencephaly	semapv:LogicalReasoning	
+MP:0005313	absent adrenal gland	skos:closeMatch	HP:0011743	Adrenal gland agenesis	semapv:LexicalMatching	
+MP:0005314	absent thyroid gland	skos:closeMatch	HP:0008191	Thyroid agenesis	semapv:LogicalReasoning	
+MP:0005315	absent pituitary gland	skos:closeMatch	HP:0410279	Atrophic parotid gland	semapv:LogicalReasoning	
+MP:0005355	enlarged thyroid gland	skos:closeMatch	HP:0008249	Thyroid hyperplasia	semapv:LogicalReasoning	
+MP:0005358	anbornormal incisor morphology	skos:closeMatch	HP:0011063	Abnormality of incisor morphology	semapv:LexicalMatching	
+MP:0005361	small pituitary gland	skos:closeMatch	HP:0012506	Small pituitary gland	semapv:LexicalMatching	
+MP:0005675	small gall bladder	skos:closeMatch	HP:0005233	Hypoplasia of the gallbladder	semapv:LogicalReasoning	
+MP:0006065	abnormal heart position or orientation	skos:closeMatch	HP:0004307	Abnormal anatomic location of the heart	semapv:LogicalReasoning	
+MP:0006221	optic nerve hypoplasia	skos:closeMatch	HP:0000609	Optic nerve hypoplasia	semapv:LexicalMatching	
+MP:0006415	absent testes	skos:closeMatch	HP:0010469	Absent testis	semapv:LexicalMatching	
+MP:0007180	decreased brown fat amount	skos:closeMatch	HP:0005995	Decreased adipose tissue around neck	semapv:LogicalReasoning	
+MP:0008024	absent lymph nodes	skos:closeMatch	sssom:NoTermFound	No Term Found	semapv:ManualMappingCuration	
+MP:0008528	polycystic kidney	skos:closeMatch	HP:0000113	Polycystic kidney dysplasia	semapv:LexicalMatching	
+MP:0008529	enlarged optic nerve	skos:closeMatch	sssom:NoTermFound	No Term Found	semapv:ManualMappingCuration	
+MP:0008725	enlarged heart atrium	skos:closeMatch	HP:0031295	Left atrial enlargement	semapv:LogicalReasoning	
+MP:0008725	enlarged heart atrium	skos:closeMatch	HP:0030718	Right atrial enlargement	semapv:LogicalReasoning	
+MP:0008844	decreased subcutaneous adipose tissue amount	skos:closeMatch	HP:0003758	Reduced subcutaneous fat	semapv:LogicalReasoning	
+MP:0009000	absent cecum	skos:closeMatch	sssom:NoTermFound	No Term Found	semapv:ManualMappingCuration	
+MP:0009084	blind uterus	skos:closeMatch	sssom:NoTermFound	No Term Found	semapv:ManualMappingCuration	
+MP:0009252	absent urinary bladder	skos:closeMatch	HP:0010476	Aplasia/Hypoplasia of the bladder	semapv:LogicalReasoning	
+MP:0009342	enlarged gall bladder	skos:closeMatch	sssom:NoTermFound	No Term Found	semapv:ManualMappingCuration	
+MP:0009476	enlarged cecum	skos:closeMatch	sssom:NoTermFound	No Term Found	semapv:ManualMappingCuration	
+MP:0009477	small cecum	skos:closeMatch	sssom:NoTermFound	No Term Found	semapv:ManualMappingCuration	
+MP:0009483	enlarged ileum	skos:closeMatch	sssom:NoTermFound	No Term Found	semapv:ManualMappingCuration	
+MP:0009509	absent rectum	skos:closeMatch	HP:0025023	Rectal atresia	semapv:LogicalReasoning	
+MP:0009516	enlarged salivary gland	skos:closeMatch	sssom:NoTermFound	No Term Found	semapv:ManualMappingCuration	
+MP:0009552	urinary bladder obstruction	skos:closeMatch	HP:0041047	Bladder outlet obstruction	semapv:LexicalMatching	
+MP:0009709	hydrometra	skos:closeMatch	sssom:NoTermFound	No Term Found	semapv:ManualMappingCuration	
+MP:0009721	supernumerary mammary glands	skos:closeMatch	sssom:NoTermFound	No Term Found	semapv:ManualMappingCuration	
+MP:0009905	absent tongue	skos:closeMatch	HP:0010295	Aplasia/Hypoplasia of the tongue	semapv:LogicalReasoning	
+MP:0009906	increased tongue size	skos:closeMatch	HP:0000158	Macroglossia	semapv:LogicalReasoning	
+MP:0009907	decreased tongue size	skos:closeMatch	HP:0000171	Microglossia	semapv:LogicalReasoning	
+MP:0010880	small esophagus	skos:closeMatch	HP:0002032	Esophageal atresia	semapv:LogicalReasoning	
+MP:0010934	increased subcutaneous adipose tissue amount	skos:closeMatch	HP:0009003	Increased subcutaneous truncal adipose tissue	semapv:LogicalReasoning	
+MP:0011156	abnormal hypodermis fat layer morphology	skos:closeMatch	sssom:NoTermFound	No Term Found	semapv:ManualMappingCuration	
+MP:0011503	distended jejunum	skos:closeMatch	sssom:NoTermFound	No Term Found	semapv:ManualMappingCuration	
+MP:0011625	cystolithiasis	skos:closeMatch	HP:0010474	Bladder stones	semapv:LogicalReasoning	
+MP:0011874	enlarged urinary bladder	skos:closeMatch	HP:0008635	Hypertrophy of the urinary bladder	semapv:LogicalReasoning	
+MP:0011875	absent stomach	skos:closeMatch	sssom:NoTermFound	No Term Found	semapv:ManualMappingCuration	
+MP:0011877	absent liver	skos:closeMatch	HP:0100839	Hepatic agenesis	semapv:LogicalReasoning	
+MP:0011880	absent duodenum	skos:closeMatch	HP:0002247	Duodenal atresia	semapv:LogicalReasoning	
+MP:0011882	enlarged duodenum	skos:closeMatch	sssom:NoTermFound	No Term Found	semapv:ManualMappingCuration	
+MP:0011884	absent colon	skos:closeMatch	HP:0500027	Aplastic colon	semapv:LogicalReasoning	
+MP:0012279	wide sternum	skos:closeMatch	sssom:NoTermFound	No Term Found	semapv:ManualMappingCuration	
+MP:0012672	enlarged trachea	skos:closeMatch	HP:0010778	Tracheomegaly	semapv:LogicalReasoning	
+MP:0013129	abnormal tooth colour	skos:closeMatch	HP:0011073	Abnormality of dental color	semapv:LexicalMatching	
+

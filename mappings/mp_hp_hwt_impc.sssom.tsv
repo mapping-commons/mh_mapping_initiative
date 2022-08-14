@@ -1,0 +1,21 @@
+# creator_id: https://orcid.org/0000-0002-2232-0967
+# curie_map:
+#   HP: http://purl.obolibrary.org/obo/HP_
+#   MP: http://purl.obolibrary.org/obo/MP_
+#   owl: http://www.w3.org/2002/07/owl#
+#   rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#
+#   rdfs: http://www.w3.org/2000/01/rdf-schema#
+#   skos: http://www.w3.org/2004/02/skos/core#
+#   sssom: https://w3id.org/sssom/
+# license: https://creativecommons.org/publicdomain/zero/1.0/
+# mapping_provider: https://www.mousephenotype.org
+# mapping_set_description: 'The IMPC Mouse Morphology Mappings: Heart Weight Test'
+# mapping_set_id: mp_hp_hwt_impc
+subject_id	subject_label	predicate_id	object_id	object_label	mapping_justification
+MP:0000558	abnormal tibia morphology	skos:closeMatch	HP:0002992	Abnormality of tibia morphology	semapv:LexicalMatching
+MP:0001259	abnormal body weight	skos:closeMatch	HP:0004323	Abnormality of body weight	semapv:LexicalMatching
+MP:0001260	increased body weight	skos:closeMatch	HP:0004324	Increased body weight	semapv:LexicalMatching
+MP:0001262	decreased body weight	skos:closeMatch	HP:0004325	Decreased body weight	semapv:LexicalMatching
+MP:0002764	short tibia	skos:closeMatch	HP:0005736	Short tibia	semapv:LexicalMatching
+MP:0004357	long tibia	skos:closeMatch	HP:0010504	Increased length of the tibia	semapv:LexicalMatching
+
