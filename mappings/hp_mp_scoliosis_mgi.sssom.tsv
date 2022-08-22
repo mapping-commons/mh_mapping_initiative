@@ -68,18 +68,18 @@ Abnormal cortical bone morphology	HP:0003103	decreased compact bone volume	MP:00
 Abnormality of femur morphology	HP:0002823	decreased diameter of femur	MP:0008152	skos:broadMatch	semapv:ManualMappingCuration	1	orcid:0000-0003-4606-0597	7/29/2022	
 Abnormality of body weight	HP:0004323	decreased lean body mass	MP:0003961	skos:broadMatch	semapv:ManualMappingCuration	0.8	orcid:0000-0003-4606-0597	7/29/2022	"mapping based on definition of HP term ""An abnormal increase or decrease of weight or an abnormal distribution of mass in the body."" primarily the statement about distribution"
 Short long bone	HP:0003026	decreased length of long bones	MP:0004686	skos:exactMatch	semapv:ManualMappingCuration	1	orcid:0000-0003-4606-0597	7/29/2022	
-Abnormal bone structure	HP:0003330	decreased osteoblast cell number	MP:0004989	skos:broadMatch	semapv:ManualMappingCuration	1	orcid:0000-0003-4606-0597	8/1/2022	
-Abnormality of skeletal muscle fiber size	HP:0012084	decreased skeletal muscle fiber size	MP:0009400	skos:broadMatch	semapv:ManualMappingCuration	1	orcid:0000-0003-4606-0597	8/1/2022	
-Abnormal trabecular bone morphology	HP:0100671	decreased trabecular bone thickness	MP:0009346	skos:broadMatch	semapv:ManualMappingCuration	1	orcid:0000-0003-4606-0597	8/1/2022	
-Abnormal trabecular bone morphology	HP:0100671	decreased trabecular bone volume	MP:0010879	skos:broadMatch	semapv:ManualMappingCuration	1	orcid:0000-0003-4606-0597	8/1/2022	
-Reduced bone mineral density	HP:0004349	decreased volumetric bone mineral density	MP:0013616	skos:broadMatch	semapv:ManualMappingCuration	1	orcid:0000-0003-4606-0597	8/1/2022	
-Abnormal cartilage morphology	HP:0002763	decreased width of hypertrophic chondrocyte zone	MP:0003409	skos:broadMatch	semapv:ManualMappingCuration	1	orcid:0000-0003-4606-0597	8/1/2022	
-Abnormal bone ossification	HP:0011849	delayed bone ossification	MP:0000060	skos:relatedMatch	semapv:ManualMappingCuration	1	orcid:0000-0003-4606-0597	8/1/2022	MP term is in the physiology branch HO term is in the morphology branch
-Abnormal bone ossification	HP:0011849	delayed endochondral bone ossification	MP:0003419	skos:relatedMatch	semapv:ManualMappingCuration	1	orcid:0000-0003-4606-0597	8/1/2022	MP term is in the physiology branch HO term is in the morphology branch
-Abdominal distention	HP:0003270	distended abdomen	MP:0001270	skos:exactMatch	semapv:ManualMappingCuration	1	orcid:0000-0003-4606-0597	8/1/2022	
-Abnormal cartilage morphology	HP:0002763	ectopic cartilage	MP:0003869	skos:broadMatch	semapv:ManualMappingCuration	1	orcid:0000-0003-4606-0597	8/1/2022	
-Exostoses	HP:0100777	exostosis	MP:0009877	skos:exactMatch	semapv:ManualMappingCuration	1	orcid:0000-0003-4606-0597	8/1/2022	
-Increased susceptibility to fractures	HP:0002659	fragile skeleton	MP:0000061	skos:exactMatch	semapv:ManualMappingCuration	1	orcid:0000-0003-4606-0597	8/1/2022	
+Abnormal bone structure	HP:0003330	decreased osteoblast cell number	MP:0004989	skos:broadMatch	semapv:ManualMappingCuration	1	orcid:0000-0003-4606-0597	8/01/2022	
+Abnormality of skeletal muscle fiber size	HP:0012084	decreased skeletal muscle fiber size	MP:0009400	skos:broadMatch	semapv:ManualMappingCuration	1	orcid:0000-0003-4606-0597	8/01/2022	
+Abnormal trabecular bone morphology	HP:0100671	decreased trabecular bone thickness	MP:0009346	skos:broadMatch	semapv:ManualMappingCuration	1	orcid:0000-0003-4606-0597	8/01/2022	
+Abnormal trabecular bone morphology	HP:0100671	decreased trabecular bone volume	MP:0010879	skos:broadMatch	semapv:ManualMappingCuration	1	orcid:0000-0003-4606-0597	8/01/2022	
+Reduced bone mineral density	HP:0004349	decreased volumetric bone mineral density	MP:0013616	skos:broadMatch	semapv:ManualMappingCuration	1	orcid:0000-0003-4606-0597	8/01/2022	
+Abnormal cartilage morphology	HP:0002763	decreased width of hypertrophic chondrocyte zone	MP:0003409	skos:broadMatch	semapv:ManualMappingCuration	1	orcid:0000-0003-4606-0597	8/01/2022	
+Abnormal bone ossification	HP:0011849	delayed bone ossification	MP:0000060	skos:relatedMatch	semapv:ManualMappingCuration	1	orcid:0000-0003-4606-0597	8/01/2022	MP term is in the physiology branch HO term is in the morphology branch
+Abnormal bone ossification	HP:0011849	delayed endochondral bone ossification	MP:0003419	skos:relatedMatch	semapv:ManualMappingCuration	1	orcid:0000-0003-4606-0597	8/01/2022	MP term is in the physiology branch HO term is in the morphology branch
+Abdominal distention	HP:0003270	distended abdomen	MP:0001270	skos:exactMatch	semapv:ManualMappingCuration	1	orcid:0000-0003-4606-0597	8/01/2022	
+Abnormal cartilage morphology	HP:0002763	ectopic cartilage	MP:0003869	skos:broadMatch	semapv:ManualMappingCuration	1	orcid:0000-0003-4606-0597	8/01/2022	
+Exostoses	HP:0100777	exostosis	MP:0009877	skos:exactMatch	semapv:ManualMappingCuration	1	orcid:0000-0003-4606-0597	8/01/2022	
+Increased susceptibility to fractures	HP:0002659	fragile skeleton	MP:0000061	skos:exactMatch	semapv:ManualMappingCuration	1	orcid:0000-0003-4606-0597	8/01/2022	
 Synostosis of joints	HP:0100240	fused joints	MP:0003189	skos:exactMatch	semapv:ManualMappingCuration	1	orcid:0000-0003-4606-0597	8/2/2022	
 Vertebral fusion	HP:0002948	fusion of vertebral arches	MP:0004613	skos:broadMatch	semapv:ManualMappingCuration	1	orcid:0000-0003-4606-0597	8/2/2022	
 Vertebral fusion	HP:0002948	fusion of vertebral bodies	MP:0004612	skos:broadMatch	semapv:ManualMappingCuration	1	orcid:0000-0003-4606-0597	8/2/2022	
