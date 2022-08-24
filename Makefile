@@ -20,6 +20,7 @@ tmp/:
 validate-%:
 	tsvalid $(MAPPINGS_DIR)/$*.sssom.tsv --comment "#"
 	sssom validate $(MAPPINGS_DIR)/$*.sssom.tsv
+	sssom convert $(MAPPINGS_DIR)/$*.sssom.tsv -o $(MAPPINGS_DIR)/$*.sssom.ttl
 
 MAPPINGS=$(notdir $(wildcard $(MAPPINGS_DIR)/*.sssom.tsv))
 VALIDATE_MAPPINGS=$(patsubst %.sssom.tsv, validate-%, $(notdir $(wildcard $(MAPPINGS_DIR)/*.sssom.tsv)))
