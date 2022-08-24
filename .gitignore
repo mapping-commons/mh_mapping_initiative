@@ -6,3 +6,4 @@ df_kids_first_mapped.csv
 tmp/
 .cogs
 *.pyc
+mappings/*.sssom.ttl
