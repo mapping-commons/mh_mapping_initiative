@@ -204,4 +204,3 @@ MP:0011884	absent colon	skos:closeMatch	HP:0500027	Aplastic colon	semapv:Logical
 MP:0012279	wide sternum	skos:closeMatch	sssom:NoTermFound	No Term Found	semapv:ManualMappingCuration
 MP:0012672	enlarged trachea	skos:closeMatch	HP:0010778	Tracheomegaly	semapv:LogicalReasoning
 MP:0013129	abnormal tooth colour	skos:closeMatch	HP:0011073	Abnormality of dental color	semapv:LexicalMatching
-

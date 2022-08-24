@@ -18,6 +18,7 @@ tmp/:
 #######################################
 
 validate-%:
+	tsvalid $(MAPPINGS_DIR)/$*.sssom.tsv --comment "#"
 	sssom validate $(MAPPINGS_DIR)/$*.sssom.tsv
 
 MAPPINGS=$(notdir $(wildcard $(MAPPINGS_DIR)/*.sssom.tsv))

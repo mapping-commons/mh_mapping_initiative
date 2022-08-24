@@ -63,4 +63,3 @@ MA:0001359	femur	skos:exactMatch	UBERON:0000981	femur	semapv:LexicalMatching
 MA:0001361	tibia	skos:exactMatch	UBERON:0000979	tibia	semapv:LexicalMatching
 MA:0001459	bone	skos:closeMatch	UBERON:0002481	bone tissue	semapv:LexicalMatching
 MA:0003148	skeletal muscle	skos:closeMatch	UBERON:0001134	skeletal muscle tissue	semapv:LexicalMatching
-
