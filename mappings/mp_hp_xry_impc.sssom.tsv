@@ -72,4 +72,3 @@ MP:0010099	abnormal thoracic cage shape	skos:closeMatch	HP:0001547	Abnormality o
 MP:0010100	increased cervical vertebrae number	skos:closeMatch	HP:0002946	Supernumerary vertebrae	semapv:LogicalReasoning
 MP:0010101	increased sacral vertebrae number	skos:closeMatch	HP:0002946	Supernumerary vertebrae	semapv:LogicalReasoning
 MP:0010102	increased caudal vertebrae number	skos:closeMatch	HP:0002946	Supernumerary vertebrae	semapv:LogicalReasoning
-
