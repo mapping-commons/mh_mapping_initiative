@@ -6,12 +6,12 @@
 #object_source: obo:hp
 #subject_source: obo:mp
 #curie_map:
-#  HP: http://purl.obolibrary.org/obo/HP_
-#  MP: http://purl.obolibrary.org/obo/MP_
-#  skos: http://www.w3.org/2004/02/skos/core/
-#  orcid: https://orcid.org/
-#  ror: https://ror.org/
-#  wikidata: https://www.wikidata.org/wiki/
+# HP: http://purl.obolibrary.org/obo/HP_
+# MP: http://purl.obolibrary.org/obo/MP_
+# skos: http://www.w3.org/2004/02/skos/core#
+# orcid: https://orcid.org/
+# ror: https://ror.org/
+# wikidata: https://www.wikidata.org/wiki/
 # obo: http://purl.obolibrary.org/obo/
 # semapv: https://w3id.org/semapv/
 object_id	object_label	predicate_id	confidence	subject_id	subject_label	mapping_justification	author_id	mapping_date	comment	other
