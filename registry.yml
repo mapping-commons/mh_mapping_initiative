@@ -4,36 +4,37 @@ registry_description: Mouse Human Mapping Initiative
 homepage: https://github.com/mapping-commons/mh_mapping_initiative
 documentation: https://github.com/mapping-commons/mh_mapping_initiative/blob/master/README.md
 mapping_set_references:
-  - mapping_set_id: https://w3id.org/sssom/commons/mouse-human/mappings/mp_hp_eye_impc
+  - mapping_set_id: https://w3id.org/sssom/commons/mouse-human/mappings/mp_hp_eye_impc.sssom.tsv
     mapping_set_group: impc_mouse_morphology
     registry_confidence: 0.9
-  - mapping_set_id: https://w3id.org/sssom/commons/mouse-human/mappings/mp_hp_hwt_impc.tsv
+  - mapping_set_id: https://w3id.org/sssom/commons/mouse-human/mappings/mp_hp_hwt_impc.sssom.tsv
     mapping_set_group: impc_mouse_morphology
-  - mapping_set_id: https://w3id.org/sssom/commons/mouse-human/mappings/mp_hp_owt_impc.tsv
+  - mapping_set_id: https://w3id.org/sssom/commons/mouse-human/mappings/mp_hp_owt_impc.sssom.tsv
     mapping_set_group: impc_mouse_morphology
-  - mapping_set_id: https://w3id.org/sssom/commons/mouse-human/mappings/ma_uberon_pat_impc.tsv
+  - mapping_set_id: https://w3id.org/sssom/commons/mouse-human/mappings/ma_uberon_pat_impc.sssom.tsv
     mapping_set_group: impc_mouse_morphology
-  - mapping_set_id: https://w3id.org/sssom/commons/mouse-human/mappings/mp_hp_pat_impc.tsv
+  - mapping_set_id: https://w3id.org/sssom/commons/mouse-human/mappings/mp_hp_pat_impc.sssom.tsv
     mapping_set_group: impc_mouse_morphology
-  - mapping_set_id: https://w3id.org/sssom/commons/mouse-human/mappings/pato_hp_pat_impc.tsv
+  - mapping_set_id: https://w3id.org/sssom/commons/mouse-human/mappings/pato_hp_pat_impc.sssom.tsv
     mapping_set_group: impc_mouse_morphology
-  - mapping_set_id: https://w3id.org/sssom/commons/mouse-human/mappings/mp_hp_xry_impc.tsv
+  - mapping_set_id: https://w3id.org/sssom/commons/mouse-human/mappings/mp_hp_xry_impc.sssom.tsv
     mapping_set_group: impc_mouse_morphology
-  - mapping_set_id: https://w3id.org/sssom/commons/mouse-human/mappings/hp_doid_pistoia.tsv
+  - mapping_set_id: https://w3id.org/sssom/commons/mouse-human/mappings/hp_doid_pistoia.sssom.tsv
     mapping_set_group: pistoia_mappings
-  - mapping_set_id: https://w3id.org/sssom/commons/mouse-human/mappings/mp_doid_pistoia.tsv
+  - mapping_set_id: https://w3id.org/sssom/commons/mouse-human/mappings/mp_doid_pistoia.sssom.tsv
     mapping_set_group: pistoia_mappings
-  - mapping_set_id: https://w3id.org/sssom/commons/mouse-human/mappings/mp_hp_pistoia.tsv
+    registry_confidence: 0.4
+  - mapping_set_id: https://w3id.org/sssom/commons/mouse-human/mappings/mp_hp_pistoia.sssom.tsv
     mapping_set_group: pistoia_mappings
-  - mapping_set_id: https://w3id.org/sssom/commons/mouse-human/mappings/ordo_doid_pistoia.tsv
+  - mapping_set_id: https://w3id.org/sssom/commons/mouse-human/mappings/ordo_doid_pistoia.sssom.tsv
     mapping_set_group: pistoia_mappings
-  - mapping_set_id: https://w3id.org/sssom/commons/mouse-human/mappings/ordo_mp_pistoia.tsv
+  - mapping_set_id: https://w3id.org/sssom/commons/mouse-human/mappings/ordo_mp_pistoia.sssom.tsv
     mapping_set_group: pistoia_mappings
   - mapping_set_id: https://w3id.org/sssom/commons/mouse-human/mappings/hp_mp_kidsfirst_mgi.tsv
     mapping_set_group: mgi_mappings
-  - mapping_set_id: https://w3id.org/sssom/commons/mouse-human/mappings/hp_mp_scoliosis_mgi.tsv
+  - mapping_set_id: https://w3id.org/sssom/commons/mouse-human/mappings/hp_mp_scoliosis_mgi.sssom.tsv
     mapping_set_group: mgi_mappings
-  - mapping_set_id: https://w3id.org/sssom/commons/mouse-human/mappings/mp_hp_alzheimer_mgi.tsv
+  - mapping_set_id: https://w3id.org/sssom/commons/mouse-human/mappings/mp_hp_alzheimer_mgi.sssom.tsv
     mapping_set_group: mgi_mappings
-  - mapping_set_id: https://w3id.org/sssom/commons/mouse-human/mappings/mp_hp_covid19_mgi.tsv
+  - mapping_set_id: https://w3id.org/sssom/commons/mouse-human/mappings/mp_hp_covid19_mgi.sssom.tsv
     mapping_set_group: mgi_mappings
