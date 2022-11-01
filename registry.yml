@@ -1,10 +1,12 @@
-registry_id: mh_mapping_initiative
+mapping_registry_id: https://w3id.org/sssom/commons/mouse-human
 registry_title: Mouse Human Mapping Initiative
 registry_description: Mouse Human Mapping Initiative
 homepage: https://github.com/mapping-commons/mh_mapping_initiative
-mappings:
+documentation: https://github.com/mapping-commons/mh_mapping_initiative/blob/master/README.md
+mapping_set_references:
   - mapping_set_id: mp_hp_eye_impc
     mapping_set_group: impc_mouse_morphology
+    registry_confidence: 0.9
   - mapping_set_id: mp_hp_hwt_impc
     mapping_set_group: impc_mouse_morphology
   - mapping_set_id: mp_hp_owt_impc
