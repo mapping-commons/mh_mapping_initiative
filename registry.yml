@@ -30,11 +30,5 @@ mapping_set_references:
     mapping_set_group: pistoia_mappings
   - mapping_set_id: https://w3id.org/sssom/commons/mouse-human/mappings/ordo_mp_pistoia.sssom.tsv
     mapping_set_group: pistoia_mappings
-  - mapping_set_id: https://w3id.org/sssom/commons/mouse-human/mappings/hp_mp_kidsfirst_mgi.tsv
-    mapping_set_group: mgi_mappings
-  - mapping_set_id: https://w3id.org/sssom/commons/mouse-human/mappings/hp_mp_scoliosis_mgi.sssom.tsv
-    mapping_set_group: mgi_mappings
-  - mapping_set_id: https://w3id.org/sssom/commons/mouse-human/mappings/mp_hp_alzheimer_mgi.sssom.tsv
-    mapping_set_group: mgi_mappings
-  - mapping_set_id: https://w3id.org/sssom/commons/mouse-human/mappings/mp_hp_covid19_mgi.sssom.tsv
+  - mapping_set_id: https://w3id.org/sssom/commons/mouse-human/mappings/mp_hp_mgi_all.sssom.tsv
     mapping_set_group: mgi_mappings
