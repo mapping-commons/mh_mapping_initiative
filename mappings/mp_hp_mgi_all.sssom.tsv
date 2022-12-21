@@ -45,7 +45,7 @@ HP:0000093	Proteinuria	skos:exactMatch	1	MP:0002962	increased urine protein leve
 HP:0000104	Renal agenesis	skos:broadMatch	0.9	MP:0000520	absent kidney	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2021-05-27	KidsFirst; absence of both kidneys, HPO term has child terms for bilateral and unilateral renal agenesis that would be exact matches to the MP terms	
 HP:0000104	Renal agenesis	skos:broadMatch	0.9	MP:0003604	single kidney	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2021-05-27	KidsFirst	
 HP:0000105	Enlarged kidney	skos:exactMatch	1	MP:0003068	enlarged kidney	semapv:ManualMappingCuration	orcid:0000-0002-6490-7723	2021-12-20	KidsFirst	
-HP:0000107	Renal cyst	skos:exactMatch	0.9	MP:0003675	kidney cysts	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2021-05-27	KidsFirst; while the HP term is singular and the MP plural, the HP term has multiple cysts as a child term and the MP term does not specify that it has to be multiple, so I think these are an exact match	
+HP:0000107	Renal cyst	skos:exactMatch	0.9	MP:0003675	kidney cyst	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2021-05-27	KidsFirst; while the HP term is singular and the MP plural, the HP term has multiple cysts as a child term and the MP term does not specify that it has to be multiple, so I think these are an exact match	
 HP:0000110	Renal dysplasia	skos:broadMatch	0.9	MP:0000527	abnormal kidney development	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2021-05-27	KidsFirst	
 HP:0000110	Renal dysplasia	skos:narrowMatch	0.9	MP:0002135	abnormal kidney morphology	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2021-05-27	KidsFirst; HPO terms covers both devlopment and morphology, no exact match in MP	
 HP:0000113	Polycystic kidney dysplasia	skos:narrowMatch	0.8	MP:0008528	polycystic kidney	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2021-05-27	KidsFirst; MP term definition does not specify both kidneys	
@@ -231,7 +231,7 @@ HP:0001684	Secundum atrial septal defect	skos:exactMatch	1	MP:0010405	ostium sec
 HP:0001696	Situs inversus totalis	skos:exactMatch	1	MP:0011252	situs inversus totalis	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2022-01-27	KidsFirst	
 HP:0001698	Pericardial effusion	skos:exactMatch	1	MP:0005312	pericardial effusion	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597|orcid:0000-0002-6490-7723	2021-12-31	COVID	PMID:32352535, PMID:32118615
 HP:0001700	Myocardial necrosis	skos:exactMatch	1	MP:0006085	myocardium necrosis	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597|orcid:0000-0002-6490-7723	2021-12-31	COVID	PMID:32354800
-HP:0001701	Pericarditis	skos:exactMatch	1	MP:0001845	pericarditis	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597|orcid:0000-0002-6490-7723	2021-12-31	COVID	PMID:32360119
+HP:0001701	Pericarditis	skos:exactMatch	1	MP:0001857	pericarditis	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597|orcid:0000-0002-6490-7723	2021-12-31	COVID	PMID:32360119
 HP:0001702	Abnormal tricuspid valve morphology	skos:exactMatch	1	MP:0002624	abnormal tricuspid valve morphology	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2021-05-27	KidsFirst	
 HP:0001707	Abnormal right ventricle morphology	skos:exactMatch	1	MP:0003920	abnormal heart right ventricle morphology	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2021-05-27	KidsFirst	
 HP:0001710	Conotruncal defect	skos:relatedMatch	0.9	MP:0006126	abnormal cardiac outflow tract development	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2021-05-27	KidsFirst; MP has this as the process but not a general morphology term, possibly we should add one?	
@@ -626,7 +626,7 @@ HP:0031266	Podocyte foot process effacement	skos:exactMatch	1	MP:0008140	podocyt
 HP:0031411	Abnormal chromosome morphology	skos:exactMatch	1	MP:0003702	abnormal chromosome morphology	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2021-05-27	KidsFirst	
 HP:0031417	Rhinorrhea	skos:exactMatch	1	MP:0031102	rhinorrhea	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597|orcid:0000-0002-6490-7723	2021-12-31	COVID	PMID:32574165
 HP:0031703	Abnormal ear morphology	skos:exactMatch	1	MP:0002102	abnormal ear morphology	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2021-05-27	KidsFirst	
-HP:0031805	Intraretinal hemorrhage	skos:narrowMatch	1	MP:0006185	retinal hemorrhage	semapv:ManualMappingCuration	orcid:0000-0002-6490-7723	2021-12-20	KidsFirst; MP term is just defined as bleeding into the retina	
+HP:0031805	Intraretinal hemorrhage	skos:narrowMatch	1	MP:0006185	retina hemorrhage	semapv:ManualMappingCuration	orcid:0000-0002-6490-7723	2021-12-20	KidsFirst; MP term is just defined as bleeding into the retina	
 HP:0031826	Abnormal reflex	skos:exactMatch	1	MP:0001961	abnormal reflex	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597|orcid:0000-0002-6490-7723	2021-12-31	COVID	PMID:32464367
 HP:0031831	Decreased serum zinc	skos:exactMatch	1	MP:0031172	decreased circulating zinc level	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597|orcid:0000-0002-6490-7723	2021-12-31	COVID; HP term definition specifies "blood" not "serum"	https://doi.org/10.1101/2020.10.07.20208645
 HP:0031851	Reduced hematocrit	skos:exactMatch	1	MP:0000208	decreased hematocrit	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597|orcid:0000-0002-6490-7723	2021-12-31	COVID	PMID:32566620
