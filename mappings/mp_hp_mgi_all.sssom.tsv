@@ -749,7 +749,7 @@ HP:0100737	Abnormal hard palate morphology	skos:exactMatch	0.9	MP:0003756	abnorm
 HP:0011063	Abnormal incisor morphology	skos:exactMatch	1	MP:0005358	abnormal incisor morphology	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	1/9/2023		
 HP:0030791	Abnormal jaw morphology	skos:narrowMatch	1	MP:0000454	abnormal jaw morphology	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	1/9/2023	"MP includes more than just the mandible and maxilla, including dentition as part of the jaw, HPO restricts the definition to mandible and maxilla, dentition is in a different branch entirely"	
 HP:0000277	Abnormal mandible morphology	skos:exactMatch	1	MP:0000458	abnormal mandible morphology	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	1/9/2023		
-HP:0000326 	Abnormality of the maxilla	skos:broadMatch	1	MP:0004538	abnormal maxillary shelf morphology	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	1/9/2023		
+HP:0000326	Abnormality of the maxilla	skos:broadMatch	1	MP:0004538	abnormal maxillary shelf morphology	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	1/9/2023		
 HP:0000234	Abnormality of the head	skos:broadMatch	1	MP:0009903	abnormal medial nasal prominence morphology	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	1/9/2023		
 HP:0010939	Abnormal nasal bone morphology	skos:exactMatch	1	MP:0000102	abnormal nasal bone morphology	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	1/9/2023		
 HP:0005105	Abnormal nasal morphology	skos:broadMatch	1	MP:0004726	abnormal nasal capsule morphology	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	1/9/2023		
@@ -778,7 +778,7 @@ HP:0000347	Micrognathia	skos:narrowMatch	1	MP:0002639	micrognathia	semapv:Manual
 HP:0000160	Narrow mouth	skos:narrowMatch	1	MP:0009880	microstomia	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	1/30/2023	"MP term applies to any decrease in mouth size, while the HP applies to narrow"	
 HP:0003811	Neonatal death	skos:exactMatch	0.9	MP:0002058	neonatal lethality	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	1/30/2023	"some uncertainty since the MP term applies to populations primarily and it is unclear if the HP term is intended to be for individuals, populations, or both"	
 HP:0003811	Neonatal death	skos:broadMatch	1	MP:0011088	"neonatal lethality, incomplete penetrance"	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	1/30/2023		
-HP:043000	Abnormal palatine bone morphology	skos:broadMatch	1	MP:0009896	palatine bone horizontal plate hypoplasia	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	1/30/2023		
+HP:0430003	Abnormal palatine bone morphology	skos:broadMatch	1	MP:0009896	palatine bone horizontal plate hypoplasia	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	1/30/2023		
 HP:0010442	Polydactyly	skos:exactMatch	1	MP:0000562	polydactyly	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	1/30/2023		
 HP:0011849	Abnormal bone ossification	skos:broadMatch	1	MP:0003416	premature bone ossification	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	1/30/2023		
 HP:0010650	Hypoplasia of the premaxilla	skos:exactMatch	0.9	MP:0004871	premaxilla hypoplasia	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	1/30/2023	HP definition just specifies small not decreased cell number so it is possible that the MP term is narrower	
