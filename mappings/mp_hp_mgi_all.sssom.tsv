@@ -715,25 +715,25 @@ HP:0410174	Increased troponin T level in blood	skos:exactMatch	1	MP:0031078	incr
 HP:0410264	Subglottic hemangioma	skos:relatedMatch	0.8	MP:0002947	increased hemangioma incidence	semapv:ManualMappingCuration	orcid:0000-0002-6490-7723|orcid:0000-0003-4606-0597	2021-05-27	KidsFirst; MP term covers all types of hemangiomas, not sure if related or broad is the better match term	
 HP:0410271	Laryngeal hemangioma	skos:relatedMatch	1	MP:0002947	increased hemangioma incidence	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2022-02-07	KidsFirst; both broad and related, no annotations in MGI	
 HP:0410275	Lumbosacral hemangioma	skos:relatedMatch	1	MP:0002947	increased hemangioma incidence	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2022-02-07	KidsFirst; both broad and related, no annotations in MGI	
-HP:0000174	Abnormal palate morphology		skos:broadMatch	1	MP:0009886	failure of palatal shelf elevation	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	12/14/2022		
-HP:0000174	Abnormal palate morphology		skos:broadMatch	1	MP:0009653	abnormal palate development	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	12/14/2022		
-HP:0000157	Abnormality of the tongue		skos:broadMatch	1	MP:0031443	abnormal tongue position	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	12/14/2022		
-HP:0008872	Feeding difficulties in infancy		skos:broadMatch	1	MP:0009546	absent gastric milk in neonates	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	12/14/2022		
-HP:0001522	Death in infancy		skos:relatedMatch	0.9	MP:0011110 	"preweaning lethality, incomplete penetrance"	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	12/14/2022		
-HP:0003819	Death in childhood		skos:relatedMatch	0.9	MP:0011110 	"preweaning lethality, incomplete penetrance"	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	12/14/2022		
-HP:0000271	Abnormality of the face		skos:broadMatch	1	MP:0000445	short snout	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	12/14/2022		
-HP:0000929	Abnormal skull morphology		skos:narrowMatch	1	MP:0002116	abnormal craniofacial bone morphology	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	12/14/2022		
-HP:0430000	Abnormal frontal bone morphology		skos:exactMatch	1	MP:0000107	abnormal frontal bone morphology	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	12/14/2022		
-HP:0000419	Abnormality of the nasal septum		skos:exactMatch	0.9	MP:0002239	abnormal nasal septum morphology	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	12/14/2022	"The MP term includes the vomeronasal organ that is not found in the HPO, UBERON does not have the vomeronasal organ as part of the septum, possibly the MP organization should be changed?"	
-HP:0010291	Prominent palatine ridges		skos:narrowMatch	1	MP:0009652	abnormal palatal rugae morphology	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	12/14/2022		
-HP:0000174	Abnormal palate morphology		skos:broadMatch	1	MP:0031460	abnormal palatal shelf morphology	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	12/14/2022		
-HP:0010758	Abnormality of the premaxilla		skos:exactMatch	0.9	MP:0002820	abnormal premaxilla morphology	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	12/15/2022	"calling this exact based on placement in the morphology branch, despite lack of morphology reference in label or definition"	
-HP:0410000	Abnormal vomer morphology		skos:exactMatch	1	MP:0000098	abnormal vomer bone morphology	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	12/15/2022		
-HP:0000589	Coloboma		skos:exactMatch	1	MP:0005262	coloboma	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	12/15/2022		
-HP:0430003	Abnormal palatine bone morphology		skos:broadMatch	1	MP:0009895 	decreased palatine bone horizontal plate size	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	12/15/2022		
-HP:0000174	Abnormal palate morphology		skos:broadMatch	1	MP:0021166	delayed palatal shelf elevation	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	12/15/2022		
-HP:0000252	Microcephaly		skos:closeMatch	0.9	MP:0000433	microcephaly	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	12/15/2022	HPO term has specifics for when this would be called in humans that I interpret as more extreme than how the MP term would be applied	
-HP:0003811	Neonatal lethal		skos:exactMatch	1	MP:0011087	"neonatal lethality, complete penetrance"	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	12/15/2022		
+HP:0000174	Abnormal palate morphology	skos:broadMatch	1	MP:0009886	failure of palatal shelf elevation	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	12/14/2022		
+HP:0000174	Abnormal palate morphology	skos:broadMatch	1	MP:0009653	abnormal palate development	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	12/14/2022		
+HP:0000157	Abnormality of the tongue	skos:broadMatch	1	MP:0031443	abnormal tongue position	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	12/14/2022		
+HP:0008872	Feeding difficulties in infancy	skos:broadMatch	1	MP:0009546	absent gastric milk in neonates	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	12/14/2022		
+HP:0001522	Death in infancy	skos:relatedMatch	0.9	MP:0011110	"preweaning lethality, incomplete penetrance"	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	12/14/2022		
+HP:0003819	Death in childhood	skos:relatedMatch	0.9	MP:0011110	"preweaning lethality, incomplete penetrance"	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	12/14/2022		
+HP:0000271	Abnormality of the face	skos:broadMatch	1	MP:0000445	short snout	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	12/14/2022		
+HP:0000929	Abnormal skull morphology	skos:narrowMatch	1	MP:0002116	abnormal craniofacial bone morphology	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	12/14/2022		
+HP:0430000	Abnormal frontal bone morphology	skos:exactMatch	1	MP:0000107	abnormal frontal bone morphology	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	12/14/2022		
+HP:0000419	Abnormality of the nasal septum	skos:exactMatch	0.9	MP:0002239	abnormal nasal septum morphology	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	12/14/2022	"The MP term includes the vomeronasal organ that is not found in the HPO, UBERON does not have the vomeronasal organ as part of the septum, possibly the MP organization should be changed?"	
+HP:0010291	Prominent palatine ridges	skos:narrowMatch	1	MP:0009652	abnormal palatal rugae morphology	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	12/14/2022		
+HP:0000174	Abnormal palate morphology	skos:broadMatch	1	MP:0031460	abnormal palatal shelf morphology	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	12/14/2022		
+HP:0010758	Abnormality of the premaxilla	skos:exactMatch	0.9	MP:0002820	abnormal premaxilla morphology	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	12/15/2022	"calling this exact based on placement in the morphology branch, despite lack of morphology reference in label or definition"	
+HP:0410000	Abnormal vomer morphology	skos:exactMatch	1	MP:0000098	abnormal vomer bone morphology	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	12/15/2022		
+HP:0000589	Coloboma	skos:exactMatch	1	MP:0005262	coloboma	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	12/15/2022		
+HP:0430003	Abnormal palatine bone morphology	skos:broadMatch	1	MP:0009895	decreased palatine bone horizontal plate size	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	12/15/2022		
+HP:0000174	Abnormal palate morphology	skos:broadMatch	1	MP:0021166	delayed palatal shelf elevation	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	12/15/2022		
+HP:0000252	Microcephaly	skos:closeMatch	0.9	MP:0000433	microcephaly	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	12/15/2022	HPO term has specifics for when this would be called in humans that I interpret as more extreme than how the MP term would be applied	
+HP:0003811	Neonatal lethal	skos:exactMatch	1	MP:0011087	"neonatal lethality, complete penetrance"	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	12/15/2022		
 HP:0000174	Abnormal palate morphology	skos:broadMatch	1	MP:0009888	palatal shelves fail to meet at midline	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	12/15/2022		
 HP:0000174	Abnormal palate morphology	skos:broadMatch	1	MP:0009892	palate bone hypoplasia	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	12/15/2022		
 HP:0003811	Neonatal lethal	skos:narrowMatch	1	MP:0011090	"perinatal lethality, incomplete penetrance"	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	12/15/2022		
