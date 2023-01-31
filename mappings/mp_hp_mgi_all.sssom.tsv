@@ -734,65 +734,65 @@ HP:0430003	Abnormal palatine bone morphology		skos:broadMatch	1	MP:0009895 	decr
 HP:0000174	Abnormal palate morphology		skos:broadMatch	1	MP:0021166	delayed palatal shelf elevation	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	12/15/2022		
 HP:0000252	Microcephaly		skos:closeMatch	0.9	MP:0000433	microcephaly	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	12/15/2022	HPO term has specifics for when this would be called in humans that I interpret as more extreme than how the MP term would be applied	
 HP:0003811	Neonatal lethal		skos:exactMatch	1	MP:0011087	"neonatal lethality, complete penetrance"	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	12/15/2022		
-HP:0000174	Abnormal palate morphology		skos:broadMatch	1	MP:0009888	palatal shelves fail to meet at midline	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	12/15/2022		
-HP:0000174	Abnormal palate morphology		skos:broadMatch	1	MP:0009892	palate bone hypoplasia	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	12/15/2022		
-HP:0003811	Neonatal lethal		skos:narrowMatch	1	MP:0011090	"perinatal lethality, incomplete penetrance"	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	12/15/2022		
-HP:0011830	Abnormal oral mucosa morphology		skos:broadMatch	1	MP:0030183	persistent oronasal membrane	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	12/15/2022		
-HP:0000347	Micrognathia		skos:relatedMatch	1	MP:0000088	short mandible	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	12/15/2022		
-HP:0000326	Abnormality of the maxilla		skos:broadMatch	1	MP:0000097	short maxilla	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	12/15/2022		
-HP:0010758	Abnormality of the premaxilla		skos:broadMatch	1	MP:0000091	short premaxilla	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	12/15/2022		
-HP:0000347	Micrognathia		skos:relatedMatch		MP:0004592	small mandible	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	12/15/2022		
-HP:0006477	Abnormality of the alveolar ridges		skos:exactMatch	0.9	MP:0004189	abnormal alveolar process morphology	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	12/15/2022		
-HP:0012303	Abnormal aortic arch morphology		skos:broadMatch	1	MP:0010464	abnormal aortic arch and aortic arch branch attachment	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	1/9/2023		
-HP:0000234	Abnormality of the head		skos:broadMatch	1	MP:0003935	abnormal craniofacial development	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	1/9/2023		
-HP:0100737	Abnormal hard palate morphology		skos:exactMatch	0.9	MP:0003756	abnormal hard palate morphology	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	1/9/2023	"HPO ticket to remove cleft palate as a child of this term, some uncertainty based on lack of text definition"	
-HP:0011063	Abnormal incisor morphology		skos:exactMatch	1	MP:0005358	abnormal incisor morphology	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	1/9/2023		
-HP:0030791	Abnormal jaw morphology		skos:narrowMatch	1	MP:0000454	abnormal jaw morphology	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	1/9/2023	"MP includes more than just the mandible and maxilla, including dentition as part of the jaw, HPO restricts the definition to mandible and maxilla, dentition is in a different branch entirely"	
-HP:0000277	Abnormal mandible morphology		skos:exactMatch	1	MP:0000458	abnormal mandible morphology	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	1/9/2023		
-HP:0000326 	Abnormality of the maxilla		skos:broadMatch	1	MP:0004538	abnormal maxillary shelf morphology	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	1/9/2023		
-HP:0000234	Abnormality of the head		skos:broadMatch	1	MP:0009903	abnormal medial nasal prominence morphology	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	1/9/2023		
-HP:0010939	Abnormal nasal bone morphology		skos:exactMatch	1	MP:0000102	abnormal nasal bone morphology	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	1/9/2023		
-HP:0005105	Abnormal nasal morphology		skos:broadMatch	1	MP:0004726	abnormal nasal capsule morphology	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	1/9/2023		
-HP:0100737	Abnormal hard palate morphology		skos:broadMatch	1	MP:0009887	abnormal palatal shelf fusion at midline	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	1/9/2023		
-HP:0430003	Abnormal palatine bone morphology		skos:exactMatch	0.9	MP:0005249	abnormal palatine bone morphology	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	1/9/2023	HPO placement and label suggest this term should be limited to morphology but definition just states 'abnormality' which could be broader	
-HP:0000174	Abnormal palate morphology		skos:broadMatch	1	MP:0009654	abnormal primary palate development	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	1/9/2023		
-HP:0100737	Abnormal hard palate morphology		skos:broadMatch	1	MP:0009655	abnormal secondary palate development	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	1/9/2023		
-HP:0004303	Abnormal muscle fiber morphology		skos:exactMatch	1	MP:0003084	abnormal skeletal muscle fiber morphology	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	1/30/2023		
-HP:0100736	Abnormal soft palate morphology		skos:exactMatch	1	MP:0003154	abnormal soft palate morphology	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	1/30/2023		
-HP:0430014	Abnormality of musculature of soft palate		skos:exactMatch	1	MP:0030224	abnormal soft palate muscle morphology	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	1/30/2023		
-HP:0000174	Abnormal palate morphology		skos:broadMatch	1	MP:0009882	absent palatal shelf	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	1/30/2023		
-HP:0430003	Abnormal palatine bone morphology		skos:broadMatch	1	MP:0000431	absent palatine bone horizontal plate	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	1/30/2023		
-HP:0000324	Facial asymmetry		skos:broadMatch	1	MP:0008862	asymmetric snout	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	1/30/2023		
-HP:0001156	Brachydactyly		skos:exactMatch	1	MP:0002544	brachydactyly	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	1/30/2023		
-HP:0003687	Centrally nucleated skeletal muscle fibers		skos:exactMatch	1	MP:0009404	centrally nucleated skeletal muscle fibers	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	1/30/2023		
-HP:0000185	Cleft soft palate		skos:exactMatch	0.9	MP:0013546	cleft soft palate	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	1/30/2023	"HP term specifies developmental origin while the MP does not, but I don't think you would ever seen this not of developmental origin"	
-HP:0001762	Talipes equinovarus		skos:exactMatch	0.9	MP:0000576	clubfoot	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	1/30/2023	"I think these are intended to be the same, but the HP term specifies an effect on the leg as well as the foot that is not in the MP definition"	
-HP:0000175	Cleft palate		skos:broadMatch	1	MP:0021213	complete cleft palate	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	1/30/2023		
-HP:0010295	Aplasia/Hypoplasia of the tongue		skos:closeMatch	0.9	MP:0009907	decreased tongue size	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	1/30/2023	"HP term covers specici type of decreased size but also covers aplasia, MP term covers any type of decrease in size but not absence"	
-HP:0000929	Abnormal skull morphology		skos:broadMatch	1	MP:0000440	domed cranium	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	1/30/2023		
-HP:0002006	Facial cleft		skos:exactMatch	1	MP:0008797	facial cleft	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	1/30/2023		
-HP:0001712	Left ventricular hypertrophy		skos:exactMatch	1	MP:0002625	heart left ventricle hypertrophy	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	1/30/2023		
-HP:0001667	Right ventricular hypertrophy		skos:exactMatch	1	MP:0000276	heart right ventricle hypertrophy	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	1/30/2023		
-HP:0000326	Abnormality of the maxilla		skos:broadMatch	1	MP:0009898	maxillary shelf hypoplasia	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	1/30/2023		
-HP:0000347	Micrognathia		skos:narrowMatch	1	MP:0002639	micrognathia	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	1/30/2023	"MP term applies to both upper and lower jaw, HP is only mandible"	
-HP:0000160	Narrow mouth		skos:narrowMatch	1	MP:0009880	microstomia	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	1/30/2023	"MP term applies to any decrease in mouth size, while the HP applies to narrow"	
-HP:0003811	Neonatal death		skos:exactMatch	0.9	MP:0002058	neonatal lethality	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	1/30/2023	"some uncertainty since the MP term applies to populations primarily and it is unclear if the HP term is intended to be for individuals, populations, or both"	
-HP:0003811	Neonatal death		skos:broadMatch	1	MP:0011088	"neonatal lethality, incomplete penetrance"	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	1/30/2023		
-HP:043000	Abnormal palatine bone morphology		skos:broadMatch	1	MP:0009896	palatine bone horizontal plate hypoplasia	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	1/30/2023		
-HP:0010442	Polydactyly		skos:exactMatch	1	MP:0000562	polydactyly	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	1/30/2023		
-HP:0011849	Abnormal bone ossification		skos:broadMatch	1	MP:0003416	premature bone ossification	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	1/30/2023		
-HP:0010650	Hypoplasia of the premaxilla		skos:exactMatch	0.9	MP:0004871	premaxilla hypoplasia	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	1/30/2023	HP definition just specifies small not decreased cell number so it is possible that the MP term is narrower	
-HP:0430000	Abnormal frontal bone morphology		skos:broadMatch	1	MP:0004380	short frontal bone	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	1/30/2023		
-HP:0011063	Abnormal incisor morphology		skos:broadMatch	1	MP:0004830	short incisors	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	1/30/2023		
-HP:0011063	Abnormal incisor morphology		skos:broadMatch	1	MP:0030089	short lower incisors	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	1/30/2023		
-HP:0010295	Aplasia/Hypoplasia of the tongue		skos:closeMatch	0.9	MP:0020301	short tongue	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	1/30/2023		
-HP:0011063	Abnormal incisor morphology		skos:broadMatch	1	MP:0030090	short upper incisors	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	1/30/2023		
-HP:0000248	Brachycephaly		skos:exactMatch	1	MP:0000435	shortened head	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	1/30/2023		
-HP:0430000	Abnormal frontal bone morphology		skos:broadMatch	1	MP:0004377	small frontal bone	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	1/30/2023		
-HP:3000073	Abnormality of levator veli palatini muscle		skos:broadMatch	1	MP:0030295	small levator veli palatini muscle	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	1/30/2023		
-HP:0000327	Hypoplasia of the maxilla		skos:narrowMatch	1	MP:0004540	small maxilla	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	1/30/2023		
-HP:0010650	Hypoplasia of the premaxilla		skos:narrowMatch	1	MP:0004870	small premaxilla	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	1/30/2023		
-HP:0430016	Abnormality of tensor veli palatini muscle		skos:broadMatch	1	MP:0030292	small tensor veli palatini muscle	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	1/30/2023		
-HP:0410000	Abnormal vomer morphology		skos:broadMatch	1	MP:0030266	small vomer bone	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	1/30/2023		
-HP:0010775	Vascular ring		skos:exactMatch	1	MP:0010466	vascular ring	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	1/30/2023		
-HP:0005556	Abnormality of the metopic suture		skos:broadMatch	1	MP:0030431	wide metopic suture	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	1/30/2023		
+HP:0000174	Abnormal palate morphology	skos:broadMatch	1	MP:0009888	palatal shelves fail to meet at midline	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	12/15/2022		
+HP:0000174	Abnormal palate morphology	skos:broadMatch	1	MP:0009892	palate bone hypoplasia	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	12/15/2022		
+HP:0003811	Neonatal lethal	skos:narrowMatch	1	MP:0011090	"perinatal lethality, incomplete penetrance"	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	12/15/2022		
+HP:0011830	Abnormal oral mucosa morphology	skos:broadMatch	1	MP:0030183	persistent oronasal membrane	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	12/15/2022		
+HP:0000347	Micrognathia	skos:relatedMatch	1	MP:0000088	short mandible	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	12/15/2022		
+HP:0000326	Abnormality of the maxilla	skos:broadMatch	1	MP:0000097	short maxilla	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	12/15/2022		
+HP:0010758	Abnormality of the premaxilla	skos:broadMatch	1	MP:0000091	short premaxilla	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	12/15/2022		
+HP:0000347	Micrognathia	skos:relatedMatch		MP:0004592	small mandible	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	12/15/2022		
+HP:0006477	Abnormality of the alveolar ridges	skos:exactMatch	0.9	MP:0004189	abnormal alveolar process morphology	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	12/15/2022		
+HP:0012303	Abnormal aortic arch morphology	skos:broadMatch	1	MP:0010464	abnormal aortic arch and aortic arch branch attachment	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	1/9/2023		
+HP:0000234	Abnormality of the head	skos:broadMatch	1	MP:0003935	abnormal craniofacial development	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	1/9/2023		
+HP:0100737	Abnormal hard palate morphology	skos:exactMatch	0.9	MP:0003756	abnormal hard palate morphology	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	1/9/2023	"HPO ticket to remove cleft palate as a child of this term, some uncertainty based on lack of text definition"	
+HP:0011063	Abnormal incisor morphology	skos:exactMatch	1	MP:0005358	abnormal incisor morphology	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	1/9/2023		
+HP:0030791	Abnormal jaw morphology	skos:narrowMatch	1	MP:0000454	abnormal jaw morphology	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	1/9/2023	"MP includes more than just the mandible and maxilla, including dentition as part of the jaw, HPO restricts the definition to mandible and maxilla, dentition is in a different branch entirely"	
+HP:0000277	Abnormal mandible morphology	skos:exactMatch	1	MP:0000458	abnormal mandible morphology	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	1/9/2023		
+HP:0000326 	Abnormality of the maxilla	skos:broadMatch	1	MP:0004538	abnormal maxillary shelf morphology	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	1/9/2023		
+HP:0000234	Abnormality of the head	skos:broadMatch	1	MP:0009903	abnormal medial nasal prominence morphology	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	1/9/2023		
+HP:0010939	Abnormal nasal bone morphology	skos:exactMatch	1	MP:0000102	abnormal nasal bone morphology	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	1/9/2023		
+HP:0005105	Abnormal nasal morphology	skos:broadMatch	1	MP:0004726	abnormal nasal capsule morphology	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	1/9/2023		
+HP:0100737	Abnormal hard palate morphology	skos:broadMatch	1	MP:0009887	abnormal palatal shelf fusion at midline	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	1/9/2023		
+HP:0430003	Abnormal palatine bone morphology	skos:exactMatch	0.9	MP:0005249	abnormal palatine bone morphology	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	1/9/2023	HPO placement and label suggest this term should be limited to morphology but definition just states 'abnormality' which could be broader	
+HP:0000174	Abnormal palate morphology	skos:broadMatch	1	MP:0009654	abnormal primary palate development	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	1/9/2023		
+HP:0100737	Abnormal hard palate morphology	skos:broadMatch	1	MP:0009655	abnormal secondary palate development	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	1/9/2023		
+HP:0004303	Abnormal muscle fiber morphology	skos:exactMatch	1	MP:0003084	abnormal skeletal muscle fiber morphology	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	1/30/2023		
+HP:0100736	Abnormal soft palate morphology	skos:exactMatch	1	MP:0003154	abnormal soft palate morphology	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	1/30/2023		
+HP:0430014	Abnormality of musculature of soft palate	skos:exactMatch	1	MP:0030224	abnormal soft palate muscle morphology	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	1/30/2023		
+HP:0000174	Abnormal palate morphology	skos:broadMatch	1	MP:0009882	absent palatal shelf	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	1/30/2023		
+HP:0430003	Abnormal palatine bone morphology	skos:broadMatch	1	MP:0000431	absent palatine bone horizontal plate	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	1/30/2023		
+HP:0000324	Facial asymmetry	skos:broadMatch	1	MP:0008862	asymmetric snout	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	1/30/2023		
+HP:0001156	Brachydactyly	skos:exactMatch	1	MP:0002544	brachydactyly	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	1/30/2023		
+HP:0003687	Centrally nucleated skeletal muscle fibers	skos:exactMatch	1	MP:0009404	centrally nucleated skeletal muscle fibers	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	1/30/2023		
+HP:0000185	Cleft soft palate	skos:exactMatch	0.9	MP:0013546	cleft soft palate	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	1/30/2023	"HP term specifies developmental origin while the MP does not, but I don't think you would ever seen this not of developmental origin"	
+HP:0001762	Talipes equinovarus	skos:exactMatch	0.9	MP:0000576	clubfoot	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	1/30/2023	"I think these are intended to be the same, but the HP term specifies an effect on the leg as well as the foot that is not in the MP definition"	
+HP:0000175	Cleft palate	skos:broadMatch	1	MP:0021213	complete cleft palate	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	1/30/2023		
+HP:0010295	Aplasia/Hypoplasia of the tongue	skos:closeMatch	0.9	MP:0009907	decreased tongue size	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	1/30/2023	"HP term covers specici type of decreased size but also covers aplasia, MP term covers any type of decrease in size but not absence"	
+HP:0000929	Abnormal skull morphology	skos:broadMatch	1	MP:0000440	domed cranium	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	1/30/2023		
+HP:0002006	Facial cleft	skos:exactMatch	1	MP:0008797	facial cleft	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	1/30/2023		
+HP:0001712	Left ventricular hypertrophy	skos:exactMatch	1	MP:0002625	heart left ventricle hypertrophy	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	1/30/2023		
+HP:0001667	Right ventricular hypertrophy	skos:exactMatch	1	MP:0000276	heart right ventricle hypertrophy	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	1/30/2023		
+HP:0000326	Abnormality of the maxilla	skos:broadMatch	1	MP:0009898	maxillary shelf hypoplasia	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	1/30/2023		
+HP:0000347	Micrognathia	skos:narrowMatch	1	MP:0002639	micrognathia	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	1/30/2023	"MP term applies to both upper and lower jaw, HP is only mandible"	
+HP:0000160	Narrow mouth	skos:narrowMatch	1	MP:0009880	microstomia	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	1/30/2023	"MP term applies to any decrease in mouth size, while the HP applies to narrow"	
+HP:0003811	Neonatal death	skos:exactMatch	0.9	MP:0002058	neonatal lethality	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	1/30/2023	"some uncertainty since the MP term applies to populations primarily and it is unclear if the HP term is intended to be for individuals, populations, or both"	
+HP:0003811	Neonatal death	skos:broadMatch	1	MP:0011088	"neonatal lethality, incomplete penetrance"	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	1/30/2023		
+HP:043000	Abnormal palatine bone morphology	skos:broadMatch	1	MP:0009896	palatine bone horizontal plate hypoplasia	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	1/30/2023		
+HP:0010442	Polydactyly	skos:exactMatch	1	MP:0000562	polydactyly	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	1/30/2023		
+HP:0011849	Abnormal bone ossification	skos:broadMatch	1	MP:0003416	premature bone ossification	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	1/30/2023		
+HP:0010650	Hypoplasia of the premaxilla	skos:exactMatch	0.9	MP:0004871	premaxilla hypoplasia	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	1/30/2023	HP definition just specifies small not decreased cell number so it is possible that the MP term is narrower	
+HP:0430000	Abnormal frontal bone morphology	skos:broadMatch	1	MP:0004380	short frontal bone	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	1/30/2023		
+HP:0011063	Abnormal incisor morphology	skos:broadMatch	1	MP:0004830	short incisors	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	1/30/2023		
+HP:0011063	Abnormal incisor morphology	skos:broadMatch	1	MP:0030089	short lower incisors	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	1/30/2023		
+HP:0010295	Aplasia/Hypoplasia of the tongue	skos:closeMatch	0.9	MP:0020301	short tongue	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	1/30/2023		
+HP:0011063	Abnormal incisor morphology	skos:broadMatch	1	MP:0030090	short upper incisors	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	1/30/2023		
+HP:0000248	Brachycephaly	skos:exactMatch	1	MP:0000435	shortened head	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	1/30/2023		
+HP:0430000	Abnormal frontal bone morphology	skos:broadMatch	1	MP:0004377	small frontal bone	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	1/30/2023		
+HP:3000073	Abnormality of levator veli palatini muscle	skos:broadMatch	1	MP:0030295	small levator veli palatini muscle	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	1/30/2023		
+HP:0000327	Hypoplasia of the maxilla	skos:narrowMatch	1	MP:0004540	small maxilla	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	1/30/2023		
+HP:0010650	Hypoplasia of the premaxilla	skos:narrowMatch	1	MP:0004870	small premaxilla	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	1/30/2023		
+HP:0430016	Abnormality of tensor veli palatini muscle	skos:broadMatch	1	MP:0030292	small tensor veli palatini muscle	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	1/30/2023		
+HP:0410000	Abnormal vomer morphology	skos:broadMatch	1	MP:0030266	small vomer bone	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	1/30/2023		
+HP:0010775	Vascular ring	skos:exactMatch	1	MP:0010466	vascular ring	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	1/30/2023		
+HP:0005556	Abnormality of the metopic suture	skos:broadMatch	1	MP:0030431	wide metopic suture	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	1/30/2023		
