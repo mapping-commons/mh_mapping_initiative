@@ -2,10 +2,11 @@
 
 Studying the phenotypic effects of genes is critical to understanding disease. The phenotypic effects of variants and lesions in large numbers of mouse genes are known due to the accumulated small-scale efforts of the mouse genetics community combined with a large amount of data from genome-wide gene targeting combined with systematic phenotyping. This data can be leveraged to help understand phenotypes not only in mice, but also in humans. A key component required for the integration of human and mouse phenotype data is meaningfully linking the dominant controlled vocabularies (ontologies) used for describing phenotype. For human data the Human Phenotype Ontology is widely used, while for mouse (and rat) data, the Mammalian Phenotype ontology is typically used. 
 
-There are roughly three categories of such mapping approaches:
-- __Manually curated:__ An expert translates a set of terms from one terminology into another.
-- __Automated mapping:__ A mapping algorithm takes two or more vocabularies as an input and attempts to create cross-vocabulary links between the terms by using a variety of approaches, from terminological mappings (e.g. base on label, natural language information) to graph-based approaches.
-- __Computable phenotype definitions:__ Experts define the phenotypes they are using (for example in the Human Phenotype Ontology) using standardised design patterns. Definitions developed this way are interoperable across species. Examples include: the Unified Phenotype Ontology and Phenome.NET.
+There are roughly four categories of such mapping approaches:
+- __Manually curated mappings:__ An expert determines correspondences between a set of terms from one terminology to another. There are many potential mappings, so most manual curation efforts cater for a specific use case (mappings of phenotypic abnormalities relevant to COVID or Alzheimers, for example). 
+- __Automated terminological mappings:__ A mapping algorithm takes two or more vocabularies as an input and attempts to create cross-vocabulary links between the terms by using a variety of approaches, from terminological mappings (e.g. based on label, natural language information) to graph-based approaches. These links usally manifest themselves as semantic mapping relations such as exact, broad, narrow and close matches. Mappings of this kind are used for many different use cases, such as knowledge graph integration (https://monarchinitiative.org/) and data aggregation across species.
+- __Automated phenotpyic similarity profiles:__ A semantic similarity algorithm takes two or more vocabularies as an input and computes cross-vocabulary links based on semantic similarity measures (e.g. Jaccard, Resnik, Cosine). A semantic similarity profile does not specify a semantic mapping relation such as "exact", "broad" etc (see above). Instead, a pair of terms (for example a mouse and human phenotype term) is associated with a semantic similarity score, usally between 0 and 1, where 1 indicates equivalence. Tools such as [Exomiser](https://www.nature.com/articles/nprot.2015.124), an NHS accredited tool for variant prioritisation and rare disease diagnostics, make heavy use of such phenotypic profiles (especially HP-MP). 
+- __Computable phenotype definitions:__ Experts define the phenotypes they are using (for example in the Human Phenotype Ontology) using standardised design patterns. Definitions developed this way are interoperable across species and can be exploited by an automated reasoner to compute logical relationships between phenotypes. The most significant efforts in this direction are the [Unified Phenotype Ontology](https://ols.monarchinitiative.org/ontologies/upheno2) and [Phenome.NET](https://pubmed.ncbi.nlm.nih.gov/21737429/), which seek to integrate a large number of different species-specific phenotype ontologies. The leading international effort for developing standardised design patterns is the [Phenotype Reconciliation Effort](https://github.com/obophenotype/upheno/wiki/Phenotype-Ontologies-Reconciliation-Effort).
 
 The first complication of all these are approaches is that they are _error prone_ for different reasons. The most important reasons are:
 1. _Experts make mistakes_ - both when manually mapping and when defining computable phenotype definitions. Often this is due to ambiguity and variation in the use of language to describe phenotypes.
@@ -15,7 +16,13 @@ The first complication of all these are approaches is that they are _error prone
 
 Furthermore, analysts may expect mappings to different degrees of fuzziness - from crisp 1:1 mappings to n:n mappings determined by phenotypic similarity.
 
-The MHMI aims to collect and standardise the dissemination of mouse-phenotype mappings and develop a set of best practices for their use. If you are interested in taking part in the Initiative or have use cases that you feel would benefit from these mappings, feel free to join the [Monarch Initiative \& Friends Mailing list](https://groups.google.com/g/monarch-friends) and drop us a message. 
+Next, all approaches are to some degree _incomplete_. Manually curated mappings fill the gap where automated mapping approaches, which largely rely on terminological content, fail to perform well (or at all), but they are usually curated for a specific use case (mappings of phenotypic abnormalities relevant to COVID or Alzheimers, for example). Automatic mappings fail to perform well especially in the area of phenotype due to the often largely divergent terminological content (e.g. preferred labels used by clinical vs. model organism communities).
+
+Lastly, all approaches have some degree of interdependence. For example, the automated mappings are used to augment cases where no logical definitions / design patterns exist, and logical definitions, in turn, are used to compute mappings.
+
+The MHMI aims to collect and standardise the dissemination of mouse-phenotype mappings and develop a set of best practices for their use. It leverages advanced tooling to compute mappings and reconcile them with manually curated ones, mitigating the problems above.
+
+If you are interested in taking part in the Initiative or have use cases that you feel would benefit from these mappings, feel free to join the [Monarch Initiative \& Friends Mailing list](https://groups.google.com/g/monarch-friends) and drop us a message. 
 
 Current active/prospective participants and contributors include:
 
@@ -23,7 +30,7 @@ Current active/prospective participants and contributors include:
 | ---- | ------- | ----------- | ----- |
 | David Osumi-Sutherland | @dosumis | EMBL-EBI, Monarch Initiative | Coordinator, semantics specialist |
 | Susan Bello | @sbello| JAX, MGI, Alliance of Genome Resources | Coordinator, ontology engineer, bio-curator |
-| Nicolas Matentzoglu | @matentzn | EMBL-EBI, Monarch Initiative | Coordinator, semantic engineer |
+| Nicolas Matentzoglu | @matentzn | Semanticly, Monarch Initiative | Coordinator, semantic engineer |
 | Anna Anagnostopoulos | @anna-anagnostop| JAX, MGI, Alliance of Genome Resources | ontology engineer, bio-curator |
 | Nicole Vasilevsky | @nicolevasilevsky| OHSU, Monarch Initiative | ontology engineer, bio-curator |
 | Leigh Carmody | @LCCarmody| JAX, Monarch Initiative | ontology engineer, bio-curator |
