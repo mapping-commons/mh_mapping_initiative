@@ -18,7 +18,7 @@
 # ror: https://ror.org/
 # wikidata: https://www.wikidata.org/wiki/
 # obo: http://purl.obolibrary.org/obo/
-# semapv: https://w3id.org/semapv/
+# semapv: https://w3id.org/semapv/vocab/
 object_id	object_label	predicate_id	confidence	subject_id	subject_label	mapping_justification	author_id	mapping_date	comment	other
 HP:0000016	Urinary retention	skos:exactMatch	1	MP:0003622	ischuria	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2022-08-02	scoliosis	
 HP:0000023	Inguinal hernia	skos:exactMatch	1	MP:0006077	inguinal hernia	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2021-05-27	KidsFirst	
