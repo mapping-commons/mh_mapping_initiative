@@ -777,7 +777,7 @@ HP:0000326	Abnormality of the maxilla	skos:broadMatch	1	MP:0009898	maxillary she
 HP:0000347	Micrognathia	skos:narrowMatch	1	MP:0002639	micrognathia	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-01-30	"MP term applies to both upper and lower jaw, HP is only mandible"	
 HP:0000160	Narrow mouth	skos:narrowMatch	1	MP:0009880	microstomia	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-01-30	"MP term applies to any decrease in mouth size, while the HP applies to narrow"	
 HP:0003811	Neonatal death	skos:exactMatch	0.9	MP:0002058	neonatal lethality	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-01-30	"some uncertainty since the MP term applies to populations primarily and it is unclear if the HP term is intended to be for individuals, populations, or both"	
-HP:0003811	Neonatal death	skos:broadMatch	1	MP:0011088	"neonatal lethality, incomplete penetrance"	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-01-30		
+HP:0003811	Neonatal death	skos:broadMatch	1	MP:0011088	neonatal lethality incomplete penetrance	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-01-30		
 HP:0430003	Abnormal palatine bone morphology	skos:broadMatch	1	MP:0009896	palatine bone horizontal plate hypoplasia	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-01-30		
 HP:0010442	Polydactyly	skos:exactMatch	1	MP:0000562	polydactyly	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-01-30		
 HP:0011849	Abnormal bone ossification	skos:broadMatch	1	MP:0003416	premature bone ossification	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-01-30		
@@ -796,3 +796,207 @@ HP:0430016	Abnormality of tensor veli palatini muscle	skos:broadMatch	1	MP:00302
 HP:0410000	Abnormal vomer morphology	skos:broadMatch	1	MP:0030266	small vomer bone	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-01-30		
 HP:0010775	Vascular ring	skos:exactMatch	1	MP:0010466	vascular ring	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-01-30		
 HP:0005556	Abnormality of the metopic suture	skos:broadMatch	1	MP:0030431	wide metopic suture	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-01-30		
+HP:0009911	Abnormal temporal bone morphology	skos:narrowMatch	1	MP:0000074	abnormal neurocranium morphology	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-07-18	CDL| MP term has calvaria as a synonym but the MP and HP terms have different children and use different Uberon terms in the eqs so I believe the MP term is broader than the HP term| Make calvaria a narrow synonym for the MP term
+HP:0011821	Abnormal facial skeleton morphology	skos:broadMatch	1	MP:0000104	abnormal sphenoid bone morphology	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-07-18	CDL
+HP:0000772	Abnormal rib morphology	skos:exactMatch	1	MP:0000150	abnormal rib morphology	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-07-18	CDL | HPO term definition is an anomaly of the rib which could be broader than the M term but it is placed on the morphology ranch so I called these exact
+HP:0000234	Abnormality of the head	skos:broadMatch	1	MP:0000432	abnormal head morphology	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-07-18	CDL | HPO term is defined as abnormality of the head and could include both morphology and physiology
+HP:0010958	Bilateral renal agenesis	skos:exactMatch	1	MP:0000520	absent kidney	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-07-18	CDL
+HP:0009826	Limb undergrowth	skos:closeMatch	0.9	MP:0000547	short limbs	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-07-18	"CDL | The MP term doesn't specify growth so there is a potential for differences, calling this close for that reason"
+HP:0012443	Abnormality of brain morphology	skos:broadMatch	1	MP:0000774	decreased brain size	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-07-18	CDL
+HP:0001317	Abnormal cerebellum morphology	skos:exactMatch	1	MP:0000849	abnormal cerebellum morphology	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-07-18	CDL
+HP:0025028	Abnormality of enteric nervous system morphology	skos:exactMatch	1	MP:0001044	abnormal enteric nervous system morphology	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-07-18	CDL
+HP:5200069	Spinning	skos:closeMatch	0.9	MP:0001394	circling	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-07-18	CDL
+HP:0000752	Hyperactivity	skos:exactMatch	1	MP:0001399	hyperactivity	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-07-18	CDL
+HP:0031826	Abnormal reflex	skos:broadMatch	1	MP:0001513	limb grasping	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-07-18	CDL
+HP:0100767	Abnormal placenta morphology	skos:broadMatch	1	MP:0001716	abnormal placenta labyrinth morphology	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-07-18	CDL
+HP:0001507	Growth abnormality	skos:broadMatch	1	MP:0001731	abnormal postnatal growth	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-07-18	CDL
+HP:0008897	Postnatal growth retardation	skos:exactMatch	1	MP:0001732	postnatal growth retardation	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-07-18	CDL
+HP:0040063	Decreased adipose tissue	skos:broadMatch	1	MP:0001780	decreased brown adipose tissue amount	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-07-18	CDL
+HP:0040063	Decreased adipose tissue	skos:broadMatch	1	MP:0001783	decreased white adipose tissue amount	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-07-18	CDL
+HP:0012647	Abnormal inflammatory response	skos:exactMatch	1	MP:0001845	abnormal inflammatory response	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-07-18	CDL
+HP:0100533	Inflammatory abnormality of the eye	skos:exactMatch	1	MP:0001851	eye inflammation	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-07-18	CDL
+HP:0001522	Death in infancy	skos:relatedMatch	1	MP:0002082	postnatal lethality	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-07-18	CDL| went with related as the MP term applies to a population while the HP term is for an individual
+HP:0012372	Abnormal eye morphology	skos:exactMatch	1	MP:0002092	abnormal eye morphology	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-07-18	CDL| while the HP definition does not mention the optic nerve that child terms include the optic nerve
+HP:0001274	Agenesis of corpus callosum	skos:narrowMatch	0.9	MP:0002196	absent corpus callosum	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-07-18	CDL| MP absent does not specify failed to develop while the HP does
+HP:0012790	Abnormal intramembranous ossification	skos:broadMatch	1	MP:0003420	delayed intramembranous bone ossification	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-07-18	CDL
+HP:0000270	Delayed cranial suture closure	skos:narrowMatch	1	MP:0003420	delayed intramembranous bone ossification	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-07-18	CDL | suture closure is a child of the MP term and in the HPO this term has annotations so I thing the narrow mapping will be helpful
+HP:0004762	Hypoplasia of right ventricle	skos:narrowMatch	1	MP:0003649	decreased heart right ventricle size	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-07-18	CDL
+HP:0031411	Abnormal chromosome morphology	skos:broadMatch	0.9	MP:0004023	abnormal chromosome number	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-07-27	CDL|in the MP this is a sibling of chromosome morphology but most of the rest of the MP has number as a child of morphology ticket #3799
+HP:0005156	Hypoplastic left atrium	skos:narrowMatch	1	MP:0004055	atrium hypoplasia	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-07-27	CDL
+HP:0031294	Hypoplastic right atrium	skos:narrowMatch	1	MP:0004055	atrium hypoplasia	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-07-27	CDL
+HP:0001637	Abnormal myocardium morphology	skos:broadMatch	1	MP:0004056	abnormal myocardium compact layer morphology	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-07-27	CDL
+HP:0001518	Small for gestational age	skos:broadMatch	1	MP:0004200	decreased fetal size	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-07-27	CDL
+HP:0000095	Abnormal renal glomerulus morphology	skos:broadMatch	1	MP:0004505	decreased renal glomerulus number	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-07-27	CDL
+HP:0003319	Abnormality of the cervical spine	skos:broadMatch	1	MP:0004607	abnormal cervical atlas morphology	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-07-27	CDL
+HP:0003319	Abnormality of the cervical spine	skos:broadMatch	1	MP:0004615	cervical vertebral transformation	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-07-27	CDL
+HP:0003319	Abnormality of the cervical spine	skos:broadMatch	1	MP:0004620	cervical vertebral fusion	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-07-27	CDL
+HP:0006958	Abnormal auditory evoked potentials	skos:broadMatch	1	MP:0004738	abnormal auditory brainstem response	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-07-27	CDL
+HP:0006267	Large placenta	skos:broadMatch	1	MP:0004920	increased placenta weight	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-07-27	CDL
+HP:0002011	Morphological central nervous system abnormality	skos:broadMatch	1	MP:0004998	decreased CNS synapse formation	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-07-27	CDL
+HP:0011017	Abnormal cellular physiology	skos:broadMatch	1	MP:0005076	abnormal cell differentiation	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-07-27	CDL
+HP:0001507	Growth abnormality	skos:narrowMatch	1	MP:0005378	growth/size/body region phenotype	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-07-27	CDL
+HP:0000078	Abnormality of the genital system	skos:narrowMatch	1	MP:0005389	reproductive system phenotype	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-07-31	CDL| MP term includes annotations of 'normal' phenotypes
+HP:0001671	Abnormal cardiac septum morphology	skos:exactMatch	0.9	MP:0006113	abnormal heart septum morphology	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-07-31	"CDL| both terms use cardiac septum in the eq and include both intra and inter cardiac septums, some uncertainty as the MP has a child term for aorticopulmonary septum and this is a child of cardiac septum in UBERON but neither text definition mentions outflow tract septums"
+HP:0000271	Abnormality of the face	skos:broadMatch	1	MP:0006411	upturned snout	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-07-31	CDL
+HP:0003254	Abnormality of DNA repair	skos:exactMatch	1	MP:0008058	abnormal DNA repair	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-07-31	CDL
+HP:0100767	Abnormal placenta morphology	skos:broadMatch	1	MP:0008957	abnormal placenta junctional zone morphology	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-07-31	CDL
+HP:0100767	Abnormal placenta morphology	skos:broadMatch	1	MP:0008959	abnormal spongiotrophoblast cell morphology	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-07-31	CDL
+HP:0001518	Small for gestational age	skos:broadMatch	1	MP:0009429	decreased embryo weight	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-07-31	CDL
+HP:0001518	Small for gestational age	skos:broadMatch	1	MP:0009431	decreased fetal weight	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-07-31	CDL
+HP:0001518	Small for gestational age	skos:broadMatch	1	MP:0009674	decreased birth weight	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-07-31	CDL
+HP:0001518	Small for gestational age	skos:broadMatch	1	MP:0009703	decreased birth body size	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-07-31	CDL
+HP:0500261	Triggered by anesthetics	skos:relatedMatch	1	MP:0009777	abnormal behavioral response to anesthetic	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-07-31	CDL
+HP:0001194	Abnormalities of placenta or umbilical cord	skos:broadMatch	1	MP:0010038	abnormal placenta physiology	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-07-31	CDL
+HP:0006695	Atrioventricular canal defect	skos:exactMatch	1	MP:0010412	atrioventricular septal defect	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-07-31	CDL
+HP:0011682	Perimembranous ventricular septal defect	skos:exactMatch	1	MP:0010418	perimembraneous ventricular septal defect	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-07-31	CDL
+HP:0031316	Abnormal ventricular myocardium morphology	skos:exactMatch	1	MP:0010499	abnormal ventricle myocardium morphology	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-07-31	CDL
+HP:0001522	Death in infancy	skos:relatedMatch	1	MP:0011086	"postnatal lethality, incomplete penetrance"	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-07-31	CDL
+HP:0006958	Abnormal auditory evoked potentials	skos:broadMatch	1	MP:0011966	abnormal auditory brainstem response waveform shape	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-07-31	CDL
+HP:0011800	Midface retrusion	skos:closeMatch	0.8	MP:0012085	midface hypoplasia	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-07-31	"CDL|EQs are the same but text definitions are very different, added to agenda for discussion"
+HP:0011849	Abnormal bone ossification	skos:relatedMatch	0.8	MP:0020040	decreased bone ossification	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-07-31	CDL| MP term is under physiology HP is under morphology
+HP:0012757	Abnormal neuron morphology	skos:broadMatch	1	MP:0020337	abnormal pyramidal neuron dendrite morphology	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-07-31	CDL
+HP:0500032	Abnormal neuron branching	skos:broadMatch	1	MP:0020508	decreased dendritic spine density	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-07-31	CDL
+HP:0500032	Abnormal neuron branching	skos:broadMatch	1	MP:0020510	increased dendritic spine length	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-07-31	CDL
+HP:0012757	Abnormal neuron morphology	skos:broadMatch	1	MP:0020512	abnormal dendritic mushroom spine morphology	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-07-31	CDL
+HP:0012757	Abnormal neuron morphology	skos:broadMatch	1	MP:0020514	abnormal dendritic thin spine morphology	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-07-31	CDL
+HP:0012757	Abnormal neuron morphology	skos:broadMatch	1	MP:0020551	abnormal postsynaptic density morphology	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-07-31	CDL
+HP:0430005	Abnormal ethmoid bone morphology	skos:broadMatch	1	MP:0030303	small ethmoid bone	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-07-31	CDL
+HP:0000003	Multicystic kidney dysplasia	skos:narrowMatch	1	MP:0008528	polycystic kidney	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-07-05	"CDL (Orpha)| HPO has both polycystic and multicystic kidney displasia, the multicystic term specifies cysts of different sizes, absence of a normal pelvicaliceal system, and a non-functional kidney, the HPO polycystic term specifies cysts in both kidneys, the MP term just specifies multiple cysts present. Thus the MP term is broader than both the HPO terms "	
+HP:0000050	Hypoplastic male external genitalia	skos:closeMatch	0.9	MP:0009203	external male genitalia hypoplasia	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-07-05	CDL1| called this close as the MP ha testis under internal male genetalia and HP has small testis as a child of external hypoplasia; HP also uses small as a synonym for hypoplasia while the MP has small as the parent of hypoplastic	
+HP:0000059	Hypoplastic labia majora	skos:narrowMatch	1	MP:0001139	abnormal vagina morphology	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-07-06	"CdL, CDL1"	
+HP:0000072	Hydroureter	skos:exactMatch	1	MP:0000536	hydroureter	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-07-06	CdL3	
+HP:0000076	Vesicoureteral reflux	skos:exactMatch	1	MP:0001948	vesicoureteral reflux	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-07-06	"CdL, CDL1"	
+HP:0000130	Abnormality of the uterus	skos:exactMatch	0.9	MP:0001120	abnormal uterus morphology	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-07-06	CDL (Orpha)| HPO definition and label do not indicate this is only morphology but it is located on the morphology branch so I called this exact	
+HP:0000135	Hypogonadism	skos:narrowMatch	1	MP:0005647	abnormal sex gland physiology	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-07-06	CdL5 | note there is an MP term 'small gonad' that has the synonym hypogonadism but the HPO term refers to reduced function of the gonad(s) NOT reduced size	
+HP:0000176	Submucous cleft hard palate	skos:exactMatch	1	MP:0013548	submucous cleft hard palate	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-07-06	CdL4	
+HP:0000204	Cleft upper lip	skos:exactMatch	1	MP:0005170	cleft upper lip	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-07-06	CDL1	
+HP:0000220	Velopharyngeal insufficiency	skos:narrowMatch	1	MP:0003154	abnormal soft palate morphology	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-07-06	CdL4	
+HP:0000233	Thin vermilion border	skos:closeMatch	0.9	MP:0003784	thin lip vermilion border	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-07-06	"CDL (Orpha), CdL3, 4, 5| HPO term specifies ""more than 2 SD below the mean"" the MP just specifies reduced thickness so there may be some slight distinction"	
+HP:0000248	Brachycephaly	skos:exactMatch	1	MP:0000435	shortened head	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-07-06	"CdL, CDL1, 2, 3, 4, 5 | note the HPO terms has a synonym 'Broad head shape' and the MP has a distinct term for 'broad head' that is not the same as the HPO term Brachycephaly"	
+HP:0000278	Retrognathia	skos:exactMatch	1	MP:0030273	mandibular retrognathia	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-07-06	CdL5| MP also has a term for 'retrognathia' but this may apply to either the mandible or maxilla whilt the HPO term is defined as applying only to the mandible	
+HP:0000294	Low anterior hairline	skos:narrowMatch	1	MP:0030031	abnormal forehead morphology	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-07-06	"CDL (Orpha), CdL2, 3, 5"	
+HP:0000319	Smooth philtrum	skos:narrowMatch	1	MP:0012256	abnormal philtrum morphology	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-07-06	"CdL2, 3, 4"	
+HP:0000343	Long philtrum	skos:narrowMatch	1	MP:0012256	abnormal philtrum morphology	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-07-06	"CdL, CDL1, 3, 4, 5"	
+HP:0000368	"Low-set, posteriorly rotated ears"	skos:narrowMatch	1	MP:0000024	lowered ear position	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-07-06	CDL (Orpha)	
+HP:0000368	"Low-set, posteriorly rotated ears"	skos:narrowMatch	1	MP:0003715	posteriorly rotated ears	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-07-06	CDL (Orpha)	
+HP:0000381	Stapes ankylosis	skos:narrowMatch	1	MP:0005107	abnormal stapes morphology	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-07-06	CdL4	
+HP:0000400	Macrotia	skos:exactMatch	1	MP:0000017	big ears	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-07-07	CDL (Orpha)	
+HP:0000426	Prominent nasal bridge	skos:exactMatch	1	MP:0030037	prominent nasal bridge	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-07-07	"CdL2, 3, 5"	
+HP:0000455	Broad nasal tip	skos:narrowMatch	1	MP:0030115	abnormal nasal tip morphology	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-07-07	CdL5	
+HP:0000463	Anteverted nares	skos:narrowMatch	1	MP:0002235	abnormal external nares morphology	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-07-07	"CdL, CDL1, 2, 3, 4, 5"	
+HP:0000482	Microcornea	skos:narrowMatch	1	MP:0001312	abnormal cornea morphology	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-07-07	"CdL, CDL1| ticket #3780"	
+HP:0000483	Astigmatism	skos:exactMatch	0.9	MP:0006151	astigmatism	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-07-07	CDL1| MP term is in morphology HP is under physiology	
+HP:0000490	Deeply set eye	skos:exactMatch	0.9	MP:0006198	enophthalmos	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-07-07	CdL5	add synonym
+HP:0000494	Downslanted palpebral fissures	skos:narrowMatch	1	MP:0003671	abnormal eyelid aperture	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-07-07	CdL2	
+HP:0000498	Blepharitis	skos:exactMatch	1	MP:0005251	blepharitis	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-07-07	CDL (Orpha)	
+HP:0000501	Glaucoma	skos:relatedMatch	0.9	MP:0008067	retina ganglion cell degeneration	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-07-07	CDL (Orpha)	
+HP:0000506	Telecanthus	skos:exactMatch	1	MP:0030166	increased inner canthal distance	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-07-10	CdL5	
+HP:0000518	Cataract	skos:exactMatch	0.9	MP:0001304	cataract	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-07-10	CDL (Orpha)	"some uncertainty as the MP term does not mention the lens capsule, note in the MP the capsule is part of the lens so I think opacity in the capsule would be covered by the MP term"
+HP:0000545	Myopia	skos:exactMatch	1	MP:0003100	myopia	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-07-10	"CdL, CDL1, 3, 5"	
+HP:0000574	Thick eyebrow	skos:narrowMatch	1	MP:0000367	abnormal coat/ hair morphology	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-07-10	"CDL (Orpha), CdL2, 3, 4"	should we consider more specific terms?
+HP:0000664	Synophrys	skos:narrowMatch	1	MP:0000367	abnormal coat/ hair morphology	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-07-10	"CdL, CDL1, 2, 3, 4, 5"	
+HP:0000667	Phthisis bulbi	skos:exactMatch	0.9	MP:0006249	phthisis bulbi	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-07-10	"CDL (Orpha) | definitions are slightly different, MP makes no mention of ocular pressure but I think these are intended to be the same concept"	
+HP:0000684	Delayed eruption of teeth	skos:closeMatch	0.9	MP:0003053	delayed tooth eruption	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-07-10	"CdL, CDL1 | uncertainty based on the inclusion of 'no permanent dentition' as a child in the HP. Both MP and HP have failure of eruption as a sibling, implying that delayed means late but not failed"	
+HP:0000687	Widely spaced teeth	skos:narrowMatch	1	MP:0030540	misaligned teeth	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-07-10	"CdL, CDL1, 5"	
+HP:0000691	Microdontia	skos:exactMatch	1	MP:0030088	microdontia	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-07-11	CdL3	
+HP:0000717	Autism	skos:relatedMatch	1	MP:0002572	abnormal emotion/affect behavior	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-07-11	CDL (Orpha)	
+HP:0000717	Autism	skos:relatedMatch	1	MP:0002557	abnormal social/conspecific interaction behavior	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-07-11		
+HP:0000722	Compulsive behaviors	skos:relatedMatch	1	MP:0001408	stereotypic behavior	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-07-11	CDL (Orpha)	
+HP:0000750	Delayed speech and language development	skos:narrowMatch	1	MP:0001529	abnormal vocalization	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-07-11	CDL1	
+HP:0000750	Delayed speech and language development	skos:relatedMatch	1	MP:0021165	behavioral developmental delay	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-07-11		
+HP:0000786	Primary amenorrhea	skos:relatedMatch	1	MP:0009009	absent estrous cycle	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-07-11	CDL (Orpha)	
+HP:0000786	Primary amenorrhea	skos:narrowMatch	1	MP:0003376	amenorrhea	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-07-11		
+HP:0000879	Short sternum	skos:exactMatch	1	MP:0004321	short sternum	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-07-11	CDL1	
+HP:0000954	Single transverse palmar crease	skos:narrowMatch	1	MP:0000572	abnormal autopod morphology	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-07-11	"CDL1, 3, 4 "	
+HP:0000965	Cutis marmorata	skos:relatedMatch	1	MP:0009931	abnormal skin appearance	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-07-11	"CDL, CdL1, 2, 3, 4, 5"	
+HP:0001007	Hirsutism	skos:relatedMatch	1	MP:0000412	excessive hair	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-07-11	"CDL1, 2, 3, 5"	
+HP:0001052	Nevus flammeus	skos:narrowMatch	1	MP:0001212	skin lesions	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-07-11	CdL3	
+HP:0001156	Brachydactyly	skos:closeMatch	0.9	MP:0002544	brachydactyly	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-07-11	"CdL2, 3, 4 | the MP definition does not mention 'disproportionately' short we may want to modify this"	
+HP:0001180	Hand oligodactyly	skos:narrowMatch	1	MP:0000565	oligodactyly	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-07-11	CDL1 | ticket #3783	
+HP:0001249	Intellectual disability	skos:narrowMatch	1	MP:0014114	abnormal cognition	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-07-11	"CdL, CDL1, 2, 3, 5"	
+HP:0001263	Global developmental delay	skos:relatedMatch	1	MP:0021165	behavioral developmental delay	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-07-11	"CdL2, 3, 4, 5"	
+HP:0001357	Plagiocephaly	skos:closeMatch	0.9	MP:0012174	flat head	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-07-11	"CdL3| synonyms include flattening of the head and definition in HPO includes ""unilateral occipital flattening with ipsilateral frontal prominence"" based on this I called these close"	
+HP:0001377	Limited elbow extension	skos:narrowMatch	1	MP:0013945	abnormal elbow joint morphology	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-07-11	"CDL1, 5"	
+HP:0001387	Joint stiffness	skos:narrowMatch	1	MP:0030863	decreased joint mobility	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-07-11	CDL (Orpha)	
+HP:0001476	Delayed closure of the anterior fontanelle	skos:narrowMatch	1	MP:0030393	delayed fontanelle closure	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-07-11	CdL3	
+HP:0001488	Bilateral ptosis	skos:narrowMatch	1	MP:0001344	blepharoptosis	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-07-11	CdL4	
+HP:0001508	Failure to thrive	skos:closeMatch	0.9	MP:0001732	postnatal growth retardation	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-07-11	CDL (Orpha)	
+HP:0001551	Abnormal umbilicus morphology	skos:narrowMatch	1	MP:0003257	abnormal abdominal wall morphology	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-07-12	CDL1	
+HP:0001557	Prenatal movement abnormality	skos:narrowMatch	1	MP:0002066	abnormal motor capabilities/coordination/movement	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-07-12	CDL (Orpha)	should add a term for abnormal prenatal movement
+HP:0001612	Weak cry	skos:narrowMatch	1	MP:0001529	abnormal vocalization	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-07-12	CDL1	
+HP:0001622	Premature birth	skos:relatedMatch	1	MP:0002294	short gestation period	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-07-12	CDL (Orpha)	
+HP:0001639	Hypertrophic cardiomyopathy	skos:narrowMatch	1	MP:0002952	ventricular cardiomyopathy	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-07-12	CdL2	
+HP:0001639	Hypertrophic cardiomyopathy	skos:relatedMatch	1	MP:0002953	thick ventricular wall	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-07-12		
+HP:0001770	Toe syndactyly	skos:narrowMatch	1	MP:0000564	syndactyly	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-07-12	"CDL, CdL3, 5 | ticket #3783"	
+HP:0001773	Short foot	skos:exactMatch	1	MP:0002772	brachypodia	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-07-12	"CDL, CdL2, 3, 5 | eq uses pes from Uberon which is the hind foot making this an exact match, should review the MP definition to make this clear as it currently uses 'feet' which can be ambiguous; not sure where the label came from originally, Googling it is useless you get plants"	
+HP:0001883	Talipes	skos:broadMatch	1	MP:0000576	clubfoot	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-07-12	CDL (Orpha)	
+HP:0001956	Truncal obesity	skos:narrowMatch	1	MP:0001261	obese	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-07-12	"CDL, CdL5"	
+HP:0002007	Frontal bossing	skos:exactMatch	1	MP:0030262	frontal bossing	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-07-12	CdL3	
+HP:0002036	Hiatus hernia	skos:exactMatch	1	MP:0003258	hiatal hernia	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-07-12	CDL1| add synonyms	
+HP:0002120	Cerebral cortical atrophy	skos:relatedMatch	1	MP:0003241	loss of cortex neurons	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-07-12	CDL (Orpha)	
+HP:0002120	Cerebral cortical atrophy	skos:relatedMatch	1	MP:0006254	thin cerebral cortex	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-07-12		
+HP:0002162	Low posterior hairline	skos:narrowMatch	1	MP:0000367	abnormal coat/ hair morphology	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-07-12	"CdL, CDL1"	
+HP:0002167	Abnormality of speech or vocalization	skos:closeMatch	0.9	MP:0001529	abnormal vocalization	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-07-12	"CDL (Orpha) | I think these are representing similar concepts but the location in the hierarchy is different. MP puts this under abnormal behavior. HPO has it under higher mental function under nervous system. Hpo also defines this as ""the sound of a person's speech or vocalization"" while the MP definition is  inability, decreased ability or altered ability to produce sound from the vocal organs which seems maybe broader. MP uses the NBO term http://purl.obolibrary.org/obo/NBO_0000037 in the eq, HP has no eq"	
+HP:0002230	Generalized hirsutism	skos:relatedMatch	1	MP:0000412	excessive hair	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-07-12	CDL (Orpha)	
+HP:0002360	Sleep disturbance	skos:exactMatch	0.9	MP:0011396	abnormal sleep behavior	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-07-12	CDL (Orpha)	
+HP:0002465	Poor speech	skos:narrowMatch	1	MP:0001529	abnormal vocalization	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-07-12	"CdL2, 3"	
+HP:0002553	Highly arched eyebrow	skos:narrowMatch	1	MP:0000367	abnormal coat/ hair morphology	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-07-12	"CDL, CdL1, 2, 3, 4, 5"	
+HP:0002557	Hypoplastic nipples	skos:closeMatch	1	MP:0013713	decreased nipple size	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-07-12	"CdL, CDL1"	
+HP:0002566	Intestinal malrotation	skos:exactMatch	1	MP:0014279	abnormal intestinal rotation	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-08-01	"CdL, CDL4"	
+HP:0002580	Volvulus	skos:exactMatch	1	MP:0000477	abnormal intestine morphology	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-07-12	CDL (Orpha)	
+HP:0002678	Skull asymmetry	skos:narrowMatch	1	MP:0000438	abnormal cranium morphology	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-07-12	CdL4	
+HP:0002705	"High, narrow palate"	skos:narrowMatch	1	MP:0003757	high palate	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-07-12	CDL1	
+HP:0002705	"High, narrow palate"	skos:narrowMatch	1	MP:0003758	narrow palate	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-07-12		
+HP:0002714	Downturned corners of mouth	skos:exactMatch	1	MP:0003749	down-turned corners of mouth	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-07-12	"CdL, CDL1, 2, 3, 5"	
+HP:0002750	Delayed skeletal maturation	skos:narrowMatch	1	MP:0002113	abnormal skeleton development	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-07-12	"CdL, CDL1| ticket #3785"	
+HP:0002812	Coxa vara	skos:exactMatch	1	MP:0030790	coxa vara	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-07-12	CdL4	
+HP:0002827	Hip dislocation	skos:exactMatch	1	MP:0030796	hip dislocation	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-07-12	CDL (Orpha)	
+HP:0002974	Radioulnar synostosis	skos:exactMatch	1	MP:0011530	fused radius and ulna	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-07-13	"CdL, CDL4| add synonym"	
+HP:0002983	Micromelia	skos:exactMatch	0.9	MP:0000547	short limbs	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-07-13	"CdL, CDL1| there is an MP term micromelia that is a child of short limbs but it specifies disproportionately short and the HPO term just specifies 'small extremities'"	
+HP:0002984	Hypoplasia of the radius	skos:closeMatch	0.9	MP:0004356	radius hypoplasia	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-07-13	"CDL1| the MP distinguishes between small and hypoplastic with hypoplastic usually a child of small. The HPO usually uses these as synonyms, so these may not always mean exactly the same thing"	
+HP:0002987	Elbow flexion contracture	skos:narrowMatch	0.9	MP:0030798	joint contracture	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-07-13	CDL1| the MP puts this under physiology and the HP has it under morphology and physiology	
+HP:0002996	Limited elbow movement	skos:narrowMatch	1	MP:0030863	decreased joint mobility	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-07-13	"CdL2, 3| the MP puts this under physiology and the HP has it under morphology"	
+HP:0003042	Elbow dislocation	skos:exactMatch	1	MP:0030843	elbow dislocation	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-07-13	CDL (Orpha)	
+HP:0003083	Dislocated radial head	skos:exactMatch	1	MP:0030883	dislocated radius head	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-07-13	CDL1	
+HP:0003196	Short nose	skos:relatedMatch	1	MP:0000445	short snout	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-07-13	"CdL, CDL4| short snout has the synonym 'short nose' but snout is disjoint from taxon Homo sapiens in Uberon"	
+HP:0003764	Nevus	skos:narrowMatch	1	MP:0001212	skin lesions	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-07-13	CdL5	
+HP:0003997	Hypoplastic radial head	skos:narrowMatch	1	MP:0030882	abnormal radius head morphology	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-07-13	CDL1	
+HP:0003997	Hypoplastic radial head	skos:narrowMatch	1	MP:0004356	radius hypoplasia	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-07-13		
+HP:0004691	2-3 toe syndactyly	skos:narrowMatch	1	MP:0000564	syndactyly	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-07-13	"CDL1, 4"	
+HP:0004785	Malrotation of colon	skos:narrowMatch	1	MP:0000495	abnormal colon morphology	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-07-13	CDL1| ticket #3786	
+HP:0005280	Depressed nasal bridge	skos:exactMatch	1	MP:0030034	depressed nasal bridge	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-07-13	"CdL, CDL1, 3, 5"	
+HP:0005484	Secondary microcephaly	skos:narrowMatch	1	MP:0000433	microcephaly	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-07-13	CdL3	
+HP:0005565	Reduced renal corticomedullary differentiation	skos:narrowMatch	1	MP:0002135	abnormal kidney morphology	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-07-14	CDL1	
+HP:0006870	Lobar holoprosencephaly	skos:narrowMatch	1	MP:0005157	holoprosencephaly	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-07-14	CdL4| ticket #3787	
+HP:0007018	Attention deficit hyperactivity disorder	skos:relatedMatch	0.9	MP:0001399	hyperactivity	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-07-14	CDL (Orpha)| debated if this should be related or narrow match but decided on related since the HPO term is a combination of pheotypes and the MP term covers only the hyperactivity phenotype	
+HP:0007360	Aplasia/Hypoplasia of the cerebellum	skos:broadMatch	1	MP:0000852	small cerebellum	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-07-14	CDL (Orpha)	
+HP:0007360	Aplasia/Hypoplasia of the cerebellum	skos:broadMatch	1	MP:0000850	absent cerebellum	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-07-14		
+HP:0007598	Bilateral single transverse palmar creases	skos:narrowMatch	1	MP:0000572	abnormal autopod morphology	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-07-14	CDL (Orpha)	
+HP:0007665	Curly eyelashes	skos:narrowMatch	1	MP:0013895	abnormal eyelid cilium morphology	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-07-14	"CdL, CDL1"	
+HP:0008428	Vertebral clefting	skos:exactMatch	0.9	MP:0004687	split vertebrae	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-07-14	"CdL4| I think these are intended to be the same but the MP definition has ""cleft into two parts"" so it could be that this is intended to be complete clefting but the definition is ambiguous"	
+HP:0008734	Decreased testicular size	skos:exactMatch	0.9	MP:0001147	small testis	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-07-14	CdL5|HPO definition specifies 'volume' but the MP term includes weight as a child term. I think this is just a wording issue and not a real difference in meaning of the terms	
+HP:0008736	Hypoplasia of penis	skos:closeMatch	0.9	MP:0005188	small penis	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-07-17	"CDL (Orpha)|HPO term lacks a text definition, eq uses hypoplastic, MP eq uses decreased size, note that in PATO hyploplastic is not a child of decreased size, calling these close based on typical usage of hypoplastic in HPO"	
+HP:0008850	Severe postnatal growth retardation	skos:narrowMatch	1	MP:0001732	postnatal growth retardation	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-07-17	CDL (Orpha)	
+HP:0008872	Feeding difficulties in infancy	skos:relatedMatch	0.9	MP:0001436	abnormal suckling behavior	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-07-17	"CDL, CdL3, 5"	
+HP:0008897	Postnatal growth retardation	skos:exactMatch	1	MP:0001732	postnatal growth retardation	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-07-17	"CdL2, 5"	
+HP:0009237	Short 5th finger	skos:narrowMatch	1	MP:0002544	brachydactyly	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-07-17	CdL3	
+HP:0009623	Proximal placement of thumb	skos:narrowMatch	1	MP:0010772	abnormal pollex morphology	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-07-17	"CdL, CDL1, 2, 3, 5"	
+HP:0009829	Phocomelia	skos:narrowMatch	1	MP:0011504	abnormal limb long bone morphology	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-07-17	CDL1	
+HP:0010034	Short 1st metacarpal	skos:narrowMatch	1	MP:0004634	short metacarpal bones	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-07-17	CDL (Orpha)	
+HP:0010300	Abnormally low-pitched voice	skos:narrowMatch	1	MP:0001529	abnormal vocalization	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-07-17	CDL (Orpha)	
+HP:0010864	"Intellectual disability, severe"	skos:narrowMatch	1	MP:0014114	abnormal cognition	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-07-17	CDL (Orpha)	
+HP:0011230	Laterally extended eyebrow	skos:narrowMatch	1	MP:0000367	abnormal coat/ hair morphology	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-07-17	CdL3	
+HP:0011451	Primary microcephaly	skos:narrowMatch	1	MP:0000433	microcephaly	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-07-17	CdL3	
+HP:0012165	Oligodactyly	skos:exactMatch	0.9	MP:0000565	oligodactyly	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-07-17	"CDL (Orpha)| MP definition ""digits or parts of digits are missing"" while the HP has ""presence of fewer than the normal number of digits"" the parts of digits is causing some uncertainty but I think these are meant to be the same "	
+HP:0012210	Abnormal renal morphology	skos:exactMatch	1	MP:0002135	abnormal kidney morphology	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-07-17	CDL1	
+HP:0012368	Flat face	skos:closeMatch	0.9	MP:0012175	flat face	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-07-17	"CdL3, 4| the difference in definition and variability in face shape across mammals makes me think this should be close and not exact"	
+HP:0030084	Clinodactyly	skos:exactMatch	1	MP:0006253	clinodactyly	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-07-17	CdL2	
+HP:0030680	Abnormality of cardiovascular system morphology	skos:exactMatch	1	MP:0002127	abnormal cardiovascular system morphology	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-07-17	CDL (Orpha)| the HPO term specifies 'great vessels' but the child terms include all vessels so I think these are the same	
+HP:0030820	Hooded eyelid	skos:narrowMatch	1	MP:0001340	abnormal eyelid morphology	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-07-17	CdL3	
+HP:0031228	Abnormal incisura morphology	skos:narrowMatch	1	MP:0002177	abnormal outer ear morphology	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-07-17	CDL1	
+HP:0033785	Enamel agenesis	skos:closeMatch	1	MP:0003404	absent enamel	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-07-17	"CdL4| agenesis implies a developmental issue but the definition of the HPO term does not mention development, still called this close as the MP term is total absence and HP is partial or complete absence"	
+HP:0040082	Happy demeanor	skos:narrowMatch	1	MP:0002572	abnormal emotion/affect behavior	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-07-17	CdL5	
+HP:0100716	Self-injurious behavior	skos:narrowMatch	1	MP:0005655	increased aggression	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-07-17	CDL1| match based on parent of HPO term	
+HP:0100864	Short femoral neck	skos:exactMatch	1	MP:0030793	short femur neck	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-07-17	CdL4	
+HP:0100874	Thick hair	skos:narrowMatch	1	MP:0002073	abnormal hair growth	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-07-17	CdL3	
+HP:0200055	Small hand	skos:narrowMatch	1	MP:0000572	abnormal autopod morphology	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-07-17	"CdL, CDL2, 3, 5 | ticket #3781"
