@@ -1420,7 +1420,7 @@ HP:0012368	Flat face	skos:exactMatch	1	MP:0012175	flat face	semapv:ManualMapping
 HP:0025656	Prenatal double bubble sign	skos:relatedMatch	1	MP:0011881	distended duodenum	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-10-23	Down Syndrome| OMIM	
 HP:0025705	Abnormal fetal nasal bone visualization	skos:relatedMatch	1	MP:0000102	abnormal nasal bone morphology	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-10-23	Down Syndrome| OMIM	
 HP:0030084	Clinodactyly	skos:exactMatch	1	MP:0006253	clinodactyly	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-10-23	Down Syndrome| OMIM	
-HP:0030680	Abnormality of cardiovascular system morphology	skos:exactMatch	1	MP:0002127	abnormal cardiovascular system morphology		semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-10-23	Down Syndrome| Orpha	
+HP:0030680	Abnormality of cardiovascular system morphology	skos:exactMatch	1	MP:0002127	abnormal cardiovascular system morphology	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-10-23	Down Syndrome| Orpha	
 HP:0100763	Abnormality of the lymphatic system	skos:broadMatch	1	MP:0010368	abnormal lymphatic system physiology	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-10-23	Down Syndrome| Orpha	
 HP:0100763	Abnormality of the lymphatic system	skos:broadMatch	1	MP:0001879	abnormal lymphatic vessel morphology	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-10-23	Down Syndrome| Orpha	
 HP:0100830	Round ear	skos:narrowMatch	1	MP:0000022	abnormal ear shape	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-10-23	Down Syndrome| Orpha	
