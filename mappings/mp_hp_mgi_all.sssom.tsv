@@ -1399,7 +1399,7 @@ HP:0003467	Atlantoaxial instability	skos:narrowMatch	1	MP:0003048	abnormal cervi
 HP:0004220	Short middle phalanx of the 5th finger	skos:narrowMatch	1	MP:0002544	brachydactyly	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-10-23	Down Syndrome| OMIM	
 HP:0004279	Short palm	skos:narrowMatch	1	MP:0014291	decreased autopod size	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-10-23	Down Syndrome| OMIM	
 HP:0004415	Pulmonary artery stenosis	skos:exactMatch	1	MP:0010457	pulmonary artery stenosis	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-10-23	Down Syndrome| OMIM	
-HP:0005280	Depressed nasal bridge	skos:exactMatch	1	MP:0030034	depressed nasal bridge	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-10-23	Down Syndrome| Orpha
+HP:0005280	Depressed nasal bridge	skos:exactMatch	1	MP:0030034	depressed nasal bridge	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-10-23	Down Syndrome|Orpha	
 HP:0005547	Myeloproliferative disorder	skos:relatedMatch	1	MP:0010373	myeloid hyperplasia	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-10-23	Down Syndrome| OMIM	
 HP:0005978	Type II diabetes mellitus	skos:relatedMatch	1	MP:0005331	insulin resistance	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-10-23	Down Syndrome| Orpha	
 HP:0005978	Type II diabetes mellitus	skos:relatedMatch	1	MP:0002079	increased circulating insulin level	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-10-23	Down Syndrome| Orpha	
