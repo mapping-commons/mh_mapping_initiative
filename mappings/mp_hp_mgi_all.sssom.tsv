@@ -795,7 +795,7 @@ HP:0010650	Hypoplasia of the premaxilla	skos:narrowMatch	1	MP:0004870	small prem
 HP:0430016	Abnormality of tensor veli palatini muscle	skos:broadMatch	1	MP:0030292	small tensor veli palatini muscle	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-01-30		
 HP:0410000	Abnormal vomer morphology	skos:broadMatch	1	MP:0030266	small vomer bone	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-01-30		
 HP:0010775	Vascular ring	skos:exactMatch	1	MP:0010466	vascular ring	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-01-30		
-HP:0005556	Abnormality of the metopic suture	skos:broadMatch	1	MP:0030431	wide metopic suture	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-01-30			
+HP:0005556	Abnormality of the metopic suture	skos:broadMatch	1	MP:0030431	wide metopic suture	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-01-30		
 HP:0009911	Abnormal temporal bone morphology	skos:narrowMatch	1	MP:0000074	abnormal neurocranium morphology	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-07-18	CDL| MP term has calvaria as a synonym but the MP and HP terms have different children and use different Uberon terms in the eqs so I believe the MP term is broader than the HP term| Make calvaria a narrow synonym for the MP term	
 HP:0011821	Abnormal facial skeleton morphology	skos:broadMatch	1	MP:0000104	abnormal sphenoid bone morphology	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-07-18	CDL	
 HP:0000772	Abnormal rib morphology	skos:exactMatch	1	MP:0000150	abnormal rib morphology	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-07-18	CDL | HPO term definition is an anomaly of the rib which could be broader than the M term but it is placed on the morphology ranch so I called these exact	
@@ -861,13 +861,13 @@ HP:0012757	Abnormal neuron morphology	skos:broadMatch	1	MP:0020512	abnormal dend
 HP:0012757	Abnormal neuron morphology	skos:broadMatch	1	MP:0020514	abnormal dendritic thin spine morphology	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-07-31	CDL	
 HP:0012757	Abnormal neuron morphology	skos:broadMatch	1	MP:0020551	abnormal postsynaptic density morphology	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-07-31	CDL	
 HP:0430005	Abnormal ethmoid bone morphology	skos:broadMatch	1	MP:0030303	small ethmoid bone	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-07-31	CDL	
-HP:0000003	Multicystic kidney dysplasia	skos:narrowMatch	1	MP:0008528	polycystic kidney	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-07-05	"CDL (Orpha)| HPO has both polycystic and multicystic kidney displasia, the multicystic term specifies cysts of different sizes, absence of a normal pelvicaliceal system, and a non-functional kidney, the HPO polycystic term specifies cysts in both kidneys, the MP term just specifies multiple cysts present. Thus the MP term is broader than both the HPO terms "		
-HP:0000050	Hypoplastic male external genitalia	skos:closeMatch	0.9	MP:0009203	external male genitalia hypoplasia	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-07-05	CDL1| called this close as the MP ha testis under internal male genetalia and HP has small testis as a child of external hypoplasia; HP also uses small as a synonym for hypoplasia while the MP has small as the parent of hypoplastic		
-HP:0000059	Hypoplastic labia majora	skos:narrowMatch	1	MP:0001139	abnormal vagina morphology	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-07-06	"CdL, CDL1"		
-HP:0000072	Hydroureter	skos:exactMatch	1	MP:0000536	hydroureter	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-07-06	CdL3		
-HP:0000076	Vesicoureteral reflux	skos:exactMatch	1	MP:0001948	vesicoureteral reflux	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-07-06	"CdL, CDL1"		
+HP:0000003	Multicystic kidney dysplasia	skos:narrowMatch	1	MP:0008528	polycystic kidney	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-07-05	"CDL (Orpha)| HPO has both polycystic and multicystic kidney displasia, the multicystic term specifies cysts of different sizes, absence of a normal pelvicaliceal system, and a non-functional kidney, the HPO polycystic term specifies cysts in both kidneys, the MP term just specifies multiple cysts present. Thus the MP term is broader than both the HPO terms "	
+HP:0000050	Hypoplastic male external genitalia	skos:closeMatch	0.9	MP:0009203	external male genitalia hypoplasia	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-07-05	CDL1| called this close as the MP ha testis under internal male genetalia and HP has small testis as a child of external hypoplasia; HP also uses small as a synonym for hypoplasia while the MP has small as the parent of hypoplastic	
+HP:0000059	Hypoplastic labia majora	skos:narrowMatch	1	MP:0001139	abnormal vagina morphology	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-07-06	"CdL, CDL1"	
+HP:0000072	Hydroureter	skos:exactMatch	1	MP:0000536	hydroureter	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-07-06	CdL3	
+HP:0000076	Vesicoureteral reflux	skos:exactMatch	1	MP:0001948	vesicoureteral reflux	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-07-06	"CdL, CDL1"	
 HP:0000130	Abnormality of the uterus	skos:exactMatch	0.9	MP:0001120	abnormal uterus morphology	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-07-06	CDL (Orpha)| HPO definition and label do not indicate this is only morphology but it is located on the morphology branch so I called this exact	
-HP:0000135	Hypogonadism	skos:narrowMatch	1	MP:0005647	abnormal sex gland physiology	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-07-06	CdL5 | note there is an MP term 'small gonad' that has the synonym hypogonadism but the HPO term refers to reduced function of the gonad(s) NOT reduced size		
+HP:0000135	Hypogonadism	skos:narrowMatch	1	MP:0005647	abnormal sex gland physiology	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-07-06	CdL5 | note there is an MP term 'small gonad' that has the synonym hypogonadism but the HPO term refers to reduced function of the gonad(s) NOT reduced size	
 HP:0000176	Submucous cleft hard palate	skos:exactMatch	1	MP:0013548	submucous cleft hard palate	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-07-06	CdL4	
 HP:0000204	Cleft upper lip	skos:exactMatch	1	MP:0005170	cleft upper lip	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-07-06	CDL1	
 HP:0000220	Velopharyngeal insufficiency	skos:narrowMatch	1	MP:0003154	abnormal soft palate morphology	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-07-06	CdL4	
@@ -1363,68 +1363,68 @@ HP:0010751	Dimple chin	skos:narrowMatch	1	MP:0030243	abnormal chin morphology	se
 HP:0200021	Down-sloping shoulders	skos:relatedMatch	1	MP:0030816	abnormal shoulder joint morphology	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-08-01	CHARGE	
 HP:0003048	Radial head subluxation	skos:narrowMatch	1	MP:0030882	abnormal radius head morphology	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-07-19	CHARGE	
 HP:0003022	Hypoplasia of the ulna	skos:closeMatch	1	MP:0030900	decreased ulna size	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-07-19	CHARGE	
-HP:0000144	Decreased fertility	skos:exactMatch	1	MP:0001921	reduced fertility		semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-10-13	Down Syndrome| Orpha	
-HP:0000160	Narrow mouth	skos:narrowMatch	1	MP:0009880	decreased mouth size		semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-10-13	Down Syndrome| Orpha	
-HP:0000164	Abnormality of the dentition	skos:closeMatch	0.9	MP:0002100	abnormal tooth morphology		semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-10-13	Down Syndrome| Orpha	
-HP:0000179	Thick lower lip vermilion	skos:narrowMatch	1	MP:0003774	thick lip		semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-10-13	Down Syndrome| Orpha	
-HP:0000189	Narrow palate	skos:exactMatch	1	MP:0003758	narrow palate		semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-10-13	Down Syndrome| Orpha	
-HP:0000194	Open mouth	skos:exactMatch	1	MP:0031502	open mouth		semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-10-13	Down Syndrome| Orpha	
-HP:0000235	Abnormality of the fontanelles or cranial sutures	skos:broadMatch	1	MP:0000084 	abnormal fontanelle morphology	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-10-13	Down Syndrome| Orpha	
+HP:0000144	Decreased fertility	skos:exactMatch	1	MP:0001921	reduced fertility	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-10-13	Down Syndrome| Orpha	
+HP:0000160	Narrow mouth	skos:narrowMatch	1	MP:0009880	decreased mouth size	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-10-13	Down Syndrome| Orpha	
+HP:0000164	Abnormality of the dentition	skos:closeMatch	0.9	MP:0002100	abnormal tooth morphology	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-10-13	Down Syndrome| Orpha	
+HP:0000179	Thick lower lip vermilion	skos:narrowMatch	1	MP:0003774	thick lip	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-10-13	Down Syndrome| Orpha	
+HP:0000189	Narrow palate	skos:exactMatch	1	MP:0003758	narrow palate	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-10-13	Down Syndrome| Orpha	
+HP:0000194	Open mouth	skos:exactMatch	1	MP:0031502	open mouth	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-10-13	Down Syndrome| Orpha	
+HP:0000235	Abnormality of the fontanelles or cranial sutures	skos:broadMatch	1	MP:0000084	abnormal fontanelle morphology	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-10-13	Down Syndrome| Orpha	
 HP:0000235	Abnormality of the fontanelles or cranial sutures	skos:broadMatch	1	MP:0002835	abnormal cranial suture morphology	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-10-13	Down Syndrome| Orpha	
-HP:0000248	Brachycephaly	skos:exactMatch	1	MP:0000435	shortened head		semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-10-13	"Down Syndrome| Orpha, OMIM"	
-HP:0000272	Malar flattening	skos:narrowMatch	1	MP:0005270	abnormal zygomatic bone morphology		semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-10-13	Down Syndrome| OMIM	
-HP:0000457	Depressed nasal ridge	skos:narrowMatch	1	MP:0030033	abnormal nasal bridge morphology		semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-10-13	Down Syndrome| Orpha	
-HP:0000474	Thickened nuchal skin fold	skos:narrowMatch	1	MP:0012723	abnormal nuchal region morphology		semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-10-13	"Down Syndrome| Orpha, OMIM"	
-HP:0000518	Cataract	skos:exactMatch	1	MP:0001304	cataract		semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-10-13	Down Syndrome| Orpha	
-HP:0000545	Myopia	skos:exactMatch	1	MP:0003100	myopia		semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-10-13	Down Syndrome| Orpha	
-HP:0000691	Microdontia	skos:exactMatch	1	MP:0030088	microdontia		semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-10-13	Down Syndrome| Orpha	
-HP:0000954	Single transverse palmar crease	skos:narrowMatch	1	MP:0000572	abnormal autopod morphology		semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-10-13	Down Syndrome| OMIM	
-HP:0001088	Brushfield spots	skos:narrowMatch	1	MP:0005102	abnormal iris pigmentation		semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-10-13	Down Syndrome| OMIM	
-HP:0001156	Brachydactyly	skos:exactMatch	1	MP:0002544	brachydactyly		semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-10-13	"Down Syndrome| Orpha, OMIM"	
-HP:0001169	Broad palm	skos:narrowMatch	1	MP:0020242	increased autopod size		semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-10-13	Down Syndrome| OMIM	
-HP:0001249	Intellectual disability	skos:narrowMatch	1	MP:0014114	abnormal cognition		semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-10-19	"Down Syndrome| Orpha, OMIM"	
-HP:0001513	Obesity	skos:closeMatch	1	MP:0001261	obese		semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-10-19	Down Syndrome| Orpha| HPO term specifies 'Accumulation of substantial excess body fat' the MP states 'body weight that is grossly above the average..usually  due to accumulation of excess fat tissue' thus these as defined are not exact but I think the intent and in practice these should be very close	
-HP:0001674	Complete atrioventricular canal defect	skos:exactMatch	0.9	MP:0010413	complete atrioventricular septal defect		semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-10-19	Down Syndrome| OMIM	
-HP:0001852	Sandal gap	skos:narrowMatch	1	MP:0002110	abnormal digit morphology		semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-10-19	"Down Syndrome| Orpha, OMIM"	
-HP:0002251	Aganglionic megacolon	skos:exactMatch	1	MP:0002926	aganglionic megacolon		semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-10-23	"Down Syndrome| Orpha, OMIM"	
-HP:0002376	Developmental regression	skos:narrowMatch	1	MP:0004924	abnormal behavior		semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-10-23	Down Syndrome| Orpha	
-HP:0002511	Alzheimer disease	skos:relatedMatch	1	MP:0012508	forebrain atrophy		semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-10-23	Down Syndrome| OMIM	
-HP:0002511	Alzheimer disease	skos:relatedMatch	1	MP:0003329	amyloid beta deposits		semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-10-23	Down Syndrome| OMIM	
-HP:0002511	Alzheimer disease	skos:relatedMatch	1	MP:0003214	neurofibrillary tangles		semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-10-23	Down Syndrome| OMIM	
-HP:0002714	Downturned corners of mouth	skos:exactMatch	1	MP:0003749	down-turned corners of mouth		semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-10-23	Down Syndrome| Orpha	
-HP:0002866	Hypoplastic iliac wing	skos:narrowMatch	1	MP:0030852	abnormal ilium wing morphology		semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-10-23	Down Syndrome| OMIM	
-HP:0003182	Shallow acetabular fossae	skos:narrowMatch	1	MP:0030830	abnormal acetabulum morphology		semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-10-23	Down Syndrome| OMIM	
-HP:0003196	Short nose	skos:relatedMatch	1	MP:0000445	short snout		semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-10-23	Down Syndrome| Orpha	
-HP:0003467	Atlantoaxial instability	skos:narrowMatch	1	MP:0003048	abnormal cervical vertebrae morphology		semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-10-23	Down Syndrome| OMIM	
-HP:0004220	Short middle phalanx of the 5th finger	skos:narrowMatch	1	MP:0002544	brachydactyly		semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-10-23	Down Syndrome| OMIM	
-HP:0004279	Short palm	skos:narrowMatch	1	MP:0014291	decreased autopod size		semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-10-23	Down Syndrome| OMIM	
-HP:0004415	Pulmonary artery stenosis	skos:exactMatch	1	MP:0010457	pulmonary artery stenosis		semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-10-23	Down Syndrome| OMIM	
-HP:0005280	Depressed nasal bridge	skos:exactMatch	1	MP:0030034	depressed nasal bridge		semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-10-23	Down Syndrome| Orpha	
-HP:0005547	Myeloproliferative disorder	skos:relatedMatch	1	MP:0010373	myeloid hyperplasia		semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-10-23	Down Syndrome| OMIM	
-HP:0005978	Type II diabetes mellitus	skos:relatedMatch	1	MP:0005331	insulin resistance		semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-10-23	Down Syndrome| Orpha	
-HP:0005978	Type II diabetes mellitus	skos:relatedMatch	1	MP:0002079	increased circulating insulin level		semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-10-23	Down Syndrome| Orpha	
-HP:0005989	Redundant neck skin	skos:narrowMatch	1	MP:0030528	abnormal neck skin morphology		semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-10-23	Down Syndrome| OMIM	
-HP:0006695	Atrioventricular canal defect	skos:exactMatch	1	MP:0010412	atrioventricular septal defect		semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-10-23	Down Syndrome| OMIM	
-HP:0006733	Acute megakaryocytic leukemia	skos:relatedMatch	1	MP:0002026	increased leukemia incidence		semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-10-23	"Down Syndrome| Orpha, OMIM"	
-HP:0007328	Impaired pain sensation	skos:closeMatch	1	MP:0003043	hypoalgesia		semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-10-23	Down Syndrome| Orpha	
-HP:0007495	Prematurely aged appearance	skos:narrowMatch	1	MP:0003786	premature aging		semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-10-23	Down Syndrome| Orpha	
-HP:0007598	Bilateral single transverse palmar creases	skos:narrowMatch	1	MP:0000572	abnormal autopod morphology		semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-10-23	Down Syndrome| Orpha	
-HP:0008070	Sparse hair	skos:exactMatch	1	MP:0000416	sparse hair		semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-10-23	Down Syndrome| Orpha	
-HP:0008678	Renal hypoplasia/aplasia	skos:broadMatch	1	MP:0003446	renal hypoplasia		semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-10-23	Down Syndrome| Orpha	
-HP:0008678	Renal hypoplasia/aplasia	skos:broadMatch	1	MP:0003604	single kidney		semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-10-23	Down Syndrome| Orpha	
-HP:0008678	Renal hypoplasia/aplasia	skos:broadMatch	1	MP:0000520	absent kidney		semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-10-23	Down Syndrome| Orpha	
-HP:0010316	Ebstein anomaly of the tricuspid valve	skos:exactMatch	1	MP:0010536	Ebstein's malformation of tricuspid valve		semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-10-23	Down Syndrome| OMIM	
-HP:0010808	Protruding tongue	skos:closeMatch	1	MP:0009908	protruding tongue		semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-10-23	"Down Syndrome| Orpha, OMIM| note the MP definition specifies that the tongue protrudes outside the mouth past the lips, the HP definition specifies past the teeth so I'm calling this close not exact"	
-HP:0010978	Abnormality of immune system physiology	skos:exactMatch	1	MP:0001790	abnormal immune system physiology		semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-10-23	Down Syndrome| Orpha	
-HP:0012368	Flat face	skos:exactMatch	1	MP:0012175	flat face		semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-10-23	"Down Syndrome| Orpha, OMIM"	
-HP:0025656	Prenatal double bubble sign	skos:relatedMatch	1	MP:0011881	distended duodenum		semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-10-23	Down Syndrome| OMIM	
-HP:0025705	Abnormal fetal nasal bone visualization	skos:relatedMatch	1	MP:0000102	abnormal nasal bone morphology		semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-10-23	Down Syndrome| OMIM	
-HP:0030084	Clinodactyly	skos:exactMatch	1	MP:0006253	clinodactyly		semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-10-23	Down Syndrome| OMIM	
+HP:0000248	Brachycephaly	skos:exactMatch	1	MP:0000435	shortened head	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-10-13	"Down Syndrome| Orpha, OMIM"	
+HP:0000272	Malar flattening	skos:narrowMatch	1	MP:0005270	abnormal zygomatic bone morphology	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-10-13	Down Syndrome| OMIM	
+HP:0000457	Depressed nasal ridge	skos:narrowMatch	1	MP:0030033	abnormal nasal bridge morphology	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-10-13	Down Syndrome| Orpha	
+HP:0000474	Thickened nuchal skin fold	skos:narrowMatch	1	MP:0012723	abnormal nuchal region morphology	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-10-13	"Down Syndrome| Orpha, OMIM"	
+HP:0000518	Cataract	skos:exactMatch	1	MP:0001304	cataract	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-10-13	Down Syndrome| Orpha	
+HP:0000545	Myopia	skos:exactMatch	1	MP:0003100	myopia	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-10-13	Down Syndrome| Orpha	
+HP:0000691	Microdontia	skos:exactMatch	1	MP:0030088	microdontia	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-10-13	Down Syndrome| Orpha	
+HP:0000954	Single transverse palmar crease	skos:narrowMatch	1	MP:0000572	abnormal autopod morphology	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-10-13	Down Syndrome| OMIM	
+HP:0001088	Brushfield spots	skos:narrowMatch	1	MP:0005102	abnormal iris pigmentation	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-10-13	Down Syndrome| OMIM	
+HP:0001156	Brachydactyly	skos:exactMatch	1	MP:0002544	brachydactyly	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-10-13	"Down Syndrome| Orpha, OMIM"	
+HP:0001169	Broad palm	skos:narrowMatch	1	MP:0020242	increased autopod size	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-10-13	Down Syndrome| OMIM	
+HP:0001249	Intellectual disability	skos:narrowMatch	1	MP:0014114	abnormal cognition	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-10-19	"Down Syndrome| Orpha, OMIM"	
+HP:0001513	Obesity	skos:closeMatch	1	MP:0001261	obese	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-10-19	Down Syndrome| Orpha| HPO term specifies 'Accumulation of substantial excess body fat' the MP states 'body weight that is grossly above the average..usually  due to accumulation of excess fat tissue' thus these as defined are not exact but I think the intent and in practice these should be very close	
+HP:0001674	Complete atrioventricular canal defect	skos:exactMatch	0.9	MP:0010413	complete atrioventricular septal defect	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-10-19	Down Syndrome| OMIM	
+HP:0001852	Sandal gap	skos:narrowMatch	1	MP:0002110	abnormal digit morphology	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-10-19	"Down Syndrome| Orpha, OMIM"	
+HP:0002251	Aganglionic megacolon	skos:exactMatch	1	MP:0002926	aganglionic megacolon	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-10-23	"Down Syndrome| Orpha, OMIM"	
+HP:0002376	Developmental regression	skos:narrowMatch	1	MP:0004924	abnormal behavior	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-10-23	Down Syndrome| Orpha	
+HP:0002511	Alzheimer disease	skos:relatedMatch	1	MP:0012508	forebrain atrophy	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-10-23	Down Syndrome| OMIM	
+HP:0002511	Alzheimer disease	skos:relatedMatch	1	MP:0003329	amyloid beta deposits	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-10-23	Down Syndrome| OMIM	
+HP:0002511	Alzheimer disease	skos:relatedMatch	1	MP:0003214	neurofibrillary tangles	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-10-23	Down Syndrome| OMIM	
+HP:0002714	Downturned corners of mouth	skos:exactMatch	1	MP:0003749	down-turned corners of mouth	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-10-23	Down Syndrome| Orpha	
+HP:0002866	Hypoplastic iliac wing	skos:narrowMatch	1	MP:0030852	abnormal ilium wing morphology	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-10-23	Down Syndrome| OMIM	
+HP:0003182	Shallow acetabular fossae	skos:narrowMatch	1	MP:0030830	abnormal acetabulum morphology	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-10-23	Down Syndrome| OMIM	
+HP:0003196	Short nose	skos:relatedMatch	1	MP:0000445	short snout	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-10-23	Down Syndrome| Orpha	
+HP:0003467	Atlantoaxial instability	skos:narrowMatch	1	MP:0003048	abnormal cervical vertebrae morphology	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-10-23	Down Syndrome| OMIM	
+HP:0004220	Short middle phalanx of the 5th finger	skos:narrowMatch	1	MP:0002544	brachydactyly	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-10-23	Down Syndrome| OMIM	
+HP:0004279	Short palm	skos:narrowMatch	1	MP:0014291	decreased autopod size	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-10-23	Down Syndrome| OMIM	
+HP:0004415	Pulmonary artery stenosis	skos:exactMatch	1	MP:0010457	pulmonary artery stenosis	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-10-23	Down Syndrome| OMIM	
+HP:0005280	Depressed nasal bridge	skos:exactMatch	1	MP:0030034	depressed nasal bridge	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-10-23	Down Syndrome| Orpha	
+HP:0005547	Myeloproliferative disorder	skos:relatedMatch	1	MP:0010373	myeloid hyperplasia	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-10-23	Down Syndrome| OMIM	
+HP:0005978	Type II diabetes mellitus	skos:relatedMatch	1	MP:0005331	insulin resistance	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-10-23	Down Syndrome| Orpha	
+HP:0005978	Type II diabetes mellitus	skos:relatedMatch	1	MP:0002079	increased circulating insulin level	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-10-23	Down Syndrome| Orpha	
+HP:0005989	Redundant neck skin	skos:narrowMatch	1	MP:0030528	abnormal neck skin morphology	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-10-23	Down Syndrome| OMIM	
+HP:0006695	Atrioventricular canal defect	skos:exactMatch	1	MP:0010412	atrioventricular septal defect	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-10-23	Down Syndrome| OMIM	
+HP:0006733	Acute megakaryocytic leukemia	skos:relatedMatch	1	MP:0002026	increased leukemia incidence	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-10-23	"Down Syndrome| Orpha, OMIM"	
+HP:0007328	Impaired pain sensation	skos:closeMatch	1	MP:0003043	hypoalgesia	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-10-23	Down Syndrome| Orpha	
+HP:0007495	Prematurely aged appearance	skos:narrowMatch	1	MP:0003786	premature aging	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-10-23	Down Syndrome| Orpha	
+HP:0007598	Bilateral single transverse palmar creases	skos:narrowMatch	1	MP:0000572	abnormal autopod morphology	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-10-23	Down Syndrome| Orpha	
+HP:0008070	Sparse hair	skos:exactMatch	1	MP:0000416	sparse hair	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-10-23	Down Syndrome| Orpha	
+HP:0008678	Renal hypoplasia/aplasia	skos:broadMatch	1	MP:0003446	renal hypoplasia	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-10-23	Down Syndrome| Orpha	
+HP:0008678	Renal hypoplasia/aplasia	skos:broadMatch	1	MP:0003604	single kidney	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-10-23	Down Syndrome| Orpha	
+HP:0008678	Renal hypoplasia/aplasia	skos:broadMatch	1	MP:0000520	absent kidney	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-10-23	Down Syndrome| Orpha	
+HP:0010316	Ebstein anomaly of the tricuspid valve	skos:exactMatch	1	MP:0010536	Ebstein's malformation of tricuspid valve	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-10-23	Down Syndrome| OMIM	
+HP:0010808	Protruding tongue	skos:closeMatch	1	MP:0009908	protruding tongue	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-10-23	"Down Syndrome| Orpha, OMIM| note the MP definition specifies that the tongue protrudes outside the mouth past the lips, the HP definition specifies past the teeth so I'm calling this close not exact"	
+HP:0010978	Abnormality of immune system physiology	skos:exactMatch	1	MP:0001790	abnormal immune system physiology	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-10-23	Down Syndrome| Orpha	
+HP:0012368	Flat face	skos:exactMatch	1	MP:0012175	flat face	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-10-23	"Down Syndrome| Orpha, OMIM"	
+HP:0025656	Prenatal double bubble sign	skos:relatedMatch	1	MP:0011881	distended duodenum	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-10-23	Down Syndrome| OMIM	
+HP:0025705	Abnormal fetal nasal bone visualization	skos:relatedMatch	1	MP:0000102	abnormal nasal bone morphology	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-10-23	Down Syndrome| OMIM	
+HP:0030084	Clinodactyly	skos:exactMatch	1	MP:0006253	clinodactyly	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-10-23	Down Syndrome| OMIM	
 HP:0030680	Abnormality of cardiovascular system morphology	skos:exactMatch	1	MP:0002127	abnormal cardiovascular system morphology		semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-10-23	Down Syndrome| Orpha	
-HP:0100763	Abnormality of the lymphatic system	skos:broadMatch	1	MP:0010368	abnormal lymphatic system physiology		semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-10-23	Down Syndrome| Orpha	
-HP:0100763	Abnormality of the lymphatic system	skos:broadMatch	1	MP:0001879	abnormal lymphatic vessel morphology		semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-10-23	Down Syndrome| Orpha	
-HP:0100830	Round ear	skos:narrowMatch	1	MP:0000022	abnormal ear shape		semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-10-23	Down Syndrome| Orpha	
-HP:0100867	Duodenal stenosis	skos:narrowMatch	1	MP:0003271	abnormal duodenum morphology		semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-10-23	Down Syndrome| OMIM	
+HP:0100763	Abnormality of the lymphatic system	skos:broadMatch	1	MP:0010368	abnormal lymphatic system physiology	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-10-23	Down Syndrome| Orpha	
+HP:0100763	Abnormality of the lymphatic system	skos:broadMatch	1	MP:0001879	abnormal lymphatic vessel morphology	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-10-23	Down Syndrome| Orpha	
+HP:0100830	Round ear	skos:narrowMatch	1	MP:0000022	abnormal ear shape	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-10-23	Down Syndrome| Orpha	
+HP:0100867	Duodenal stenosis	skos:narrowMatch	1	MP:0003271	abnormal duodenum morphology	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-10-23	Down Syndrome| OMIM	
 HP:0001640	Cardiomegaly	skos:exactMatch	1	MP:0000274	enlarged heart	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-09-26	Down Syndrome	
 HP:0001697	Abnormal pericardium morphology	skos:broadMatch	1	MP:0000291	enlarged pericardium	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-09-26	Down Syndrome	
 HP:0030681	Abnormal morphology of myocardial trabeculae	skos:broadMatch	1	MP:0000295	trabecula carnea hypoplasia	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-09-26	Down Syndrome	
