@@ -1363,114 +1363,6 @@ HP:0010751	Dimple chin	skos:narrowMatch	1	MP:0030243	abnormal chin morphology	se
 HP:0200021	Down-sloping shoulders	skos:relatedMatch	1	MP:0030816	abnormal shoulder joint morphology	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-08-01	CHARGE
 HP:0003048	Radial head subluxation	skos:narrowMatch	1	MP:0030882	abnormal radius head morphology	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-07-19	CHARGE
 HP:0003022	Hypoplasia of the ulna	skos:closeMatch	1	MP:0030900	decreased ulna size	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-07-19	CHARGE
-HP:0001640	Cardiomegaly	skos:exactMatch	1	MP:0000274	enlarged heart	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	9/26/2023	Down Syndrome
-HP:0001697	Abnormal pericardium morphology	skos:broadMatch	1	MP:0000291	enlarged pericardium	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	9/26/2023	Down Syndrome
-HP:0030681	Abnormal morphology of myocardial trabeculae	skos:broadMatch	1	MP:0000295	trabecula carnea hypoplasia	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	9/26/2023	Down Syndrome
-HP:0006695	Atrioventricular canal defect	skos:relatedMatch	1	MP:0000299	failure of atrioventricular cushion closure	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	9/26/2023	Down Syndrome
-HP:0011805	Abnormal skeletal muscle morphology	skos:exactMatch	1	MP:0000759	abnormal skeletal muscle morphology	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	9/26/2023	Down Syndrome
-HP:0006891	Thick cerebral cortex	skos:exactMatch	0.9	MP:0000789	thickened cerebral cortex	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	9/26/2023	"Down Syndrome| mapping based on placement, EQ, and label as HPO term lacks definition"
-HP:0025100	Abnormal hippocampus morphology	skos:broadMatch	1	MP:0000812	abnormal dentate gyrus morphology	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	9/28/2023	Down Syndrome
-HP:0030047	Abnormal lateral ventricle morphology	skos:exactMatch	1	MP:0000823	abnormal lateral ventricle morphology	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	9/28/2023	Down Syndrome
-HP:0010951	Abnormal third ventricle morphology	skos:exactMatch	1	MP:0000826	abnormal third ventricle morphology	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	9/28/2023	Down Syndrome
-HP:0010663	Abnormality of thalamus morphology	skos:exactMatch	1	MP:0000832	abnormal thalamus morphology	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	9/28/2023	Down Syndrome
-HP:0002538	Abnormal cerebral cortex morphology	skos:broadMatch	1	MP:0000859	abnormal somatosensory cortex morphology	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	9/28/2023	Down Syndrome
-HP:0010953	Noncommunicating hydrocephalus	skos:exactMatch	1	MP:0000917	obstructive hydrocephaly	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	9/28/2023	Down Syndrome
-HP:0010824	Abnormal fifth cranial nerve morphology	skos:exactMatch	1	MP:0001065	abnormal trigeminal nerve morphology	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	9/28/2023	Down Syndrome
-HP:0031038	Spermatogenesis maturation arrest	skos:closeMatch	0.9	MP:0001155	arrest of spermatogenesis	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	9/28/2023	Down Syndrome
-HP:0008669	Abnormal spermatogenesis	skos:exactMatch	1	MP:0001156	abnormal spermatogenesis	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	9/29/2023	Down Syndrome
-HP:0004324	Increased body weight	skos:exactMatch	1	MP:0001260	increased body weight	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	9/29/2023	Down Syndrome
-HP:0100852	Abnormal fear/anxiety-related behavior	skos:broadMatch	1	MP:0001364	decreased anxiety-related response	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	9/29/2023	Down Syndrome
-HP:0100022	Abnormality of movement	skos:broadMatch	1	MP:0001392	abnormal locomotor behavior	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	9/29/2023	Down Syndrome
-HP:0000733	Abnormal repetitive mannerisms	skos:relatedMatch	1	MP:0001409	increased stereotypic behavior	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	9/29/2023	Down Syndrome
-HP:0012433	Abnormal social behavior	skos:broadMatch	1	MP:0001447	abnormal nest building behavior	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	9/29/2023	Down Syndrome
-HP:0002354	Memory impairment	skos:relatedMatch	1	MP:0001458	abnormal object recognition memory	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	9/29/2023	Down Syndrome
-HP:0001328	Specific learning disability	skos:relatedMatch	1	MP:0001463	abnormal spatial learning	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	9/29/2023	Down Syndrome
-HP:0012535	Abnormal synaptic transmission	skos:broadMatch	1	MP:0001473	reduced long-term potentiation	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	9/29/2023	Down Syndrome
-HP:0012535	Abnormal synaptic transmission	skos:broadMatch	1	MP:0001475	reduced long-term depression	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	9/29/2023	Down Syndrome
-HP:0004325	Decreased body weight	skos:relatedMatch	1	MP:0001698	decreased embryo size	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	9/29/2023	Down Syndrome
-HP:0011733	Abnormality of adrenal physiology	skos:broadMatch	1	MP:0001739	abnormal adrenal gland secretion	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	9/29/2023	Down Syndrome
-HP:0012535	Abnormal synaptic transmission	skos:broadMatch	1	MP:0001898	abnormal long-term depression	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	9/29/2023	Down Syndrome
-HP:0012638	Abnormal nervous system physiology	skos:broadMatch	1	MP:0001900	impaired synaptic plasticity	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	9/29/2023	Down Syndrome
-HP:0003251	Male infertility	skos:exactMatch	0.9	MP:0001925	male infertility	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	9/29/2023	Down Syndrome| uncertainty as the HPO terms lacks a definition
-HP:0002664	Neoplasm	skos:exactMatch	1	MP:0002006	neoplasm	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	9/29/2023	Down Syndrome
-HP:0002664	Neoplasm	skos:broadMatch	1	MP:0002018	increased malignant tumor incidence	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	9/29/2023	Down Syndrome
-HP:0011446	Abnormality of higher mental function	skos:relatedMatch	1	MP:0002063	abnormal learning/memory/conditioning	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	9/29/2023	Down Syndrome
-HP:0001328	Specific learning disability	skos:relatedMatch	1	MP:0002063	abnormal learning/memory/conditioning	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	9/29/2023	Down Syndrome
-HP:0012443	Abnormality of brain morphology	skos:broadMatch	1	MP:0002176	increased brain weight	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	9/29/2023	Down Syndrome
-HP:0001311	Abnormal nervous system electrophysiology	skos:exactMatch	1	MP:0002272	abnormal nervous system electrophysiology	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	9/29/2023	Down Syndrome
-HP:0025408	Abnormal spleen morphology	skos:broadMatch	1	MP:0002356	abnormal spleen red pulp morphology	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	9/29/2023	Down Syndrome
-HP:0005561	Abnormality of bone marrow cell morphology	skos:broadMatch	1	MP:0002413	abnormal megakaryocyte progenitor cell morphology	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	9/29/2023	Down Syndrome
-HP:0000752	Hyperactivity	skos:broadMatch	1	MP:0002574	increased vertical activity	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	9/29/2023	Down Syndrome
-HP:0012206	Abnormal sperm motility	skos:broadMatch	1	MP:0002675	asthenozoospermia	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	9/29/2023	"Down Syndrome| HP term is defined as any abnormality but all children are decreased motility so I rated the similarity fairly high, eq also used quality in general not any sort of decreased quality"
-HP:0000798	Oligozoospermia	skos:exactMatch	0.9	MP:0002687	oligozoospermia	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	9/29/2023	Down Syndrome| possibly this could be close as the HP term includes in the definition specific sperm counts but child terms are present that don't fit with the count in the definition so I'm assuming that is the typical range but not an essential part of the definition
-HP:0000708	Atypical behavior	skos:broadMatch	1	MP:0002757	decreased vertical activity	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	9/29/2023	Down Syndrome
-HP:0040171	Decreased serum testosterone concentration	skos:exactMatch	0.9	MP:0002780	decreased circulating testosterone level	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	9/29/2023	Down Syndrome| HP term lacks text definition but eq uses blood not serum and MP has serum as a synonym so I think these are exact
-HP:0000035	Abnormal testis morphology	skos:broadMatch	1	MP:0002784	abnormal Sertoli cell morphology	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	9/29/2023	Down Syndrome| may need to revise after HPO ticket is reviewed
-HP:0000739	Anxiety	skos:relatedMatch	1	MP:0002797	increased thigmotaxis	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	9/29/2023	Down Syndrome
-HP:0002354	Memory impairment	skos:relatedMatch	1	MP:0002800	abnormal short-term object recognition memory	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	9/29/2023	Down Syndrome
-HP:0012757	Abnormal neuron morphology	skos:exactMatch	1	MP:0002882	abnormal neuron morphology	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	9/29/2023	Down Syndrome
-HP:0002251	Aganglionic megacolon	skos:exactMatch	1	MP:0002926	aganglionic megacolon	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	9/29/2023	Down Syndrome
-HP:0012535	Abnormal synaptic transmission	skos:broadMatch	1	MP:0003008	enhanced long-term potentiation	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	9/29/2023	Down Syndrome
-HP:0025015	Abnormal vascular morphology	skos:broadMatch	1	MP:0003229	abnormal vitelline vasculature morphology	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	9/29/2023	Down Syndrome
-HP:0025100	Abnormal hippocampus morphology	skos:broadMatch	1	MP:0003240	loss of hippocampal neurons	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	9/29/2023	Down Syndrome
-HP:0002374	Diminished movement	skos:relatedMatch	1	MP:0003313	abnormal locomotor activation	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	9/29/2023	Down Syndrome
-HP:0002664	Neoplasm	skos:broadMatch	1	MP:0003447	decreased tumor growth/size	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	9/29/2023	Down Syndrome
-HP:0100851	Abnormal emotion/affect behavior	skos:broadMatch	1	MP:0003461	abnormal response to novel object	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	9/29/2023	Down Syndrome
-HP:0012639	Abnormal nervous system morphology	skos:broadMatch	1	MP:0003861	abnormal nervous system development	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	9/29/2023	Down Syndrome
-HP:0000733	Abnormal repetitive mannerisms	skos:relatedMatch	1	MP:0003908	decreased stereotypic behavior	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	9/29/2023	Down Syndrome
-HP:0003117	Abnormal circulating hormone concentration	skos:narrowMatch	1	MP:0003953	abnormal hormone level	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	9/29/2023	Down Syndrome
-HP:0012535	Abnormal synaptic transmission	skos:broadMatch	1	MP:0004008	abnormal GABA-mediated receptor currents	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	9/29/2023	Down Syndrome
-HP:0031422	Abnormal cerebellar cortex morphology	skos:broadMatch	1	MP:0004098	abnormal cerebellar granule cell morphology	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	9/29/2023	Down Syndrome
-HP:0005557	Abnormal zygomatic arch morphology	skos:exactMatch	1	MP:0004469	abnormal zygomatic arch morphology	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	9/29/2023	Down Syndrome
-HP:0012535	Abnormal synaptic transmission	skos:broadMatch	1	MP:0004807	abnormal paired-pulse inhibition	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	9/29/2023	Down Syndrome
-HP:0001871	Abnormality of blood and blood-forming tissues	skos:broadMatch	1	MP:0004809	increased hematopoietic stem cell number	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	9/29/2023	Down Syndrome
-HP:0003712	Skeletal muscle hypertrophy	skos:narrowMatch	1	MP:0004818	increased skeletal muscle mass	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	10/2/2023	Down Syndrome
-HP:0012638	Abnormal nervous system physiology	skos:broadMatch	1	MP:0004948	abnormal neuronal precursor proliferation	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	10/2/2023	Down Syndrome
-HP:0012639	Abnormal nervous system morphology	skos:broadMatch	1	MP:0004996	abnormal CNS synapse formation	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	10/2/2023	Down Syndrome
-HP:0012443	Abnormality of brain morphology	skos:broadMatch	1	MP:0005238	increased brain size	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	10/2/2023	Down Syndrome
-HP:0011021	Abnormality of circulating enzyme level	skos:narrowMatch	1	MP:0005319	abnormal enzyme/coenzyme level	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	10/2/2023	Down Syndrome
-HP:0040195	Decreased head circumference	skos:relatedMatch	1	MP:0005352	small cranium	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	10/2/2023	"Down Syndrome| possibly this could be narrow but I have concerns about calling head circumferunce a 'child' of small cranium. The HP term has microcephaly and mild microcephaly as children, MP has microcephaly as a child of head size"
-HP:0001894	Thrombocytosis	skos:exactMatch	1	MP:0005505	thrombocytosis	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	10/2/2023	Down Syndrome
-HP:0003287	Abnormality of mitochondrial metabolism	skos:narrowMatch	1	MP:0006036	abnormal mitochondrial physiology	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	10/2/2023	Down Syndrome
-HP:0012863	Abnormal male germ cell morphology	skos:exactMatch	1	MP:0006362	abnormal male germ cell morphology	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	10/2/2023	Down Syndrome
-HP:0012863	Abnormal male germ cell morphology	skos:broadMatch	1	MP:0006378	abnormal spermatogonia morphology	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	10/2/2023	Down Syndrome
-HP:0020047	Abnormal myeloid cell morphology	skos:broadMatch	1	MP:0006410	abnormal common myeloid progenitor cell morphology	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	10/2/2023	Down Syndrome
-HP:0500032	Abnormal neuron branching	skos:narrowMatch	1	MP:0008143	abnormal dendrite morphology	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	10/2/2023	Down Syndrome
-HP:0005513	Increased megakaryocyte count	skos:exactMatch	1	MP:0008254	increased megakaryocyte cell number	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	10/3/2023	Down Syndrome
-HP:0031515	Abnormal meiosis	skos:broadMatch	1	MP:0008261	arrest of male meiosis	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	10/3/2023	Down Syndrome
-HP:0025100	Abnormal hippocampus morphology	skos:broadMatch	1	MP:0008263	abnormal hippocampus CA1 region morphology	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	10/3/2023	Down Syndrome
-HP:0100961	Enlarged hippocampus	skos:exactMatch	1	MP:0008282	enlarged hippocampus	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	10/3/2023	Down Syndrome
-HP:0025100	Abnormal hippocampus morphology	skos:broadMatch	1	MP:0008285	abnormal hippocampus granule cell layer	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	10/3/2023	Down Syndrome
-HP:0025100	Abnormal hippocampus morphology	skos:broadMatch	1	MP:0008286	abnormal hippocampus molecular cell layer	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	10/3/2023	Down Syndrome
-HP:0002354	Memory impairment	skos:relatedMatch	1	MP:0008414	abnormal spatial reference memory	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	10/3/2023	Down Syndrome
-HP:0002354	Memory impairment	skos:relatedMatch	1	MP:0008428	abnormal spatial working memory	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	10/3/2023	Down Syndrome
-HP:0033687	Short term memory impairment	skos:relatedMatch	1	MP:0008431	abnormal short-term spatial reference memory	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	10/3/2023	Down Syndrome
-HP:0033688	Long term memory impairment	skos:relatedMatch	1	MP:0008432	abnormal long-term spatial reference memory	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	10/3/2023	Down Syndrome
-HP:0025408	Abnormal spleen morphology	skos:broadMatch	1	MP:0008470	abnormal spleen B cell follicle morphology	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	10/3/2023	Down Syndrome
-HP:0011420	Age of death	skos:relatedMatch	1	MP:0008770	decreased survivor rate	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	10/3/2023	Down Syndrome
-HP:0100767	Abnormal placenta morphology	skos:broadMatch	1	MP:0008803	abnormal placental labyrinth vasculature morphology	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	10/3/2023	Down Syndrome
-HP:0025729	Fetal vascular malperfusion	skos:relatedMatch	1	MP:0008803	abnormal placental labyrinth vasculature morphology	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	10/3/2023	Down Syndrome
-HP:0025719	Maternal vascular malperfusion	skos:relatedMatch	1	MP:0008803	abnormal placental labyrinth vasculature morphology	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	10/3/2023	Down Syndrome
-HP:0033125	Follicular lymphoma	skos:relatedMatch	1	MP:0009317	increased follicular lymphoma incidence	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	10/3/2023	Down Syndrome
-HP:0033684	Abnormal muscle fiber-type distribution	skos:exactMatch	1	MP:0009409	abnormal skeletal muscle fiber type ratio	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	10/3/2023	Down Syndrome
-HP:0100543	Cognitive impairment	skos:broadMatch	1	MP:0009454	impaired contextual conditioning behavior	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	10/3/2023	Down Syndrome
-HP:0100543	Cognitive impairment	skos:broadMatch	1	MP:0009456	impaired cued conditioning behavior	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	10/3/2023	Down Syndrome
-HP:0011397	Abnormality of the dorsal column of the spinal cord	skos:exactMatch	0.9	MP:0009677	abnormal spinal cord dorsal column morphology	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	10/3/2023	"Down Syndrome| this is in the morphology branch in the HP but the definition does not limit the phenotypes to morphology, based on placement called this exact but decreased confidence due to the ambiguity of the definition"
-HP:0030347	Abnormal circulating androgen level	skos:exactMatch	1	MP:0009819	abnormal circulating androgen level	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	10/3/2023	Down Syndrome
-HP:0012757	Abnormal neuron morphology	skos:broadMatch	1	MP:0009936	abnormal dendritic spine morphology	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	10/3/2023	Down Syndrome
-HP:0012638	Abnormal nervous system physiology	skos:broadMatch	1	MP:0009967	abnormal neuron proliferation	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	10/3/2023	Down Syndrome
-HP:0011420	Age of death	skos:relatedMatch	1	MP:0010831	"lethality, incomplete penetrance"	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	10/3/2023	Down Syndrome
-HP:0011017	Abnormal cellular physiology	skos:broadMatch	1	MP:0010954	abnormal cellular respiration	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	10/12/2023	Down Syndrome
-HP:0012638	Abnormal nervous system physiology	skos:broadMatch	1	MP:0011069	abnormal brain ependyma motile cilium physiology	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	10/12/2023	Down Syndrome
-HP:0025100	Abnormal hippocampus morphology	skos:broadMatch	1	MP:0011150	abnormal hippocampus stratum oriens morphology	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	10/12/2023	Down Syndrome
-HP:0100543	Cognitive impairment	skos:relatedMatch	1	MP:0011620	abnormal habituation to a new environment	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	10/12/2023	Down Syndrome
-HP:0008322	Abnormal mitochondrial morphology	skos:broadMatch	1	MP:0011639	decreased mitochondrial DNA content	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	10/12/2023	Down Syndrome
-HP:0003546	Exercise intolerance	skos:exactMatch	1	MP:0012106	impaired exercise endurance	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	10/12/2023	Down Syndrome
-HP:0033353	Abnormal blood vessel morphology	skos:broadMatch	1	MP:0012253	abnormal intersomitic vessel morphology	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	10/12/2023	Down Syndrome
-HP:0100543	Cognitive impairment	skos:relatedMatch	1	MP:0012307	impaired spatial learning	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	10/13/2023	Down Syndrome
-HP:0020222	Hypohomocysteinemia	skos:exactMatch	1	MP:0012334	decreased circulating homocysteine level	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	10/13/2023	Down Syndrome| add synonym to MP
-HP:0100961	Enlarged hippocampus	skos:closeMatch	1	MP:0020082	increased hippocampus volume	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	10/13/2023	Down Syndrome
-HP:0034011	Reduced progressive sperm motility	skos:exactMatch	0.9	MP:0020451	decreased sperm progressive motility	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	10/13/2023	Down Syndrome| possibility the the HP term is slightly broader based on the text definition but I think the intent is for these to describe the same phenotype
 HP:0000144	Decreased fertility	skos:exactMatch	1	MP:0001921	reduced fertility		semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-10-13	Down Syndrome| Orpha
 HP:0000160	Narrow mouth	skos:narrowMatch	1	MP:0009880	decreased mouth size		semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-10-13	Down Syndrome| Orpha
 HP:0000164	Abnormality of the dentition	skos:closeMatch	0.9	MP:0002100	abnormal tooth morphology		semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-10-13	Down Syndrome| Orpha
@@ -1533,3 +1425,111 @@ HP:0100763	Abnormality of the lymphatic system	skos:broadMatch	1	MP:0010368	abno
 HP:0100763	Abnormality of the lymphatic system	skos:broadMatch	1	MP:0001879	abnormal lymphatic vessel morphology		semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-10-23	Down Syndrome| Orpha
 HP:0100830	Round ear	skos:narrowMatch	1	MP:0000022	abnormal ear shape		semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-10-23	Down Syndrome| Orpha
 HP:0100867	Duodenal stenosis	skos:narrowMatch	1	MP:0003271	abnormal duodenum morphology		semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-10-23	Down Syndrome| OMIM
+HP:0001640	Cardiomegaly	skos:exactMatch	1	MP:0000274	enlarged heart	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-09-26	Down Syndrome
+HP:0001697	Abnormal pericardium morphology	skos:broadMatch	1	MP:0000291	enlarged pericardium	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-09-26	Down Syndrome
+HP:0030681	Abnormal morphology of myocardial trabeculae	skos:broadMatch	1	MP:0000295	trabecula carnea hypoplasia	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-09-26	Down Syndrome
+HP:0006695	Atrioventricular canal defect	skos:relatedMatch	1	MP:0000299	failure of atrioventricular cushion closure	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-09-26	Down Syndrome
+HP:0011805	Abnormal skeletal muscle morphology	skos:exactMatch	1	MP:0000759	abnormal skeletal muscle morphology	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-09-26	Down Syndrome
+HP:0006891	Thick cerebral cortex	skos:exactMatch	0.9	MP:0000789	thickened cerebral cortex	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-09-26	"Down Syndrome| mapping based on placement, EQ, and label as HPO term lacks definition"
+HP:0025100	Abnormal hippocampus morphology	skos:broadMatch	1	MP:0000812	abnormal dentate gyrus morphology	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-09-28	Down Syndrome
+HP:0030047	Abnormal lateral ventricle morphology	skos:exactMatch	1	MP:0000823	abnormal lateral ventricle morphology	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-09-28	Down Syndrome
+HP:0010951	Abnormal third ventricle morphology	skos:exactMatch	1	MP:0000826	abnormal third ventricle morphology	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-09-28	Down Syndrome
+HP:0010663	Abnormality of thalamus morphology	skos:exactMatch	1	MP:0000832	abnormal thalamus morphology	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-09-28	Down Syndrome
+HP:0002538	Abnormal cerebral cortex morphology	skos:broadMatch	1	MP:0000859	abnormal somatosensory cortex morphology	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-09-28	Down Syndrome
+HP:0010953	Noncommunicating hydrocephalus	skos:exactMatch	1	MP:0000917	obstructive hydrocephaly	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-09-28	Down Syndrome
+HP:0010824	Abnormal fifth cranial nerve morphology	skos:exactMatch	1	MP:0001065	abnormal trigeminal nerve morphology	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-09-28	Down Syndrome
+HP:0031038	Spermatogenesis maturation arrest	skos:closeMatch	0.9	MP:0001155	arrest of spermatogenesis	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-09-28	Down Syndrome
+HP:0008669	Abnormal spermatogenesis	skos:exactMatch	1	MP:0001156	abnormal spermatogenesis	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-09-29	Down Syndrome
+HP:0004324	Increased body weight	skos:exactMatch	1	MP:0001260	increased body weight	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-09-29	Down Syndrome
+HP:0100852	Abnormal fear/anxiety-related behavior	skos:broadMatch	1	MP:0001364	decreased anxiety-related response	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-09-29	Down Syndrome
+HP:0100022	Abnormality of movement	skos:broadMatch	1	MP:0001392	abnormal locomotor behavior	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-09-29	Down Syndrome
+HP:0000733	Abnormal repetitive mannerisms	skos:relatedMatch	1	MP:0001409	increased stereotypic behavior	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-09-29	Down Syndrome
+HP:0012433	Abnormal social behavior	skos:broadMatch	1	MP:0001447	abnormal nest building behavior	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-09-29	Down Syndrome
+HP:0002354	Memory impairment	skos:relatedMatch	1	MP:0001458	abnormal object recognition memory	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-09-29	Down Syndrome
+HP:0001328	Specific learning disability	skos:relatedMatch	1	MP:0001463	abnormal spatial learning	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-09-29	Down Syndrome
+HP:0012535	Abnormal synaptic transmission	skos:broadMatch	1	MP:0001473	reduced long-term potentiation	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-09-29	Down Syndrome
+HP:0012535	Abnormal synaptic transmission	skos:broadMatch	1	MP:0001475	reduced long-term depression	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-09-29	Down Syndrome
+HP:0004325	Decreased body weight	skos:relatedMatch	1	MP:0001698	decreased embryo size	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-09-29	Down Syndrome
+HP:0011733	Abnormality of adrenal physiology	skos:broadMatch	1	MP:0001739	abnormal adrenal gland secretion	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-09-29	Down Syndrome
+HP:0012535	Abnormal synaptic transmission	skos:broadMatch	1	MP:0001898	abnormal long-term depression	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-09-29	Down Syndrome
+HP:0012638	Abnormal nervous system physiology	skos:broadMatch	1	MP:0001900	impaired synaptic plasticity	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-09-29	Down Syndrome
+HP:0003251	Male infertility	skos:exactMatch	0.9	MP:0001925	male infertility	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-09-29	Down Syndrome| uncertainty as the HPO terms lacks a definition
+HP:0002664	Neoplasm	skos:exactMatch	1	MP:0002006	neoplasm	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-09-29	Down Syndrome
+HP:0002664	Neoplasm	skos:broadMatch	1	MP:0002018	increased malignant tumor incidence	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-09-29	Down Syndrome
+HP:0011446	Abnormality of higher mental function	skos:relatedMatch	1	MP:0002063	abnormal learning/memory/conditioning	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-09-29	Down Syndrome
+HP:0001328	Specific learning disability	skos:relatedMatch	1	MP:0002063	abnormal learning/memory/conditioning	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-09-29	Down Syndrome
+HP:0012443	Abnormality of brain morphology	skos:broadMatch	1	MP:0002176	increased brain weight	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-09-29	Down Syndrome
+HP:0001311	Abnormal nervous system electrophysiology	skos:exactMatch	1	MP:0002272	abnormal nervous system electrophysiology	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-09-29	Down Syndrome
+HP:0025408	Abnormal spleen morphology	skos:broadMatch	1	MP:0002356	abnormal spleen red pulp morphology	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-09-29	Down Syndrome
+HP:0005561	Abnormality of bone marrow cell morphology	skos:broadMatch	1	MP:0002413	abnormal megakaryocyte progenitor cell morphology	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-09-29	Down Syndrome
+HP:0000752	Hyperactivity	skos:broadMatch	1	MP:0002574	increased vertical activity	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-09-29	Down Syndrome
+HP:0012206	Abnormal sperm motility	skos:broadMatch	1	MP:0002675	asthenozoospermia	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-09-29	"Down Syndrome| HP term is defined as any abnormality but all children are decreased motility so I rated the similarity fairly high, eq also used quality in general not any sort of decreased quality"
+HP:0000798	Oligozoospermia	skos:exactMatch	0.9	MP:0002687	oligozoospermia	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-09-29	Down Syndrome| possibly this could be close as the HP term includes in the definition specific sperm counts but child terms are present that don't fit with the count in the definition so I'm assuming that is the typical range but not an essential part of the definition
+HP:0000708	Atypical behavior	skos:broadMatch	1	MP:0002757	decreased vertical activity	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-09-29	Down Syndrome
+HP:0040171	Decreased serum testosterone concentration	skos:exactMatch	0.9	MP:0002780	decreased circulating testosterone level	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-09-29	Down Syndrome| HP term lacks text definition but eq uses blood not serum and MP has serum as a synonym so I think these are exact
+HP:0000035	Abnormal testis morphology	skos:broadMatch	1	MP:0002784	abnormal Sertoli cell morphology	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-09-29	Down Syndrome| may need to revise after HPO ticket is reviewed
+HP:0000739	Anxiety	skos:relatedMatch	1	MP:0002797	increased thigmotaxis	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-09-29	Down Syndrome
+HP:0002354	Memory impairment	skos:relatedMatch	1	MP:0002800	abnormal short-term object recognition memory	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-09-29	Down Syndrome
+HP:0012757	Abnormal neuron morphology	skos:exactMatch	1	MP:0002882	abnormal neuron morphology	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-09-29	Down Syndrome
+HP:0002251	Aganglionic megacolon	skos:exactMatch	1	MP:0002926	aganglionic megacolon	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-09-29	Down Syndrome
+HP:0012535	Abnormal synaptic transmission	skos:broadMatch	1	MP:0003008	enhanced long-term potentiation	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-09-29	Down Syndrome
+HP:0025015	Abnormal vascular morphology	skos:broadMatch	1	MP:0003229	abnormal vitelline vasculature morphology	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-09-29	Down Syndrome
+HP:0025100	Abnormal hippocampus morphology	skos:broadMatch	1	MP:0003240	loss of hippocampal neurons	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-09-29	Down Syndrome
+HP:0002374	Diminished movement	skos:relatedMatch	1	MP:0003313	abnormal locomotor activation	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-09-29	Down Syndrome
+HP:0002664	Neoplasm	skos:broadMatch	1	MP:0003447	decreased tumor growth/size	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-09-29	Down Syndrome
+HP:0100851	Abnormal emotion/affect behavior	skos:broadMatch	1	MP:0003461	abnormal response to novel object	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-09-29	Down Syndrome
+HP:0012639	Abnormal nervous system morphology	skos:broadMatch	1	MP:0003861	abnormal nervous system development	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-09-29	Down Syndrome
+HP:0000733	Abnormal repetitive mannerisms	skos:relatedMatch	1	MP:0003908	decreased stereotypic behavior	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-09-29	Down Syndrome
+HP:0003117	Abnormal circulating hormone concentration	skos:narrowMatch	1	MP:0003953	abnormal hormone level	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-09-29	Down Syndrome
+HP:0012535	Abnormal synaptic transmission	skos:broadMatch	1	MP:0004008	abnormal GABA-mediated receptor currents	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-09-29	Down Syndrome
+HP:0031422	Abnormal cerebellar cortex morphology	skos:broadMatch	1	MP:0004098	abnormal cerebellar granule cell morphology	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-09-29	Down Syndrome
+HP:0005557	Abnormal zygomatic arch morphology	skos:exactMatch	1	MP:0004469	abnormal zygomatic arch morphology	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-09-29	Down Syndrome
+HP:0012535	Abnormal synaptic transmission	skos:broadMatch	1	MP:0004807	abnormal paired-pulse inhibition	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-09-29	Down Syndrome
+HP:0001871	Abnormality of blood and blood-forming tissues	skos:broadMatch	1	MP:0004809	increased hematopoietic stem cell number	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-09-29	Down Syndrome
+HP:0003712	Skeletal muscle hypertrophy	skos:narrowMatch	1	MP:0004818	increased skeletal muscle mass	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-10-02	Down Syndrome
+HP:0012638	Abnormal nervous system physiology	skos:broadMatch	1	MP:0004948	abnormal neuronal precursor proliferation	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-10-02	Down Syndrome
+HP:0012639	Abnormal nervous system morphology	skos:broadMatch	1	MP:0004996	abnormal CNS synapse formation	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-10-02	Down Syndrome
+HP:0012443	Abnormality of brain morphology	skos:broadMatch	1	MP:0005238	increased brain size	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-10-02	Down Syndrome
+HP:0011021	Abnormality of circulating enzyme level	skos:narrowMatch	1	MP:0005319	abnormal enzyme/coenzyme level	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-10-02	Down Syndrome
+HP:0040195	Decreased head circumference	skos:relatedMatch	1	MP:0005352	small cranium	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-10-02	"Down Syndrome| possibly this could be narrow but I have concerns about calling head circumferunce a 'child' of small cranium. The HP term has microcephaly and mild microcephaly as children, MP has microcephaly as a child of head size"
+HP:0001894	Thrombocytosis	skos:exactMatch	1	MP:0005505	thrombocytosis	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-10-02	Down Syndrome
+HP:0003287	Abnormality of mitochondrial metabolism	skos:narrowMatch	1	MP:0006036	abnormal mitochondrial physiology	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-10-02	Down Syndrome
+HP:0012863	Abnormal male germ cell morphology	skos:exactMatch	1	MP:0006362	abnormal male germ cell morphology	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-10-02	Down Syndrome
+HP:0012863	Abnormal male germ cell morphology	skos:broadMatch	1	MP:0006378	abnormal spermatogonia morphology	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-10-02	Down Syndrome
+HP:0020047	Abnormal myeloid cell morphology	skos:broadMatch	1	MP:0006410	abnormal common myeloid progenitor cell morphology	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-10-02	Down Syndrome
+HP:0500032	Abnormal neuron branching	skos:narrowMatch	1	MP:0008143	abnormal dendrite morphology	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-10-02	Down Syndrome
+HP:0005513	Increased megakaryocyte count	skos:exactMatch	1	MP:0008254	increased megakaryocyte cell number	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-10-03	Down Syndrome
+HP:0031515	Abnormal meiosis	skos:broadMatch	1	MP:0008261	arrest of male meiosis	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-10-03	Down Syndrome
+HP:0025100	Abnormal hippocampus morphology	skos:broadMatch	1	MP:0008263	abnormal hippocampus CA1 region morphology	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-10-03	Down Syndrome
+HP:0100961	Enlarged hippocampus	skos:exactMatch	1	MP:0008282	enlarged hippocampus	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-10-03	Down Syndrome
+HP:0025100	Abnormal hippocampus morphology	skos:broadMatch	1	MP:0008285	abnormal hippocampus granule cell layer	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-10-03	Down Syndrome
+HP:0025100	Abnormal hippocampus morphology	skos:broadMatch	1	MP:0008286	abnormal hippocampus molecular cell layer	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-10-03	Down Syndrome
+HP:0002354	Memory impairment	skos:relatedMatch	1	MP:0008414	abnormal spatial reference memory	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-10-03	Down Syndrome
+HP:0002354	Memory impairment	skos:relatedMatch	1	MP:0008428	abnormal spatial working memory	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-10-03	Down Syndrome
+HP:0033687	Short term memory impairment	skos:relatedMatch	1	MP:0008431	abnormal short-term spatial reference memory	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-10-03	Down Syndrome
+HP:0033688	Long term memory impairment	skos:relatedMatch	1	MP:0008432	abnormal long-term spatial reference memory	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-10-03	Down Syndrome
+HP:0025408	Abnormal spleen morphology	skos:broadMatch	1	MP:0008470	abnormal spleen B cell follicle morphology	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-10-03	Down Syndrome
+HP:0011420	Age of death	skos:relatedMatch	1	MP:0008770	decreased survivor rate	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-10-03	Down Syndrome
+HP:0100767	Abnormal placenta morphology	skos:broadMatch	1	MP:0008803	abnormal placental labyrinth vasculature morphology	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-10-03	Down Syndrome
+HP:0025729	Fetal vascular malperfusion	skos:relatedMatch	1	MP:0008803	abnormal placental labyrinth vasculature morphology	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-10-03	Down Syndrome
+HP:0025719	Maternal vascular malperfusion	skos:relatedMatch	1	MP:0008803	abnormal placental labyrinth vasculature morphology	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-10-03	Down Syndrome
+HP:0033125	Follicular lymphoma	skos:relatedMatch	1	MP:0009317	increased follicular lymphoma incidence	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-10-03	Down Syndrome
+HP:0033684	Abnormal muscle fiber-type distribution	skos:exactMatch	1	MP:0009409	abnormal skeletal muscle fiber type ratio	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-10-03	Down Syndrome
+HP:0100543	Cognitive impairment	skos:broadMatch	1	MP:0009454	impaired contextual conditioning behavior	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-10-03	Down Syndrome
+HP:0100543	Cognitive impairment	skos:broadMatch	1	MP:0009456	impaired cued conditioning behavior	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-10-03	Down Syndrome
+HP:0011397	Abnormality of the dorsal column of the spinal cord	skos:exactMatch	0.9	MP:0009677	abnormal spinal cord dorsal column morphology	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-10-03	"Down Syndrome| this is in the morphology branch in the HP but the definition does not limit the phenotypes to morphology, based on placement called this exact but decreased confidence due to the ambiguity of the definition"
+HP:0030347	Abnormal circulating androgen level	skos:exactMatch	1	MP:0009819	abnormal circulating androgen level	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-10-03	Down Syndrome
+HP:0012757	Abnormal neuron morphology	skos:broadMatch	1	MP:0009936	abnormal dendritic spine morphology	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-10-03	Down Syndrome
+HP:0012638	Abnormal nervous system physiology	skos:broadMatch	1	MP:0009967	abnormal neuron proliferation	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-10-03	Down Syndrome
+HP:0011420	Age of death	skos:relatedMatch	1	MP:0010831	"lethality, incomplete penetrance"	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-10-03	Down Syndrome
+HP:0011017	Abnormal cellular physiology	skos:broadMatch	1	MP:0010954	abnormal cellular respiration	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-10-12	Down Syndrome
+HP:0012638	Abnormal nervous system physiology	skos:broadMatch	1	MP:0011069	abnormal brain ependyma motile cilium physiology	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-10-12	Down Syndrome
+HP:0025100	Abnormal hippocampus morphology	skos:broadMatch	1	MP:0011150	abnormal hippocampus stratum oriens morphology	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-10-12	Down Syndrome
+HP:0100543	Cognitive impairment	skos:relatedMatch	1	MP:0011620	abnormal habituation to a new environment	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-10-12	Down Syndrome
+HP:0008322	Abnormal mitochondrial morphology	skos:broadMatch	1	MP:0011639	decreased mitochondrial DNA content	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-10-12	Down Syndrome
+HP:0003546	Exercise intolerance	skos:exactMatch	1	MP:0012106	impaired exercise endurance	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-10-12	Down Syndrome
+HP:0033353	Abnormal blood vessel morphology	skos:broadMatch	1	MP:0012253	abnormal intersomitic vessel morphology	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-10-12	Down Syndrome
+HP:0100543	Cognitive impairment	skos:relatedMatch	1	MP:0012307	impaired spatial learning	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-10-13	Down Syndrome
+HP:0020222	Hypohomocysteinemia	skos:exactMatch	1	MP:0012334	decreased circulating homocysteine level	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-10-13	Down Syndrome| add synonym to MP
+HP:0100961	Enlarged hippocampus	skos:closeMatch	1	MP:0020082	increased hippocampus volume	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-10-13	Down Syndrome
+HP:0034011	Reduced progressive sperm motility	skos:exactMatch	0.9	MP:0020451	decreased sperm progressive motility	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-10-13	Down Syndrome| possibility the the HP term is slightly broader based on the text definition but I think the intent is for these to describe the same phenotype
