@@ -853,7 +853,7 @@ HP:0011682	Perimembranous ventricular septal defect	skos:exactMatch	1	MP:0010418
 HP:0031316	Abnormal ventricular myocardium morphology	skos:exactMatch	1	MP:0010499	abnormal ventricle myocardium morphology	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-07-31	CDL	
 HP:0001522	Death in infancy	skos:relatedMatch	1	MP:0011086	postnatal lethality, incomplete penetrance	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-07-31	CDL	
 HP:0006958	Abnormal auditory evoked potentials	skos:broadMatch	1	MP:0011966	abnormal auditory brainstem response waveform shape	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-07-31	CDL	
-HP:0011800	Midface retrusion	sjos:exactMatch	0.9	MP:0009855	midface retrusion	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-11-15		
+HP:0011800	Midface retrusion	skos:exactMatch	0.9	MP:0009855	midface retrusion	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-11-15		
 HP:0011800	Midface retrusion	skos:relatedMatch	0.8	MP:0012085	midface hypoplasia	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-11-15	CDL|EQs are the same but text definitions are very different, added to agenda for discussion MP ticket 3802	
 HP:0011849	Abnormal bone ossification	skos:relatedMatch	0.8	MP:0020040	decreased bone ossification	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-07-31	CDL| MP term is under physiology HP is under morphology	
 HP:0012757	Abnormal neuron morphology	skos:broadMatch	1	MP:0020337	abnormal pyramidal neuron dendrite morphology	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2023-07-31	CDL	
