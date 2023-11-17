@@ -7,28 +7,41 @@ mapping_set_references:
   - mapping_set_id: https://w3id.org/sssom/commons/mouse-human/mappings/mp_hp_eye_impc.sssom.tsv
     mapping_set_group: impc_mouse_morphology
     registry_confidence: 0.9
+    local_name: mp_hp_eye_impc.sssom.tsv
   - mapping_set_id: https://w3id.org/sssom/commons/mouse-human/mappings/mp_hp_hwt_impc.sssom.tsv
     mapping_set_group: impc_mouse_morphology
+    local_name: mp_hp_hwt_impc.sssom.tsv
   - mapping_set_id: https://w3id.org/sssom/commons/mouse-human/mappings/mp_hp_owt_impc.sssom.tsv
     mapping_set_group: impc_mouse_morphology
+    local_name: mp_hp_owt_impc.sssom.tsv
   - mapping_set_id: https://w3id.org/sssom/commons/mouse-human/mappings/ma_uberon_pat_impc.sssom.tsv
     mapping_set_group: impc_mouse_morphology
+    local_name: ma_uberon_pat_impc.sssom.tsv
   - mapping_set_id: https://w3id.org/sssom/commons/mouse-human/mappings/mp_hp_pat_impc.sssom.tsv
     mapping_set_group: impc_mouse_morphology
+    local_name: mp_hp_pat_impc.sssom.tsv
   - mapping_set_id: https://w3id.org/sssom/commons/mouse-human/mappings/pato_hp_pat_impc.sssom.tsv
     mapping_set_group: impc_mouse_morphology
+    local_name: pato_hp_pat_impc.sssom.tsv
   - mapping_set_id: https://w3id.org/sssom/commons/mouse-human/mappings/mp_hp_xry_impc.sssom.tsv
     mapping_set_group: impc_mouse_morphology
+    local_name: mp_hp_xry_impc.sssom.tsv
   - mapping_set_id: https://w3id.org/sssom/commons/mouse-human/mappings/hp_doid_pistoia.sssom.tsv
     mapping_set_group: pistoia_mappings
+    local_name: hp_doid_pistoia.sssom.tsv
   - mapping_set_id: https://w3id.org/sssom/commons/mouse-human/mappings/mp_doid_pistoia.sssom.tsv
     mapping_set_group: pistoia_mappings
     registry_confidence: 0.4
+    local_name: mp_doid_pistoia.sssom.tsv
   - mapping_set_id: https://w3id.org/sssom/commons/mouse-human/mappings/mp_hp_pistoia.sssom.tsv
     mapping_set_group: pistoia_mappings
+    local_name: mp_hp_pistoia.sssom.tsv
   - mapping_set_id: https://w3id.org/sssom/commons/mouse-human/mappings/ordo_doid_pistoia.sssom.tsv
     mapping_set_group: pistoia_mappings
+    local_name: ordo_doid_pistoia.sssom.tsv
   - mapping_set_id: https://w3id.org/sssom/commons/mouse-human/mappings/ordo_mp_pistoia.sssom.tsv
     mapping_set_group: pistoia_mappings
+    local_name: ordo_mp_pistoia.sssom.tsv
   - mapping_set_id: https://w3id.org/sssom/commons/mouse-human/mappings/mp_hp_mgi_all.sssom.tsv
     mapping_set_group: mgi_mappings
+    local_name: mp_hp_mgi_all.sssom.tsv
