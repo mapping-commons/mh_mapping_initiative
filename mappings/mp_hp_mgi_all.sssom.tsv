@@ -1573,3 +1573,11 @@ HP:0003819	Death in childhood	skos:closeMatch	1	MP:0011085	"postnatal lethality,
 HP:0011573	Hypoplastic tricuspid valve	skos:broadMatch	0.9	MP:0011680	tricuspid valve hypoplasia	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2024-01-25	HP defined as underdevelopment while MP is specifically reduced cell number
 HP:0001627	Abnormal heart morphology	skos:broadMatch	1	MP:0012515	abnormal heart apex morphology	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2024-01-25	
 HP:0001633	Abnormal mitral valve morphology	skos:broadMatch	1	MP:0031523	mitral valve hypoplasia	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2024-01-25	
+HP:0002669	Osteosarcoma	skos:relatedMatch	1	MP:0003789	increased osteosarcoma incidence	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2024-03-26	
+HP:0002664	Neoplasm	skos:broadMatch	1	MP:0001272	increased metastatic potential	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2024-03-26	
+HP:0040006	Mortality/Aging	skos:broadMatch	1	MP:0014237	decreased tumor-free survival time	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2024-03-26	
+HP:0008897	Postnatal growth retardation	skos:exactMatch	1	MP:0001732	postnatal growth retardation	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2024-03-26	
+HP:0002664	Neoplasm	skos:broadMatch	1	MP:0002020	increased tumor incidence	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2024-03-26	
+HP:0010622	Neoplasm of the skeletal system	skos:relatedMatch	1	MP:0010280	increased skeletal tumor incidence	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2024-03-26	
+HP:0012032	Lipoma	skos:relatedMatch	1	MP:0010344	increased hibernoma incidence	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2024-03-26	
+HP:0011017	Abnormal cellular physiology	skos:broadMatch	1	MP:0011804	increased cell migration	semapv:ManualMappingCuration	orcid:0000-0003-4606-0597	2024-03-26	
