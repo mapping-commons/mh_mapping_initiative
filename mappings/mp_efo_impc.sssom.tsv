@@ -16,85 +16,85 @@
 # mapping_set_description: 'Some MP-EFO mappings curated by Violeta Munoz-Fuentes for IMPC.'
 # mapping_set_id: https://w3id.org/sssom/commons/mouse-human/mappings/mp_efo_impc.sssom.tsv
 subject_id	subject_label	predicate_id	object_id	object_label	mapping_justification	subject_source	object_source	confidence	mapping_date	author_id
-MP:0000013	abnormal adipose tissue distribution	skos:closeMatch	EFO:0007800	body fat percentage	semapv:ManualMappingCuration	MP	EFO	1	2024-08-16	orcid:0000-0001-8314-2140
-MP:0000180	abnormal circulating cholesterol level	skos:narrowMatch	EFO:0004574	total cholesterol measurement	semapv:ManualMappingCuration	MP	EFO	1	2024-08-16	orcid:0000-0001-8314-2140
-MP:0000180	abnormal circulating cholesterol level	skos:narrowMatch	EFO:0004611	low density lipoprotein cholesterol measurement	semapv:ManualMappingCuration	MP	EFO	1	2024-08-16	orcid:0000-0001-8314-2140
-MP:0000180	abnormal circulating cholesterol level	skos:narrowMatch	EFO:0008592	high density lipoprotein particle size measurement	semapv:ManualMappingCuration	MP	EFO	1	2024-08-16	orcid:0000-0001-8314-2140
-MP:0000181	abnormal circulating LDL cholesterol level	skos:exactMatch	EFO:0004611	low density lipoprotein cholesterol measurement	semapv:ManualMappingCuration	MP	EFO	1	2024-08-16	orcid:0000-0001-8314-2140
-MP:0000184	abnormal circulating HDL cholesterol level	skos:exactMatch	EFO:0008592	high density lipoprotein particle size measurement	semapv:ManualMappingCuration	MP	EFO	1	2024-08-16	orcid:0000-0001-8314-2140
-MP:0000188	abnormal circulating glucose level	skos:exactMatch	EFO:0004468	glucose measurement	semapv:ManualMappingCuration	MP	EFO	1	2024-08-16	orcid:0000-0001-8314-2140
-MP:0000199	abnormal circulating serum albumin level	skos:exactMatch	EFO:0004535	serum albumin measurement	semapv:ManualMappingCuration	MP	EFO	1	2024-08-16	orcid:0000-0001-8314-2140
-MP:0000202	abnormal circulating alkaline phosphatase level	skos:exactMatch	EFO:0004533	alkaline phosphatase measurement	semapv:ManualMappingCuration	MP	EFO	1	2024-08-16	orcid:0000-0001-8314-2140
-MP:0000203	abnormal circulating aspartate transaminase level	skos:exactMatch	EFO:0004736	aspartate aminotransferase measurement	semapv:ManualMappingCuration	MP	EFO	1	2024-08-16	orcid:0000-0001-8314-2140
-MP:0000226	abnormal mean corpuscular volume	skos:exactMatch	EFO:0004526	mean corpuscular volume	semapv:ManualMappingCuration	MP	EFO	1	2024-08-16	orcid:0000-0001-8314-2140
-MP:0001259	abnormal body weight	skos:exactMatch	EFO:0004338	body weight	semapv:ManualMappingCuration	MP	EFO	1	2024-08-16	orcid:0000-0001-8314-2140
+MP:0000013	abnormal adipose tissue distribution	skos:relatedMatch	EFO:0007800	body fat percentage	semapv:ManualMappingCuration	MP	EFO	1	2024-08-16	orcid:0000-0001-8314-2140
+MP:0000180	abnormal circulating cholesterol level	skos:relatedMatch	EFO:0004574	total cholesterol measurement	semapv:ManualMappingCuration	MP	EFO	1	2024-08-16	orcid:0000-0001-8314-2140
+MP:0000180	abnormal circulating cholesterol level	skos:relatedMatch	EFO:0004611	low density lipoprotein cholesterol measurement	semapv:ManualMappingCuration	MP	EFO	1	2024-08-16	orcid:0000-0001-8314-2140
+MP:0000180	abnormal circulating cholesterol level	skos:relatedMatch	EFO:0008592	high density lipoprotein particle size measurement	semapv:ManualMappingCuration	MP	EFO	1	2024-08-16	orcid:0000-0001-8314-2140
+MP:0000181	abnormal circulating LDL cholesterol level	skos:broadMatch	EFO:0004611	low density lipoprotein cholesterol measurement	semapv:ManualMappingCuration	MP	EFO	1	2024-08-16	orcid:0000-0001-8314-2140
+MP:0000184	abnormal circulating HDL cholesterol level	skos:relatedMatch	EFO:0008592	high density lipoprotein particle size measurement	semapv:ManualMappingCuration	MP	EFO	1	2024-08-16	orcid:0000-0001-8314-2140
+MP:0000188	abnormal circulating glucose level	skos:broadMatch	EFO:0004468	glucose measurement	semapv:ManualMappingCuration	MP	EFO	1	2024-08-16	orcid:0000-0001-8314-2140
+MP:0000199	abnormal circulating serum albumin level	skos:broadMatch	EFO:0004535	serum albumin measurement	semapv:ManualMappingCuration	MP	EFO	1	2024-08-16	orcid:0000-0001-8314-2140
+MP:0000202	abnormal circulating alkaline phosphatase level	skos:broadMatch	EFO:0004533	alkaline phosphatase measurement	semapv:ManualMappingCuration	MP	EFO	1	2024-08-16	orcid:0000-0001-8314-2140
+MP:0000203	abnormal circulating aspartate transaminase level	skos:broadMatch	EFO:0004736	aspartate aminotransferase measurement	semapv:ManualMappingCuration	MP	EFO	1	2024-08-16	orcid:0000-0001-8314-2140
+MP:0000226	abnormal mean corpuscular volume	skos:broadMatch	EFO:0004526	mean corpuscular volume	semapv:ManualMappingCuration	MP	EFO	1	2024-08-16	orcid:0000-0001-8314-2140
+MP:0001259	abnormal body weight	skos:broadMatch	EFO:0004338	body weight	semapv:ManualMappingCuration	MP	EFO	1	2024-08-16	orcid:0000-0001-8314-2140
 MP:0001553	abnormal circulating free fatty acids level	skos:broadMatch	EFO:0005110	fatty acid measurement	semapv:ManualMappingCuration	MP	EFO	1	2024-08-16	orcid:0000-0001-8314-2140
 MP:0001560	abnormal circulating insulin level	skos:broadMatch	EFO:0004467	insulin measurement	semapv:ManualMappingCuration	MP	EFO	1	2024-08-16	orcid:0000-0001-8314-2140
 MP:0001562	abnormal circulating calcium level	skos:broadMatch	EFO:0004838	calcium measurement	semapv:ManualMappingCuration	MP	EFO	1	2024-08-16	orcid:0000-0001-8314-2140
 MP:0001565	abnormal circulating phosphate level	skos:broadMatch	EFO:0010968	phosphate measurement	semapv:ManualMappingCuration	MP	EFO	1	2024-08-16	orcid:0000-0001-8314-2140
-MP:0001565	abnormal circulating phosphate level	skos:exactMatch	EFO:0010972	blood phosphate measurement	semapv:ManualMappingCuration	MP	EFO	1	2024-08-16	orcid:0000-0001-8314-2140
+MP:0001565	abnormal circulating phosphate level	skos:broadMatch	EFO:0010972	blood phosphate measurement	semapv:ManualMappingCuration	MP	EFO	1	2024-08-16	orcid:0000-0001-8314-2140
 MP:0001569	abnormal circulating bilirubin level	skos:broadMatch	EFO:0004570	bilirubin measurement	semapv:ManualMappingCuration	MP	EFO	1	2024-08-16	orcid:0000-0001-8314-2140
-MP:0001573	abnormal circulating alanine transaminase level	skos:exactMatch	EFO:0004735	serum alanine aminotransferase measurement	semapv:ManualMappingCuration	MP	EFO	1	2024-08-16	orcid:0000-0001-8314-2140
-MP:0001575	cyanosis	skos:exactMatch	EFO:0009447	hypoxemia	semapv:ManualMappingCuration	MP	EFO	1	2024-08-16	orcid:0000-0001-8314-2140
-MP:0001586	abnormal erythrocyte cell number	skos:exactMatch	EFO:0004305	erythrocyte count	semapv:ManualMappingCuration	MP	EFO	1	2024-08-16	orcid:0000-0001-8314-2140
-MP:0001589	abnormal mean corpuscular hemoglobin	skos:exactMatch	EFO:0004527	mean corpuscular hemoglobin	semapv:ManualMappingCuration	MP	EFO	1	2024-08-16	orcid:0000-0001-8314-2140
+MP:0001573	abnormal circulating alanine transaminase level	skos:broadMatch	EFO:0004735	serum alanine aminotransferase measurement	semapv:ManualMappingCuration	MP	EFO	1	2024-08-16	orcid:0000-0001-8314-2140
+MP:0001575	cyanosis	skos:closeMatch	EFO:0009447	hypoxemia	semapv:ManualMappingCuration	MP	EFO	1	2024-08-16	orcid:0000-0001-8314-2140
+MP:0001586	abnormal erythrocyte cell number	skos:broadMatch	EFO:0004305	erythrocyte count	semapv:ManualMappingCuration	MP	EFO	1	2024-08-16	orcid:0000-0001-8314-2140
+MP:0001589	abnormal mean corpuscular hemoglobin	skos:broadMatch	EFO:0004527	mean corpuscular hemoglobin	semapv:ManualMappingCuration	MP	EFO	1	2024-08-16	orcid:0000-0001-8314-2140
 MP:0001771	abnormal circulating magnesium level	skos:broadMatch	EFO:0004845	magnesium measurement	semapv:ManualMappingCuration	MP	EFO	1	2024-08-16	orcid:0000-0001-8314-2140
 MP:0001776	abnormal circulating sodium level	skos:broadMatch	EFO:0009282	sodium measurement	semapv:ManualMappingCuration	MP	EFO	1	2024-08-16	orcid:0000-0001-8314-2140
 MP:0001785	edema	skos:exactMatch	EFO:0009373	edema	semapv:ManualMappingCuration	MP	EFO	1	2024-08-16	orcid:0000-0001-8314-2140
 MP:0002192	hydrops fetalis	skos:broadMatch	EFO:0009373	edema	semapv:ManualMappingCuration	MP	EFO	1	2024-08-16	orcid:0000-0001-8314-2140
-MP:0002586	abnormal platelet volume	skos:exactMatch	EFO:0004584	mean platelet volume	semapv:ManualMappingCuration	MP	EFO	1	2024-08-16	orcid:0000-0001-8314-2140
-MP:0002596	abnormal hematocrit	skos:exactMatch	EFO:0004348	hematocrit	semapv:ManualMappingCuration	MP	EFO	1	2024-08-16	orcid:0000-0001-8314-2140
+MP:0002586	abnormal platelet volume	skos:broadMatch	EFO:0004584	mean platelet volume	semapv:ManualMappingCuration	MP	EFO	1	2024-08-16	orcid:0000-0001-8314-2140
+MP:0002596	abnormal hematocrit	skos:broadMatch	EFO:0004348	hematocrit	semapv:ManualMappingCuration	MP	EFO	1	2024-08-16	orcid:0000-0001-8314-2140
 MP:0002668	abnormal circulating potassium level	skos:broadMatch	EFO:0009283	potassium measurement	semapv:ManualMappingCuration	MP	EFO	1	2024-08-16	orcid:0000-0001-8314-2140
 MP:0002943	abnormal circulating lactate dehydrogenase level	skos:broadMatch	EFO:0004808	L lactate dehydrogenase measurement	semapv:ManualMappingCuration	MP	EFO	1	2024-08-16	orcid:0000-0001-8314-2140
-MP:0002943	abnormal lactate dehydrogenase level	skos:exactMatch	EFO:0004808	L lactate dehydrogenase measurement	semapv:ManualMappingCuration	MP	EFO	1	2024-08-16	orcid:0000-0001-8314-2140
+MP:0002943	abnormal lactate dehydrogenase level	skos:broadMatch	EFO:0004808	L lactate dehydrogenase measurement	semapv:ManualMappingCuration	MP	EFO	1	2024-08-16	orcid:0000-0001-8314-2140
 MP:0003018	abnormal circulating chloride level	skos:broadMatch	EFO:0009284	chloride measurement	semapv:ManualMappingCuration	MP	EFO	1	2024-08-16	orcid:0000-0001-8314-2140
-MP:0004129	abnormal respiratory quotient	skos:exactMatch	EFO:0005189	respiratory quotient	semapv:ManualMappingCuration	MP	EFO	1	2024-08-16	orcid:0000-0001-8314-2140
-MP:0004152	abnormal circulating iron level	skos:exactMatch	EFO:0006332	serum iron measurement	semapv:ManualMappingCuration	MP	EFO	1	2024-08-16	orcid:0000-0001-8314-2140
-MP:0005265	abnormal blood urea nitrogen level	skos:exactMatch	EFO:0004741	blood urea nitrogen measurement	semapv:ManualMappingCuration	MP	EFO	1	2024-08-16	orcid:0000-0001-8314-2140
-MP:0005266	abnormal metabolism	skos:narrowMatch	EFO:0004887	maximal oxygen uptake measurement	semapv:ManualMappingCuration	MP	EFO	1	2024-08-16	orcid:0000-0001-8314-2140
-MP:0005266	abnormal metabolism	skos:narrowMatch	EFO:0009374	energy intake measurement	semapv:ManualMappingCuration	MP	EFO	1	2024-08-16	orcid:0000-0001-8314-2140
-MP:0005266	abnormal metabolism	skos:narrowMatch	EFO:0803345	carbon dioxide measurement	semapv:ManualMappingCuration	MP	EFO	1	2024-08-16	orcid:0000-0001-8314-2140
-MP:0005278	abnormal cholesterol homeostasis	skos:narrowMatch	EFO:0020943	cholesterol:total lipids ratio	semapv:ManualMappingCuration	MP	EFO	1	2024-08-16	orcid:0000-0001-8314-2140
-MP:0005288	abnormal oxygen consumption	skos:exactMatch	EFO:0004887	maximal oxygen uptake measurement	semapv:ManualMappingCuration	MP	EFO	1	2024-08-16	orcid:0000-0001-8314-2140
+MP:0004129	abnormal respiratory quotient	skos:broadMatch	EFO:0005189	respiratory quotient	semapv:ManualMappingCuration	MP	EFO	1	2024-08-16	orcid:0000-0001-8314-2140
+MP:0004152	abnormal circulating iron level	skos:relatedMatch	EFO:0006332	serum iron measurement	semapv:ManualMappingCuration	MP	EFO	1	2024-08-16	orcid:0000-0001-8314-2140
+MP:0005265	abnormal blood urea nitrogen level	skos:broadMatch	EFO:0004741	blood urea nitrogen measurement	semapv:ManualMappingCuration	MP	EFO	1	2024-08-16	orcid:0000-0001-8314-2140
+MP:0005266	abnormal metabolism	skos:relatedMatch	EFO:0004887	maximal oxygen uptake measurement	semapv:ManualMappingCuration	MP	EFO	1	2024-08-16	orcid:0000-0001-8314-2140
+MP:0005266	abnormal metabolism	skos:relatedMatch	EFO:0009374	energy intake measurement	semapv:ManualMappingCuration	MP	EFO	1	2024-08-16	orcid:0000-0001-8314-2140
+MP:0005266	abnormal metabolism	skos:relatedMatch	EFO:0803345	carbon dioxide measurement	semapv:ManualMappingCuration	MP	EFO	1	2024-08-16	orcid:0000-0001-8314-2140
+MP:0005278	abnormal cholesterol homeostasis	skos:relatedMatch	EFO:0020943	cholesterol:total lipids ratio	semapv:ManualMappingCuration	MP	EFO	1	2024-08-16	orcid:0000-0001-8314-2140
+MP:0005288	abnormal oxygen consumption	skos:relatedMatch	EFO:0004887	maximal oxygen uptake measurement	semapv:ManualMappingCuration	MP	EFO	1	2024-08-16	orcid:0000-0001-8314-2140
 MP:0005291	abnormal glucose tolerance	skos:broadMatch	EFO:0004468	glucose measurement	semapv:ManualMappingCuration	MP	EFO	1	2024-08-16	orcid:0000-0001-8314-2140
-MP:0005291	abnormal glucose tolerance	skos:exactMatch	EFO:0004307	glucose tolerance test	semapv:ManualMappingCuration	MP	EFO	1	2024-08-16	orcid:0000-0001-8314-2140
+MP:0005291	abnormal glucose tolerance	skos:broadMatch	EFO:0004307	glucose tolerance test	semapv:ManualMappingCuration	MP	EFO	1	2024-08-16	orcid:0000-0001-8314-2140
 MP:0005328	abnormal circulating creatinine level	skos:broadMatch	EFO:0004518	creatinine measurement	semapv:ManualMappingCuration	MP	EFO	1	2024-08-16	orcid:0000-0001-8314-2140
-MP:0005397	hematopoietic system phenotype	skos:narrowMatch	EFO:0004305	erythrocyte count	semapv:ManualMappingCuration	MP	EFO	1	2024-08-16	orcid:0000-0001-8314-2140
-MP:0005397	hematopoietic system phenotype	skos:narrowMatch	EFO:0004309	platelet count	semapv:ManualMappingCuration	MP	EFO	1	2024-08-16	orcid:0000-0001-8314-2140
-MP:0005397	hematopoietic system phenotype	skos:narrowMatch	EFO:0004348	hematocrit	semapv:ManualMappingCuration	MP	EFO	1	2024-08-16	orcid:0000-0001-8314-2140
-MP:0005397	hematopoietic system phenotype	skos:narrowMatch	EFO:0004509	hemoglobin measurement	semapv:ManualMappingCuration	MP	EFO	1	2024-08-16	orcid:0000-0001-8314-2140
-MP:0005397	hematopoietic system phenotype	skos:narrowMatch	EFO:0004526	mean corpuscular volume	semapv:ManualMappingCuration	MP	EFO	1	2024-08-16	orcid:0000-0001-8314-2140
-MP:0005397	hematopoietic system phenotype	skos:narrowMatch	EFO:0004527	mean corpuscular hemoglobin	semapv:ManualMappingCuration	MP	EFO	1	2024-08-16	orcid:0000-0001-8314-2140
-MP:0005397	hematopoietic system phenotype	skos:narrowMatch	EFO:0004528	mean corpuscular hemoglobin concentration	semapv:ManualMappingCuration	MP	EFO	1	2024-08-16	orcid:0000-0001-8314-2140
-MP:0005397	hematopoietic system phenotype	skos:narrowMatch	EFO:0004584	mean platelet volume	semapv:ManualMappingCuration	MP	EFO	1	2024-08-16	orcid:0000-0001-8314-2140
-MP:0005397	hematopoietic system phenotype	skos:narrowMatch	EFO:0005192	red blood cell distribution width	semapv:ManualMappingCuration	MP	EFO	1	2024-08-16	orcid:0000-0001-8314-2140
-MP:0005397	hematopoietic system phenotype	skos:narrowMatch	EFO:0007986	reticulocyte count	semapv:ManualMappingCuration	MP	EFO	1	2024-08-16	orcid:0000-0001-8314-2140
-MP:0005397	hematopoietic system phenotype	skos:narrowMatch	EFO:0007988	myeloid white cell count	semapv:ManualMappingCuration	MP	EFO	1	2024-08-16	orcid:0000-0001-8314-2140
-MP:0005397	hematopoietic system phenotype	skos:narrowMatch	EFO:0009188	Red cell distribution width	semapv:ManualMappingCuration	MP	EFO	1	2024-08-16	orcid:0000-0001-8314-2140
-MP:0005448	abnormal energy homeostasis	skos:narrowMatch	EFO:0003939	energy intake	semapv:ManualMappingCuration	MP	EFO	1	2024-08-16	orcid:0000-0001-8314-2140
-MP:0005450	abnormal energy expenditure	skos:narrowMatch	EFO:0005115	metabolic rate measurement	semapv:ManualMappingCuration	MP	EFO	1	2024-08-16	orcid:0000-0001-8314-2140
-MP:0005452	abnormal adipose tissue amount	skos:narrowMatch	EFO:0004764	adipose tissue measurement	semapv:ManualMappingCuration	MP	EFO	1	2024-08-16	orcid:0000-0001-8314-2140
-MP:0005475	abnormal circulating thyroxine level	skos:narrowMatch	EFO:0005130	thyroxine measurement	semapv:ManualMappingCuration	MP	EFO	1	2024-08-16	orcid:0000-0001-8314-2140
-MP:0005535	abnormal body temperature	skos:narrowMatch	EFO:0001702	temperature	semapv:ManualMappingCuration	MP	EFO	1	2024-08-16	orcid:0000-0001-8314-2140
-MP:0005563	abnormal hemoglobin content	skos:exactMatch	EFO:0004509	hemoglobin measurement	semapv:ManualMappingCuration	MP	EFO	1	2024-08-16	orcid:0000-0001-8314-2140
-MP:0005640	abnormal mean corpuscular hemoglobin concentration	skos:exactMatch	EFO:0004527	mean corpuscular hemoglobin	semapv:ManualMappingCuration	MP	EFO	1	2024-08-16	orcid:0000-0001-8314-2140
-MP:0005640	abnormal mean corpuscular hemoglobin concentration	skos:exactMatch	EFO:0004528	mean corpuscular hemoglobin concentration	semapv:ManualMappingCuration	MP	EFO	1	2024-08-16	orcid:0000-0001-8314-2140
+MP:0005397	hematopoietic system phenotype	skos:relatedMatch	EFO:0004305	erythrocyte count	semapv:ManualMappingCuration	MP	EFO	1	2024-08-16	orcid:0000-0001-8314-2140
+MP:0005397	hematopoietic system phenotype	skos:relatedMatch	EFO:0004309	platelet count	semapv:ManualMappingCuration	MP	EFO	1	2024-08-16	orcid:0000-0001-8314-2140
+MP:0005397	hematopoietic system phenotype	skos:relatedMatch	EFO:0004348	hematocrit	semapv:ManualMappingCuration	MP	EFO	1	2024-08-16	orcid:0000-0001-8314-2140
+MP:0005397	hematopoietic system phenotype	skos:relatedMatch	EFO:0004509	hemoglobin measurement	semapv:ManualMappingCuration	MP	EFO	1	2024-08-16	orcid:0000-0001-8314-2140
+MP:0005397	hematopoietic system phenotype	skos:relatedMatch	EFO:0004526	mean corpuscular volume	semapv:ManualMappingCuration	MP	EFO	1	2024-08-16	orcid:0000-0001-8314-2140
+MP:0005397	hematopoietic system phenotype	skos:relatedMatch	EFO:0004527	mean corpuscular hemoglobin	semapv:ManualMappingCuration	MP	EFO	1	2024-08-16	orcid:0000-0001-8314-2140
+MP:0005397	hematopoietic system phenotype	skos:relatedMatch	EFO:0004528	mean corpuscular hemoglobin concentration	semapv:ManualMappingCuration	MP	EFO	1	2024-08-16	orcid:0000-0001-8314-2140
+MP:0005397	hematopoietic system phenotype	skos:relatedMatch	EFO:0004584	mean platelet volume	semapv:ManualMappingCuration	MP	EFO	1	2024-08-16	orcid:0000-0001-8314-2140
+MP:0005397	hematopoietic system phenotype	skos:relatedMatch	EFO:0005192	red blood cell distribution width	semapv:ManualMappingCuration	MP	EFO	1	2024-08-16	orcid:0000-0001-8314-2140
+MP:0005397	hematopoietic system phenotype	skos:relatedMatch	EFO:0007986	reticulocyte count	semapv:ManualMappingCuration	MP	EFO	1	2024-08-16	orcid:0000-0001-8314-2140
+MP:0005397	hematopoietic system phenotype	skos:relatedMatch	EFO:0007988	myeloid white cell count	semapv:ManualMappingCuration	MP	EFO	1	2024-08-16	orcid:0000-0001-8314-2140
+MP:0005397	hematopoietic system phenotype	skos:relatedMatch	EFO:0009188	Red cell distribution width	semapv:ManualMappingCuration	MP	EFO	1	2024-08-16	orcid:0000-0001-8314-2140
+MP:0005448	abnormal energy homeostasis	skos:relatedMatch	EFO:0003939	energy intake	semapv:ManualMappingCuration	MP	EFO	1	2024-08-16	orcid:0000-0001-8314-2140
+MP:0005450	abnormal energy expenditure	skos:relatedMatch	EFO:0005115	metabolic rate measurement	semapv:ManualMappingCuration	MP	EFO	1	2024-08-16	orcid:0000-0001-8314-2140
+MP:0005452	abnormal adipose tissue amount	skos:broadMatch	EFO:0004764	adipose tissue measurement	semapv:ManualMappingCuration	MP	EFO	1	2024-08-16	orcid:0000-0001-8314-2140
+MP:0005475	abnormal circulating thyroxine level	skos:broadMatch	EFO:0005130	thyroxine measurement	semapv:ManualMappingCuration	MP	EFO	1	2024-08-16	orcid:0000-0001-8314-2140
+MP:0005535	abnormal body temperature	skos:broadMatch	EFO:0001702	temperature	semapv:ManualMappingCuration	MP	EFO	1	2024-08-16	orcid:0000-0001-8314-2140
+MP:0005563	abnormal hemoglobin content	skos:broadMatch	EFO:0004509	hemoglobin measurement	semapv:ManualMappingCuration	MP	EFO	1	2024-08-16	orcid:0000-0001-8314-2140
+MP:0005640	abnormal mean corpuscular hemoglobin concentration	skos:broadMatch	EFO:0004527	mean corpuscular hemoglobin	semapv:ManualMappingCuration	MP	EFO	1	2024-08-16	orcid:0000-0001-8314-2140
+MP:0005640	abnormal mean corpuscular hemoglobin concentration	skos:broadMatch	EFO:0004528	mean corpuscular hemoglobin concentration	semapv:ManualMappingCuration	MP	EFO	1	2024-08-16	orcid:0000-0001-8314-2140
 MP:0008804	abnormal circulating amylase level	skos:broadMatch	EFO:0801371	alpha-amylase 1 measurement	semapv:ManualMappingCuration	MP	EFO	1	2024-08-16	orcid:0000-0001-8314-2140
 MP:0008820	abnormal blood uric acid level	skos:broadMatch	EFO:0004761	uric acid measurement	semapv:ManualMappingCuration	MP	EFO	1	2024-08-16	orcid:0000-0001-8314-2140
 MP:0008961	abnormal basal metabolism	skos:broadMatch	EFO:0005115	metabolic rate measurement	semapv:ManualMappingCuration	MP	EFO	1	2024-08-16	orcid:0000-0001-8314-2140
 MP:0008962	abnormal carbon dioxide production	skos:broadMatch	EFO:0803345	carbon dioxide measurement	semapv:ManualMappingCuration	MP	EFO	1	2024-08-16	orcid:0000-0001-8314-2140
-MP:0010066	abnormal red blood cell distribution width	skos:exactMatch	EFO:0005192	red blood cell distribution width	semapv:ManualMappingCuration	MP	EFO	1	2024-08-16	orcid:0000-0001-8314-2140
+MP:0010066	abnormal red blood cell distribution width	skos:broadMatch	EFO:0005192	red blood cell distribution width	semapv:ManualMappingCuration	MP	EFO	1	2024-08-16	orcid:0000-0001-8314-2140
 MP:0010086	abnormal circulating fructosamine level	skos:broadMatch	EFO:0009303	fructosamine measurement	semapv:ManualMappingCuration	MP	EFO	1	2024-08-16	orcid:0000-0001-8314-2140
 MP:0010089	abnormal circulating creatine kinase level	skos:broadMatch	EFO:0004534	creatine kinase measurement	semapv:ManualMappingCuration	MP	EFO	1	2024-08-16	orcid:0000-0001-8314-2140
 MP:0010163	hemolysis	skos:exactMatch	EFO:0009473	hemolysis	semapv:ManualMappingCuration	MP	EFO	1	2024-08-16	orcid:0000-0001-8314-2140
-MP:0011885	abnormal circulating lipase level	skos:exactMatch	EFO:0005849	serum lipase activity measurement	semapv:ManualMappingCuration	MP	EFO	1	2024-08-16	orcid:0000-0001-8314-2140
-MP:0011888	abnormal circulating total protein level	skos:exactMatch	EFO:0004536	total blood protein measurement	semapv:ManualMappingCuration	MP	EFO	1	2024-08-16	orcid:0000-0001-8314-2140
+MP:0011885	abnormal circulating lipase level	skos:broadMatch	EFO:0005849	serum lipase activity measurement	semapv:ManualMappingCuration	MP	EFO	1	2024-08-16	orcid:0000-0001-8314-2140
+MP:0011888	abnormal circulating total protein level	skos:broadMatch	EFO:0004536	total blood protein measurement	semapv:ManualMappingCuration	MP	EFO	1	2024-08-16	orcid:0000-0001-8314-2140
 MP:0011889	abnormal circulating ferritin level	skos:broadMatch	EFO:0004459	ferritin measurement	semapv:ManualMappingCuration	MP	EFO	1	2024-08-16	orcid:0000-0001-8314-2140
 MP:0011892	abnormal circulating transferrin level	skos:broadMatch	EFO:0006341	transferrin measurement	semapv:ManualMappingCuration	MP	EFO	1	2024-08-16	orcid:0000-0001-8314-2140
 MP:0011895	abnormal circulating unsaturated transferrin level	skos:broadMatch	EFO:0006334	total iron binding capacity	semapv:ManualMappingCuration	MP	EFO	1	2024-08-16	orcid:0000-0001-8314-2140
-MP:0011898	abnormal platelet cell number	skos:exactMatch	EFO:0004309	platelet count	semapv:ManualMappingCuration	MP	EFO	1	2024-08-16	orcid:0000-0001-8314-2140
+MP:0011898	abnormal platelet cell number	skos:broadMatch	EFO:0004309	platelet count	semapv:ManualMappingCuration	MP	EFO	1	2024-08-16	orcid:0000-0001-8314-2140
 MP:0011969	abnormal circulating triglyceride level	skos:broadMatch	EFO:0004530	triglyceride measurement	semapv:ManualMappingCuration	MP	EFO	1	2024-08-16	orcid:0000-0001-8314-2140
 MP:0011970	abnormal circulating lactate dehydrogenase level	skos:broadMatch	EFO:0004808	L lactate dehydrogenase measurement	semapv:ManualMappingCuration	MP	EFO	1	2024-08-16	orcid:0000-0001-8314-2140
-MP:0011970	abnormal lactate dehydrogenase level	skos:exactMatch	EFO:0004808	L lactate dehydrogenase measurement	semapv:ManualMappingCuration	MP	EFO	1	2024-08-16	orcid:0000-0001-8314-2140
+MP:0011970	abnormal lactate dehydrogenase level	skos:broadMatch	EFO:0004808	L lactate dehydrogenase measurement	semapv:ManualMappingCuration	MP	EFO	1	2024-08-16	orcid:0000-0001-8314-2140
 MP:0011973	abnormal circulating glycerol level	skos:broadMatch	EFO:0010115	glycerol measurement	semapv:ManualMappingCuration	MP	EFO	1	2024-08-16	orcid:0000-0001-8314-2140
-MP:0013277	abnormal fasting circulating glucose level	skos:exactMatch	EFO:0004465	fasting blood glucose measurement	semapv:ManualMappingCuration	MP	EFO	1	2024-08-16	orcid:0000-0001-8314-2140
+MP:0013277	abnormal fasting circulating glucose level	skos:broadMatch	EFO:0004465	fasting blood glucose measurement	semapv:ManualMappingCuration	MP	EFO	1	2024-08-16	orcid:0000-0001-8314-2140
