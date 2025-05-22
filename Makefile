@@ -74,3 +74,47 @@ mappings/%_pistoia.sssom.tsv: sources/pistoia/calculated_output_%.rdf
 .PHONY: mapping_set_%
 mapping_set_%: mappings/%.sssom.tsv
 	echo "Build $<"
+
+##################################
+
+EFO_OBA_URL=https://raw.githubusercontent.com/obophenotype/bio-attribute-ontology/master/src/mappings/oba-efo.sssom.tsv
+
+mappings/efo-oba.sssom.tsv:
+	wget "$(EFO_OBA_URL)" -O $@
+.PRECIOUS: mappings/efo-oba.sssom.tsv
+
+UPHENO_OBA_URL=https://github.com/obophenotype/upheno-dev/blob/master/src/ontology/reports/phenotype_trait.sssom.tsv
+
+tmp/impc_traits.tsv:
+	wget https://raw.githubusercontent.com/obophenotype/upheno-dev/master/src/ontology/reports/impc_traits.tsv -O $@
+
+tmp/gwas_traits.tsv:
+	wget https://raw.githubusercontent.com/obophenotype/upheno-dev/master/src/ontology/reports/gwas_traits.tsv -O $@
+
+mappings/upheno-oba.tsv:
+	wget "$(UPHENO_OBA_URL)" -O $@
+.PRECIOUS: mappings/mp-oba.sssom.tsv
+
+mappings/mp-oba.sssom.tsv: mappings/upheno-oba.tsv
+	python python scripts/mh_mapping_commongs.py hp-oba $< > $@ mp-oba $< > $@
+.PRECIOUS: mappings/mp-oba.sssom.tsv
+
+mappings/hp-oba.sssom.tsv:  mappings/upheno-oba.tsv
+	python scripts/mh_mapping_commons.py hp-oba $< > $@
+.PRECIOUS: mappings/hp-oba.sssom.tsv
+
+MP_EFO_URL=https://raw.githubusercontent.com/obophenotype/upheno-dev/master/src/ontology/reports/mp-efo.sssom.tsv
+mappings/mp-efo.sssom.tsv:
+	wget "$(MP_EFO_URL)" -O $@
+
+mappings/mp-hp.sssom.tsv: mappings/upheno-species-independent.sssom.tsv
+	python scripts/mh_mapping_commons.py mp-hp $< > $@
+
+mappings/mp-efo.sssom.tsv:  mappings/efo-oba.sssom.tsv \
+							mappings/mp-oba.sssom.tsv \
+							mappings/mp-hp.sssom.tsv \
+							mappings/mp-efo.sssom.tsv \
+							tmp/gwas_traits.tsv \
+							tmp/impc_traits.tsv
+	python3 scripts/mh_mapping_commons.py mappings/efo-oba.sssom.tsv mappings/mp-oba.sssom.tsv mappings/mp-impc.sssom.tsv > $@
+
