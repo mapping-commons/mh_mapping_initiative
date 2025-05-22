@@ -15,7 +15,7 @@
 # mapping_provider: https://www.mousephenotype.org
 # mapping_set_description: 'The IMPC Mouse Morphology Mappings: Gross Pathology & Tissue
 #   Collection Test (PATO)'
-# mapping_set_id: pato_hp_pat_impc
+# mapping_set_id: https://w3id.org/sssom/commons/mouse-human/mappings/pato_hp_pat_impc.sssom.tsv
 subject_id	subject_label	predicate_id	object_id	object_label	mapping_justification
 PATO:0000317	black	skos:closeMatch	sssom:NoTermFound		semapv:ManualMappingCuration
 PATO:0000318	blue	skos:closeMatch	sssom:NoTermFound		semapv:ManualMappingCuration

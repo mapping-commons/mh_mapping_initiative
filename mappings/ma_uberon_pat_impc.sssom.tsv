@@ -14,7 +14,7 @@
 # mapping_provider: https://www.mousephenotype.org
 # mapping_set_description: 'The IMPC Mouse Morphology Mappings: Gross Pathology & Tissue
 #   Collection Test (Anatomy)'
-# mapping_set_id: ma_uberon_pat_impc
+# mapping_set_id: https://w3id.org/sssom/commons/mouse-human/mappings/ma_uberon_pat_impc.sssom.tsv
 subject_id	subject_label	predicate_id	object_id	object_label	mapping_justification
 MA:0000057	brown adipose tissue	skos:exactMatch	UBERON:0001348	brown adipose tissue	semapv:LexicalMatching
 MA:0000058	white adipose tissue	skos:exactMatch	UBERON:0001347	white adipose tissue	semapv:LexicalMatching

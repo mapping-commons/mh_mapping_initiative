@@ -13,7 +13,7 @@
 # license: https://creativecommons.org/publicdomain/zero/1.0/
 # mapping_provider: https://www.mousephenotype.org
 # mapping_set_description: 'The IMPC Mouse Morphology Mappings: Heart Weight Test'
-# mapping_set_id: mp_hp_hwt_impc
+# mapping_set_id: https://w3id.org/sssom/commons/mouse-human/mappings/mp_hp_hwt_impc.sssom.tsv
 subject_id	subject_label	predicate_id	object_id	object_label	mapping_justification
 MP:0000558	abnormal tibia morphology	skos:closeMatch	HP:0002992	Abnormality of tibia morphology	semapv:LexicalMatching
 MP:0001259	abnormal body weight	skos:closeMatch	HP:0004323	Abnormality of body weight	semapv:LexicalMatching

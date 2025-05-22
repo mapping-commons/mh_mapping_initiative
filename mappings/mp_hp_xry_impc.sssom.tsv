@@ -13,7 +13,7 @@
 # license: https://creativecommons.org/publicdomain/zero/1.0/
 # mapping_provider: https://www.mousephenotype.org
 # mapping_set_description: 'The IMPC Mouse Morphology Mappings: X-ray Test'
-# mapping_set_id: mp_hp_xry_impc
+# mapping_set_id: https://w3id.org/sssom/commons/mouse-human/mappings/mp_hp_xry_impc.sssom.tsv
 subject_id	subject_label	predicate_id	object_id	object_label	mapping_justification
 MP:0000137	abnormal vertebrae morphology	skos:closeMatch	HP:0003468	Abnormal vertebral morphology	semapv:LexicalMatching
 MP:0000149	abnormal scapula morphology	skos:closeMatch	HP:0000782	Abnormality of the scapula	semapv:LexicalMatching

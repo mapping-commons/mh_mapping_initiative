@@ -13,7 +13,7 @@
 # license: https://creativecommons.org/publicdomain/zero/1.0/
 # mapping_provider: https://www.mousephenotype.org
 # mapping_set_description: 'The IMPC Mouse Morphology Mappings: Organ Weight Test'
-# mapping_set_id: mp_hp_owt_impc
+# mapping_set_id: https://w3id.org/sssom/commons/mouse-human/mappings/mp_hp_owt_impc.sssom.tsv
 subject_id	subject_label	predicate_id	object_id	object_label	mapping_justification
 MP:0001259	abnormal body weight	skos:exactMatch	HP:0004323	Abnormality of body weight	semapv:LexicalMatching
 MP:0001260	increased body weight	skos:exactMatch	HP:0004324	Increased body weight	semapv:LexicalMatching
