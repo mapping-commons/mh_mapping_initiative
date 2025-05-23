@@ -16,7 +16,7 @@
 # mapping_set_description: 'Some MP-EFO mappings curated by Violeta Munoz-Fuentes for IMPC.'
 # mapping_set_id: https://w3id.org/sssom/commons/mouse-human/mappings/mp_efo_impc.sssom.tsv
 subject_id	subject_label	predicate_id	object_id	object_label	mapping_justification	subject_source	object_source	confidence	mapping_date	author_id
-MP:0000013	abnormal adipose tissue distribution	skos:relatedMatch	EFO:0007800	body fat percentage	semapv:ManualMappingCuration	MP	EFO	1	2024-08-16	orcid:0000-0001-8314-2140
+MP:0005457	abnormal percent body fat/body weight	skos:broadMatch	EFO:0007800	body fat percentage	semapv:ManualMappingCuration	MP	EFO	1	2024-08-16	orcid:0000-0001-8314-2140
 MP:0000180	abnormal circulating cholesterol level	skos:relatedMatch	EFO:0004574	total cholesterol measurement	semapv:ManualMappingCuration	MP	EFO	1	2024-08-16	orcid:0000-0001-8314-2140
 MP:0000180	abnormal circulating cholesterol level	skos:relatedMatch	EFO:0004611	low density lipoprotein cholesterol measurement	semapv:ManualMappingCuration	MP	EFO	1	2024-08-16	orcid:0000-0001-8314-2140
 MP:0000180	abnormal circulating cholesterol level	skos:relatedMatch	EFO:0008592	high density lipoprotein particle size measurement	semapv:ManualMappingCuration	MP	EFO	1	2024-08-16	orcid:0000-0001-8314-2140
