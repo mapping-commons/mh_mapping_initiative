@@ -3,6 +3,7 @@
 # curie_map:
 #   MP: http://purl.obolibrary.org/obo/MP_
 #   EFO: http://www.ebi.ac.uk/efo/EFO_
+#   OBA: http://www.ebi.ac.uk/efo/OBA_
 #   owl: http://www.w3.org/2002/07/owl#
 #   rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#
 #   rdfs: http://www.w3.org/2000/01/rdf-schema#
@@ -95,3 +96,4 @@ MP:0011969	abnormal circulating triglyceride level	skos:broadMatch	EFO:0004530	t
 MP:0011970	abnormal circulating lactate dehydrogenase level	skos:broadMatch	EFO:0004808	L lactate dehydrogenase measurement	semapv:ManualMappingCuration	MP	EFO	1	2025-05-23	orcid:0000-0001-8314-2140
 MP:0011973	abnormal circulating glycerol level	skos:broadMatch	OBA:1000966	glycerol amount	semapv:ManualMappingCuration	MP	EFO	1	2025-05-23	orcid:0000-0001-8314-2140
 MP:0013277	abnormal fasting circulating glucose level	skos:broadMatch	OBA:VT0000188	blood glucose amount	semapv:ManualMappingCuration	MP	EFO	1	2025-05-23	orcid:0000-0001-8314-2140
+
