@@ -13,7 +13,7 @@
 # license: https://creativecommons.org/publicdomain/zero/1.0/
 # mapping_provider: https://www.mousephenotype.org
 # mapping_set_description: 'The IMPC Mouse Morphology Mappings: Eye Morphology Test'
-# mapping_set_id: mp_hp_eye_impc
+# mapping_set_id: https://w3id.org/sssom/commons/mouse-human/mappings/mp_hp_eye_impc.sssom.tsv
 subject_id	subject_label	predicate_id	object_id	object_label	mapping_justification
 MP:0001289	persistence of hyaloid vascular system	skos:closeMatch	HP:0007968	Remnants of the hyaloid vascular system	semapv:LexicalMatching
 MP:0001293	anophthalmia	skos:exactMatch	HP:0000528	Anophthalmia	semapv:LexicalMatching

@@ -14,7 +14,7 @@
 # mapping_provider: https://www.mousephenotype.org
 # mapping_set_description: 'The IMPC Mouse Morphology Mappings: Gross Pathology & Tissue
 #   Collection Test (Phenotype)'
-# mapping_set_id: mp_hp_pat_impc
+# mapping_set_id: https://w3id.org/sssom/commons/mouse-human/mappings/mp_hp_pat_impc.sssom.tsv
 subject_id	subject_label	predicate_id	object_id	object_label	mapping_justification
 MP:0000005	increased brown fat amount	skos:closeMatch	HP:0000468	Increased adipose tissue around neck	semapv:LogicalReasoning
 MP:0000017	big ears	skos:closeMatch	HP:0000400	Macrotia	semapv:LogicalReasoning
